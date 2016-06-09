@@ -1,0 +1,803 @@
+.bgimage {
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: auto;
+}
+
+html body div.container-fluid {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.unmbgimage {
+	background-image: url('../images/unmbanner.png');
+}
+
+.cnmbgimage {
+    background-image: url('../images/cnmbanner.png');
+
+}
+
+.enmubgimage {
+	background-image: url('../images/enmubanner.png');
+}
+
+.nmtbgimage {
+	background-image: url('../images/nmtbanner.png');
+}
+
+.nmsubgimage {
+	background-image: url('../images/nmsubanner.png');
+}
+
+.nmhubgimage {
+	background-image: url('../images/nmhubanner.png');
+}
+
+.dinebgimage {
+	background-image: url('../images/dinebanner.png');
+}
+
+.iaiabgimage {
+	background-image: url('../images/iaiabanner.png');
+}
+
+.ntubgimage {
+	background-image: url('../images/ntubanner.png');
+}
+
+.enmuruidosobgimage {
+	background-image: url('../images/enmuruidosobanner.png');
+}
+
+.enmuroswellbgimage {
+	background-image: url('../images/enmuroswellbanner.png');
+}
+
+.lunabgimage {
+	background-image: url('../images/lunabanner.png');
+} 
+
+.nnmcbgimage {
+	background-image: url('../images/nnmcbanner.png');
+} 
+
+.mesalandsbgimage {
+	background-image: url('../images/mesalandsbanner.png');
+} 
+
+.nmjcbgimage {
+	background-image: url('../images/nmjcbanner.png');
+}
+
+.nmmibgimage {
+	background-image: url('../images/nmmibanner.png');
+}
+
+.sjcbgimage {
+	background-image: url('../images/sjcbanner.png');
+}
+
+.unmtaosbgimage {
+	background-image: url('../images/unmtaosbanner.png');
+}
+
+.wnmubgimage {
+	background-image: url('../images/wnmubanner.png');
+}
+
+.clovisccbgimage {
+	background-image: url('../images/clovisccbanner.png');
+}
+.alamogordobgimage {
+	background-image: url('../images/alamogordobanner.png');
+}
+.carlsbadbgimage {
+	background-image: url('../images/carlsbadbanner.png');
+}
+.donaanabgimage {
+	background-image: url('../images/donaanabanner.png');
+}
+.grantsbgimage {
+	background-image: url('../images/grantsbanner.png');
+}
+.sfccbgimage {
+	background-image: url('../images/sfccbanner.png');
+}
+.sipibgimage {
+	background-image: url('../images/sipibanner.png');
+}
+.gallupbgimage {
+	background-image: url('../images/gallupbanner.png');
+}
+.losalamosbgimage {
+	background-image: url('../images/losalamosbanner.png');
+}
+.taosbgimage {
+	background-image: url('../images/taosbanner.png');
+}
+.valenciabgimage {
+	background-image: url('../images/valenciabanner.png');
+}
+
+
+
+
+/*.title {
+ color: white;
+ font-weight: bold;
+ font-size: 40px;
+ }*/
+
+#LogoImg {
+	margin-top: -15px;
+	z-index: 1;
+}
+
+#SchoolLogo {
+    max-height: 30px;
+    display: block;
+}
+
+body {
+
+    height: 100%;
+    padding-bottom: 100px;
+
+}
+
+p {
+	font-family: "Tahoma", Geneva, sans-serif;
+  /*  margin-bottom: 10px;*/
+}
+
+.services section {
+	text-align: center;
+}
+
+a {
+	color: #777;
+}
+
+a:focus {
+	color: white !important;
+}
+
+a:visited {
+	color: #777 !important;
+}
+
+a:hover {
+	color: #d37408 !important;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.caret {
+	color: #87CEEB;
+}
+
+.active {
+	color: #87CEEB !important;
+}
+
+/* #1 nav bar entire bar*/
+.navbar.navbar-inverse {
+	top: 0px;
+	background-color: #9d3322;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    height: 100%;
+}
+
+/* navbar #1 school */
+.navbar-inverse .navbar-brand {
+	font-size: small;
+	font-weight: bold;
+	width: 240px;
+	background-color: #9d3322;
+	color: white !important;
+}
+
+a.navbar-brand {
+	margin-left: 10px !important;
+	width: 260px !important;
+}
+
+/*navbar #1 hover menu*/
+.navbar-inverse .dropdown {
+	background-color: #9d3322;
+}
+/* navbar #1 menu */
+.navbar-inverse .dropdown > a {
+	background-color: transparent;
+	color: white !important;
+}
+
+.navbar-inverse .navbar-nav > .open > a {
+	background-color: white !important;
+	color: #9d3322 !important;
+}
+/*navbar #1 pulldown menu */
+.navbar-inverse .dropdown-menu {
+	background-color: white;
+	color: #9d3322 !important;
+}
+
+/* change background color on hover menu #1 */
+.dropdown-submenu > a:focus, .dropdown-submenu > a:hover, .dropdown-submenu:focus > a, r, .dropdown-submenu:hover > a, .dropdown-menu > li a:hover, .dropdown-menu > li a:focus {
+	background-color: #FAB768 !important;
+	color: white !important;
+	background-image: none;
+	filter: none;
+	text-decoration: none;
+	/*border: 1px;
+	border-width: auto;*/
+}
+
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.iaia,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.cnm,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.enmu,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.nmhu,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.ntu,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.nmsu,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.nnmc,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.wnmu,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.ccc,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.nmmi,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.sjc,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.sfcc,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.sipi,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.gallup,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.losalamos,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.taos,
+html body nav.navbar.navbar-inverse div.container-fluid div.navbar-header a.navbar-brand.valencia
+
+
+
+ {
+	padding-top: 5px;
+}
+
+
+/* School Name  #1 */
+.navbar .navbar-brand {
+	font-size: 1em;
+	font-weight: bold;
+	width: 240px;
+	/*Official School Color*/
+	background-color: transparent;
+}
+
+
+/* vertical and horizontal menus */
+.nav .nav2 .navbar-nav .dropdown {
+	min-width: 220px;
+}
+
+.breadcrumb {
+	background-color: transparent;
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.breadcrumb a {
+	color: #303030;
+}
+
+.dropdown3 {
+	margin-top: -5px;
+    position: absolute;
+    display: block;
+    margin-bottom: 110px;
+   /* float: inherit;*/
+    width: 100%;
+    /*height: 100%;*/
+    padding-bottom: 100px;
+}
+
+/*menu #3 full background color*/
+.nav-pills {
+	background-color: transparent;
+	max-width: 220px;
+	border-right-width: 1px;
+	border-right-color: #d37408;
+	border-right-style: solid;
+    width: 100%;
+}
+/* menu list navbar #3*/
+.nav-pills > li > a {
+	background-color: transparent;
+	font-size: small;
+	color: black;
+	border-radius: 0px;
+}
+/* verticle toggle menu*/
+.nav-stacked .dropdown .dropdown-menu {
+	background-color: white;
+}
+
+/*  hover for menu #3*/
+.nav-stacked .dropdown > a:focus, .nav-stacked .dropdown > a:hover, .nav-stacked .dropdown:focus > a, r, .nav-stacked .dropdown:hover > a {
+	background-color: #E5E4E2 !important;
+	color: white !important;
+	background-image: none;
+	filter: none;
+	text-decoration: none;
+}
+
+.dropdown-submenu {
+	position: relative;
+}
+
+.dropdown-submenu > .dropdown-menu {
+	top: 0;
+	left: 100%;
+	margin-top: -6px;
+	margin-left: -1px;
+	-webkit-border-radius: 0 6px 6px 6px;
+	-moz-border-radius: 0 6px 6px 6px;
+	border-radius: 0 6px 6px 6px;
+	background-color: #E5E4E2;
+}
+.dropdown-submenu:hover > .dropdown-menu {
+	display: block;
+}
+
+.dropdown-submenu > a:after {
+	display: block;
+	content: " ";
+	float: right;
+	width: 0;
+	height: 0;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 5px 0 5px 5px;
+	border-left-color: #cccccc;
+	margin-top: 5px;
+	margin-right: -10px;
+}
+
+.dropdown-submenu:hover > a:after {
+	border-left-color: #ffffff;
+}
+
+.dropdown-submenu {
+	float: none;
+}
+
+.dropdown-menu > li > a {
+	color: #c0c0c0;
+}
+
+> ul > li > ul .dropdown-menu > li {
+    z-index: 3;
+}
+
+.dropdown-submenu.pull-left > .dropdown-menu {
+	left: -100%;
+	margin-left: 10px;
+	-webkit-border-radius: 6px 0 6px 6px;
+	-moz-border-radius: 6px 0 6px 6px;
+	border-radius: 6px 0 6px 6px;
+}
+
+.root:hover > .dropdown-menu {
+	display: block;
+}
+img.schoolimg.img-responsive.pull-right {
+	display: inline block;
+	float: right;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	min-width: 400px;
+	max-width:400px;
+}
+.textbody {
+	position: absolute;
+	left: 240px;
+	padding: 0px 15px 120px 15px;
+	color: black;
+    height: auto;
+    width: auto;
+    z-index: 1;
+    margin-top: -15px;
+    margin-bottom: 15px;
+}
+
+.navbar-fixed-bottom {
+	margin-bottom: 0px;
+	width: 100%;
+	z-index: 1;
+}
+.subtitle  h5 {
+	font-size: 16px !important;
+	color: #9d3322;
+	padding-top: 10px;
+}
+
+.textbody h4 {
+	padding-top: 15px;
+}
+
+.profile tbody tr td h4 {
+    font-size: 1.5em;
+    margin-top: 0;
+    padding-top: 0;
+    vertical-align: top;
+   
+}
+
+html body div.container-fluid div.textbody table.basiccore {
+	margin-left: 25px;
+}
+
+html body div.container-fluid div.textbody table.basiccore tbody tr.title td {
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+html body div.container-fluid div.textbody table.basiccore tbody tr.title th {
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+
+.transfer h5, .actsat h5 {
+	color: #9d3322;
+	font-weight: bold;
+	font-size: 16px;
+}
+.transfer li{
+	list-style-type: none;
+}
+
+.subtitle {
+	padding-left: 20px;
+}
+
+html body div.container-fluid div.textbody table.profile tbody tr th {
+	padding-bottom: 15px;
+}
+
+html body div.container-fluid div.textbody table.profile tbody tr {
+	vertical-align: top;
+}
+
+html body div.container-fluid div.textbody table.profile tbody tr td {
+	padding-bottom: 10px;
+	padding-right: 15px;
+}
+
+html body div.container-fluid div.textbody a img.question {
+	margin-top: -20px;
+}
+
+
+.navbar-fixed-bottom {
+	width: 100%;
+    /*position: static;*/
+    margin-bottom: 0;
+		z-index: 1;
+}
+
+.clear {
+    clear:both;
+    height: 60px;
+}
+
+#footer a > , #footer > a:hover {
+	color: white !important;
+}
+
+/*#footer {
+	display: table;
+	clear: both;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+	color: white;
+	left: 0px;
+	padding-top:0;
+}*/
+
+#leftFooter {
+	display: table-cell;
+	color: white;
+	text-align: left;
+	vertical-align: middle;
+	padding-left: 20px;
+	padding-bottom: 10px;
+	font-size: 12px;
+}
+
+#footerContent {
+	display: table;
+	width: 100%;
+	height: 100px;
+	background-color: #9d3322;
+	margin-top: 0;
+	border-top: solid #777 1px;
+	padding: 0px;
+	bottom: 0px;
+}
+
+#rightFooter {
+	display: table-cell;
+	color: white;
+	vertical-align: middle;
+	text-align: right;
+	padding-right: 40px;
+	font-size: 12px;
+	width: 100%;
+	margin-right: 10px;
+}
+html body div#footer footer.navbar-fixed-bottom div#footerContent div#leftFooter h4, html body div#footer footer.navbar-fixed-bottom div#footerContent div#leftFooter h5 {
+	margin-bottom: 3px;
+	margin-top: 3px;
+}
+
+@media screen and (max-width: 1010px) {
+
+.navbar-nav, .navbar-nav > li {
+		margin-left: 0px;
+	}
+}
+
+@media screen and (max-width: 750px) {
+
+
+
+#LogoImg  {
+	z-index: 10000;
+	height: 150px;
+	width: auto;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+        color: white !important;
+    }
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    background-color: (211,116,8,.3);
+    color: #303030 !important;
+}
+
+.dropdown3 > ul {
+    position: static;
+    display: block;
+    background-color: transparent;
+    width: 100%;
+}
+
+.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px solid #87CEEB;
+    border-right: 4px solid transparent;
+    border-bottom: 0 dotted;
+    border-left: 4px solid transparent;
+    content: "";
+}
+
+.dropdown3 .dropdown-submenu > li .caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px solid #87CEEB;
+    border-right: 4px solid transparent;
+    border-bottom: 0 dotted;
+    border-left: 4px solid transparent;
+    content: "";
+}
+
+.dropdown3 {
+    position: static;
+    display: block;
+    background-color: rgba(211,116,8,.9);
+    float: inherit;
+    width: 100%;
+    height: 100%;
+    margin-bottom: auto;
+    padding-bottom:10px;
+}
+
+.collapse .navbar-collapse > ul > li .dropdown {
+    color: #fff;
+}
+
+.nav .nav-pills .nav-stacked {
+    height: auto;
+    margin-bottom: 60px;
+}
+
+.nav-stacked .dropdown > a:focus, .nav-stacked .dropdown > a:hover, .nav-stacked .dropdown:focus > a, r, .nav-stacked .dropdown:hover > a {
+    background-color: rgba(211,116,8,.3) !important;
+    color: white !important;
+    background-image: none;
+    filter: none;
+    text-decoration: none;
+}
+
+.nav-pills {
+    max-width: 100%;
+}
+
+.nav-pills > li > a {
+    border-radius: 0px;
+}
+
+.dropdown-submenu > li > a {
+	color: white;
+}
+
+.dropdown3 > ul > li, .dropdown3 > li {
+    display: block;
+    border: 1px solid #fff;
+    padding: 0;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+    background-color: transparent;
+    width: 100%;
+}
+
+.dropdown3 > ul, .dropdown3 > ul:hover {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0px;
+	/*border-width: auto;*/
+		}
+
+.navbar-fixed-bottom {
+	margin-top: -15px;
+	padding-bottom: 40px;
+	background-color: #9d3322;
+}
+
+body {
+	padding-bottom: 65px;
+}
+
+.textbody {
+    margin-left: 0px;
+    width: auto;
+    background-size: auto;
+    position: static;
+    padding: 10px;
+    height: auto;
+    margin-bottom: 5px;
+    float: left;
+    display: inline;
+}
+
+#leftFooter, #leftFooter >h4, #leftFooter >h4 >a , #leftFooter >a >h5, #rightFooter, #footerContent  {
+height: auto;
+	background-color: #9d3322;
+	font-size: 10px;
+	margin-bottom: 0;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.profile h3 {
+    font-size: 1.5em;
+    padding-bottom: 0;
+}
+
+.navbar-fixed-bottom {
+	margin-top: -15px;
+	padding-bottom: 0px;
+	background-color: #9d3322;
+}
+
+@media screen and (max-width: 650px) {
+
+#LogoImg {
+		height: 110px;
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 550px) {
+
+html body div.container-fluid div.textbody img.schoolimg.img-responsive.pull-right {
+		width: 100%;
+		height: auto;
+		padding-left: 0;
+	}
+}
+
+@media screen and (max-width: 480px) {
+
+/*.unmbgimage {
+    background-image: url('../images/unmbanner600.png');
+}*/
+
+
+
+.dropdown3 {
+	margin-bottom: 0;
+	padding-bottom: 0px;
+}
+
+
+
+body {
+	padding-bottom: 76px;
+	}
+
+	.dropdown3 {
+		padding-bottom: 10px;
+	}
+
+#footerContent {
+		margin-top: -10px;
+	}
+
+}
+
+@media screen and (max-width: 350px) {
+
+/*.unmbgimage {
+    background-image: url('../images/unmbanner250.png');
+}*/
+
+
+
+.icon-bar {
+	width: 15px !important;
+}
+
+.navbar-brand {
+	margin-left: 0;
+	margin-right: 0;
+	padding-right: 0;
+}
+
+body {
+	padding-bottom: 50px;
+	}
+
+.navbar-fixed-bottom {
+	height: 50px;
+}
+
+#footerContent {
+	padding-top: 0;
+	margin-top: -10px;
+}
+
+#leftFooter, #leftFooter >h4, #leftFooter >h4 >a , #leftFooter >a >h5, #rightFooter, #footerContent {
+		padding-top: 2px;
+	}
+
+#LogoImg  {
+	z-index: 10000;
+	height:100px;
+	width: auto;
+}
+ul.nav .nav-pill .nav-stacked {
+	margin-bottom: 15px;
+}
+}
+
+@media screen and (max-width: 250px) {
+	#LogoImg  {
+		z-index: 10000;
+		height:50px;
+		width: auto;
+	}
+	#footerContent {
+		margin-top: -20px;
+		padding-top: 0px;
+	}
+}

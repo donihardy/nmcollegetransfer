@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="../css/bootstrap.css">
+  <link rel="stylesheet" href="../css/bootstrap-submenu.min.css">
+  <link rel="stylesheet" href="../css/navbar.css">
+  <link rel="stylesheet" href="../css/school.css">
+  <link rel='shortcut icon' type='image/x-icon' href="../images/favicon.ico" />
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-78535673-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+  <title>NM COLLEGE & TRANSFER 
+    - NMSU ALAMOGORDO</title>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <header class="bgimage alamogordobgimage">
+        <img class="container-fluid">
+        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+        <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
+      </header>
+    </div>
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand nmsu" href="index.php">NEW MEXICO STATE<br />UNIVERSITY ALAMOGORDO</a>
+        </div>
+
+        <!--Begin top Nav Bar-->
+
+        <?php require '../includes/schooltopnav.php'; ?>
+
+        <!--End Top Nav Bar-->
+
+        <div id="breadcrumb">
+          <ol class="breadcrumb">
+            <li>
+              <a href="../index.php">HOME</a>
+            </li>
+            <li>
+              <a href="index.php">NMSU ALAMOGORDO</a>
+            </li>
+            <li>
+             FAMILY
+           </li>
+         </ol>
+       </div>
+       <div class="container-fluid">
+        <div class="textbody">
+          <h3>Family Life</h3>
+          <h4 id="housing">Housing</h4>
+          <p>NMSU Alamogordo does not have dormitories. However, there are various affordable apartment complexes and houses for rent, some located within walking distance. The Z-Trans is a public transportation system and there is a stop in front of the NMSU-A Campus.</p>
+          <P>For more information about housing, contact the following businesses or agencies:<br />
+            <ul><li>Housing Authority, City of Alamogordo, (575) 437-5621</li>
+              <li>Alamo Apartments Inc, (575) 437-7520</li>
+              <li> Capri Manor Apartments, (575) 437-6977</li>
+              <li> Los Arcos Apartments, (575) 437-0452</li>
+              <li> Pines Apartments, (575) 437-0706</li>
+              <li> Otero Village Apartments, (575) 437-0498</li>
+              <li> For more information on the Z-Trans bus schedule, call (575) 439-4900</li></ul>
+            </p>
+            <p><a href="http://nmsua.edu/admissions/prospective-students/housing/">Housing</a></p>
+            <h4 id="childcare">Child Care</h4>
+            <p>Many students, at one time or another, will need assistance beyond what we can provide in the Office of Student Services. All of us face a variety of personal, social, or financial problems as we move through life. There may be times when these problems seem to be too difficult to deal with on our own. To assist our students in finding the help they need, we have made a list of providers or agencies who have been helpful to students in the past.</p>
+            <p><a href="http://nmsua.edu/current-students/helping-agencies/">Child Care</a></p>
+            <h4 id="parent">Parent Info</h4>
+            <p>As your student may have a desire to participate in Dual Credit it is important to know the rights that you as parents have and the rights that the students have under the FERPA policy.</p>
+            <p><a href="http://nmsua.edu/admissions/dual-credit/information-for-parents/">NMSA Alamogordo Parents &#38; Families</a>
+            </div>
+          </div>
+
+          <!-- Side menu -->
+          <?php require '../includes/sidemenu.php'; ?>
+          <!--End Side Menu-->
+
+          <div id="footer">
+           <?php include '../includes/footer.php'; ?>
+         </div>
+
+         <script src="../js/jquery.min.js"></script>
+         <script src="../js/bootstrap.min.js"></script>
+         <script src="../js/bootstrap-submenu.min.js" defer></script>
+         <script src="../js/navbar.js"></script>
+         <script src="../js/script.js"></script>
+       </body>
+       </html>
