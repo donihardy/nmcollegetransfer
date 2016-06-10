@@ -120,9 +120,8 @@
                             <a href="https://pathways.luna.edu/ICS/ClientConfig/HtmlContent/ContactUs.html">Contact Luna Community College</a>
                           </div>
                         </div>
-                        <!-- Side menu -->
-
-                        <?php require '../includes/sidemenu.php'; ?>
+                        <?php //Begin Side menu ?>
+                       <?php require '../includes/sidemenu.php'; ?>
                         <!-- End Side Menu -->
 
                         <div id="footer">

@@ -137,9 +137,8 @@
                         <a href="http://www.mesalands.edu/findyourway/">Mesalands Request Info</a>
                       </div>
                     </div>
-                    <!-- Side menu -->
-
-                    <?php require '../includes/sidemenu.php'; ?>
+                    <?php //Begin Side menu ?>
+                   <?php require '../includes/sidemenu.php'; ?>
                     <!-- End Side Menu -->
 
                     <div id="footer">

@@ -41,7 +41,7 @@
           </button>
           <a class="navbar-brand nmsu" href="index.php">NEW MEXICO STATE<br />UNIVERSITY CARLSBAD</a>      </div>
 
-          <!--Begin top Nav Bar-->
+          <?php //Begin top Nav Bar ?>
 
           <?php require '../includes/schooltopnav.php'; ?>
 
@@ -69,8 +69,7 @@
             <!-- Side menu -->
             
             <?php require '../includes/sidemenu.php'; ?>
-
-            <!--End Side Menu-->
+            <?php //End Side Menu ?>
 
             <div id="footer">
              <?php include '../includes/footer.php'; ?>

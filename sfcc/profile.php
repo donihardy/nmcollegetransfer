@@ -43,11 +43,9 @@
           <a class="navbar-brand sfcc" href="index.php">SANTA FE<br />COMMUNITY COLLEGE</a>
         </div>
 
-        <!--Begin top Nav Bar-->
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End Top Nav Bar-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
          <ol class="breadcrumb">

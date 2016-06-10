@@ -48,11 +48,9 @@
 
         </div>
         
-        <!--Begin top Nav Bar-->
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -103,9 +101,8 @@
                       <a href="http://www.dinecollege.edu/dual-credit-program/students-and-parents.php">Dual Enrollment</a></p>
                     </div>
                   </div>
-                  <!-- Side menu -->
-
-                  <?php require '../includes/sidemenu.php'; ?>
+                  <?php //Begin Side menu ?>
+                 <?php require '../includes/sidemenu.php'; ?>
                   <!-- End Side Menu -->
 
                   <div id="footer">

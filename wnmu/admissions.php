@@ -48,11 +48,10 @@
           <a class="navbar-brand wnmu" href="index.php">WESTERN NEW MEXICO<br />UNIVERSITY</a>        
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -103,9 +102,9 @@
                   </div>
                 </div>
 
-                <!-- Side menu -->
+            <?php //Begin Side Menu ?>
                 <?php require '../includes/sidemenu.php'; ?>
-                <!--End Side Menu-->
+                <?php //End Side Menu ?>
 
 
 

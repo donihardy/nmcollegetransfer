@@ -98,9 +98,8 @@
                   <a href="https://www.cnm.edu/depts/advisement/contact-advisement">CNM Request Info</a>
                 </div>
               </div>
-              <!-- Side menu -->
-
-              <?php require '../includes/sidemenu.php'; ?>
+              <?php //Begin Side menu ?>
+             <?php require '../includes/sidemenu.php'; ?>
               <!-- End Side Menu -->
 
 

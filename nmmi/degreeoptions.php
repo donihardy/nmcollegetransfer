@@ -43,11 +43,9 @@
           <a class="navbar-brand nmmi" href="index.php">NEW MEXICO<br />MILITARY INSTITUTE</a>
         </div>
 
-        <!--Begin top Nav Bar-->
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End Top Nav Bar-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -104,12 +102,12 @@
                         </div>
                       </div>
 
-                      <!-- Side menu -->
+                  <?php //Begin Side Menu ?>
                       
                       <?php require '../includes/sidemenu.php'; ?>
 
 
-                      <!--End Side Menu-->
+                      <?php //End Side Menu ?>
 
                       <div id="footer">
                        <?php include '../includes/footer.php'; ?>

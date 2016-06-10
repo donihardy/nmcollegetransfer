@@ -48,11 +48,9 @@
 
         </div>
         
-        <!--Begin top Nav Bar-->
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -86,10 +84,11 @@
         </div>
         <!-- Side menu -->
 
-        <!-- Side menu -->
-        <?php require '../includes/sidemenu.php'; ?>
-        <!-- End Side Menu -->
-        <div id="footer">
+                     <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>       
+
+          <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

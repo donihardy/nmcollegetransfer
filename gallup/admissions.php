@@ -44,11 +44,9 @@
           <a class="navbar-brand gallup" href="index.php">UNIVERSITY OF NEW MEXICO<br />GALLUP</a>
         </div>
 
-        <!--Begin top Nav Bar-->
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End Top Nav Bar-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -103,13 +101,9 @@
                 </div>
               </div>
 
-              <!-- Side menu -->
-
-              <?php require '../includes/sidemenu.php'; ?>
-              <!-- End Side menu -->
-
-              <!--End Side Menu-->
-
+                <?php //Begin Side menu ?>
+  <?php require '../includes/sidemenu.php'; ?>
+  <?php //End Side Menu ?>
               <div id="footer">
                 <?php include '../includes/footer.php'; ?>
 

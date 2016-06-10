@@ -46,11 +46,10 @@
           <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO<br />COLLEGE</a>
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -71,10 +70,11 @@
             <p><a href="http://nnmc.edu/wp-content/uploads/2016/02/ARTICULATION-EASTERN.pdf">Engineering between NNMC to ENMU</a></p>
           </div>
         </div>
-        <!-- Side menu -->
-        <?php require '../includes/sidemenu.php'; ?>
-        <!-- End Side Menu -->
-        <div id="footer">
+                     <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>       
+
+          <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

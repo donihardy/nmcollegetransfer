@@ -47,11 +47,10 @@
           <a class="navbar-brand iaia" href="index.php">INSTITUTE OF<br />AMERICAN INDIAN ARTS</a>
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -113,9 +112,8 @@
                               
                             </div>
                           </div>
-                          <!-- Side menu -->
-
-                          <?php require '../includes/sidemenu.php'; ?>
+                          <?php //Begin Side menu ?>
+                         <?php require '../includes/sidemenu.php'; ?>
                           <!-- End Side Menu -->
 
                           <div id="footer">

@@ -43,11 +43,9 @@
           <a class="navbar-brand taos" href="index.php">UNIVERSITY OF NEW MEXICO<br />TAOS</a>
         </div>
 
-        <!--Begin top Nav Bar-->
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End Top Nav Bar-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -72,9 +70,8 @@
             </div>
           </div>
 
-          <!-- Side menu -->
-
-          <?php require '../includes/sidemenu.php'; ?>
+          <?php //Begin Side menu ?>
+         <?php require '../includes/sidemenu.php'; ?>
 
 
           <!--End Side Menu-->

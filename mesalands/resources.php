@@ -48,12 +48,11 @@
           <a class="navbar-brand cnm" href="index.php">MESALANDS<br />COMMUNITY COLLEGE</a>
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
         <?php require '../includes/schooltopnav.php'; ?>
 
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">

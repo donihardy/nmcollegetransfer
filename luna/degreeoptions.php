@@ -47,12 +47,11 @@
           <a class="navbar-brand" href="index.php">LUNA COMMUNITY COLLEGE</a>
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
         
         <?php require '../includes/schooltopnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -139,9 +138,11 @@
                   <a href="https://www.luna.edu/all-academics/">LCC Associates Degrees</a></p>
                 </div>
               </div>
-              <!-- Side menu -->
-              <?php require '../includes/sidemenu.php'; ?>
-              <!-- End Side Menu -->
+                      <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>    
+             
+
               <div id="footer">
                 <?php include '../includes/footer.php'; ?>
               </div>

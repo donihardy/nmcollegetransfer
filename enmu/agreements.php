@@ -46,7 +46,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY</a>
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
        <?php require '../includes/schooltopnav.php'; ?>
 

@@ -20,8 +20,7 @@
 <!--Begin top nav-->
 
 <?php require 'includes/topnav.php'; ?>
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <ol class="breadcrumb">
           <li>

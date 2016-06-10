@@ -47,12 +47,11 @@
           <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO<br />COLLEGE</a>
         </div>
 
-        <!--Begin top nav-->
+<?php //Begin top Nav Bar ?>
 
         <?php require '../includes/schooltopnav.php'; ?>
 
-
-        <!--End top nav-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">
@@ -158,9 +157,8 @@
                                               <p><a href="http://nnmc.edu/home/student-gateway/admissions/admissions-interest-form/">Request more info</a></p>
                                             </div>
                                           </div>
-                                          <!-- Side menu -->
-
-                                          <?php require '../includes/sidemenu.php'; ?>
+                                          <?php //Begin Side menu ?>
+                                         <?php require '../includes/sidemenu.php'; ?>
                                           <!-- End Side Menu -->
                                           
 

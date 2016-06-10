@@ -105,7 +105,7 @@
                         </div>
                       </div>
 
-                      <!-- Side menu -->
+                  <?php //Begin Side Menu ?>
                       <?php require '../includes/sidemenu.php'; ?>
                       <!-- End Side Menu -->
 

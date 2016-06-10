@@ -44,12 +44,11 @@
           <a class="navbar-brand" href="index.php">SAN JUAN COLLEGE</a>
         </div>
 
-        <!--Begin top Nav Bar-->
+        <?php //Begin top Nav Bar ?>
 
         <?php require '../includes/schooltopnav.php'; ?>
 
-
-        <!--End Top Nav Bar-->
+        <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
           <ol class="breadcrumb">

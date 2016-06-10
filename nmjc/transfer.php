@@ -111,9 +111,8 @@
                     <a href="tel:1-575-492-2547">(575) 492-2547</a>
                   </div>
                 </div>
-                <!-- Side menu -->
-
-                <?php require '../includes/sidemenu.php'; ?>
+                <?php //Begin Side menu ?>
+               <?php require '../includes/sidemenu.php'; ?>
                 <!-- End Side Menu -->
 
                 <div id="footer">

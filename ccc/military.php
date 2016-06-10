@@ -78,10 +78,11 @@
             <p><a href="http://www.clovis.edu/financialaid/veteransbenefits.aspx">CCC Veterans Office</a></p>
           </div>
         </div>
-        <!-- Side menu -->
-        <?php require '../includes/sidemenu.php'; ?>
-        <!-- End Side Menu -->
-        <div id="footer">
+                     <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>       
+
+          <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

@@ -43,7 +43,7 @@
           <a class="navbar-brand losalamos" href="index.php">UNIVERSITY OF NEW MEXICO<br />LOS ALAMOS</a>
         </div>
 
-        <!--Begin top Nav Bar-->
+        <?php //Begin top Nav Bar ?>
 
       <?php require '../includes/schooltopnav.php'; ?>
 
@@ -117,12 +117,11 @@
                       </div>
                     </div>
                   </div>
-                  <!-- Side menu -->
+                  <?php //Begin Side menu ?>
+                            <?php require '../includes/sidemenu.php'; ?>
 
-                             <?php require '../includes/sidemenu.php'; ?>
 
-
-                            <!--End Side Menu-->
+                            <?php //End Side Menu ?>
 
 
                             <div id="footer">
