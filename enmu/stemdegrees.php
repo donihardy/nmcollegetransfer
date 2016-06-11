@@ -46,8 +46,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -83,9 +82,10 @@
               Nutrition<br />
               Wildlife and Fishery Sciences</p></div>
             </div></div>
-            <!-- Side menu -->
+            <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
-            <!-- End Side Menu -->
+            <?php //End Side menu ?>
+            
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
 

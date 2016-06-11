@@ -44,7 +44,6 @@
         </div>
 
         <?php //Begin top Nav Bar ?>
-        
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 

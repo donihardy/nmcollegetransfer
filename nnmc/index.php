@@ -44,46 +44,45 @@
         <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO <br />COLLEGE</a>
       </div>
 
-      <!--Begin top nav-->
+      <?php //Begin top Nav Bar ?>
+      <?php require '../includes/schooltopnav.php'; ?>
+      <?php //End Top Nav Bar ?>
 
-   <?php require '../includes/schooltopnav.php'; ?>
+      <div id="breadcrumb">
+        <ol class="breadcrumb">
+          <li>
+            <a href="../index.php">HOME</a>
+          </li>
+          <li>
+            NNMC
+          </li>
+        </ol>
+      </div>
+      <div class="container-fluid">
+        <div class="textbody">
+          <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/nnmc.jpg"  alt="Responsive Image">
+          <p >Northern New Mexico College recognizes and incorporates the place-based uniqueness of northern New Mexico into academics and campus life.
+            Northern's communities of service are deeply tied to the region, a fact that influences both the educational choices of our students and the ways in which we serve them.</p>
+            <p>We primarily serve rural communities within a 40-mile radius of our main campus in Española, New Mexico, including eight Native American communities, within one of the most underserved regions in the state.</p>
+          </p>
+          <p><a href="http://www.nnmc.edu">NNMC Website</a><br />
+            <a href="http://nnmc.edu/home/about-northern/espanola-campus-map/">Map</a></p>
 
-          <!--End Top Nav Bar-->
-
-          <div id="breadcrumb">
-            <ol class="breadcrumb">
-              <li>
-                <a href="../index.php">HOME</a>
-              </li>
-              <li>
-                NNMC
-              </li>
-            </ol>
           </div>
-          <div class="container-fluid">
-            <div class="textbody">
-              <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/nnmc.jpg"  alt="Responsive Image">
-              <p >Northern New Mexico College recognizes and incorporates the place-based uniqueness of northern New Mexico into academics and campus life.
-                Northern's communities of service are deeply tied to the region, a fact that influences both the educational choices of our students and the ways in which we serve them.</p>
-                <p>We primarily serve rural communities within a 40-mile radius of our main campus in Española, New Mexico, including eight Native American communities, within one of the most underserved regions in the state.</p>
-              </p>
-              <p><a href="http://www.nnmc.edu">NNMC Website</a><br />
-                <a href="http://nnmc.edu/home/about-northern/espanola-campus-map/">Map</a></p>
+        </div>
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side Menu ?>
 
-              </div>
-            </div>
-            <!-- Side menu -->
-                         <?php require '../includes/sidemenu.php'; ?>
-              <!-- End Side Menu -->
+        <div id="footer">
+         <?php include '../includes/footer.php'; ?>
+       </div>
 
-                      <div id="footer">
-                       <?php include '../includes/footer.php'; ?>
-                      </div>
-
-                      <script src="../js/jquery.min.js"></script>
-                      <script src="../js/bootstrap.min.js"></script>
-                      <script src="../js/bootstrap-submenu.min.js" defer></script>
-                      <script src="../js/navbar.js"></script>
-                      <script src="../js/script.js"></script>
-                    </body>
-                    </html>
+       <script src="../js/jquery.min.js"></script>
+       <script src="../js/bootstrap.min.js"></script>
+       <script src="../js/bootstrap-submenu.min.js" defer></script>
+       <script src="../js/navbar.js"></script>
+       <script src="../js/script.js"></script>
+     </body>
+     </html>

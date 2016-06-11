@@ -48,9 +48,7 @@
           <a class="navbar-brand cnm" href="index.php">CENTRAL NEW MEXICO COMMUNITY COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
-        
+                <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -80,9 +78,10 @@
               <p>Mathematics</p>
               <a href="https://www.cnm.edu/depts/stemup/cnm-and-unm-stem-majors">CNM STEM Degrees</a>
             </div></div>
-            <!-- Side menu -->
+            <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
-            <!-- End Side Menu -->
+            <?php //End Side menu ?>
+            
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
 

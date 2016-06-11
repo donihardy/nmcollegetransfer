@@ -48,9 +48,7 @@
           <a class="navbar-brand" href="index.php">LUNA COMMUNITY COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
-        
+                <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -83,9 +81,10 @@
                 <p><a href="https://luna.edu/media/page_files/VA_Request_for_Certification.pdf">Request for Certification Form</a></p>
               </div>
             </div>
-            <!-- Side menu -->
+            <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
-            <!-- End Side Menu -->
+            <?php //End Side menu ?>
+            
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
 

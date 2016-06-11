@@ -48,8 +48,7 @@
           <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO<br />COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 

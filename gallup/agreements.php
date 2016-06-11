@@ -44,9 +44,7 @@
         </div>
 
         <?php //Begin top Nav Bar ?>
-
         <?php require '../includes/schooltopnav.php'; ?>
-
         <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
@@ -71,12 +69,13 @@
           </div></div>
 
           <?php //Begin Side menu ?>
-         <?php require '../includes/sidemenu.php'; ?>
+          <?php require '../includes/sidemenu.php'; ?>
           <!--End Side Menu-->
 
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>
+         
          <script src="../js/jquery.min.js"></script>
          <script src="../js/bootstrap.min.js"></script>
          <script src="../js/bootstrap-submenu.min.js" defer></script>

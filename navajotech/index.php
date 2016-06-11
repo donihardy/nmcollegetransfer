@@ -42,11 +42,9 @@
           <a class="navbar-brand ntu" href="index.php">NAVAJO<br />TECHNICAL UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-        
-       <?php require '../includes/schooltopnav.php'; ?>
-
-            <!--End Top Nav Bar-->
+        <?php //Begin top Nav Bar ?>
+        <?php require '../includes/schooltopnav.php'; ?>
+        <?php //End Top Nav Bar ?>
 
             <div id="breadcrumb">
               <ol class="breadcrumb">
@@ -68,9 +66,12 @@
 
                 </div>
               </div>
-              <!-- Side menu -->
-              <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+        </div>
+
+                       <?php //Begin Side menu ?>
+                       <?php require '../includes/sidemenu.php'; ?>
+                       <?php //End Side Menu ?>
+                       
                         <div id="footer">
                         <?php include '../includes/footer.php'; ?>
                         </div>

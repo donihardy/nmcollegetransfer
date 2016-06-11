@@ -46,8 +46,7 @@
           <a class="navbar-brand wnmu" href="index.php">WESTERN NEW MEXICO<br />UNIVERSITY</a>        
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -73,9 +72,12 @@
               <a href="http://wnmu.edu/univ/consumerInfo/Transfer%20of%20Credit%20Policies%20and%20Articulation%20Agreements.htm">Articulation Agreements</a></p>        
             </div>
           </div>
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+         
+     <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

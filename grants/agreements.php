@@ -81,6 +81,7 @@
          <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>
+         
          <script src="../js/jquery.min.js"></script>
          <script src="../js/bootstrap.min.js"></script>
          <script src="../js/bootstrap-submenu.min.js" defer></script>

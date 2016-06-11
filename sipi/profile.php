@@ -77,14 +77,11 @@
         <a href="http://nces.ed.gov/collegenavigator/?q=southwestern&s=NM&l=91+92+93+94&ic=1+2&id=188216">College Navigator</a></div>
       </div>
 
-      <!-- Side menu -->
-
+      <?php //Begin Side menu ?>
       <?php require '../includes/sidemenu.php'; ?>
+      <?php //End Side menu ?>
 
-
-      <!--End Side Menu-->
-
-      <div id="footer">
+     <div id="footer">
        <?php include '../includes/footer.php'; ?>
      </div>
 

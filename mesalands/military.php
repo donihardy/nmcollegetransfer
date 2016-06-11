@@ -48,8 +48,7 @@
           <a class="navbar-brand cnm" href="index.php">MESALANDS<br />COMMUNITY COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -72,10 +71,10 @@
           <p><a href="http://www.mesalands.edu/military-and-veteran-students/">Military and Veteran Students</a><br />
           </div>
         </div>
-                     <?php //Begin Side menu ?>
-          <?php require '../includes/sidemenu.php'; ?>
-          <?php //End Side Menu ?>       
-
+                    
+            <?php //Begin Side menu ?>
+            <?php require '../includes/sidemenu.php'; ?>
+            <?php //End Side menu ?> 
           <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>

@@ -45,9 +45,7 @@
         </div>
 
         <?php //Begin top Nav Bar ?>
-
         <?php require '../includes/schooltopnav.php'; ?>
-
         <?php //End Top Nav Bar ?>
 
         <div id="breadcrumb">
@@ -80,16 +78,13 @@
           <a href="http://nces.ed.gov/collegenavigator/?q=san+juan&s=NM&l=91+92+93+94&ic=1+2&id=188100">College Navigator</a></div>
         </div>
 
-        <!-- Side menu -->
-
+        <?php //Begin Side menu ?>
         <?php require '../includes/sidemenu.php'; ?>
-
-
-        <!--End Side Menu-->
+        <?php //End Side Menu ?>
 
         <div id="footer">
          <?php include '../includes/footer.php'; ?>
-       </div>
+        </div>
 
        <script src="../js/jquery.min.js"></script>
        <script src="../js/bootstrap.min.js"></script>

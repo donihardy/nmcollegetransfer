@@ -46,8 +46,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -78,10 +77,12 @@
         <p><a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&id=383996">College Navigator</a></p>
       </div>
     </div>
-    <!-- Side menu -->
-
-    <!-- Side menu -->
+    
+    <?php //Begin Side menu ?>
     <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
     <div id="footer">
      <?php include '../includes/footer.php'; ?>
    </div>

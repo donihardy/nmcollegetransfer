@@ -73,10 +73,10 @@
             <a href="http://www.dinecollege.edu/services/student-services-tsaile.php">Learning Center</a></p>
           </div>
         </div>
-                     <?php //Begin Side menu ?>
-          <?php require '../includes/sidemenu.php'; ?>
-          <?php //End Side Menu ?>       
-
+                    
+            <?php //Begin Side menu ?>
+            <?php require '../includes/sidemenu.php'; ?>
+            <?php //End Side menu ?> 
           <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>

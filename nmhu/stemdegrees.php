@@ -80,9 +80,10 @@
               <br/>
               <a href="http://www.nmhu.edu/current-students/undergraduate/">NMHU Degrees</a>
             </div></div>
-            <!-- Side menu -->
+            <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
-            <!-- End Side Menu -->
+            <?php //End Side menu ?>
+            
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
 

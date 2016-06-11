@@ -79,7 +79,7 @@
         <?php require '../includes/sidemenu.php'; ?>
         <div id="footer">
          <?php include '../includes/footer.php'; ?>
-       </div>
+        </div>
 
        <script src="../js/jquery.min.js"></script>
        <script src="../js/bootstrap.min.js"></script>

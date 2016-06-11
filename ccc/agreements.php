@@ -46,8 +46,7 @@
           <a class="navbar-brand ccc" href="index.php">CLOVIS COMMUNITY<br />COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -76,9 +75,10 @@
                 <li>University of New Mexico</li></ul></p>
                 <p><a href="http://www.clovis.edu/advising/transfer.aspx">Transferring Schools</a></p>
               </div></div>
-                      <?php //Begin Side menu ?>
-          <?php require '../includes/sidemenu.php'; ?>
-          <?php //End Side Menu ?>    
+                       
+<?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
              
 
               <div id="footer">

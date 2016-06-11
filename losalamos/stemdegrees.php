@@ -77,11 +77,9 @@
           </div>
 
           <?php //Begin Side menu ?>
-         <?php require '../includes/sidemenu.php'; ?>
-
-
-          <!--End Side Menu-->
-
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side menu ?>
+             
           <div id="footer">
             <?php include '../includes/footer.php'; ?>
           </div>

@@ -96,9 +96,12 @@
             </div>
           </div>
 
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+         
+     <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
 
 
           <div id="footer">

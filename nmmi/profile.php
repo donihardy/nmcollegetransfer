@@ -75,16 +75,13 @@
           </table><p><a href="http://nces.ed.gov/collegenavigator/?q=new+mexico+military&s=NM&l=91+92+93+94&ic=1+2&id=187912">College Navigator</a></p></div>
         </div>
 
-        <!-- Side menu -->
-
+        <?php //Begin Side menu ?>
         <?php require '../includes/sidemenu.php'; ?>
-
-
-        <!--End Side Menu-->
+        <?php //End Side Menu ?>
 
         <div id="footer">
          <?php include '../includes/footer.php'; ?>
-       </div>
+        </div>
 
        <script src="../js/jquery.min.js"></script>
        <script src="../js/bootstrap.min.js"></script>

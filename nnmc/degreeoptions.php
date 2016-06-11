@@ -46,8 +46,7 @@
           <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO<br />COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -97,9 +96,12 @@
               <p><a href="http://nnmc.edu/home/academics/degrees-certificates/">Bachelor's Degrees</a></p>
             </div>
           </div>
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+         
+     <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

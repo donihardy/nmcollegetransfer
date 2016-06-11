@@ -45,13 +45,11 @@
           </button>
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY</a>
         </div>
-
-<?php //Begin top Nav Bar ?>
-
-       <?php require '../includes/schooltopnav.php'; ?>
-
-            <!--End top nav-->
-
+            
+        <?php //Begin top Nav Bar ?>
+        <?php require '../includes/schooltopnav.php'; ?>
+        <?php //End top nav ?>
+        
             <div id="breadcrumb">
               <ol class="breadcrumb">
                 <li>

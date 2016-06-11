@@ -73,9 +73,10 @@
               <a href="tel:505-786-4328">(505) 786-4328</p>
               </div>
             </div>
-            <!-- Side menu -->
+            <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
-            <!-- End Side Menu -->
+            <?php //End Side menu ?>
+            
 
             <div id="footer">
               <?php include '../includes/footer.php'; ?>

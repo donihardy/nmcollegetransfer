@@ -43,8 +43,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -78,9 +77,11 @@
           <p><a href="http://www.enmu.edu/future-students/parents/ ">Parent Info</a></p>
         </div>
       </div>
-      <!-- Side menu -->
-      <?php require '../includes/sidemenu.php'; ?>
-      <!-- End Side Menu -->
+     
+    <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
       <div id="footer">
         <?php include '../includes/footer.php'; ?>
 

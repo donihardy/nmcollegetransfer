@@ -46,8 +46,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY-ROSWELL</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -86,9 +85,12 @@
             <p>Please feel free to contact us at <a href="1-575-624-7162">(575) 624-7162</a> with any transfer questions you may have.</p>
           </div>
         </div>
-        <!-- Side menu -->
+        
+         
+<?php //Begin Side menu ?>
         <?php require '../includes/sidemenu.php'; ?>
-        <!-- End Side menu -->
+        <?php //End Side menu ?> 
+        
         <div id="footer">
          <?php include '../includes/footer.php'; ?>
 

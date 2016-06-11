@@ -45,11 +45,9 @@
         <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO <br />COLLEGE</a>
       </div>
 
-      <!--Begin top nav-->
-
-      <?php require '../includes/schooltopnav.php'; ?>
-
-      <!--End top nav-->
+        <?php //Begin top Nav Bar ?>
+        <?php require '../includes/schooltopnav.php'; ?>
+        <?php //End Top Nav Bar ?>
 
       <div id="breadcrumb">
         <ol class="breadcrumb">
@@ -74,9 +72,12 @@
               <p>Info to come</p>-->
             </div>
           </div>
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+         
+     <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

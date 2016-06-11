@@ -82,9 +82,10 @@
                 <a href="tel:1-505-454-3188">(505) 454-3188</a></p>
               </div>
             </div>
-            <!-- Side menu -->
+            <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
-            <!-- End Side Menu -->
+            <?php //End Side menu ?>
+            
 
             <div id="footer">
               <?php include '../includes/footer.php'; ?>

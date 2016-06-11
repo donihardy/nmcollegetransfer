@@ -46,8 +46,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -82,9 +81,10 @@
                   <a href="http://ruidoso.enmu.edu/index.php/academics-programs/programs">ENMU Ruidoso Associate Degrees</a></p>
                 </div>
               </div>
-                      <?php //Begin Side menu ?>
-          <?php require '../includes/sidemenu.php'; ?>
-          <?php //End Side Menu ?>    
+                       
+<?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
              
 
               <div id="footer">

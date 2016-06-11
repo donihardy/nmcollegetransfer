@@ -84,9 +84,12 @@
               <p><a href="http://its.nmhu.edu/IntranetUploads/003477-15-17_catalo-925201511905.pdf">Catalog</a></p>
             </div>
           </div>
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+         
+     <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

@@ -43,11 +43,10 @@
           <a class="navbar-brand nmsu" href="index.php">NEW MEXICO<br />STATE UNIVERSITY</a>
         </div>
 
-        <?php //Begin top Nav Bar ?>
-        
-       <?php require '../includes/schooltopnav.php'; ?>
+        <?php //Begin top Nav Bar ?>      
+        <?php require '../includes/schooltopnav.php'; ?>
+        <?php //End Top Nav Bar ?>
 
-            <!--End Top Nav Bar-->
             <div id="breadcrumb">
               <ol class="breadcrumb">
                 <li>

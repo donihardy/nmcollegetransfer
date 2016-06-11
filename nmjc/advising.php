@@ -46,8 +46,7 @@
           <a class="navbar-brand cnm" href="index.php">NEW MEXICO<br />JUNIOR COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -75,9 +74,12 @@
             <p><a href="http://www.nmjc.edu/contacts/staffdirectoryaction.asp?Last=&First=&title=&Department=Counseling&Search=Search">Counseling Staff</a></p>
           </div>
         </div>
-        <!-- Side menu -->
+        
+ 
+<?php //Begin Side menu ?>
         <?php require '../includes/sidemenu.php'; ?>
-        <!-- End Side menu -->
+        <?php //End Side menu ?> 
+        
         <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>

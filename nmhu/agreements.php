@@ -75,9 +75,12 @@
               <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/001435-DineCollege-324200935429.pdf">Agreement Din&#233; to NMHU</a><br />
             </div>
           </div>
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side Menu -->
+         
+     <?php //Begin Side menu ?>
+    <?php require '../includes/sidemenu.php'; ?>
+    <?php //End Side menu ?>
+    
+    
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

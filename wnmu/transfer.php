@@ -47,8 +47,7 @@
           <a class="navbar-brand wnmu" href="index.php">WESTERN NEW MEXICO<br />UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -118,10 +117,12 @@
                                     <a href="mailto:admissions@wnmu.edu">Email</a></p>
                                   </div>
                                 </div>
+                                
                                 <?php //Begin Side menu ?>
-                               <?php require '../includes/sidemenu.php'; ?>
+                                <?php require '../includes/sidemenu.php'; ?>
                                 <?php //End Side Menu ?>
-                               <div id="footer">
+                                
+                                <div id="footer">
                                   <?php include '../includes/footer.php'; ?>
                                 </div>
 

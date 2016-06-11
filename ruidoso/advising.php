@@ -46,8 +46,7 @@
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -78,9 +77,11 @@
               <p><a href="http://www.livehelpnow.net/lhn/lcv.aspx?d=0&ms=&zzwindow=0&lhnid=23424&custom1=&custom2=&custom3=&time=7/9/2015%206:05:29%20PM">Chat with an Advisor</a></p>
             </div>
           </div>
-          <!-- Side menu -->
-          <?php require '../includes/sidemenu.php'; ?>
-          <!-- End Side menu -->
+          
+        
+            <?php //Begin Side menu ?>
+            <?php require '../includes/sidemenu.php'; ?>
+            <?php //End Side menu ?> 
           <div id="footer">
             <?php include '../includes/footer.php'; ?>
 

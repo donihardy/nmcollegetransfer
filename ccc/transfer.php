@@ -47,8 +47,7 @@
           <a class="navbar-brand ccc" href="index.php">CLOVIS COMMUNITY<br />COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -124,13 +123,13 @@
                             <p><a href="http://www.clovis.edu/admissions/index.aspx">Request more info</a></p>
                           </div>
                         </div>
-                        <?php //Begin Side menu ?>
+                        
+                       <?php //Begin Side menu ?>
                        <?php require '../includes/sidemenu.php'; ?>
-                        <!-- End Side Menu -->
+                       <?php //End Side Menu ?>
 
                         <div id="footer">
                          <?php include '../includes/footer.php'; ?>
-
                        </div>
 
                        <script src="../js/jquery.min.js"></script>

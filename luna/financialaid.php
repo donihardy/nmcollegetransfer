@@ -48,9 +48,7 @@
           <a class="navbar-brand" href="index.php">LUNA COMMUNITY COLLEGE</a>
         </div>
 
-<?php //Begin top Nav Bar ?>
-
-        
+                <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 

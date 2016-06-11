@@ -67,13 +67,10 @@
             <p><a href="http://www.rsu.edu/rsu-new-mexico-military-institute-announce-partnership/">RSU, New Mexico Military Institute Partnership</p>
           </div></div>
 
-          <!-- Side menu -->
-          
-          <?php require '../includes/sidemenu.php'; ?>
-
-
-          <!--End Side Menu-->
-
+             <?php //Begin Side menu ?>
+             <?php require '../includes/sidemenu.php'; ?>
+             <?php //End Side menu ?>
+             
           <div id="footer">
             <?php include '../includes/footer.php'; ?>
           </div>
