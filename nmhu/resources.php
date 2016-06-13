@@ -46,8 +46,7 @@
           <a class="navbar-brand nmhu" href="index.php">NEW MEXICO<br />HIGHLANDS UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>     
-
+        <?php //Begin top Nav Bar ?>     
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -71,11 +70,11 @@
           <a href="http://www.nmhu.edu/student-support-services/">Student Support Services</a></p>
         </div>
       </div>
-     
-    <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
+      
+      <?php //Begin Side menu ?>
+      <?php require '../includes/sidemenu.php'; ?>
+      <?php //End Side menu ?>
+      
       <div id="footer">
        <?php include '../includes/footer.php'; ?>
      </div>

@@ -45,9 +45,9 @@
         <a class="navbar-brand wnmu" href="index.php">WESTERN NEW MEXICO<br />UNIVERSITY</a>
       </div>
 
-        <?php //Begin top Nav Bar ?>
-        <?php require '../includes/schooltopnav.php'; ?>
-        <?php //End Top Nav Bar ?>
+      <?php //Begin top Nav Bar ?>
+      <?php require '../includes/schooltopnav.php'; ?>
+      <?php //End Top Nav Bar ?>
 
       <div id="breadcrumb">
         <ol class="breadcrumb">
@@ -65,17 +65,16 @@
      <div class="container-fluid">
       <div class="textbody">
         <h3>Resources</h3>
-        <!--<p>Info to come</p>-->
         <p>
           <a href="http://learn.wnmu.edu/support/resstu.shtml">Student eLearning Resources</a></p>
           <p><a href="http://css.wnmu.edu/career/">Career and Stuent Services</a></p>
         </div>
       </div>
-     
-    <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
+      
+      <?php //Begin Side menu ?>
+      <?php require '../includes/sidemenu.php'; ?>
+      <?php //End Side menu ?>
+      
       <div id="footer">
        <?php include '../includes/footer.php'; ?>
      </div>

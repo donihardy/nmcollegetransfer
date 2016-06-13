@@ -79,12 +79,12 @@
             <p> No information found.<br />
             </div>
           </div>
-         
-     <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
-    
+          
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side menu ?>
+          
+          
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

@@ -78,13 +78,12 @@
           </table>
           <a href="http://nces.ed.gov/collegenavigator/?q=eastern+new+mexico&s=all&id=187648">College Navigator</a></div>
         </div>
-        <!-- Side menu -->
-
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

@@ -101,9 +101,10 @@
                       <a href="http://www.dinecollege.edu/dual-credit-program/students-and-parents.php">Dual Enrollment</a></p>
                     </div>
                   </div>
+
                   <?php //Begin Side menu ?>
-                 <?php require '../includes/sidemenu.php'; ?>
-                  <!-- End Side Menu -->
+                  <?php require '../includes/sidemenu.php'; ?>
+                  <?php //End Side Menu ?>
 
                   <div id="footer">
                     <footer class="navbar-fixed-bottom">

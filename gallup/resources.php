@@ -47,42 +47,42 @@
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
-            <div id="breadcrumb">
-              <ol class="breadcrumb">
-                <li>
-                  <a href="../index.php">HOME</a>
-                </li>
-                <li>
-                  <a href="index.php">UNM GALLUP</a>
-                </li>
-                <li>
-                 RESOURCES
-               </li>
-             </ol>
-           </div>
-           <div class="container-fluid">
-            <div class="textbody">
-              <h3>Resources</h3>
-              
-              <p><a href="http://www.gallup.unm.edu/careers">Career Services</a><br />
-                <a href="http://www.gallup.unm.edu/vert/new-students/college.php">Learning Center</a><br />
-                <a href="http://www.gallup.unm.edu/vert/new-students/tutoring.php">TRiO/Student Support Services</a></p>
+        <div id="breadcrumb">
+          <ol class="breadcrumb">
+            <li>
+              <a href="../index.php">HOME</a>
+            </li>
+            <li>
+              <a href="index.php">UNM GALLUP</a>
+            </li>
+            <li>
+             RESOURCES
+           </li>
+         </ol>
+       </div>
+       <div class="container-fluid">
+        <div class="textbody">
+          <h3>Resources</h3>
+          
+          <p><a href="http://www.gallup.unm.edu/careers">Career Services</a><br />
+            <a href="http://www.gallup.unm.edu/vert/new-students/college.php">Learning Center</a><br />
+            <a href="http://www.gallup.unm.edu/vert/new-students/tutoring.php">TRiO/Student Support Services</a></p>
 
-              </div>
-            </div>
+          </div>
+        </div>
 
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side Menu ?>
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side Menu ?>
 
-                      <div id="footer">
-                       <?php include '../includes/footer.php'; ?>
-                      </div>
+        <div id="footer">
+         <?php include '../includes/footer.php'; ?>
+       </div>
 
-                      <script src="../js/jquery.min.js"></script>
-                      <script src="../js/bootstrap.min.js"></script>
-                      <script src="../js/bootstrap-submenu.min.js" defer></script>
-                      <script src="../js/navbar.js"></script>
-                      <script src="../js/script.js"></script>
-                    </body>
-                    </html>
+       <script src="../js/jquery.min.js"></script>
+       <script src="../js/bootstrap.min.js"></script>
+       <script src="../js/bootstrap-submenu.min.js" defer></script>
+       <script src="../js/navbar.js"></script>
+       <script src="../js/script.js"></script>
+     </body>
+     </html>

@@ -47,7 +47,7 @@
           <a class="navbar-brand cnm" href="index.php">CENTRAL NEW MEXICO COMMUNITY COLLEGE</a>
         </div>
 
-                <?php //Begin top Nav Bar ?>
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -129,9 +129,11 @@
   <a href="http://catalog.cnm.edu/content.php?catoid=29&navoid=3188">CNM Associates Degrees</a></p>
 </div>
 </div>
-<!-- Side menu -->
+
+<?php //Begin Side menu ?>
 <?php require '../includes/sidemenu.php'; ?>
-<!--End Side Menu -->
+<?php //End Side menu ?>
+
 <div id="footer">
  <?php include '../includes/footer.php'; ?>
 </div>

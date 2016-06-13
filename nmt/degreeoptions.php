@@ -154,30 +154,18 @@
                                                                         </div>
                                                                       </div>
 
-                                                                  <?php //Begin Side Menu ?>
-                                                                      
+                                                                      <?php //Begin Side Menu ?>
                                                                       <?php require '../includes/sidemenu.php'; ?>
-
-
                                                                       <?php //End Side Menu ?>
 
                                                                       <div id="footer">
-                                                                        <footer class="navbar-fixed-bottom">
-                                                                          <div id="footerContent">
-                                                                            <div id="leftFooter">
-                                                                              <h4><a href="http://stemup.unm.edu">© STEM UP</a></h4>
-                                                                              1716 Las Lomas Road NE &#149;  Albuquerque, NM 87131 &#149; <a href="tel:1-505-277-1723">505-277.1723</a>
-                                                                              <h5><a href="mailto:stemup@unm.edu">Contact STEM UP</a></h5>
-                                                                            </div>
+                                                                       <?php include '../includes/footer.php'; ?>
+                                                                     </div>
 
-                                                                          </div>
-                                                                        </footer>
-                                                                      </div>
-
-                                                                      <script src="../js/jquery.min.js"></script>
-                                                                      <script src="../js/bootstrap.min.js"></script>
-                                                                      <script src="../js/bootstrap-submenu.min.js" defer></script>
-                                                                      <script src="../js/navbar.js"></script>
-                                                                      <script src="../js/script.js"></script>
-                                                                    </body>
-                                                                    </html>
+                                                                     <script src="../js/jquery.min.js"></script>
+                                                                     <script src="../js/bootstrap.min.js"></script>
+                                                                     <script src="../js/bootstrap-submenu.min.js" defer></script>
+                                                                     <script src="../js/navbar.js"></script>
+                                                                     <script src="../js/script.js"></script>
+                                                                   </body>
+                                                                   </html>

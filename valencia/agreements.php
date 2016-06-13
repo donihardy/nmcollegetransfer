@@ -69,13 +69,14 @@
             </div>
           </div></div>
 
-             <?php //Begin Side menu ?>
-             <?php require '../includes/sidemenu.php'; ?>
-             <?php //End Side menu ?>
-             
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side menu ?>
+          
           <div id="footer">
             <?php include '../includes/footer.php'; ?>
           </div>
+          
           <script src="../js/jquery.min.js"></script>
           <script src="../js/bootstrap.min.js"></script>
           <script src="../js/bootstrap-submenu.min.js" defer></script>

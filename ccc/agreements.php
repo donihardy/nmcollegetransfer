@@ -75,11 +75,11 @@
                 <li>University of New Mexico</li></ul></p>
                 <p><a href="http://www.clovis.edu/advising/transfer.aspx">Transferring Schools</a></p>
               </div></div>
-                       
-<?php //Begin Side menu ?>
-        <?php require '../includes/sidemenu.php'; ?>
-        <?php //End Side menu ?> 
-             
+              
+              <?php //Begin Side menu ?>
+              <?php require '../includes/sidemenu.php'; ?>
+              <?php //End Side menu ?> 
+              
 
               <div id="footer">
                 <?php include '../includes/footer.php'; ?>

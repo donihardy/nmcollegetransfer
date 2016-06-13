@@ -77,6 +77,7 @@
           </table>
           <a href="http://nces.ed.gov/collegenavigator/?q=taos&s=NM&l=91+92+93+94&ic=1+2&id=188225">College Navigator</a></div>
         </div>
+        
         <?php //Begin Side menu ?>
         <?php require '../includes/sidemenu.php'; ?>
         <?php //End Side Menu ?>

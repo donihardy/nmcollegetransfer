@@ -35,8 +35,6 @@
       </header>
     </div>
 
-    <!--Begin top nav-->
-
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -48,7 +46,7 @@
           <a class="navbar-brand cnm" href="index.php">CENTRAL NEW MEXICO COMMUNITY COLLEGE</a>
         </div>
 
-                <?php //Begin top Nav Bar ?>
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -76,11 +74,12 @@
             <p><a href="https://www.cnm.edu/student-resources/catalog/military-duty-policy">Active Duty</a></p>
           </div>
         </div>
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

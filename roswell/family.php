@@ -77,13 +77,13 @@
                 <a href="http://www.roswell.enmu.edu/71-student-handbook/student-handbook/333-family-privacy-act-ferpa">FERPA</a></p>
               </div>
             </div>
+
             <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
             <?php //End Side menu ?>
             
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
-
             </div>
 
             <script src="../js/jquery.min.js"></script>

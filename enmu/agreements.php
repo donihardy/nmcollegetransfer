@@ -45,45 +45,46 @@
           </button>
           <a class="navbar-brand enmu" href="index.php">EASTERN NEW MEXICO UNIVERSITY</a>
         </div>
-            
+        
         <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End top nav ?>
         
-            <div id="breadcrumb">
-              <ol class="breadcrumb">
-                <li>
-                  <a href="../index.php">HOME</a>
-                </li>
-                <li>
-                  <a href="index.php">ENMU</a>
-                </li>
-                <li>
-                  AGREEMENTS
-                </li>
-              </ol>
+        <div id="breadcrumb">
+          <ol class="breadcrumb">
+            <li>
+              <a href="../index.php">HOME</a>
+            </li>
+            <li>
+              <a href="index.php">ENMU</a>
+            </li>
+            <li>
+              AGREEMENTS
+            </li>
+          </ol>
+        </div>
+        <div class="container-fluid">
+          <div class="textbody">
+            <h3>Agreements with Other Schools</h3>
+            <p><a href="http://www.enmu.edu/2-2/cnm-albuquerque-transfer-partnership-program-options">CNM-Albuquerque</a><br />
+              <a href="http://www.enmu.edu/2-2/clovis-community-college-transfer-partnership-program-options">Clovis Community College (CCC)</a><br />
+              <a href="http://www.enmu.edu/2-2/enmu-roswell-transfer-partnership-program-options">ENMU-Roswell</a><br />
+              <a href="http://www.enmu.edu/2-2/enmu-ruidoso-transfer-partnership-program-options">ENMU-Ruidoso</a></p>
             </div>
-            <div class="container-fluid">
-              <div class="textbody">
-                <h3>Agreements with Other Schools</h3>
-                <p><a href="http://www.enmu.edu/2-2/cnm-albuquerque-transfer-partnership-program-options">CNM-Albuquerque</a><br />
-                  <a href="http://www.enmu.edu/2-2/clovis-community-college-transfer-partnership-program-options">Clovis Community College (CCC)</a><br />
-                  <a href="http://www.enmu.edu/2-2/enmu-roswell-transfer-partnership-program-options">ENMU-Roswell</a><br />
-                  <a href="http://www.enmu.edu/2-2/enmu-ruidoso-transfer-partnership-program-options">ENMU-Ruidoso</a></p>
-                </div>
-              </div>
-              <!-- Side menu -->
-            <?php require '../includes/sidemenu.php'; ?>
-<!-- End Side Menu -->
-                          <div id="footer">
-                                    <?php include '../includes/footer.php'; ?>
+          </div>
 
-                          </div>
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>
 
-                          <script src="../js/jquery.min.js"></script>
-                          <script src="../js/bootstrap.min.js"></script>
-                          <script src="../js/bootstrap-submenu.min.js" defer></script>
-                          <script src="../js/navbar.js"></script>
-                          <script src="../js/script.js"></script>
-                        </body>
-                        </html>
+          <div id="footer">
+            <?php include '../includes/footer.php'; ?>
+          </div>
+
+          <script src="../js/jquery.min.js"></script>
+          <script src="../js/bootstrap.min.js"></script>
+          <script src="../js/bootstrap-submenu.min.js" defer></script>
+          <script src="../js/navbar.js"></script>
+          <script src="../js/script.js"></script>
+        </body>
+        </html>

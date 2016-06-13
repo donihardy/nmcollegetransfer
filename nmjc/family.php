@@ -78,11 +78,11 @@
           <p><a href="http://www.nmjc.edu/parents/">Parent Resources</a></p>
         </div>
       </div>
-     
-    <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
+      
+      <?php //Begin Side menu ?>
+      <?php require '../includes/sidemenu.php'; ?>
+      <?php //End Side menu ?>
+      
       <div id="footer">
        <?php include '../includes/footer.php'; ?>
      </div>

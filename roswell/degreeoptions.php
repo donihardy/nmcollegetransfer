@@ -91,13 +91,14 @@
                               <a href="http://www.roswell.enmu.edu/degrees-and-programs?limit=20&limitstart=0">ENMU Roswell Degrees and Programs</a></p>
                             </div>
                           </div>
-                      <?php //Begin Side Menu ?>
+
+                          <?php //Begin Side Menu ?>
                           <?php require '../includes/sidemenu.php'; ?>
-                          <!-- End Side Menu -->
+                          <?php //End Side Menu ?>
+
                           <div id="footer">
                            <?php include '../includes/footer.php'; ?>
-                           
-                         </div>
+                          </div>
 
                          <script src="../js/jquery.min.js"></script>
                          <script src="../js/bootstrap.min.js"></script>

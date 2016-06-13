@@ -72,11 +72,11 @@
           <a href="https://www.enmu.edu/services/tsi/resources.html">Student Resources</a>
         </div>
       </div>
-     
-    <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
+      
+      <?php //Begin Side menu ?>
+      <?php require '../includes/sidemenu.php'; ?>
+      <?php //End Side menu ?>
+      
       <div id="footer">
         <?php include '../includes/footer.php'; ?>
 

@@ -82,13 +82,12 @@
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>15 to 1</td></tr>
           </table><!--<p><a href="#">College Navigator</a></p></div>-->
         </div>
-        <!-- Side menu -->
-
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

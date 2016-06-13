@@ -47,43 +47,41 @@
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
-            <div id="breadcrumb">
-              <ol class="breadcrumb">
-                <li>
-                  <a href="../index.php">HOME</a>
-                </li>
-                <li>
-                  <a href="index.php">UNM GALLUP</a>
-                </li>
-                <li>
-                 VETERANS &#38; ACTIVE DUTY
-               </li>
-             </ol>
-           </div>
-           <div class="container-fluid">
-            <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div id="breadcrumb">
+          <ol class="breadcrumb">
+            <li>
+              <a href="../index.php">HOME</a>
+            </li>
+            <li>
+              <a href="index.php">UNM GALLUP</a>
+            </li>
+            <li>
+             VETERANS &#38; ACTIVE DUTY
+           </li>
+         </ol>
+       </div>
+       <div class="container-fluid">
+        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
 
-              <p>UNM-Gallup VRC Purpose:<br />
-                The purpose of this organization shall be to inform and raise a general awareness to veterans who have not established the use of their benefits; provide a support system to incoming and current student veterans; provide an atmosphere of camaraderie for veterans; to make a partnership with various organizations in the community to further expand opportunities for students to become involved and to further enlighten the UNM-Gallup Campus and community on veteran concerns; to establish a relationship with students, the UNM-Gallup campus, the community, and the surrounding areas and to be a unifying voice on campus for those who are concerned about the welfare of veterans in order to be a stronger community and liaison for the better consideration of our veterans.</p>
-                <p>For Students Veterans Association please contact Nicolas Castano @ (505) 863- 7520.<p/>
-                  <a href="http://www.gallup.unm.edu/vert/new-students/veterans/">Veterans Resource Center</a>
-                </div>
-              </div>
+          <p>UNM-Gallup VRC Purpose:<br />
+            The purpose of this organization shall be to inform and raise a general awareness to veterans who have not established the use of their benefits; provide a support system to incoming and current student veterans; provide an atmosphere of camaraderie for veterans; to make a partnership with various organizations in the community to further expand opportunities for students to become involved and to further enlighten the UNM-Gallup Campus and community on veteran concerns; to establish a relationship with students, the UNM-Gallup campus, the community, and the surrounding areas and to be a unifying voice on campus for those who are concerned about the welfare of veterans in order to be a stronger community and liaison for the better consideration of our veterans.</p>
+            <p>For Students Veterans Association please contact Nicolas Castano @ (505) 863- 7520.<p/>
+              <a href="http://www.gallup.unm.edu/vert/new-students/veterans/">Veterans Resource Center</a>
+            </div>
+          </div>
 
-              <?php //Begin Side menu ?>
-                                <?php require '../includes/sidemenu.php'; ?>
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>
 
+          <div id="footer">
+            <?php include '../includes/footer.php'; ?>
+          </div>
 
-                        <?php //End Side Menu ?>
-
-                        <div id="footer">
-                        <?php include '../includes/footer.php'; ?>
-                        </div>
-
-                        <script src="../js/jquery.min.js"></script>
-                        <script src="../js/bootstrap.min.js"></script>
-                        <script src="../js/bootstrap-submenu.min.js" defer></script>
-                        <script src="../js/navbar.js"></script>
-                        <script src="../js/script.js"></script>
-                      </body>
-                      </html>
+          <script src="../js/jquery.min.js"></script>
+          <script src="../js/bootstrap.min.js"></script>
+          <script src="../js/bootstrap-submenu.min.js" defer></script>
+          <script src="../js/navbar.js"></script>
+          <script src="../js/script.js"></script>
+        </body>
+        </html>

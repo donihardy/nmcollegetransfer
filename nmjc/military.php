@@ -35,8 +35,6 @@
       </header>
     </div>
 
-    <!--Begin top nav-->
-
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -82,12 +80,13 @@
                <p><a href="http://www.nmjc.edu/aboutnmjc/15-16Catalog.pdf">NMJC Catalog</a>-page 32<br />
                </div>
              </div>
-             <!-- Side menu -->
+
+             <?php //Begin Side menu ?>
              <?php require '../includes/sidemenu.php'; ?>
-             <!-- End Side Menu -->
+             <?php //End Side Menu ?>
+             
              <div id="footer">
               <?php include '../includes/footer.php'; ?>
-
             </div>
 
             <script src="../js/jquery.min.js"></script>

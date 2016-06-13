@@ -94,9 +94,7 @@
                 </div>
 
                 <?php //Begin Side menu ?>
-               <?php require '../includes/sidemenu.php'; ?>
-
-
+                <?php require '../includes/sidemenu.php'; ?>
                 <?php //End Side Menu ?>
 
                 <div id="footer">

@@ -99,11 +99,11 @@
                   <a href="http://www.gallup.unm.edu/vert/new-students/orientation.php">Orientation</a>
 
                 </div>
-          </div>
-                
-          <?php //Begin Side menu ?>
-          <?php require '../includes/sidemenu.php'; ?>
-          <?php //End Side menu ?> 
+              </div>
+              
+              <?php //Begin Side menu ?>
+              <?php require '../includes/sidemenu.php'; ?>
+              <?php //End Side menu ?> 
 
               <div id="footer">
                 <?php include '../includes/footer.php'; ?>

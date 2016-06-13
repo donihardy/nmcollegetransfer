@@ -69,11 +69,12 @@
             <p><a href="http://nnmc.edu/wp-content/uploads/2016/02/ARTICULATION-EASTERN.pdf">Engineering between NNMC to ENMU</a></p>
           </div>
         </div>
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

@@ -77,21 +77,18 @@
           <a href="http://nces.ed.gov/collegenavigator/?q=new+mexico&s=NM&l=91+92+93+94&ic=1+2&id=187958">College Navigator</a></div>
         </div>
 
-        <!-- Side menu -->
+        <?php //Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side Menu ?>
 
-       <?php require '../includes/sidemenu.php'; ?>
+        <div id="footer">
+         <?php include '../includes/footer.php'; ?>
+       </div>
 
-
-                  <?php //End Side Menu ?>
-
-                  <div id="footer">
-                   <?php include '../includes/footer.php'; ?>
-                 </div>
-
-                 <script src="../js/jquery.min.js"></script>
-                 <script src="../js/bootstrap.min.js"></script>
-                 <script src="../js/bootstrap-submenu.min.js" defer></script>
-                 <script src="../js/navbar.js"></script>
-                 <script src="../js/script.js"></script>
-               </body>
-               </html>
+       <script src="../js/jquery.min.js"></script>
+       <script src="../js/bootstrap.min.js"></script>
+       <script src="../js/bootstrap-submenu.min.js" defer></script>
+       <script src="../js/navbar.js"></script>
+       <script src="../js/script.js"></script>
+     </body>
+     </html>

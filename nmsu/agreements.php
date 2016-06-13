@@ -88,11 +88,8 @@
                   </div>
                 </div></div>
 
-            <?php //Begin Side Menu ?>
-                
+                <?php //Begin Side Menu ?>
                 <?php require '../includes/sidemenu.php'; ?>
-
-
                 <?php //End Side Menu ?>
 
                 <div id="footer">

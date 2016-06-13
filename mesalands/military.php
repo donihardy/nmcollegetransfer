@@ -35,8 +35,6 @@
       </header>
     </div>
 
-    <!--Begin top nav-->
-
     <nav class="navbar navbar-inverse">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -71,11 +69,12 @@
           <p><a href="http://www.mesalands.edu/military-and-veteran-students/">Military and Veteran Students</a><br />
           </div>
         </div>
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 

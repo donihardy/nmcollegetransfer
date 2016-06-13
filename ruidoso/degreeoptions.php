@@ -82,9 +82,9 @@
                 </div>
               </div>
                        
-<?php //Begin Side menu ?>
-        <?php require '../includes/sidemenu.php'; ?>
-        <?php //End Side menu ?> 
+              <?php //Begin Side menu ?>
+              <?php require '../includes/sidemenu.php'; ?>
+              <?php //End Side menu ?> 
              
 
               <div id="footer">

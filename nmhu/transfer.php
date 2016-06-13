@@ -46,8 +46,7 @@
           <a class="navbar-brand nmhu" href="index.php">NEW MEXICO<br />HIGHLANDS UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>     
-
+        <?php //Begin top Nav Bar ?>     
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -164,9 +163,10 @@
                                 <p><a href="http://www.nmhu.edu/current-students/nmhu-dual-credit/">Dual Enrollment NMHU</a>
                                 </div>
                               </div>
+
                               <?php //Begin Side menu ?>
-                             <?php require '../includes/sidemenu.php'; ?>
-                              <!-- End Side Menu -->
+                              <?php require '../includes/sidemenu.php'; ?>
+                              <?php //End Side Menu ?>
 
                               <div id="footer">
                                 <footer class="navbar-fixed-bottom">

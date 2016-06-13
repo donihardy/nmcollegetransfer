@@ -46,8 +46,7 @@
           <a class="navbar-brand nmhu" href="index.php">NEW MEXICO<br />HIGHLANDS UNIVERSITY</a>
         </div>
 
-<?php //Begin top Nav Bar ?>     
-
+        <?php //Begin top Nav Bar ?>     
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -84,12 +83,12 @@
               <p><a href="http://its.nmhu.edu/IntranetUploads/003477-15-17_catalo-925201511905.pdf">Catalog</a></p>
             </div>
           </div>
-         
-     <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
-    
+          
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side menu ?>
+          
+          
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

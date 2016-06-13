@@ -47,46 +47,46 @@
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
-          <div id="breadcrumb">
-            <ol class="breadcrumb">
-              <li>
-                <a href="../index.php">HOME</a>
-              </li>
-              <li>
-                <a href="index.php">NMSU GRANTS</a>
-              </li>
-              <li>
-                STEM DEGREES
-              </li>
-            </ol>
-          </div>
-          <div class="container-fluid">
-            <div class="textbody">
+        <div id="breadcrumb">
+          <ol class="breadcrumb">
+            <li>
+              <a href="../index.php">HOME</a>
+            </li>
+            <li>
+              <a href="index.php">NMSU GRANTS</a>
+            </li>
+            <li>
+              STEM DEGREES
+            </li>
+          </ol>
+        </div>
+        <div class="container-fluid">
+          <div class="textbody">
 
-              <h3>STEM DEGREES</h3>
-              <p>Creative Media Design<br />
-                Computer Technology<br />
-                Computer Technology<br />
-                Drafting/Graphics Technology<br />
-                Game Design<br />
-                Science<br/>
-                Web Fundamentals</p>
-                <a href="https://grants.nmsu.edu/programs-of-study/">Programs of Study</a>
-              </div>
+            <h3>STEM DEGREES</h3>
+            <p>Creative Media Design<br />
+              Computer Technology<br />
+              Computer Technology<br />
+              Drafting/Graphics Technology<br />
+              Game Design<br />
+              Science<br/>
+              Web Fundamentals</p>
+              <a href="https://grants.nmsu.edu/programs-of-study/">Programs of Study</a>
             </div>
+          </div>
 
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side Menu ?>
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side Menu ?>
 
-                      <div id="footer">
-                       <?php include '../includes/footer.php'; ?>
-                      </div>
+          <div id="footer">
+           <?php include '../includes/footer.php'; ?>
+         </div>
 
-                      <script src="../js/jquery.min.js"></script>
-                      <script src="../js/bootstrap.min.js"></script>
-                      <script src="../js/bootstrap-submenu.min.js" defer></script>
-                      <script src="../js/navbar.js"></script>
-                      <script src="../js/script.js"></script>
-                    </body>
-                    </html>
+         <script src="../js/jquery.min.js"></script>
+         <script src="../js/bootstrap.min.js"></script>
+         <script src="../js/bootstrap-submenu.min.js" defer></script>
+         <script src="../js/navbar.js"></script>
+         <script src="../js/script.js"></script>
+       </body>
+       </html>

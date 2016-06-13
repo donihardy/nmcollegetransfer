@@ -44,42 +44,42 @@
         <a class="navbar-brand iaia" href="index.php">INSTITUTE OF<br />AMERICAN INDIAN ARTS</a>
       </div>
 
-   <?php //Begin top Nav Bar ?>
-   <?php require '../includes/schooltopnav.php'; ?>
-   <?php //End Top Nav Bar ?>
+      <?php //Begin top Nav Bar ?>
+      <?php require '../includes/schooltopnav.php'; ?>
+      <?php //End Top Nav Bar ?>
 
-          <div id="breadcrumb">
-            <ol class="breadcrumb">
-              <li>
-                <a href="../index.php">HOME</a>
-              </li>
-              <li>
-                IAIA
-              </li>
-            </ol>
+      <div id="breadcrumb">
+        <ol class="breadcrumb">
+          <li>
+            <a href="../index.php">HOME</a>
+          </li>
+          <li>
+            IAIA
+          </li>
+        </ol>
+      </div>
+      <div class="container-fluid">
+        <div class="textbody">
+          <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/iaia3.jpg"  alt="Responsive Image">
+          <p >Through the concept of art as a traditional path of creativity, IAIA excels at skill building, provoking thought and providing exceptional educational opportunities. IAIA is a place to embrace the past, enrich the present and create the future. To move ahead to paths yet unexplored and undiscovered.</p>
+          <p><a href="http://www.iaia.edu">IAIA Website</a><br />
+            <a href="https://iaia.edu/about/campus/">Map</a></p>
+
           </div>
-          <div class="container-fluid">
-            <div class="textbody">
-              <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/iaia3.jpg"  alt="Responsive Image">
-              <p >Through the concept of art as a traditional path of creativity, IAIA excels at skill building, provoking thought and providing exceptional educational opportunities. IAIA is a place to embrace the past, enrich the present and create the future. To move ahead to paths yet unexplored and undiscovered.</p>
-              <p><a href="http://www.iaia.edu">IAIA Website</a><br />
-                <a href="https://iaia.edu/about/campus/">Map</a></p>
+        </div>
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side Menu ?>
 
-              </div>
-            </div>
-            
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side Menu ?>
+        <div id="footer">
+         <?php include '../includes/footer.php'; ?>
+       </div>
 
-                      <div id="footer">
-                       <?php include '../includes/footer.php'; ?>
-                      </div>
-
-                      <script src="../js/jquery.min.js"></script>
-                      <script src="../js/bootstrap.min.js"></script>
-                      <script src="../js/bootstrap-submenu.min.js" defer></script>
-                      <script src="../js/navbar.js"></script>
-                      <script src="../js/script.js"></script>
-                    </body>
-                    </html>
+       <script src="../js/jquery.min.js"></script>
+       <script src="../js/bootstrap.min.js"></script>
+       <script src="../js/bootstrap-submenu.min.js" defer></script>
+       <script src="../js/navbar.js"></script>
+       <script src="../js/script.js"></script>
+     </body>
+     </html>

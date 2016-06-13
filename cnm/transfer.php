@@ -47,9 +47,9 @@
         <a class="navbar-brand cnm" href="index.php">CENTRAL NEW MEXICO COMMUNITY COLLEGE</a>
       </div>
 
-        <?php //Begin top Nav Bar ?>
-        <?php require '../includes/schooltopnav.php'; ?>
-        <?php //End Top Nav Bar ?>
+      <?php //Begin top Nav Bar ?>
+      <?php require '../includes/schooltopnav.php'; ?>
+      <?php //End Top Nav Bar ?>
 
       <div id="breadcrumb">
         <ol class="breadcrumb">
@@ -95,8 +95,9 @@
                   <a href="https://www.cnm.edu/depts/advisement/contact-advisement">CNM Request Info</a>
                 </div>
               </div>
+              
               <?php //Begin Side menu ?>
-             <?php require '../includes/sidemenu.php'; ?>
+              <?php require '../includes/sidemenu.php'; ?>
               <!-- End Side Menu -->
 
 

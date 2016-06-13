@@ -91,12 +91,12 @@
                   </div>
                 </div>
 
-            <?php //Begin Side Menu ?>
+                <?php //Begin Side Menu ?>
                 <?php require '../includes/sidemenu.php'; ?>
-                <!-- End Side Menu -->
+                <?php //End Side Menu ?>
+                
                 <div id="footer">
-                 <?php include '../includes/footer.php'; ?>
-
+                <?php include '../includes/footer.php'; ?>
                </div>
 
                <script src="../js/jquery.min.js"></script>

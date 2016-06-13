@@ -84,13 +84,13 @@
                 <p><a href="https://issuu.com/enmuruidoso/docs/catalog_2015-2016/28">Active Duty &#38; Veteran Information</a></p>
               </div>
             </div>
+            
             <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
             <?php //End Side menu ?>
             
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
-
             </div>
 
             <script src="../js/jquery.min.js"></script>

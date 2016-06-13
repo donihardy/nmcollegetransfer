@@ -72,12 +72,12 @@
               <a href="http://wnmu.edu/univ/consumerInfo/Transfer%20of%20Credit%20Policies%20and%20Articulation%20Agreements.htm">Articulation Agreements</a></p>        
             </div>
           </div>
-         
-     <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
-    
+          
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side menu ?>
+          
+          
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

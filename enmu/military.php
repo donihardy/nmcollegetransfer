@@ -74,13 +74,13 @@
             <p><a href="https://www.enmu.edu/future-students/military/FAQ.shtml">Active Duty FAQs</a></p>
           </div>
         </div>
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
          <?php include '../includes/footer.php'; ?>
-
        </div>
 
        <script src="../js/jquery.min.js"></script>

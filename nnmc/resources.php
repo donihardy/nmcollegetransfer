@@ -45,9 +45,9 @@
         <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO <br />COLLEGE</a>
       </div>
 
-        <?php //Begin top Nav Bar ?>
-        <?php require '../includes/schooltopnav.php'; ?>
-        <?php //End Top Nav Bar ?>
+      <?php //Begin top Nav Bar ?>
+      <?php require '../includes/schooltopnav.php'; ?>
+      <?php //End Top Nav Bar ?>
 
       <div id="breadcrumb">
         <ol class="breadcrumb">
@@ -87,22 +87,16 @@
                 <li>Online Resources</li>
                 <li>Support for Instructors</li></ul></p>
 
-
-
-
-
-
-
                 <a href="http://nnmc.edu/home/student-gateway/the-math-center/">Math Learning Center</a>
               </div>
             </div>
+            
             <?php //Begin Side menu ?>
             <?php require '../includes/sidemenu.php'; ?>
             <?php //End Side menu ?>
             
             <div id="footer">
               <?php include '../includes/footer.php'; ?>
-
             </div>
 
             <script src="../js/jquery.min.js"></script>

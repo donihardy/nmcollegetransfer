@@ -100,8 +100,8 @@
                    <?php require '../includes/sidemenu.php'; ?>
                    <?php //End Side Menu ?>
 
-                  <div id="footer">
-                  <?php include '../includes/footer.php'; ?>
+                   <div id="footer">
+                    <?php include '../includes/footer.php'; ?>
                   </div>
 
                   <script src="../js/jquery.min.js"></script>

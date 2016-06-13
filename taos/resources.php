@@ -70,21 +70,12 @@
         </div>
       </div>
 
-             <?php //Begin Side menu ?>
-             <?php require '../includes/sidemenu.php'; ?>
-             <?php //End Side menu ?>
+      <?php //Begin Side menu ?>
+      <?php require '../includes/sidemenu.php'; ?>
+      <?php //End Side menu ?>
 
-              <div id="footer">
-        <footer class="navbar-fixed-bottom">
-          <div id="footerContent">
-            <div id="leftFooter">
-              <h4><a href="http://stemup.unm.edu">© STEM UP</a></h4>
-              1716 Las Lomas Road NE &#149  Albuquerque, NM 87131 &#149; <a href="tel:1-505-277-1723">505-277.1723</a>
-              <h5><a href="mailto:stemup@unm.edu">Contact STEM UP</a></h5>
-            </div>
-
-          </div>
-        </footer>
+      <div id="footer">
+        <?php include '../includes/footer.php'; ?>
       </div>
 
       <script src="../js/jquery.min.js"></script>

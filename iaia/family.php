@@ -77,12 +77,12 @@
               <a href="https://iaia.edu/student-life/for-parents/">Parent Info</a></p>
             </div>
           </div>
-         
-     <?php //Begin Side menu ?>
-    <?php require '../includes/sidemenu.php'; ?>
-    <?php //End Side menu ?>
-    
-    
+          
+          <?php //Begin Side menu ?>
+          <?php require '../includes/sidemenu.php'; ?>
+          <?php //End Side menu ?>
+          
+          
           <div id="footer">
            <?php include '../includes/footer.php'; ?>
          </div>

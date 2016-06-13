@@ -74,8 +74,7 @@
             <p>Because scholarships are offered for different reasons and by many sources, it is important that you understand that each scholarship has its own requirements and deadlines, so you should begin searching for scholarships as soon as possible. You should also know that in most instances you should not have to pay to apply for a scholarship. Please visit the IAIA Financial Aid website for more info on scholarships.</p>
             <p><a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Scholarships</a></p>
                 <!--<h4 id="deadlines">Deadlines</h4>
-                <p><b>Priority Date: ###</b> - Receive the most financial aid funding based on eligibility. Apply Early!!</p>
-                <p><a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Deadlines</a></p>-->
+                <p></p>-->
                 <h4 id="schoolcode">IAIA School Code</h4>
                 <p><strong>014152</strong></p>
               </div>

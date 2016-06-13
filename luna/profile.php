@@ -48,7 +48,7 @@
           <a class="navbar-brand" href="index.php">LUNA COMMUNITY COLLEGE</a>
         </div>
 
-                <?php //Begin top Nav Bar ?>
+        <?php //Begin top Nav Bar ?>
         <?php require '../includes/schooltopnav.php'; ?>
         <?php //End Top Nav Bar ?>
 
@@ -80,13 +80,12 @@
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>17 to 1</td></tr>
           </table><p><a href="http://nces.ed.gov/collegenavigator/?q=luna&s=NM&l=91+92+93+94&ic=1+2&id=363633">College Navigator</a></p></div>
         </div>
-        <!-- Side menu -->
-
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
           <?php include '../includes/footer.php'; ?>
         </div>
 
