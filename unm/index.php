@@ -1,7 +1,7 @@
 <?php include '../includes/header.php'; ?>
 
   <title>NM COLLEGE & TRANSFER 
-    - UNM</title>
+    - UNIVERSITY OF NEW MEXICO</title>
   
   <body>
     <div class="container-fluid">
