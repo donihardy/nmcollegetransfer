@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - UNM TAOS</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage taosbgimage img-responsive">

@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - WNMU</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - WESTERN NEW MEXICO UNIVERSITY</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage wnmubgimage">
@@ -79,7 +79,7 @@
                   </div>
                 </div>
 
-            <?php //Begin Side Menu ?>
+                <?php //Begin Side Menu ?>
                 <?php require '../includes/sidemenu.php'; ?>
                 <?php //End Side Menu ?>
 

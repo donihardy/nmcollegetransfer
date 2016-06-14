@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
@@ -59,7 +59,7 @@
       <?php require '../includes/sidemenu.php'; ?>
       <?php //End Side menu ?>
 
-     <div id="footer">
+      <div id="footer">
        <?php include '../includes/footer.php'; ?>
      </div>
 

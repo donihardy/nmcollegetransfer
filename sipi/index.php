@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage sipibgimage img-responsive">

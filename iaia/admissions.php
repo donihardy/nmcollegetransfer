@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - IAIA</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">

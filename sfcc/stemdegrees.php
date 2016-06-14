@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - SANTA FE COMMUNITY COLLEGE</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - SANTA FE COMMUNITY COLLEGE</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">

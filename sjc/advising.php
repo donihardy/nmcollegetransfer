@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - SAN JUAN COLLEGE</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - SAN JUAN COLLEGE</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">
@@ -59,11 +59,11 @@
                   <a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/onlineadvising/">Online Advising</a></p>
                 </div>
               </div>
-      
+              
               <?php //Begin Side menu ?>
               <?php require '../includes/sidemenu.php'; ?>
               <?php //End Side Menu ?>
-            
+              
               <div id="footer">
                 <?php include '../includes/footer.php'; ?>
               </div>

@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - ENMU</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - EASTERN NEW MEXICO UNIVERSITY</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
@@ -74,13 +74,13 @@
                 <?php //End Side Menu ?>
                 
                 <div id="footer">
-                <?php include '../includes/footer.php'; ?>
-               </div>
+                  <?php include '../includes/footer.php'; ?>
+                </div>
 
-               <script src="../js/jquery.min.js"></script>
-               <script src="../js/bootstrap.min.js"></script>
-               <script src="../js/bootstrap-submenu.min.js" defer></script>
-               <script src="../js/navbar.js"></script>
-               <script src="../js/script.js"></script>
-             </body>
-             </html>
+                <script src="../js/jquery.min.js"></script>
+                <script src="../js/bootstrap.min.js"></script>
+                <script src="../js/bootstrap-submenu.min.js" defer></script>
+                <script src="../js/navbar.js"></script>
+                <script src="../js/script.js"></script>
+              </body>
+              </html>

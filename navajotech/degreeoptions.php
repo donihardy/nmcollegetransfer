@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - NAVAJO TECH</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - NAVAJO TECHNICAL UNIVERSITY</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">

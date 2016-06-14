@@ -4,7 +4,8 @@
 
   <title>NM COLLEGE & TRANSFER 
     - NMSU ALAMOGORDO</title>
-  </head>
+
+    
   <body>
     <div class="container-fluid">
       <header class="bgimage alamogordobgimage">

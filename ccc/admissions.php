@@ -2,9 +2,9 @@
 
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - CLOVIS COMMUNITY COLLEGE</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - CLOVIS COMMUNITY COLLEGE</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
@@ -80,7 +80,7 @@
                 </div>
               </div>
 
-      
+              
               <?php //Begin Side menu ?>
               <?php require '../includes/sidemenu.php'; ?>
               <?php //End Side Menu ?>

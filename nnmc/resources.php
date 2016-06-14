@@ -1,86 +1,87 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE TRANSFER-NNMC</title>
-</head>
-<body>
-  <div class="container-fluid">
-    <header class="bgimage nnmcbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
-      <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
-    </header>
-  </div>
+<title>NM COLLEGE & TRANSFER 
+  - NORTHERN NEW MEXICO COLLEGE</title>
 
-  <nav class="navbar navbar-inverse">
+  <body>
     <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO <br />COLLEGE</a>
-      </div>
+      <header class="bgimage nnmcbgimage">
+        <img class="container-fluid">
+        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+        <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
+      </header>
+    </div>
 
-      <?php //Begin top Nav Bar ?>
-      <?php require '../includes/schooltopnav.php'; ?>
-      <?php //End Top Nav Bar ?>
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand nnmc" href="index.php">NORTHERN NEW MEXICO <br />COLLEGE</a>
+        </div>
 
-      <div id="breadcrumb">
-        <ol class="breadcrumb">
-          <li>
-            <a href="../index.php">HOME</a>
-          </li>
-          <li>
-            <a href="index.php">NNMC</a>
-          </li>
-          <li>
-           RESOURCES
-         </li>
-       </ol>
-     </div>
-     <div class="container-fluid">
-      <div class="textbody">
-        <h3>Resources</h3>
-        <!--<p>Info to come</p>-->
-        <p>
-          The Student Success Center at Northern New Mexico College offers a variety of services, all free of charge, designed to help every student reach his/her educational goals. These services include:<br />
+        <?php //Begin top Nav Bar ?>
+        <?php require '../includes/schooltopnav.php'; ?>
+        <?php //End Top Nav Bar ?>
 
-          <ul><li>Computer lab</li>
-            <li>Self-paced computer tutorial programs</li>
-            <li>Tutorial assistance</li>
-            <li>Study groups</li>
-            <li>Mentors</li>
-            <li>Peer Tutor Application</li>
-            <li>Course Placement Evaluation</li>
-            <li>Internet assistance</li>
-            <li>Video library</li></ul>
-            <a href="http://nnmc.edu/home/student-gateway/student-success-center/ ">Student Success Center</a></p>
-            <p>Northern's Math Learning Center provides services for students and faculty, and is dedicated to helping students strengthen their math skills so they gain confidence and independence in math learning. The Math Learning Center welcomes all students as valued mathematicians and critical thinkers.<br />
-              <ul><li>Free Drop-in Tutoring</li>
-                <li>Online Math Resources</li>
-                <li>COMPASS Placement Test Workshops</li>
-                <li>MATLAB</li>
-                <li>Online Resources</li>
-                <li>Support for Instructors</li></ul></p>
+        <div id="breadcrumb">
+          <ol class="breadcrumb">
+            <li>
+              <a href="../index.php">HOME</a>
+            </li>
+            <li>
+              <a href="index.php">NNMC</a>
+            </li>
+            <li>
+             RESOURCES
+           </li>
+         </ol>
+       </div>
+       <div class="container-fluid">
+        <div class="textbody">
+          <h3>Resources</h3>
+          <!--<p>Info to come</p>-->
+          <p>
+            The Student Success Center at Northern New Mexico College offers a variety of services, all free of charge, designed to help every student reach his/her educational goals. These services include:<br />
 
-                <a href="http://nnmc.edu/home/student-gateway/the-math-center/">Math Learning Center</a>
+            <ul><li>Computer lab</li>
+              <li>Self-paced computer tutorial programs</li>
+              <li>Tutorial assistance</li>
+              <li>Study groups</li>
+              <li>Mentors</li>
+              <li>Peer Tutor Application</li>
+              <li>Course Placement Evaluation</li>
+              <li>Internet assistance</li>
+              <li>Video library</li></ul>
+              <a href="http://nnmc.edu/home/student-gateway/student-success-center/ ">Student Success Center</a></p>
+              <p>Northern's Math Learning Center provides services for students and faculty, and is dedicated to helping students strengthen their math skills so they gain confidence and independence in math learning. The Math Learning Center welcomes all students as valued mathematicians and critical thinkers.<br />
+                <ul><li>Free Drop-in Tutoring</li>
+                  <li>Online Math Resources</li>
+                  <li>COMPASS Placement Test Workshops</li>
+                  <li>MATLAB</li>
+                  <li>Online Resources</li>
+                  <li>Support for Instructors</li></ul></p>
+
+                  <a href="http://nnmc.edu/home/student-gateway/the-math-center/">Math Learning Center</a>
+                </div>
               </div>
-            </div>
-            
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?>
-            
-            <div id="footer">
-              <?php include '../includes/footer.php'; ?>
-            </div>
+              
+              <?php //Begin Side menu ?>
+              <?php require '../includes/sidemenu.php'; ?>
+              <?php //End Side menu ?>
+              
+              <div id="footer">
+                <?php include '../includes/footer.php'; ?>
+              </div>
 
-            <script src="../js/jquery.min.js"></script>
-            <script src="../js/bootstrap.min.js"></script>
-            <script src="../js/bootstrap-submenu.min.js" defer></script>
-            <script src="../js/navbar.js"></script>
-            <script src="../js/script.js"></script>
-          </body>
-          </html>
+              <script src="../js/jquery.min.js"></script>
+              <script src="../js/bootstrap.min.js"></script>
+              <script src="../js/bootstrap-submenu.min.js" defer></script>
+              <script src="../js/navbar.js"></script>
+              <script src="../js/script.js"></script>
+            </body>
+            </html>

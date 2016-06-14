@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - NEW MEXICO STATE UNIVERSITY</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - NMSU</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage nmsubgimage">
@@ -229,7 +228,7 @@
                                         </div></div>
 
                                         <?php //Begin Side menu ?>
-                                       <?php require '../includes/sidemenu.php'; ?>
+                                        <?php require '../includes/sidemenu.php'; ?>
 
 
                                         <?php //End Side Menu ?>

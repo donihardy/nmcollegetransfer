@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - UNM VALENCIA</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage valenciabgimage img-responsive">

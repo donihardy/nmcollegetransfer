@@ -1,8 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE TRANSFER-MESALANDS</title>
-</head>
+<title>NM COLLEGE TRANSFER-MESALANDS</title>
+
 <body>
   <div class="container-fluid">
     <header class="bgimage mesalandsbgimage">

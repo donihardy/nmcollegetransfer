@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - ENMU-ROSWELL</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
@@ -76,7 +76,7 @@
 
                           <div id="footer">
                            <?php include '../includes/footer.php'; ?>
-                          </div>
+                         </div>
 
                          <script src="../js/jquery.min.js"></script>
                          <script src="../js/bootstrap.min.js"></script>

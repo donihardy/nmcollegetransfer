@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - NMMI</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage img-responsive">

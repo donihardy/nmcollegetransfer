@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">

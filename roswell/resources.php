@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - ENMU-ROSWELL</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
@@ -52,12 +52,12 @@
             
           </div>
         </div>
-                    
-            <?php //Begin Side menu ?>
-            <?php require '../includes/sidemenu.php'; ?>
-            <?php //End Side menu ?> 
-            
-          <div id="footer">
+        
+        <?php //Begin Side menu ?>
+        <?php require '../includes/sidemenu.php'; ?>
+        <?php //End Side menu ?> 
+        
+        <div id="footer">
          <?php include '../includes/footer.php'; ?>
 
        </div>

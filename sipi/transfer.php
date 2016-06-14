@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage sipibgimage">

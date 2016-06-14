@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-
-  <title>NM COLLEGE & TRANSFER 
-    - UNM VALENCIA</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - UNIVERSITY OF NEW MEXICO VALENCIA</title>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage valenciabgimage">
@@ -79,7 +78,7 @@
 
         <div id="footer">
          <?php include '../includes/footer.php'; ?>
-        </div>
+       </div>
 
        <script src="../js/jquery.min.js"></script>
        <script src="../js/bootstrap.min.js"></script>

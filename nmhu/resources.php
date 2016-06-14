@@ -1,8 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
   <title>NM COLLEGE & TRANSFER 
-    - DINE</title>
-  </head>
+    - NEW MEXICO HIGHLANDS UNIVERSITY</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">

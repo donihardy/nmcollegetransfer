@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - NNMC</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - NORTHERN NEW MEXICO COLLEGE</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">

@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - SANTA FE COMMUNITY COLLEGE</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - SANTA FE COMMUNITY COLLEGE</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
@@ -81,7 +80,7 @@
                 </div>
 
                 <?php //Begin Side menu ?>
-               <?php require '../includes/sidemenu.php'; ?>
+                <?php require '../includes/sidemenu.php'; ?>
                 <?php //End Side Menu ?>
 
                 <div id="footer">

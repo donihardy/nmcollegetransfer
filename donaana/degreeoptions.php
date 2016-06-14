@@ -1,9 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
@@ -175,7 +175,7 @@
 
                                   <div id="footer">
                                    <?php include '../includes/footer.php'; ?>
-                                  </div>
+                                 </div>
 
                                  <script src="../js/jquery.min.js"></script>
                                  <script src="../js/bootstrap.min.js"></script>

@@ -4,7 +4,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - ENMU-RUIDOSO</title>
-  </head>
+
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuruidosobgimage">

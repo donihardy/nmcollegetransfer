@@ -1,8 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE TRANSFER-LCC</title>
-</head>
+<title>NM COLLEGE TRANSFER-LUNA COMMUNITY COLLEGE</title>
+
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
@@ -25,9 +25,9 @@
         <a class="navbar-brand" href="index.php">LUNA COMMUNITY COLLEGE</a>
       </div>
 
-        <?php //Begin top Nav Bar ?>
-        <?php require '../includes/schooltopnav.php'; ?>
-        <?php //End Top Nav Bar ?>
+      <?php //Begin top Nav Bar ?>
+      <?php require '../includes/schooltopnav.php'; ?>
+      <?php //End Top Nav Bar ?>
 
       <div id="breadcrumb">
         <ol class="breadcrumb">
@@ -96,9 +96,9 @@
                           </div>
                         </div>
                         
-                       <?php //Begin Side menu ?>
-                       <?php require '../includes/sidemenu.php'; ?>
-                       <?php //End Side Menu ?>
+                        <?php //Begin Side menu ?>
+                        <?php require '../includes/sidemenu.php'; ?>
+                        <?php //End Side Menu ?>
 
                         <div id="footer">
                          <?php include '../includes/footer.php'; ?>

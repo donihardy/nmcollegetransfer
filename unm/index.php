@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - UNM</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage unmbgimage img-responsive">

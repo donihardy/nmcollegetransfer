@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage sipibgimage">
@@ -60,7 +59,7 @@
       <?php require '../includes/sidemenu.php'; ?>
       <?php //End Side menu ?>
 
-     <div id="footer">
+      <div id="footer">
        <?php include '../includes/footer.php'; ?>
      </div>
 

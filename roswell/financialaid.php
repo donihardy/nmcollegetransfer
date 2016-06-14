@@ -1,10 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
 
-
   <title>NM COLLEGE & TRANSFER 
     - ENMU-ROSWELL</title>
-  </head>
+  
+
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">

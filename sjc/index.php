@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - SAN JUAN COLLEGE</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage img-responsive">

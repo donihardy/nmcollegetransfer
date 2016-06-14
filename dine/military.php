@@ -1,9 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - DINE</title>
-  </head>
+<title>NM COLLEGE & TRANSFER 
+  - DIN&#201;</title>
+
+
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage img-responsive">

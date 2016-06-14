@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - NEW MEXICO JUNIOR COLLEGE</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage nmjcbgimage img-responsive">

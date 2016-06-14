@@ -1,10 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
 
+<title>NM COLLEGE & TRANSFER 
+  - SAN JUAN COLLEGE</title>
 
-  <title>NM COLLEGE & TRANSFER 
-    - SAN JUAN COLLEGE</title>
-  </head>
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">

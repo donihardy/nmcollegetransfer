@@ -2,7 +2,7 @@
 
   <title>NM COLLEGE & TRANSFER 
     - SANTA FE COMMUNITY COLLEGE</title>
-  </head>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage img-responsive">
