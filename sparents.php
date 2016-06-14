@@ -1,20 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="NM College Transfer 101 statewide website assists students, parents, faculty, staff, advisors to find transfer information and links to all the public New Mexico higher education schools.">
-  <meta name="keywords" content="New Mexico, NM, College, University, Transfer, Higher Ed, UNM, ENMU, NMSU, NM Tech, WNMU, NMHU">
-  <meta name="author" content="Doni Hardy">
-  <link rel="stylesheet" href="css/bootstrap.css">
-  <link rel="stylesheet" href="css/bootstrap-submenu.min.css">
-  <link rel="stylesheet" href="css/navbar.css">
-  <link rel="stylesheet" href="css/styles1.css">
-  <link rel='shortcut icon' type='image/x-icon' href="images/favicon.ico" />
-  <title>NM COLLEGE & TRANSFER 
-  </title>
-</head>
+<?php include '/includes/mainheader.php'; ?>
+
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
