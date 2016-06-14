@@ -1,6 +1,6 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE & TRANSFER 
+  <title>NM COLLEGE &#38; TRANSFER 
     - UNM VALENCIA</title>
   
   <body>

@@ -2,7 +2,7 @@
 
 
 
-<title>NM COLLEGE & TRANSFER 
+ <title>NM COLLEGE &#38; TRANSFER 
   - CLOVIS COMMUNITY COLLEGE</title>
 
   <body>

@@ -22,6 +22,6 @@
     ga('send', 'pageview');
 
   </script>
-  <title>NM COLLEGE & TRANSFER 
+  <title>NM COLLEGE &#38; TRANSFER 
   </title>
 </head>

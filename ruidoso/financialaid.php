@@ -2,9 +2,9 @@
 
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - ENMU-RUIDOSO</title>
-
+<title>NM COLLEGE &#38; TRANSFER 
+  - EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</title>
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuruidosobgimage">

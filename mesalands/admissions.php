@@ -1,7 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-<title>NM COLLEGE TRANSFER-MESALANDS</title>
+ <title>NM COLLEGE &#38; TRANSFER
+ -MESALANDS</title>
 
 <body>
   <div class="container-fluid">

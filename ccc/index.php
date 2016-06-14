@@ -1,6 +1,6 @@
 <?php include '../includes/header.php'; ?>
 
-<title>NM COLLEGE & TRANSFER 
+ <title>NM COLLEGE &#38; TRANSFER 
   - CLOVIS COMMUNITY COLLEGE</title>
 
   <body>

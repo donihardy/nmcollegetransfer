@@ -1,8 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE & TRANSFER 
-    - ENMU-ROSWELL</title>
+<title>NM COLLEGE &#38; TRANSFER 
+  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
   
 
   <body>

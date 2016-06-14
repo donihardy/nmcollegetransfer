@@ -1,7 +1,7 @@
 <?php include '../includes/header.php'; ?>
 
 
-<title>NM COLLEGE & TRANSFER 
+ <title>NM COLLEGE &#38; TRANSFER 
   - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
 
   <body>

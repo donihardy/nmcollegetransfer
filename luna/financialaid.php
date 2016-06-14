@@ -1,8 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-<title>NM COLLEGE TRANSFER-LUNA COMMUNITY COLLEGE</title>
-
+ <title>NM COLLEGE &#38; TRANSFER
+ -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">

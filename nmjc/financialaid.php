@@ -1,7 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-<title>NM COLLEGE & TRANSFER-NEW MEXICO JUNIOR COLLEGE</title>
+ <title>NM COLLEGE &#38; TRANSFER
+ -NEW MEXICO JUNIOR COLLEGE</title>
 
 <body>
   <div class="container-fluid">

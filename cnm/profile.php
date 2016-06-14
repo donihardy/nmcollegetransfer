@@ -1,7 +1,7 @@
 <?php include '../includes/header.php'; ?>
 
 
-<title>NM COLLEGE & TRANSFER 
+ <title>NM COLLEGE &#38; TRANSFER 
   - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
 
   <body>
