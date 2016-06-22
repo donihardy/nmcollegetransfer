@@ -105,4 +105,3 @@
  <div class="clear"></div>
     <div class="container">
       <?php include '../includes/schoolfooter.php'; ?>
-    </div>

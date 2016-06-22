@@ -28,4 +28,3 @@
   <div class="clear"></div>
     <div class="container">
       <?php include 'includes/footer.php'; ?>
-    </div>

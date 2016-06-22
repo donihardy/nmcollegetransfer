@@ -64,4 +64,3 @@ s<?php include '../includes/header.php'; ?>
             <div class="clear"></div>
     <div class="container">
       <?php include '../includes/schoolfooter.php'; ?>
-    </div>
