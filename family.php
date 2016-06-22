@@ -60,16 +60,7 @@
         <tr><td>UNM-VALENCIA</td><td>No housing available.</td><td>A library and Learning Resource Center were added in 1994, extensive renovations in Spring 1995 provided additional classroom and office space, and the completion of the Student/Community Center in the Spring 2000 added additional classrooms, office space, and a wellness/fitness center and child care facility.<br /><a href="http://valencia.unm.edu/academics/Catalog/archive/catalog-2014-2016.pdf">Catalog</a></td><td>No information found.</td></tr>
       </table>
     </div>
-    <div class="clear"></div>
+     <div class="clear"></div>
     <div class="container">
-     <?php include 'includes/footer.php'; ?>
-   </div>
-
-
-   <script src="js/jquery.min.js"></script>
-   <script src="js/bootstrap.min.js"></script>
-   <script src="js/bootstrap-submenu.min.js" defer></script>
-   <script src="js/navbar.js"></script>
-   <script src="js/script.js"></script>
- </body>
- </html>
+      <?php include 'includes/footer.php'; ?>
+    </div>

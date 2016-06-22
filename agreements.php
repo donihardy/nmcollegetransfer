@@ -61,16 +61,7 @@
         <tr><td>UNM-VALENCIA</td><td><a href="valencia/agreements.php">Webpage</a></td></tr>
       </table>
     </div>
-    <div class="clear"></div>
+     <div class="clear"></div>
     <div class="container">
-     <?php include 'includes/footer.php'; ?>
-   </div>
-
-
-   <script src="js/jquery.min.js"></script>
-   <script src="js/bootstrap.min.js"></script>
-   <script src="js/bootstrap-submenu.min.js" defer></script>
-   <script src="js/navbar.js"></script>
-   <script src="js/script.js"></script>
- </body>
- </html>
+      <?php include 'includes/footer.php'; ?>
+    </div>

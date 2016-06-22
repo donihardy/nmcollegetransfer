@@ -53,16 +53,7 @@
       (d) Language, Literature or Humanities 3 hrs.<br /><br />
       <p><a href="http://www.hed.state.nm.us/institutions/general-ed-core-course-transfer-curriculum.aspx">General Ed Core Course Transfer Curriculum</a></p>
     </div>
-    <div class="clear"></div>
+     <div class="clear"></div>
     <div class="container">
-     <?php include 'includes/footer.php'; ?>
-   </div>
-
-
-   <script src="js/jquery.min.js"></script>
-   <script src="js/bootstrap.min.js"></script>
-   <script src="js/bootstrap-submenu.min.js" defer></script>
-   <script src="js/navbar.js"></script>
-   <script src="js/script.js"></script>
- </body>
- </html>
+      <?php include 'includes/footer.php'; ?>
+    </div>

@@ -1,8 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO HIGHLANDS UNIVERSITY</title>
+<title>NM COLLEGE &#38; TRANSFER 
+  - NEW MEXICO HIGHLANDS UNIVERSITY</title>
 
   <body>
     <div class="container-fluid">
@@ -65,14 +65,7 @@
             <?php //End Side menu ?>
             
 
-            <div id="footer">
-              <?php include '../includes/footer.php'; ?>
+            <div class="clear"></div>
+            <div class="container">
+              <?php include '../includes/schoolfooter.php'; ?>
             </div>
-
-            <script src="../js/jquery.min.js"></script>
-            <script src="../js/bootstrap.min.js"></script>
-            <script src="../js/bootstrap-submenu.min.js" defer></script>
-            <script src="../js/navbar.js"></script>
-            <script src="../js/script.js"></script>
-          </body>
-          </html>

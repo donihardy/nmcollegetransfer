@@ -29,16 +29,7 @@
       <div class="row"><img src="images/monica.jpg"  alt="CNM" class="teamimg img-responsive pull-left  col-md-2"><h4>MONICA NUNEZ-FLETCHER</h4><div class="bio col-md-8">Monica joins the STEM UP Cooperative grant as the Director.</div></div>
       <div class="row"><img src="images/doni.jpg"  alt="CNM" class="teamimg img-responsive pull-left  col-md-2"><h4>DONI HARDY</h4><div class="bio col-md-8">Doni is the web &#38; graphic designer for the STEM UP Grant.</div></div>
     </div>
-    <div class="clear"></div>
+     <div class="clear"></div>
     <div class="container">
-     <?php include 'includes/footer.php'; ?>
-   </div>
-
-
-   <script src="js/jquery.min.js"></script>
-   <script src="js/bootstrap.min.js"></script>
-   <script src="js/bootstrap-submenu.min.js" defer></script>
-   <script src="js/navbar.js"></script>
-   <script src="js/script.js"></script>
- </body>
- </html>
+      <?php include 'includes/footer.php'; ?>
+    </div>

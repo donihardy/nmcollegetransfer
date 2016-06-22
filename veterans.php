@@ -67,16 +67,7 @@
               <tr><td>UNM-VALENCIA</td><td>Veteran and Military Resources at UNM<br /><a href="http://online.unm.edu/student/vet.html">Website</a></td><td>Veteran and Military Resources at UNM<br /><a href="http://online.unm.edu/student/vet.html">Website</a></td></tr>
             </table>
           </div>
-          <div class="clear"></div>
-          <div class="container">
-           <?php include 'includes/footer.php'; ?>
-         </div>
-
-
-         <script src="js/jquery.min.js"></script>
-         <script src="js/bootstrap.min.js"></script>
-         <script src="js/bootstrap-submenu.min.js" defer></script>
-         <script src="js/navbar.js"></script>
-         <script src="js/script.js"></script>
-       </body>
-       </html>
+           <div class="clear"></div>
+    <div class="container">
+      <?php include 'includes/footer.php'; ?>
+    </div>

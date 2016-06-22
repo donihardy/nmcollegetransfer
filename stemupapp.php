@@ -36,16 +36,7 @@
         <a href="https://itunes.apple.com/us/app/stem-up/id916804218?mt=8"><img src="images/ItuneAPPbutton.gif"></a></p>
         <p><a href="http://stemup.unm.edu">STEM UP APP Website</a></p>
       </div>
-      <div class="clear"></div>
-      <div class="container">
-        <?php include 'includes/footer.php'; ?>
-      </div>
-
-
-      <script src="js/jquery.min.js"></script>
-      <script src="js/bootstrap.min.js"></script>
-      <script src="js/bootstrap-submenu.min.js" defer></script>
-      <script src="js/navbar.js"></script>
-      <script src="js/script.js"></script>
-    </body>
-    </html>
+       <div class="clear"></div>
+    <div class="container">
+      <?php include 'includes/footer.php'; ?>
+    </div>

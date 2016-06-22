@@ -60,16 +60,7 @@
         <tr><td>UNM-VALENCIA</td><td><a href="http://valencia.unm.edu">valencia.unm.edu</a></td><td>2-year</td><td>Certificate<br />Associate's</td><td>Rural: Fringe</td><td>2,321</td><td>22 to 1</td></tr>
       </table>
     </div>
-    <div class="clear"></div>
+     <div class="clear"></div>
     <div class="container">
-     <?php include 'includes/footer.php'; ?>
-   </div>
-
-
-   <script src="js/jquery.min.js"></script>
-   <script src="js/bootstrap.min.js"></script>
-   <script src="js/bootstrap-submenu.min.js" defer></script>
-   <script src="js/navbar.js"></script>
-   <script src="js/script.js"></script>
- </body>
- </html>
+      <?php include 'includes/footer.php'; ?>
+    </div>

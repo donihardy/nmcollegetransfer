@@ -107,16 +107,7 @@
                           <tr><td>UNM-VALENCIA</td><td>To receive transfer credit from previous institutions, official transcripts from those institutions must be mailed directly to UNM-Valencia, Admission/Registration Office.</td><td>A transfer evaluation, reflecting those transfer credits acceptable at UNM, will be generated only after the student is officially admitted to a degree program at UNM-Valencia or UNM-Main.<br /><a href="http://admissions.unm.edu/future_students/transfer-course-equivalencies.html">Transfer Equivalency System (TES)</a></td><td>NM Common core is transferable to all NM Schools.<br /><a href="nmcommoncore.php">NM Common Core</td><td>Order / Submit Official ACT or SAT scores. If you have not taken either, or if you will need to begin your Math or English progression again, you will need to take the COMPASS placement tests.</td><td>Request info:<br /><a href="1-505-925-8580">505-925-8580</a></td><td><a href="http://admissions.unm.edu/future_students/branch-transition.html">Branch Transitions</a></td><td>Dual Credit courses provide qualified public and charter school students the opportunity to enroll in college-level courses through UNM Valencia and earn both high school and college credit.</td></tr>
                         </table>
                       </div></div>
-                      <div class="clear"></div>
-                      <div class="container">
-                        <?php include 'includes/footer.php'; ?>
-                      </div>
-
-
-                      <script src="js/jquery.min.js"></script>
-                      <script src="js/bootstrap.min.js"></script>
-                      <script src="js/bootstrap-submenu.min.js" defer></script>
-                      <script src="js/navbar.js"></script>
-                      <script src="js/script.js"></script>
-                    </body>
-                    </html>
+                     <div class="clear"></div>
+    <div class="container">
+      <?php include 'includes/footer.php'; ?>
+    </div>

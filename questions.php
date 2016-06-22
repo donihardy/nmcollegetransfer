@@ -63,12 +63,3 @@
                                       <div class="container">
                                         <?php include 'includes/footer.php'; ?>
                                       </div>
-
-
-                                      <script src="js/jquery.min.js"></script>
-                                      <script src="js/bootstrap.min.js"></script>
-                                      <script src="js/bootstrap-submenu.min.js" defer></script>
-                                      <script src="js/navbar.js"></script>
-                                      <script src="js/script.js"></script>
-                                    </body>
-                                    </html>
