@@ -189,5 +189,4 @@
                                                                                                                                                                     </div>
                                                                                                                                                                      <div class="clear"></div>
 <div class="container">
-  <?php include 'includes/footer.php'; ?>
-</div>
+     <?php include '../includes/schoolfooter.php'; ?>
