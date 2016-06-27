@@ -37,13 +37,13 @@
               <a href="index.php">NMMI</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>Our Residence halls are designed to provide a safe environment for the cadets, an effective learning atmosphere and a comfortable home away from home.</p>
           <p><a href="https://www.nmmi.edu/admissions/Room_Board.htm">Housing</a></p>

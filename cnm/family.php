@@ -38,13 +38,13 @@
               <a href="index.php">CNM</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>CNM doesn't provide housing but they do have a list of resources: </p>
           <p><a href="https://www.cnm.edu/cnm-community/community-resources/housing">Housing</a></p>

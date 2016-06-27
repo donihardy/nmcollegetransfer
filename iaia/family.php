@@ -37,13 +37,13 @@
               <a href="index.php">IAIA</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>There are two options for housing at IAIA—Center for Lifelong Education (CLE) Residence Center and our family housing apartments. Each area provides safe and secure housing in a healthy, positive, and inclusive environment.<br />
             <a href="https://iaia.edu/student-life/housing/">Housing Website</a></p>

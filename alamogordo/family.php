@@ -38,13 +38,13 @@
               <a href="index.php">NMSU ALAMOGORDO</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>NMSU Alamogordo does not have dormitories. However, there are various affordable apartment complexes and houses for rent, some located within walking distance. The Z-Trans is a public transportation system and there is a stop in front of the NMSU-A Campus.</p>
           <P>For more information about housing, contact the following businesses or agencies:<br />

@@ -37,13 +37,13 @@
               <a href="index.php">NMT</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>Residential life strives to complement the educational and service goals of New Mexico tech by promoting personal growth and social awareness while enhancing student learning. Joining with students, we strive to create safe and supportive opportunities for the development of interpersonal and leadership skills in a residential environment.</p>
           <p>We have many different Residence Hall and Apartment types, styles, cost, amenities and locations for you to choose from!</p>

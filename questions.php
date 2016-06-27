@@ -24,41 +24,56 @@
       </li>
     </ol>
 
-    <div class="textbody"><h3>Questions to Ask</h3>
-      <p><h5 id="admissions"><strong>Admission Questions</strong></h5>
-        <ol><li>How do I get admitted?<br />
-          Insert Text</li>
-          <li>Do I have to submit my ACT/SAT scores?<br />
-            Insert Text</li>
-            <li>Are there any fees to apply?<br />
-              Insert Text</li>
-              <li>How to I submit my High School or college transcripts?<br />
-                Insert Text</li>
-                <li>Question 5</li></ol>
-                <p><h5 id="advising"><strong>Advising Questions</strong></h5>
-                  <ol><li>What are the requirements for completing my degree?<br />
-                    Insert Text</li>
-                    <li>How do I make sure I am taking the correct classes for my degree?<br />
-                      Insert Text</li>
-                      <li>Will my credit hours transfer to another school?<br />
-                        Insert Text</li>
-                        <li>Question 4<br />
-                          Insert Text</li>
-                          <li>What can I do if I am struggling with a class?<br />
-                            Insert Text</li></ol>
-                            <p><h5 id="financialaid"><strong>Financial Aid Questions</strong></h5>
-                              <ol><li>How do I apply for Financial Aid?<br />
-                                Insert Text</li>
-                                <li>Why do you need my parents tax return?<br />
-                                  Insert Text</li>
-                                  <li>How do I know if I qualify for financial aid?<br />
-                                    Insert Text</li>
-                                    <li>Can I apply for any scholarships?<br />
-                                      Insert Text</li>
-                                      <li>Do you accept VA Benefits<br />
-                                        Insert Text</li></ol>
-                                        
-                                      </div>
-                                      <div class="clear"></div>
-                                      <div class="container">
-     <?php include '../includes/schoolfooter.php'; ?>
+    <div class="textbody"><h3>Questions to Ask</h3></p>
+      <p><h5 id="admissions"><strong>These are questios to ask Admissions:</strong></h5>
+        <ol><li>How do I get admitted?</li>
+          <li>Do I have to submit my ACT/SAT scores?</li>
+          <li>Are there any fees to apply?</li>
+          <li>How do I submit my High School or college transcripts?</li>
+          <li>What if I don't have ACT/SAT scores?</li>
+          <li>When will I know if I was accepted?</li>
+          <li>When is the best time to send my application?</li>
+        </ol>
+
+         <p><h5 id="financialaid"><strong>These are questios to ask Financial Aid:</strong></h5></p>
+          <ol><li>How do I apply for Financial Aid?</li>
+            <li>Why do you need my parents tax return?</li>
+            <li>How do I know if I qualify for financial aid?</li>
+            <li>Can I apply for any scholarships?</li>
+            <li>Do you accept VA Benefits</li>
+          </ol>
+          <a href="http://fafsa.com">Free Application for Student Aid (FAFSA)</a>
+
+        <p><h5 id="advising"><strong>These are questios to ask Advising:</strong></h5></p>
+          <ol><li>What are the requirements for completing my degree?</li>
+            <li>How do I make sure I am taking the correct classes for my degree?</li>
+            <li>Will my credit hours transfer to another school?</li>
+            <li>How do I make an appointment with an academic advior?</li>
+            <li>What can I do if I am struggling with a class?</li>
+            <li>When should I contact an academic advisor?</li>
+            <li>How often should I check in with an academic advisor?</li>
+            <li>Are there different types of advisor?</li>
+          </ol>
+
+        <p><h5 id="military"><strong>These are questions Veterans and Military members should ask:</strong></h5></p>
+          <ol><li>Do you accept VA and/or military benefits?</li>
+            <li>How do I find out if I can use VA benefits?</li>
+            <li>Where do I apply for VA benefits for school?</li>
+          </ol>
+
+        <p><h5 id="lifeoncampus"><strong>These are questions to ask about Life on Campus:</strong></h5></p>
+            <ol><li>Do you have housing on campus?</li>
+            <li>Do you have a health center?</li>
+            <li>Can student's children visit the health center?</li>
+            <li>Do you have housing for families?</li>
+            <li>Do you have childcare on campus?</li>
+            <li>Can my kids come to class with me?</li>
+            <li>Can you use Financial Aid for child care?</li>
+            <li>What other resources are available for students and their families?</li>
+          </ol>
+
+
+              </div>
+              <div class="clear"></div>
+              <div class="container">
+               <?php include 'includes/footer.php'; ?>

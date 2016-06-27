@@ -58,11 +58,10 @@
                   <li><a href="../financialaid.php">FINANCIAL AID</a></li>
                   <li><a href="../advising.php">ADVISING</a></li>
                   <li><a href="../veterans.php">VETERANS &#38; ACTIVE DUTY</a></li>
-                  <li><a href="../family.php">FAMILY LIFE</a></li>
+                  <li><a href="../family.php">LIFE ON CAMPUS</a></li>
                 </ul></li>
                 <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">ABOUT <span class="caret"></span></a>
                   <ul class="dropdown-menu">
-                    <li><a href="../ourteam.php">OUR TEAM</a></li>
                     <li><a href="../contact.php">CONTACT</a></li>
                   </ul></li>
                   <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">PARENTS <span class="caret"></span></a>

@@ -37,13 +37,13 @@
               <a href="index.php">UNM GALLUP</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>No housing available.</p>
           <!--<p><a href="#">Housing</a></p>-->

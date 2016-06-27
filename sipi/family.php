@@ -37,13 +37,13 @@
             <a href="index.php">SIPI</a>
           </li>
           <li>
-           FAMILY
-         </li>
+             LIFE ON CAMPUS
+           </li>
        </ol>
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Family Life</h3>
+        <h3>Life on Campus</h3>
         <h4 id="housing">Housing</h4>
         <p>The Housing & Recreation Department features two (2) traditional style residential facilities, which provides accommodations for approximately 288 students. In addition, the Housing & Recreation Department supervises, organizes and facilitates recreational activities, intramurals and the SIPI Wellness Center. A large component of the educational experience is learning to live and to interact with other people from different tribal, racial and economic backgrounds. To this end, students are helped to develop a growing sense of maturity and responsibility by participating in student activities within the residential facilities and throughout the college campus.</p>
         <p><a href="http://www.sipi.edu/students/studsvcs/rec/">Housing</a></p>

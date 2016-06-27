@@ -69,7 +69,7 @@
               <li><a href="financialaid.html">FINANCIAL AID</a></li>
               <li><a href="advising.html">ADVISING</a></li>
               <li><a href="veterans.html">VETERANS &#38; ACTIVE DUTY</a></li>
-              <li><a href="family.html">FAMILY LIFE</a></li>
+              <li><a href="family.html">LIFE ON CAMPUS</a></li>
             </ul></li>
             <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">ABOUT <span class="caret"></span></a>
               <ul class="dropdown-menu">

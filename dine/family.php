@@ -41,13 +41,13 @@
 
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>Diné College provides eight residential halls for students at the main campus in Tsaile and three residential halls for DC student athletes in Shiprock.<br /><a href="http://www.dinecollege.edu/residence/residencelife.php">Residence Life</a></p>
           <h4 id="childcare">Child Care</h4>

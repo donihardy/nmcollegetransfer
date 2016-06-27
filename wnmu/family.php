@@ -37,13 +37,13 @@
               <a href="index.php">WNMU</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>All  students with less than 60 semester credit hours residing outside of the tri-county area (Grant, Luna, or Hidalgo counties in New Mexico) are required to live in University owned and operated residential facilities.</p>
 

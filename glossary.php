@@ -25,7 +25,21 @@
   </ol></div>
 
   <div class="textbody"><h3>Glossary of Terms</h3>
-    <table class="glossarytable"><tr><td><strong>Pay for classes</strong></td><td>Cashier's office</td><td>Bursar's Office</td></tr>
+    <table class="glossarytable">
+    <th>Academics</th>
+    <tr><td><i>Academic Term:</i></td><td>Semester</td><td>Term</td><td>Trimester</td></tr>
+    <tr><td><i>Academic Advisors:</i></td><td>Advisors</td><td>Coaches</td><td>Counselors</td></tr>
+    <tr><td><i>Computer Labs:</i></td><td>Computer Lab</td><td>Computer Pod</td><td> </td></tr>
+    <tr><td><i>Login ID:</i></td><td>Student ID</td><td>Net ID</td><td>User ID</td></tr>
+    <tr><td><i>Log in to student account:</i></strong><td>Portal</td><td>my(UNM,CNM,ENMU, etc.)</td><td></td>
+    <tr><td><i>Online Classes:</i><td>Blackboard (Learn)</td><td>Distance Learning</td><td>Two-way videoconferencing</td>
+    <tr><td><i>Student Records:</i></td><td>Records</td><td>Registrar</td><td></td></tr>
+    </table>
+    <br />
+    <table class="glossarytable">
+    <th>Business</th>
+    <tr><td><i>Pay for fees:</i></td><td>Cashier's office</td><td>Bursar's Office</td><td> </td></tr>
+    </table>
     </div>
      <div class="clear"></div>
     <div class="container">

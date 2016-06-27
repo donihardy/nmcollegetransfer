@@ -320,9 +320,16 @@ html body div.textbody div.container-fluid div.row-fluid div.row.contact.col-md-
 	margin-bottom:20px;
 }
 
-.glossarytable td {
-	border: 1px solid rgba(119,119,119,.51);
+.glossarytable tr:nth-child(even) {
 	padding: 3px 10px;
+	background-color: #f2f2f2;
+	width: 500px;
+}
+
+.glossarytable td {
+	width: 200px;
+	padding: 3px 10px;
+
 }
 
 .table-bordered th {

@@ -37,13 +37,13 @@
             <a href="index.php">LCC</a>
           </li>
           <li>
-           FAMILY
-         </li>
+             LIFE ON CAMPUS
+           </li>
        </ol>
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Family Life</h3>
+        <h3>Life on Campus</h3>
         <h4 id="housing">Housing</h4>
         <p>It is the responsibility of students to obtain their own housing while attending the college. LCC does not have dormitories. However, the ACCESS Center will assist students by providing contacts to obtain housing.</p>
         <p><a href="https://www.luna.edu/student_support/">Student Support</a></p>

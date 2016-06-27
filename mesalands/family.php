@@ -38,13 +38,13 @@
             <a href="index.php">MESALANDS</a>
           </li>
           <li>
-           FAMILY
-         </li>
+             LIFE ON CAMPUS
+           </li>
        </ol>
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Family Life</h3>
+        <h3>Life on Campus</h3>
         <h4 id="housing">Housing</h4>
         <p>Mesalands does not have campus housing.</p>
         <p><a href="http://www.mesalands.edu/future-students/housing/">Student Housing Opportunities</a></p>

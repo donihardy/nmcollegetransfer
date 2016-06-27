@@ -37,13 +37,13 @@
               <a href="index.php">NNMC</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>NNMC does not have on campus housing.<br />
             <a href="http://nnmc.edu/home/student-gateway/student-housing/">Housing Options</a></p>

@@ -38,13 +38,13 @@
               <a href="index.php">NMSU DO&#209;A ANA</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>Housing is available to community college students on the same basis as it is for other New Mexico State University students. Rates and other information may be obtained online at <a href="http://housing.nmsu.edu/">http://housing.nmsu.edu/</a>.</p>
           <p><a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">Catalog</a> - page 141.</p>

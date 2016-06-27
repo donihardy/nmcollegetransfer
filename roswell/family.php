@@ -37,13 +37,13 @@
               <a href="index.php">ENMU-ROSWELL</a>
             </li>
             <li>
-             FAMILY
+             LIFE ON CAMPUS
            </li>
          </ol>
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Family Life</h3>
+          <h3>Life on Campus</h3>
           <h4 id="housing">Housing</h4>
           <p>Fully furnished, fitness center, game room with billiards, computer center and so much more. Sierra Vista Village at Eastern New Mexico University - Roswell - is a great space at the right price.</p>
           <p><a href="https://www.americancampus.com/student-apartments/nm/roswell/sierra-vista-village">Website</a></p>

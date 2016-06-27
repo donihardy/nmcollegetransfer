@@ -59,7 +59,7 @@
                                           </li>
                                           <li class="dropdown"><a href="military.php">VETERANS & ACTIVE DUTY</a></li>
                                           <li class="dropdown">
-                                           <a class="dropdown-toggle" data-toggle="dropdown" href="family.php">FAMILY LIFE
+                                           <a class="dropdown-toggle" data-toggle="dropdown" href="family.php">LIFE ON CAMPUS
                                              <span class="caret"></span></a>
                                              <ul class="dropdown-menu">
                                               <li><a href="family.php#housing">HOUSING</a></li>

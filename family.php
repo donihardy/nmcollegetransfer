@@ -20,11 +20,11 @@
         <a href="index.php">HOME</a>
       </li>
       <li>
-        FAMILY QUICK FACTS
+        LIFE ON CAMPUS QUICK FACTS
       </li>
     </ol>
 
-    <div class="textbody"><h3>Family Life Quick Facts</h3>
+    <div class="textbody"><h3>Life on Campus Quick Facts</h3>
       <p>Explanation</p>
       <table class="table table-bordered">
        <th class="col-md-1">4 YEAR SCHOOLS</th> <th class="col-md-1">Housing</th> <th class="col-md-1">Child Care</th> <th class="col-md-1">Parent Info</th>

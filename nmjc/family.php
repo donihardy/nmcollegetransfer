@@ -38,13 +38,13 @@
             <a href="index.php">NMJC</a>
           </li>
           <li>
-           FAMILY
-         </li>
+             LIFE ON CAMPUS
+           </li>
        </ol>
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Family Life</h3>
+        <h3>Life on Campus</h3>
         <h4 id="housing">Housing</h4>
         <p>We believe on-campus living provides both an enjoyable and rewarding experience in community living as well as the necessary support for academic success.</p>
         <p>On-campus housing for married couples or individuals with children is not provided.</p>
