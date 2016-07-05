@@ -9,7 +9,7 @@
   <meta name="keywords" content="New Mexico, NM, College, University, Transfer, Higher Ed, UNM, ENMU, NMSU, NM Tech, WNMU, NMHU">
   <meta name="author" content="Doni Hardy">
   <link rel="stylesheet" href="css/bootstrap.css">
-  <link rel="stylesheet" href="css/bootstrap-submenu.min.css">
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">  <link rel="stylesheet" href="css/bootstrap-submenu.min.css">
   <link rel="stylesheet" href="css/navbar.css">
   <link rel="stylesheet" href="css/styles1.css">
   <link rel='shortcut icon' type='image/x-icon' href="images/favicon.ico" />

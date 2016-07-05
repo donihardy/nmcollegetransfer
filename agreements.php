@@ -26,41 +26,120 @@
       </li>
     </ol>
 
-    <div class="textbody"><h3>Agreements Quick Facts</h3>
-      <p>Explanation</p>
-      <table class="table table-bordered">
-       <th class="col-md-1">4 YEAR SCHOOLS</th> <th class="col-md-1">Agreements</th> 
-       <tr><td>ENMU</td><td><a href="enmu/agreements.php">Webpage</a></td></tr>
-       <tr><td>IAIA</td><td><a href="iaia/agreements.php">Webpage</a></td></tr>
-       <tr><td>NAVAJO TECHNICAL UNIVERSITY</td><td><a href="navajotech/agreements.php">Webpage</a></td></tr>
-       <tr><td>NMHU</td><td><a href="nmhu/agreements.php">Webpage</a></td></tr>
-       <tr><td>NMT</td><td><a href="nmt/agreements.php">Webpage</a></td></tr>
-       <tr><td>NMSU</td><td><a href="nmsu/agreements.php">Webpage</a></td></tr>
-       <tr><td>NNMC</td><td><a href="nnmc/agreements.php">Webpage</a></td></tr>
-       <tr><td>UNM</td><td><a href="unm/agreements.php">Webpage</a></td></tr>
-       <tr><td>WNMU</td><td><a href="wnmu/agreements.php">Webpage</a></td></tr>
-       <th>2 YEAR SCHOOLS</th><th>Agreements</th>
-       <tr><td>CNM</td><td><a href="cnm/agreements.php">Webpage</a></td></tr>
-       <tr><td>CCC</td><td><a href="ccc/agreements.php">Webpage</a></td></tr>
-       <tr><td>DIN&#201;</td><td><a href="dine/agreements.php">Webpage</a></td></tr>
-       <tr><td>ENMU-ROSWELL</td><td><a href="roswell/agreements.php">Webpage</a></td></tr>
-       <tr><td>ENMU-RUIDOSO</td><td><a href="ruidoso/agreements.php">Webpage</a></td></tr>
-       <tr><td>MESALANDS CC</td><td><a href="mesalands/agreements.php">Webpage</a></td><tr>
-        <tr><td>NMJC</td><td><a href="nmjc/agreements.php">Webpage</a></td></tr>
-        <tr><td>NMMI</td><td><a href="nmmi/agreements.php">Webpage</a></td></tr>
-        <tr><td>NMSU-ALAMOGORDO</td><td><a href="alamogordo/agreements.php">Webpage</a></td></tr>
-        <tr><td>NMSU-CARLSBAD</td><td><a href="carlsbad/agreements.php">Webpage</a></td></tr>
-        <tr><td>NMSU-DONA ANA</td><td><a href="donaana/agreements.php">Webpage</a></td></tr>
-        <tr><td>NMSU-GRANTS</td><td><a href="grants/agreements.php">Webpage</a></td></tr>
-        <tr><td>SAN JUAN COLLEGE</td><td><a href="sjc/agreements.php">Webpage</a></td></tr>
-        <tr><td>SANTA FE CC</td><td><a href="sfcc/agreements.php">Webpage</a></td></tr>
-        <tr><td>SIPI</td><td><a href="sipi/agreements.php">Webpage</a></td></tr>
-        <tr><td>UNM-GALLUP</td><td><a href="gallup/agreements.php">Webpage</a></td></tr>
-        <tr><td>UNM-LOS ALAMOS</td><td><a href="losalamos/agreements.php">Webpage</a></td></tr>
-        <tr><td>UNM-TAOS</td><td><a href="taos/agreements.php">Webpage</a></td></tr>
-        <tr><td>UNM-VALENCIA</td><td><a href="valencia/agreements.php">Webpage</a></td></tr>
-      </table>
-    </div>
+<div class="textbody">
+ <div class="col-lg-12">
+        <div class="panel panel-default">
+          <div class="panel-heading"><h3>Agreements Quick Facts</h3></div>
+          <div class="panel-body">
+            <table class="table table-condensed" style="border-collapse:collapse;">
+<p>Insert Explanation</p>
+              <thead>
+                <tr>
+                  <th class="schooltitle">4 Year Schools</th>
+                </tr>
+              </thead>
+
+              <tbody>
+                <tr data-toggle="collapse" data-target="#enmu" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;ENMU&nbsp;&nbsp;|&nbsp;&nbsp;<a href="enmu/agreements.php">Agreements Options Webpage</a></td></tr>              
+
+                <tr data-toggle="collapse" data-target="#iaia" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;IAIA&nbsp;&nbsp;|&nbsp;&nbsp;<a href="iaia/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#ntu" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NAVAJO TECH UNIVERSITY&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ntu/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmhu" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO HIGHLANDS UNIVERSITY&nbsp;&nbsp;|&nbsp;&nbsp;<a href="nmhu/agreements.php">Agreements Options Webpage</a></td></tr>
+
+
+                <tr data-toggle="collapse" data-target="#nnmc" class="accordion-toggle">
+                  <td>&nbsp;&nbsp;NORTHERN NEW MEXICO COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="nnmc/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmt" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO TECH&nbsp;&nbsp;|&nbsp;&nbsp;<a href="nmt/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmsu" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY&nbsp;&nbsp;|&nbsp;&nbsp;<a href="nmsu/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#unm" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO&nbsp;&nbsp;|&nbsp;&nbsp;<a href="unm/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#wnmu" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;WESTERN NEW MEXICO UNIVERSITY&nbsp;&nbsp;|&nbsp;&nbsp;<a href="wnmu/agreements.php">Agreements Options Webpage</a></td></tr>
+
+
+
+                 <th class="schooltitle">2 Year Schools</th></tr></th>
+
+                <tr data-toggle="collapse" data-target="#cnm" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;CENTRAL NEW MEXICO COMMUNITY COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="cnm/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#ccc" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;CLOVIS COMMUNITY COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ccc/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#dine" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;DI&#209;E COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="cine/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#enmuros" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;EASTERN NEW MEXICO UNIVERSITY-ROSWELL&nbsp;&nbsp;|&nbsp;&nbsp;<a href="roswell/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#enmurui" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;EASTERN NEW MEXICO UNIVERSITY-RUIDOSO&nbsp;&nbsp;|&nbsp;&nbsp;<a href="ruidoso/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#luna" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;LUNA COMMUNITY COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="luna/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#mesa" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;MESALANDS COMMUNITY COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="mesalands/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmjc" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO JUNIOR COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="nmjc/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmmi" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO MILITARY INSTITUTE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="nmmi/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmsua" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-ALAMOGORDO&nbsp;&nbsp;|&nbsp;&nbsp;<a href="alamogordo/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmsuc" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-CARLSBAD&nbsp;&nbsp;|&nbsp;&nbsp;<a href="carlsbad/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmsud" class="accordion-toggle">
+                     <td>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-DO&#209;A ANA&nbsp;&nbsp;|&nbsp;&nbsp;<a href="donaana/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#nmsug" class="accordion-toggle">
+                     <td>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-GRANTS&nbsp;&nbsp;|&nbsp;&nbsp;<a href="grants/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#sjc" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;SAN JUAN COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="sjc/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#sfcc" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;SANTA FE COMMUNITY COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="sfcc/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#sipi" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="sipi/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#unmg" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-GALLUP&nbsp;&nbsp;|&nbsp;&nbsp;<a href="gallup/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#unmla" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-LOS ALAMOS&nbsp;&nbsp;|&nbsp;&nbsp;<a href="losalamos/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#unmt" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-TAOS&nbsp;&nbsp;|&nbsp;&nbsp;<a href="taos/agreements.php">Agreements Options Webpage</a></td></tr>
+
+                <tr data-toggle="collapse" data-target="#unmv" class="accordion-toggle">
+                    <td>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-VALENCIA&nbsp;&nbsp;|&nbsp;&nbsp;<a href="valencia/agreements.php">Agreements Options Webpage</a></td></tr>
+
+</tbody>
+</table>
+</div>
+</div> 
+</div> 
+
+
+
      <div class="clear"></div>
     <div class="container">
       <?php include 'includes/footer.php'; ?>

@@ -49,7 +49,7 @@
         <div class="textbody"><table class="profile"><th colspan="2"><h3>Din&#233; College</h3>
           <h6>Crownpoint Campus-Hwy. 371-Route 9 | Crownpoint, New Mexico 87313 | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6>
           <h6>Shiprock Campus-1228 Yucca St. | Shiprock, New Mexico 87420 | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6></th>
-          <tr><td><h4>Website:</h4></td><td><a href="http://www.dine.edu">www.dine.edu</a></td></tr>
+          <tr><td><h4>Website:</h4></td><td><a href="http://www.dinecollege.edu">www.dine.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>4-year, primarily associates's, Public</td></tr>
           <tr><td><h4>Awards offered:</h4></td>
             <td>Associate's degree<br />

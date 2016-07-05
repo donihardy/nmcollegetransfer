@@ -329,7 +329,46 @@ html body div.textbody div.container-fluid div.row-fluid div.row.contact.col-md-
 .glossarytable td {
 	width: 200px;
 	padding: 3px 10px;
+}
 
+body > div.textbody > div > div {
+	margin-top: 20px;
+}
+
+table > thead > tr td {
+ 	width: 20%;
+ 	border-right: .5px solid #f2f2f2;
+ }
+
+.schooltitle  {
+	font-size: 16px;
+	color: #9d3322;
+}
+
+.btn-default {
+	/*background-color: orange;*/
+	color: orange;
+}
+
+body > div.col-lg-12 > div > div.panel-body > table {
+	margin-bottom: 80px;
+}
+
+.panel-heading {
+	color: #fff !important;
+	background-color:  rgba(211, 116, 8, .85 ) !important;
+}
+
+.panel-body {
+	padding-top: 5px;
+}
+
+.panel-heading > h3 {
+	margin-top: 5px;
+}
+
+.yeartitle {
+	font-size: 16px;
 }
 
 .table-bordered th {
@@ -344,7 +383,13 @@ html body div.textbody div.container-fluid div.row-fluid div.row.contact.col-md-
 }
 
 .table-bordered {
-	width: 90%;
+	width: 100%;
+}
+
+
+.table .schoolname {
+	font-weight: bold;
+		color: #000;
 }
 
 .navbar-fixed-bottom {

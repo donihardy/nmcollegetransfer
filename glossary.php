@@ -27,8 +27,8 @@
   <div class="textbody"><h3>Glossary of Terms</h3>
     <table class="glossarytable">
     <th>Academics</th>
-    <tr><td><i>Academic Term:</i></td><td>Semester</td><td>Term</td><td>Trimester</td></tr>
     <tr><td><i>Academic Advisors:</i></td><td>Advisors</td><td>Coaches</td><td>Counselors</td></tr>
+    <tr><td><i>Academic Term:</i></td><td>Semester</td><td>Term</td><td>Trimester</td></tr>
     <tr><td><i>Computer Labs:</i></td><td>Computer Lab</td><td>Computer Pod</td><td> </td></tr>
     <tr><td><i>Login ID:</i></td><td>Student ID</td><td>Net ID</td><td>User ID</td></tr>
     <tr><td><i>Log in to student account:</i></strong><td>Portal</td><td>my(UNM,CNM,ENMU, etc.)</td><td></td>
