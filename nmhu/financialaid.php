@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Pell Grants are given to both in-state and out-of-state undergraduates with financial need. To qualify, you must also have a high school diploma or GED certificate and be enrolled as a student at the university in a degree-seeking program.</p>
             <p>To be considered for a Pell Grant, as well as other federal financial aid, you must submit the FAFSA. Your eligibility is determined by your Expected Family Contribution (EFC).</p>

@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p><strong>New VA Students:</strong></p>
           <p>You must apply online by accessing the link to the U.S. Department of Veterans Affairs above. Initial processing takes approximately 2 weeks from the time of application. You may call the regional office in Muskogee, OK at 1.888.442.4551 to check on the status of your paperwork. If eligible, you will receive a Certificate of Eligibility, which must be submitted to the VACO (Veterans Affairs Certifying Officer)., located in the Student Services Center.</p>

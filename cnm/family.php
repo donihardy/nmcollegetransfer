@@ -44,7 +44,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus</h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>CNM doesn't provide housing but they do have a list of resources: </p>
           <p><a href="https://www.cnm.edu/cnm-community/community-resources/housing">Housing</a></p>

@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Clovis Community College, located in Clovis, New Mexico, is approved to train veterans and other eligible persons under the provisions of Title 38, U.S. Code for courses required to complete the programs found in the Course Catalog. Clovis Community College is also an approved work site for Veterans Work Study Program</p>
           <p>Clovis Community College participates in the acceptance of military

@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>ENMU Ruidoso Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>ENMU Ruidoso Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>If you are a first-time degree-seeking student, you must make an appointment with a student advisor before registering. Advisors will help you achieve your educational objectives by explaining requirements, answering questions about classes and programs, reviewing your past current and proposed coursework, guiding you in educational planning and helping you with academic and related problems.</p>
             <p>Advisors are available by appointment or on a drop-in basis. Appointments are the best way to obtain advisement. You may make an appointment by calling the Student Services Office at <a href="1-575-257-3007">(575) 257-3007</a> or toll free at <a href="1-800-934-3668">800-934-3668</a>. Advisors are also available on a first-come, first-served basis.</p>

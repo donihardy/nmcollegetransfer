@@ -42,7 +42,7 @@
          </div>
          <div class="container-fluid">
           <div class="textbody">
-            <h3>Life on Campus</h3>
+            <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="housing">Housing</h4>
             <p>Although NMSU Carlsbad does not provide dormitory housing, the Student Services department is happy to help you find an affordable apartment.</p>
             <p><a href="https://carlsbad.nmsu.edu/students/all-students/student-life/">Housing</a></p>

@@ -26,6 +26,7 @@
     </ol>
 
     <div class="textbody"><h3>NM Common Core</h3>
+    <p>Insert Explanation</p>
       <h5><strong>Area I: Communications 9 semester hours</strong></h5>
       (a) College Level English Composition 3- 4 hrs.<br />
       (b) College Level Writing 3 hrs.<br />

@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Information on VA Benefits:</p>
           <p><a href="https://www.enmu.edu/services/financialaid/military/va-benefits.shtml">VA Benefits</a><br />

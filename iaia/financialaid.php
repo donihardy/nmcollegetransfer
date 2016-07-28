@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             Completing and submitting the FAFSA is free and quick, and it gives you access to the largest source of financial aid to pay for college or career school.<br/>
             <p><a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Pell Grants</a></p>

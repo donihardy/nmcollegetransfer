@@ -42,7 +42,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Mesalands Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Mesalands Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="geninfo">Advising General Info</h4>
           <P>Effective academic advising is the key to any student’s academic success. At the time of admission, each student is assigned to a faculty advisor. It is very important that students meet with their assigned faculty advisor at least once per semester to review course options for the following semester. Students are strongly encouraged to meet with their assigned faculty advisor to discuss their current complement of courses or any other concern that may arise.</P>
           <h4 id="website">Mesalands Advising Website</h4>

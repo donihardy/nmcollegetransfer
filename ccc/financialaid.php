@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>The Pell Grant Program is funded by the Federal government. It is the largest federal grant program that provides money to help undergraduates pay for college education. Grants are gift aid and do not have to be repaid.</p>
 

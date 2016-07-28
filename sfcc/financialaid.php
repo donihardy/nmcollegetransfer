@@ -42,7 +42,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <p>The Federal and State Grant Programs provide grants to undergraduate students who have financial need and meet other requirements. Although the U.S. Department of Education calculates the student's Expected Family Contribution (EFC) and performs certain eligibility matches, SFCC has many responsibilities in administering the program. We must ensure that a student meets the general eligibility requirements for any aid that is disbursed. Students must file a Free Application for Federal Student Aid (FAFSA) each year to establish their continued eligibility for need-based financial assistance.</p>
           <p><a href="http://www.sfcc.edu/financial_aid/grants">Santa Fe Community College Financial Aid Pell Grant Info</a></p>

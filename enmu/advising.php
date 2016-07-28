@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>ENMU Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>ENMU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>At the Advising Center, students will: be assisted with clarifying their educational goals; learn educational options available at ENMU. Academic advising is an important part of your success at Eastern New Mexico University.</p>
             <p><a href="https://www.enmu.edu/services/advising/">ENMU Advising General Info</a></p>

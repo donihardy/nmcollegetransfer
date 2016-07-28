@@ -42,7 +42,7 @@
        </ol>
      </div>
      <div class="container-fluid">
-       <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+       <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
         <p>NMJC is fully certified by the state of New Mexico for VA Education Benefits (G.I. Bill). Most NMJC course offerings are approved and meet veteran’s
           educational assistance criteria under federal and state laws.</p>
           <P>Eligible students may apply for VA benefits through the Enrollment Management Office by submitting the proper form. The following forms are

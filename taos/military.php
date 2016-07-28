@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>Veterans Upward Bound (VUB) at The University of New Mexico—Taos is the only veterans Federal TRiO Program funded by the United States Department of Education in the State of New Mexico. VUB is designed to assist veterans in the development of academic and other requisite skills necessary for acceptance and success in a program of post-secondary education. The project provides assessment and enrichment of basic skills through instruction, advising, and tutoring. The primary goal of the program is to increase the rate at which participants enroll in and complete post-secondary education programs. All VUB services are free to eligible veterans.<br />
             <a href="http://taos.unm.edu/veteransupwardbound/index.html">Veterans Upward Bound (VUB)</a></p>

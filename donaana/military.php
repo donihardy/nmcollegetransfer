@@ -43,7 +43,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>The Veterans Services Office at the Do&#241;a Ana Community College works in partnership with the Veterans Administration to assist veterans and dependents eligible to participate in the Montgomery GI Bill Education Benefits Program.<p/>
             <p>To apply for the first time or if you have not used your VA educational benefits within a year, complete a VA application form and submit all completed applications to the DACC Veterans Programs Office.  All applications are sent the VA Regional Office for processing.  All incomplete applications will not be processed and you will not be eligible for benefits.</p>

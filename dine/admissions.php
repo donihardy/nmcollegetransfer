@@ -47,7 +47,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p><ul><li>A completed Diné College admission application.</li>
               <li>Official Certificate of Indian Blood (CIB) for all American Indian students.</li>

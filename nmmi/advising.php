@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMMI Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMMI Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Franklin Student Assistance Center (SAC) provides professional advisors who offer academic, career and personal counseling. ACT/SAT preparatory courses are offered each semester for students interested in increasing their scores. Transfer guidance on colleges and service academy admission is also available. More specifically, SAC works closely with teaching faculty guiding their students through the academic program supporting and encouraging good study habits, proper behavior and overall academic achievement and growth.</p>
             <p>Parents or Guardians should always feel comfortable contacting the Franklin Student Assistance Center for any issue dealing with academics at NMMI.</p>

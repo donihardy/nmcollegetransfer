@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Grants are funds that do not need to be repaid. Amounts based on federal guidelines and allocations. </p>
             <p><a href="https://www.nmt.edu/grants">NMT Financial Aid Pell Grant Info</a></p>

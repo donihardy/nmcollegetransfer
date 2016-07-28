@@ -42,7 +42,7 @@
        </ol>
      </div>
      <div class="container-fluid">
-       <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+       <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
         <h4 id="veterans">Veterans &#38; Military</h4>
         <p>The Veterans Resource Center at Luna Community College is an area where veterans and their dependents may seek information regarding their educational opportunities.</p>
 

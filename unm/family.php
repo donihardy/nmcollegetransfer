@@ -43,7 +43,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus</h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>Residence Life and Student Housing offers many options to meet your housing needs. Contracts are determined by the academic calendar. There is no deadline, however, it is recommended you register as early as possible to obtain your preferred hall or roommate.</p>
           <p><a href="http://housing.unm.edu/index.html">Housing</a></p>

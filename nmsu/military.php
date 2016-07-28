@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4>Veterans</h4>
           <p>NMSU is a military and veteran friendly university which strives to provide the best possible service to our current and former service members as they pursue their educational goals. NMSU Military and Veterans Programs promotes lifelong learning and professional development for veterans, active-duty military and their families, assisting them in their higher education goals by offering:
             <ul><li>Affordable, in-state tuition rates for active-duty military and dependents using federal education benefits or living at regional military installations</li>

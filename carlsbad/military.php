@@ -41,7 +41,7 @@
            </ol>
          </div>
          <div class="container-fluid">
-          <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+          <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
             <p>NMSU Carlsbad courses have been approved for study by veterans and others who qualify for veterans’ educational assistance. Processing applications and certifications takes four to five weeks and should be initiated well in advance of course registration. For continued certification, veterans must verify their courses with the Student Services Office each semester for continued certification.</p>
             <p>Veterans must maintain satisfactory attendance, conduct and progress. If the veteran does not meet the standards set by NMSU Carlsbad, the certifying officials must notify the Veterans Administration Office, and the VA will stop benefits.<p/>

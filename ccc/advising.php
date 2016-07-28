@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Clovis Community College Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Clovis Community College Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <p>Need help planning your Education? CCC's Academic Advisors will help you match your needs, interests, values, and goals to the educational programs offered at CCC.</p>

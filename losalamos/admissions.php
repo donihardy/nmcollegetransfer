@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>UNM Los Alamos offers a number of outstanding programs and services to meet a variety of student needs and interests. We offer certificate programs and associate degree programs; community education and customized training courses; small business development seminars through our Small Business Development Centers (Los Alamos and Sandoval Counties); Adult Basic Education programs including General Education Development (GED) and English as a Second Language (ESL); and bachelor and graduate degree programs through UNM's Distance Education Program.</p>
             <p>Transfer Students:<br />

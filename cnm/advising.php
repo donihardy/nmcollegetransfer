@@ -45,7 +45,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>CNM Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>CNM Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <ul><li>Career exploration and help with choosing a major</li>

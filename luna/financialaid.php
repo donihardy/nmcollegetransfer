@@ -43,7 +43,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <p>All students who plan to attend LCC are encouraged to apply. Free applications are available online through the U.S. Department of Education’s website at <a href="http://www.fafsa.ed.gov">www.fafsa.ed.gov</a>.</p>
           <h4 id="pellgrant">Pell Grant</h4>
           <p>This federal grant is the “foundation” of financial assistance upon which other sources of aid may be

@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM Gallup Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM Gallup Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Visit us for your academic planning needs and career interest. Our offices are located in the Student Services Technology Center (SSTC). Department telephone is: (505) 863-7706</p>
             <p><a href="http://www.gallup.unm.edu/vert/new-students/advising.php">UNM Gallup Advising</a></p>

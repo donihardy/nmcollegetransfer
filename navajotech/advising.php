@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Navajo Tech Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Navajo Tech Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <p>The Academic Counselor coordinates with the First Year Advisor to assist in evaluating student’s abilities and interests to develop realistic academic and career goals. Advisement includes educational planning, choosing a major, planning for a certificate, an associate or a baccalaureate degree, and planning strategies for academic success.</p>

@@ -44,7 +44,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <P>The three types of grants available at NMJC are Pell Grants, SEOG and NMSIG.</p>
             <p><a href="http://www.nmjc.edu/studentservices/financialaid/scholarshipsandgrants.aspx">NMJC Financial Aid Pell Grants</a></p>

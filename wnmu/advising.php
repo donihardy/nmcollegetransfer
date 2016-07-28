@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>WNMU Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>WNMU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <p>Academic Advisors offer assistance to first year and undeclared second year students with class schedules and degree plans. The advisors assist students in defining academic goals and career planning. They provide guidance with appropriate class scheduling so that students can meet their desired goals. Instruction is also provided in study habits and techniques, time management skills and test anxiety.</p>

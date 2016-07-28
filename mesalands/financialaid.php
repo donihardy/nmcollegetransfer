@@ -44,7 +44,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <P>The decision to go to college is life-changing. Having financial aid to pay for a college education makes the decision a little easier. Most students at Mesalands Community College are able to graduate with their associate degree ready to start work or transfer to a four year college or university without debt. This allows students to concentrate on the future rather than be burdened by student loans.</P>
           <p><a href="http://www.mesalands.edu/financial-aid/">Mesalands Financial Aid Pell Grants</a></p>

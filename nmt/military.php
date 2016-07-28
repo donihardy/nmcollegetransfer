@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>Tech offers many student services to ensure your success here.  Because you are required to have a major advisor assigned to help you determine your curriculum requirements, we offer an on-line catalog for you as a ‘suggested roadmap.’  We work together with the Advising, Counseling, Registrar, and Business Office to get you the help you may need while navigating your way to your degree.<p/>
             <p>The Department of Veterans Affairs administers a variety of education benefit programs. Many Veterans and active duty personnel can qualify for more than one education benefits program, including:</p>

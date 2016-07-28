@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Grants are awarded based on need and DO NOT have to be repaid. In addition to the general eligibility requirements, you must be enrolled as an undergraduate in an eligible degree program and not have a previous baccalaureate degree. Some grants that are available to students in New Mexico are the Federal Pell Grant, the Federal Supplemental Educational Opportunity Grant, and the New Mexico State Student Incentive Grant. Contact the UNM-Taos Financial Aid Office for complete grant information.</p>
             <p><a href="http://taos.unm.edu/student-enrollment/financial-aid/index.html">UNM Taos Financial Aid Pell Grant Info</a></p>

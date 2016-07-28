@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>ENMU Roswell Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>ENMU Roswell Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Advising and Retention Center assists undergraduate students with all aspects of academic planning. Students will meet with an academic advisor to explore their interests, discuss course options, consider programs of study, plan for the future, and address any academic concerns.</p>
             <p>“It is the people who come face-to-face with students on a regular basis who provide the positive growth experiences for students that enable them to identify their goals and talents and learn how to put them to use. The caring attitude of college personnel is viewed as the most potent retention force on a campus.” (Noel, L. 1985, p.17).</p>

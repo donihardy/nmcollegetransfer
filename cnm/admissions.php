@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p>CNM has open admissions for individuals at least 18 years of age. </p>
             <p><a href="https://www.cnm.edu/depts/enrollment/admissions">Admission Requirements</a></p>

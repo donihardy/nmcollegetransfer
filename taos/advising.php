@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM-Taos Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM-Taos Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Academic advising is a key component to a successful student experience.</p>
             <p>The University of New Mexico-Taos offers a wealth of intellectual opportunities, both in and outside the classroom. The central role of advisors is to help you take full advantage of all that’s available as you create your unique path through your undergraduate career.</p>

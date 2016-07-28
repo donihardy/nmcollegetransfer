@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>A college degree can add up to success, but sometimes you need help along the way. Utilize this website to explore the scholarships, tuition waivers and financial aid options that are available to help make your education possible. University Financial Aid and Scholarship Services’ goal is to provide understandable information and timely service to all students. Financial Aid advisors and staff are here to help you reach your goals.</p>
             <p><a href="https://grants.nmsu.edu/students/financial-aid/">NMSU Grants Financial Aid Pell Grant Info</a>

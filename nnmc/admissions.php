@@ -45,7 +45,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p><ol type="A"><li>  Fill out our online application.<br />
               You can access the application here. To begin, you will need to create an account.

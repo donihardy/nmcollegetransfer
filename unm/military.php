@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>The Veterans Resource Center (VRC) department at UNM is run by Veterans for Veterans. The UNM VRC is a centralized resource department, easily accessible and widely available to all veterans; active duty, reserve guard, separated, retired and their dependents who would like to explore the possibility of attending UNM and/or any other State of New Mexico Accredited Higher Educational Institute. <p/>
             <p><a href="http://vrc.unm.edu/">Veterans Resource Center (VRC)</a><br />

@@ -43,7 +43,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>San Juan College Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>San Juan College Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Advising and Counseling coordinate with faculty and staff to provide you with consistent academic information and personal counseling.  We assist you in developing sound educational, career and professional goals so you can make effective decisions about courses and programs according to your values, interests, and skills.</p>
             <p><a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/">San Juan College Advising</a></p>

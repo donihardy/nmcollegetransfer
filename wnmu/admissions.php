@@ -45,7 +45,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p>Applying to WNMU is easy and can be done quickly. The following checklist is your path to successfully being admitted to WNMU. After completing the first step, you will receive a notification from the Office of Admissions on your application status.</p>
             <p><ul><li><a href="http://wnmu.edu/applynow/">Apply</a> for Admissions</li>

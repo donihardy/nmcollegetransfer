@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>The Veterans Affairs office is here to assist our students with their VA Educational Benefits, both federal and state. We are here to ensure that all necessary documents are submitted to the Department of Veterans Affairs and to certify Veteran students and their dependents enrollment.</p>
           <p><a href="https://www.cnm.edu/depts/financial-aid/veterans">Veterans</a><br />

@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>Applications are required for:</p>
             <p>Students who have not previously attended UNM Valencia.<br />
@@ -59,7 +59,7 @@
             <a href="http://valencia.unm.edu/academics/Catalog/admission--registration.html">UNM Valencia Admissions Eligibility</a>
             <h4 id="deadlines">Deadlines</h4>
             <p>No deadline found.</p>
-            <a href="http://admissions.unm.edu/future_students/transfer.html">SCHOOL Admissions Deadlines</a>
+            <a href="http://admissions.unm.edu/future_students/transfer.html">Admissions Deadlines</a>
             <h4 id="fees">Fees</h4>
             <p>Application Fee - $15</p>
             <a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">UNM Valencia Admissions Fees</a>

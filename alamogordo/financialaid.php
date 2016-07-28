@@ -43,7 +43,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.html#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Grants are often called “gift aid” because they are free money—financial aid that doesn’t have to be repaid. Grants are often need-based and determined by your FAFSA. There are state and federal grants available.</p>
             <P>Federal Supplemental Educational Opportunity Grant (SEOG): is a Federal Grant awarded to undergraduate students with exceptional financial need. Must have a zero Expected Family Contribution. Funding limited.

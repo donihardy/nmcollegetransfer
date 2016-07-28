@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>SIPI Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>SIPI Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Our objectives are to provide Academic Support Services by increasing coaching services through tutoring, increasing academic and personal counseling services through career guidance to include the promotion of healthy lifestyles for our students. Our focus for student success is to further increase educational awareness through transitioning, First Year experiences, career and testing services, disability awareness, employment/placement, and our aim is to increase retention and graduation.</p>
             <p><a href="http://www.sipi.edu/students/studsvcs/sss/">SIPI Advising</a></p>

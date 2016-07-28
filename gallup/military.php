@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>UNM-Gallup VRC Purpose:<br />
             The purpose of this organization shall be to inform and raise a general awareness to veterans who have not established the use of their benefits; provide a support system to incoming and current student veterans; provide an atmosphere of camaraderie for veterans; to make a partnership with various organizations in the community to further expand opportunities for students to become involved and to further enlighten the UNM-Gallup Campus and community on veteran concerns; to establish a relationship with students, the UNM-Gallup campus, the community, and the surrounding areas and to be a unifying voice on campus for those who are concerned about the welfare of veterans in order to be a stronger community and liaison for the better consideration of our veterans.</p>

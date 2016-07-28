@@ -55,7 +55,7 @@
             <li><a href="academic.php">ACADEMIC RESOURCES</a></li>
             <li><a href="nmcommoncore.php">NM COMMON CORE</a></li>
             <li><a href="stemupapp.php">STEM UP APP</a></li>
-            <li><a href="questions.php">QUESTIONS TO ASK</a></li>
+            <li><a href="questions.php">COLLEGE VISITS</a></li>
           </ul></li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">QUICK FACTS <span class="caret"></span></a>
             <ul class="dropdown-menu">

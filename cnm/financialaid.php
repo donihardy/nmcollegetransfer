@@ -44,7 +44,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             Pell Grants are the foundation of federal student financial aid, to which aid from other federal and nonfederal sources might be added. Grant amounts can change yearly. If you're eligible for a Pell Grant, you will receive the full amount you qualify for. The amount of other student aid you might qualify for does not affect the amount of your Pell Grant. <br/>
             <p><a href="https://www.cnm.edu/depts/financial-aid/grants/pell-grant">CNM Financial Aid Pell Grants</a></p>

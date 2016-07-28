@@ -25,7 +25,7 @@
     </ol>
 
     <div class="textbody"><h3>PADRES</h3>
-      <p>Bienvenidos al sitio de transferencia a universidades en Nuevo México. Este sitio es diseñado para estudiantes, papás, facultad, y otras personas para encontrar información sobre transferencia a todas las universidades de Nuevo México. El sitio será actualizado periódicamente.</p>
+      <p>Bienvenidos al sitio de transferencia a universidades en el estado de Nuevo México. Este sitio está dedicado para estudiantes, padres y personas que están interesados en asistir a la universidad para encontrar información sobre los pasos para transferirse a una universidad en el estado. </p>
     </div>
      <div class="clear"></div>
     <div class="container">

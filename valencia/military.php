@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>Educational programs at the Valencia Campus have been approved for persons eligible for VA benefits.</p>
           <p>Further information concerning the GI Bill Educational Training and Veterans Affairs may be obtained from the veteran's certifying official in the Registrar's Office.</p>

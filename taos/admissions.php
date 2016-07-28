@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>UNM-Taos has an open admissions policy, so if you intend to work towards a degree or certificate, all you need is a high school diploma or GED to qualify for admission.</p>
             <ul><li>UNM-Taos admissions application</li>

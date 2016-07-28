@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM Los Alamos Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM Los Alamos Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Academic advisors can provide guidance through the admission process, degree and course selection, and registration. Advisors also assist with changing a major, following up instructors’ early alerts, filing graduation petitions, and planning for baccalaureate work. Advisors can help resolve registration errors, as well. Degree-seeking students must meet with an advisor before registering for each semester to check that their chosen classes will continue to make progress toward their degrees and have their advising hold lifted.</p>
             <p><a href="http://losalamos.unm.edu/students/advisement/index.html">UNM Los Alamos Advising</a></p>

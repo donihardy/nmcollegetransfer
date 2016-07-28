@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMSU Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMSU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Academic advisors assist students as they become self-directed learners by teaching them to develop educational plans directed toward their academic, career, and personal aspirations.</p>
             <p>While the ultimate responsibility for planning and completing an academic program in compliance with university, college, and departmental requirements rests with the student, advisors are here to help you.

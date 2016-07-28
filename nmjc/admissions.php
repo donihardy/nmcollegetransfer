@@ -44,7 +44,7 @@
       </div>
       <div class="container-fluid">
         <div class="textbody">
-          <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="requirements">Requirements</h4>
           <p>Whether you're a first-time college student, a transfer student, are returning to school after one or more semesters, or are taking classes to upgrade your job skills, New Mexico Junior College can help you achieve your goals. In addition, we offer dual credit and concurrent enrollment to high school students. Complete the Online Application and allow two (2) business days for processing from the date of submission online (please be sure to hit submit & then log off).<br />
             <a href="http://www.nmjc.edu/admissions/">NMJC Admissions</a></p>

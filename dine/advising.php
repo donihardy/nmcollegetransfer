@@ -46,7 +46,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Din&#233; Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Din&#233; Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <p>Academic advising is a vital service to students regarding programs of study and career options. It ensures that students have information necessary to make good decisions about their future. Students are assigned an advisor; an advisor may be a faculty or academic advisor, to provide guidance on academic programs in general, and degree checklists, specifically. </p>

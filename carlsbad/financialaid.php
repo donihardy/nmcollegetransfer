@@ -41,7 +41,7 @@
             </ol>
           </div>
           <div class="container-fluid">
-            <div class="textbody"><h3>Financial Aid <a href="../questions.html#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+            <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
               <h4 id="pellgrant">Pell Grant</h4>
               <p>Federal Pell Grant: is a federal grant awarded only to undergraduate students. The award amount is determined by enrolment, the expected family contribution as indicated on the Student Aid Report and is dependent on the estimated cost of attendance at NMSU.</p>
               <p>Other Grants:</p>

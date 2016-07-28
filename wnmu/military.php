@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans &#38; Active Duty</h4>
           <p>The Veteran Services office is located within the Registrar’s Office. The Veteran Services office assists veterans, their eligible spouses and children to process their Veterans Affairs (VA) educational benefits.  The office is staffed by veterans who are currently enrolled as students and the Registrar’s serves as the Certifying Official at Western New Mexico University.</p>
           <p>Here you can get help with:</p>

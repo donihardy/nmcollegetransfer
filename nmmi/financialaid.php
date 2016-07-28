@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Completion and approval of the FAFSA (Free Application of Federal Student Aid) is required for participation in ALL federally-funded programs. Federal Pell Grant Program The largest federal need-based student aid program providing grant assistance ranging from $602 to $5,730 to undergraduate students who are enrolled in a degree or certificate program and have not received their first bachelor's degree. Eligibility is based on demonstrated financial need, cost of education, and enrollment status. The amount of the student's award is determined using the Federal Institutional Student Information Record (ISIR), Expected Family Contribution (EFC) and the Payment Schedule provided by the U.S. Department of Education</p>
             <p><a href="https://www.nmmi.edu/financialaid/Federal_Aid_Programs.htm">NMMI Financial Aid Pell Grant Info</a></p>

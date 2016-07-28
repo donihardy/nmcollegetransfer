@@ -43,7 +43,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMSU Do&#241;a Ana Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMSU Do&#241;a Ana Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Ten Steps to Successful Enrollment at DACC</p>
             <ol type="1"><li>Apply for Admission – DACC Admissions Office – (575) 527-7710</li>

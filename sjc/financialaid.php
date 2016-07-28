@@ -43,7 +43,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>The Pell grant is the foundation of federal student aid. Pell Grants are awarded to undergraduate students- those who have not yet earned a Bachelor’s Degree. Eligibility is determined through the FAFSA application which is submitted annually. If eligible, awards range from $300 to $5,775. The award amount is calculated on the student’s Expected Family Contribution (EFC), the cost of attendance at the institution, semesters enrolled, and the number of hours enrolled. Students must also be meeting Satisfactory Academic Progress (SAP) standards.</p>
             <p><a href="http://www.sanjuancollege.edu/student-services/departments/financial-aid/types-of-funding/pell-grant/">San Juan College Financial Aid Pell Grant Info</a></p>

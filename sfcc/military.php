@@ -42,7 +42,7 @@
        </ol>
      </div>
      <div class="container-fluid">
-      <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+      <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
         <p>In addition to the services offered by SFCC, there are many other services and resources available to veterans and military personnel in New Mexico.<br />
           <a href="http://www.sfcc.edu/veterans/resources_and_links">Veterans Resource Center</a><p/>

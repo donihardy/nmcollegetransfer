@@ -42,7 +42,7 @@
        </ol>
      </div>
      <div class="container-fluid">
-      <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+      <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
         <p>SIPI complies with the principal of excellence for educational institutions serving service members, veterans, spouses, and other family members. Students are encouraged to complete their veterans application on line at: http://vabenefits.vba.va.gov. Eligible students will then need to contact the SIPI certifying official, submit current class schedule, DD-214, certificate of eligibility, and transcripts from previous colleges.</p>
 

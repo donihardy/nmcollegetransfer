@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMHU Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMHU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Office of Academic Support offers a variety of services to help students excel in their studies, including Academic Advisement, Peer Mentoring, Workshops, New Student Orientation and the coordination of Peer Study Groups. Our department collaborates with the Freshman Experience Program, the Learning Communities, and Freshman Forum classes to create a seamless transition from high school to college. An academic adviser will be assigned to you based on the Learning Community you select.</p>
             <h4 id="website">NMHU Advising Website</h4>

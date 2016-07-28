@@ -34,6 +34,7 @@
         <div class="panel panel-default">
           <div class="panel-heading"><h3>STEM Degrees Quick Facts</h3></div>
           <div class="panel-body">
+          <p>Insert Explanation</p>
             <table class="table table-condensed" style="border-collapse:collapse;">
 
               <thead>

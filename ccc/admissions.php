@@ -46,7 +46,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p>The Admissions and Records department at CCC is a student's first stop in applying to attend classes at the college. CCC is an open admission institution.</p>
             <p><ol type="1"><li>Apply</li>

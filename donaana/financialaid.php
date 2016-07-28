@@ -43,7 +43,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Provides need-based grants to low-income undergraduate students to promote access to post-secondary education. Grant amounts are dependent on: the students expected family contribution (EFC), the cost of attendance (COA), the student’s enrollment status (full-time, part-time) and whether a student attends for a full academic year or less.</p>
             <p>Other grants:<br />

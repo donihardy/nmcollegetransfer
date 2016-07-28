@@ -43,7 +43,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <p>NMSU-A Office of Veterans Programs main function is to serve as the liaison between NMSU-A students and the Department of Veteran Affairs (VA) in Muskogee, Oklahoma.</p>
           <p>Students who plan to use Veterans Benefits must have courses approved by an Academic Advisor prior to registration. All new students should pick up application packets in the Veterans Office located in Student Services.<br />
             <a href="http://nmsua.edu/student-services/veterans-programs/">NMSU-A Office of Veterans Program</a></p>

@@ -17,7 +17,8 @@
     <p>Students and families can learn more about the four year and two year schools in New Mexico.  Learn about the degrees offered and the services provided at each school.  Scroll through the lists of schools and visit the map to find the campus close to you.</p>
     <p>This site is designed as a collection of information and links that are helpful for any student exploring attending college for the first time, students interested in transferring from community college to a four year college; students taking classes while still in High school or curious about options after leaving High School.</p>
     <p>We hope you find the perfect school and degree program.  Please provide feedback for improvements or questions that we did not think about for college going students.</p>
-    <br /><p><i>Bienvenidos al sitio de transferencia a universidades en Nuevo México. Este sitio es diseñado para estudiantes, papás, facultad, y otras personas para encontrar información sobre transferencia a todas las universidades de Nuevo México. El sitio será actualizado periódicamente.</i></p>
+    <br /><p><i>Bienvenidos al sitio de transferencia a universidades en el estado de Nuevo México. Este sitio está dedicado para estudiantes, padres y personas que están interesados en asistir a la universidad para encontrar información sobre los pasos para transferirse a una universidad en el estado.</i></p>
+
     <p><a href="images/nm_map_schools.jpg">NM Map</a></p>
   </div>
   <div class="flowchart">

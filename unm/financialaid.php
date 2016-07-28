@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>What is the Pell Grant? -The Federal Pell Grant is the largest of the federal need-based grant programs. It is awarded automatically to students who qualify based on your FAFSA application results.</p>
             <br /><p>Who is Eligible for the Pell Grant? - To receive this grant, you must be an undergraduate student who has not earned a bachelor's or professional degree. (A professional degree is usually earned in a field such as medicine, law, or dentistry after earning a bachelor's degree.)</p>

@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM Valencia Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM Valencia Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Students who have decided upon a UNM-Valencia Campus or UNM degree major are encouraged to meet with UNM–Valencia Campus advisors (faculty or student services staff) to develop a program of study plan and to make sure that steady progress is being made towards completion of the degree.</p>
             <p><a href="http://valencia.unm.edu/students/advisement-and-counseling/services.html">UNM Advising</a></p>

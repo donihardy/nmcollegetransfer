@@ -45,7 +45,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p>Start with an admission application, fill out and send with documents or the application itself, but will be pending.  The documents are an Official original Certificate of Indian Blood, an official high school transcript or official GED test scores in a sealed envelope and if you attended any other college or university, an Official transcript in a sealed envelope.  Once the application and ALL documents are received, you will receive an official letter of acceptance to the college.                   
             </p>

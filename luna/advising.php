@@ -41,7 +41,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>LCC Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>LCC Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="geninfo">Advising General Info</h4>
           <p>Advisement at LCC is a collaborative venture between the student, the ACCESS Center and the academic disciplines. Since the college admits students with varying degrees of education preparation, accurate and coordinated academic advisement is crucial to student progress and institutional planning.</p>
           <p>Accordingly, new students (first-time enrollees) transfer students, and students who have not declared a program of study are advised through the ACCESS Center. Returning students who have declared a program of study or who intend on pursuing a particular certificate or degree program are advised through the appropriate academic discipline.</p>

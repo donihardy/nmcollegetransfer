@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>If you are a veteran, meet with the Registrar to have your schedule certified. This will need to be done every semester.<p/>
             <p>Active duty military members stationed in New Mexico, their spouses and dependents are eligible for waivers of non-resident tuition. Members of the National Guard, their spouses and dependents are also eligible for waivers of non-resident tuition. A form must be submitted to Student Services by the second Friday of the term to obtain these waivers.</p>

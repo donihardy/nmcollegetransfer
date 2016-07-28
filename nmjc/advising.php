@@ -42,7 +42,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>NMJC Academic Counseling <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>NMJC Academic Counseling <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="geninfo">Advising General Info</h4>
           <P>The NMJC counselors can assist students in selecting courses needed for their particular degree plan. The Counseling Office houses college catalogues, admission applications and transfer guides for many regional 4-year institutions. Counselors are on hand to ensure all students are taking courses with transferability potential.</P>
           <h4 id="website">NMJC Advising Website</h4>

@@ -45,7 +45,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Requirements</h4>
             <p>IAIA seeks to attract and enroll highly motivated and talented students from diverse backgrounds and cultural experiences. IAIA believes in equality of educational opportunity and welcomes all applications for admission. Non-American Indian applicants are evaluated by the same criteria as American Indian, Alaska Native and Canadian First Nations applicants. Admission is granted without regard to age, gender, race, sexual orientation, marital status, handicap or religion.</p>
             <p><a href="https://iaia.edu/admissions/apply/">Admission Requirements</a></p>

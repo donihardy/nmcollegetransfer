@@ -46,7 +46,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             Din&#233; College participates in the Title IV programs, (Federal Pell Grant, Federal SEOG, and Federal Work Study). <br/>
             <p><a href="http://www.dinecollege.edu/finaid/financial-aid.php">Din&#233; Financial Aid Pell Grants</a></p>

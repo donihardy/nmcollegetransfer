@@ -43,7 +43,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>In general, admission requirements as a regular degree seeking student are listed below. Note, however, that after submitting an Application for Admission we will contact you and let you know exactly what you need to submit. If you have any questions concerning this process please contact the Admissions Office at <a href="tel:1-575-439-3700">(575) 439-3700</a> or via email at <a href="mailto:admissNMSUA@nmsu.edu">admissNMSUA@nmsu.edu</a>.</p>
             <p><ul><li>The completion of an Application for Admission. There is a one-time application fee of $20 that will be charged at the time of registration.</li>

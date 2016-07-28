@@ -46,7 +46,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Tsaile and Shiprock Campuses have a Certifying official to assist veteran students with using their educational benefits. Diné College curricula and courses are approved by the Arizona and New Mexico Veterans Commission State Approving Agencies. For additional information contact the Student Services Program at the Tsaile or Shiprock Campuses.</p>
           <p><a href="http://www.dinecollege.edu/services/student-services.php">Student Services</a></p>

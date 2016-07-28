@@ -41,7 +41,7 @@
             </ol>
           </div>
           <div class="container-fluid">
-            <div class="textbody"><h3>NMSU Carlsbad Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+            <div class="textbody"><h3>NMSU Carlsbad Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
               <h4 id="geninfo">Advising General Info</h4>
               <p>The Counseling & Student Development Center (CSDC), room 107, supports students step by step through their college experience through:</p>
               <ul><li>Academic Advising</li>

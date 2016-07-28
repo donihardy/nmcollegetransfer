@@ -43,7 +43,7 @@
       </div>
       <div class="container-fluid">
         <div class="textbody">
-          <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="requirements">Requirements</h4>
           <p>Any student wishing to obtain a certificate or an associate degree must first apply for regular admission, and submit an official high school transcript indicating a graduation date from an accredited secondary school; OR submit an official transcript of General Education Development (GED) test results.</p>
           <p>Luna Community College is an open-admission, certificate and associate degree granting institution which provides access to higher education.</p>

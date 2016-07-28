@@ -42,7 +42,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <p>Students at SIPI can receive aid through grants, work-study and other programs, most of which are based on need. Once the Financial Aid Office determines how much and what kind of aid a student may be eligible to receive, a financial aid package is prepared to meet the student's need. Financial Aid Programs include:</p>
           <p><a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Pell Grant Info</a></p>

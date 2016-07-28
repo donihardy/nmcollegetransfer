@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>A Federal Pell Grant, unlike a loan, does not have to be repaid. Federal Pell Grants usually are awarded only to undergraduate students who have not earned a bachelor’s or a professional degree.</p>
             <p><a href="http://www.gallup.unm.edu/vert/paying-college/financial-aid/grants.php">UNM Gallup Financial Aid Pell Grant Info</a></p>

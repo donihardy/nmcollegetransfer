@@ -44,7 +44,7 @@
       </div>
       <div class="container-fluid">
         <div class="textbody">
-          <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="requirements">Requirements</h4>
           <p><ol><li>Complete an online admissions application - 
             <li>Official high school transcripts or a GED confirming high school graduation are to be sent directly to the College. Students who have attended another college or university should request official transcripts from each institution.</li>

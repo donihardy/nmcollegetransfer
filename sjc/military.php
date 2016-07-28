@@ -43,7 +43,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <p>San Juan College Veteran Center provides veterans with transitional assistance to promote goal achievement through a quality educational experience necessary to become competitive, adaptable, and successful in an ever-changing civilian environment.<p/>
             <a href="https://www.sanjuancollege.edu/student-services/departments/veterans-center/">San Juan College Veteran Center</a>
           </div>

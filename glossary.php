@@ -25,6 +25,7 @@
   </ol></div>
 
   <div class="textbody"><h3>Glossary of Terms</h3>
+  <p>Insert explanation</p>
     <table class="glossarytable">
     <th>Academics</th>
     <tr><td><i>Academic Advisors:</i></td><td>Advisors</td><td>Coaches</td><td>Counselors</td></tr>

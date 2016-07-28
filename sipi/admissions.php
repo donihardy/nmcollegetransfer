@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>Southwestern Indian Polytechnic Institute (SIPI) accepts as students American Indian and Alaskan Natives, who must meet one of two tribal affiliation criteria:
               <ol type="1"><li>Verification of US Federal tribal membership from a Bureau of Indian Affairs (BIA) agency or tribal census office; or</li>

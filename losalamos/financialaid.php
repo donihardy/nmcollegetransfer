@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#financialaid"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Grants are awarded based on need as determined by your FAFSA and do not have to be paid back. These include the Federal Pell Grant, Federal Supplemental Educational Opportunity Grant ( SSEOG) and the State Student Incentive Grant ( SSIG). In order to be eligible for SEOG and SSIG, students must have their FAFSA in by March 1.</p>
             <p><a href="http://losalamos.unm.edu/students/financial-aid/index.html">UNM Los Alamos Financial Aid Pell Grant Info</a></p>

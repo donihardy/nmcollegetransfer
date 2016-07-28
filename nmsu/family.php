@@ -43,7 +43,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus</h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>One of the most beneficial things you can do for yourself while in college is to live on campus. Studies show time-and-time again that students who live on campus are making a choice that positively impacts their lives, enriches their day-to-day interactions, and makes their educational experience more fulfilling. Whether you are an undergraduate or a graduate student, single or married, with or without children, you are sure to find a place to call home at New Mexico State University.</p>
           <p><a href="http://housing.nmsu.edu/">Housing</a></p>

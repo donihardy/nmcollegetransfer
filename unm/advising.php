@@ -42,7 +42,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The University of New Mexico is a unique campus for advising. We currently have twelve Colleges and five Student Affairs advising centers each with their own unique approach to advising students. The various advising center utilizes a different advising approach from prescription to developmental advising, holistic to appreciative advising, or intrusive to advising as teaching.</p>
             <p>The mission of this office is to work collaboratively with each academic advising unit to enhance the quality of academic advising for students at the University of New Mexico.</p>

@@ -24,15 +24,14 @@
       VETERANS QUICK FACTS
     </li>
   </ol>
+<div class="textbody">
 
-
-             <div class="col-lg-12">
+                <div class="col-lg-12">
           <div class="panel panel-default">
             <div class="panel-heading"><h3>Veterans and Military Quick Facts</h3></div>
             <div class="panel-body">
 <table class="table table-condensed" style="border-collapse:collapse;">
-<div>Explanation</div>
-<hr>
+<p>Insert Explanation</p>
     <thead>
         <tr>
             <th class="schooltitle">4 Year Schools</th>

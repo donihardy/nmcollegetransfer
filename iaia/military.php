@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="veterans">Veterans &#38; Active Duty</h4>
           <p>The Student Success Center offers Veteran Educational Benefit Services.</p>
           <a href="https://iaia.edu/student-success-center/">Student Success Center</a>

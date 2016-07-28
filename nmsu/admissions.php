@@ -45,7 +45,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>You are eligible for regular admission to NMSU if you are a graduate of an accredited high school, have met the minimum high school course requirements listed below and meet one of the following GPA (grade point average)/test score requirements.</p>
             <p><a href="http://nmsu.edu/admissions.html">NMSU Transfer Admissions Requirements</a><br />

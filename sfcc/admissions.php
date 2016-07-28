@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>You must apply to SFCC and complete an ADMISSION FORM before you register for classes.</p>
             <ul><li>Click here to apply to <a href="https://sfccssb.sfcc.edu/PROD/bwskalog.P_DispLoginNew">SFCC ONLINE</a></li>

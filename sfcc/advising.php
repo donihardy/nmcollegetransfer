@@ -42,7 +42,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>SFCC Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>SFCC Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="geninfo">Advising General Info</h4>
           <p>At SFCC there are three groups of professionals who regularly provide academic advising: the Welcome and Advising Center advisers, counselors and faculty members. In general, individuals in any of these groups can help you but each may also provide specialized assistance.</p>
           <p><a href="http://www.sfcc.edu/academic_advising">SFCC Advising</a></p>

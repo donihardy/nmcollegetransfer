@@ -43,7 +43,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMSU Alamogordo Advising <a href="../questions.php#advising"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMSU Alamogordo Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Advising Office is in the Student Services building. The Advising Staff is available to help you understand your degree plans and ensure you are registering for the courses you need to graduate. Advisors are available Monday through Friday.</p>
             <p>The beginning of the semester is the busiest time for the Advisors; therefore, mid-semester is a great time to talk to our advisors!

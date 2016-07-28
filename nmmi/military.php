@@ -42,7 +42,7 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty</h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
 
           <p>Recipients of 2-year ROTC scholarships will receive financial assistance for 2-years in their pursuit of an Associate’s degree from NMMI and a commission in the U.S. Army. During the two-year duration of the scholarship the Army will pay college tuition or room and board, whichever is chosen by the cadet. Additionally, a flat rate of $1,200 per year is provided to purchase textbooks, classroom supplies and equipment. Contracted cadets also receive a monthly tax-free subsistence allowance (MS3 = $450 per month; MS4 = $500 per month).Cadets will be commissioned in the USAR and assigned to a Troop Program Unit (TPU) (paragraph 2-16, AR 140-10) upon graduation from NMMI provided all eligibility requirements are met.<p/>
             <p><a href="https://www.nmmi.edu/rotc/"> ROTC</a></p>

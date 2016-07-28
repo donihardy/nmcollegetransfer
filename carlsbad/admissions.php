@@ -44,7 +44,7 @@
           </div>
           <div class="container-fluid">
             <div class="textbody">
-              <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+              <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
               <h4 id="requirements">Admission Requirements</h4>
               <p>Apply for Admission and Financial Aid</p>
               <p><ul><li>Student Services and Financial Aid, Room 111. Admissions: 234-9222, Financial Aid: 234-9230</li>

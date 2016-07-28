@@ -43,7 +43,7 @@
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Life on Campus</h3>
+        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
         <h4 id="housing">Housing</h4>
         <p>No information found.</p>
         <!--<p><a href="#">Housing</a></p>-->

@@ -43,7 +43,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus</h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>As a student, you need a safe environment that gives you privacy, quiet time and a place to keep your stuff. You also need a place where you can feel comfortable hanging out with your friends, listen to music, or do whatever it is that you do to relax. You will find just the environment you need in our three residence halls and 300 apartments.</p>
 

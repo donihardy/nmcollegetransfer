@@ -44,7 +44,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#admissions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>All applicants may send partial/unofficial transcripts or report cards to expedite the admissions process and then have official transcripts sent at the completion of the current semester. Junior college applicants must have a final high school transcript showing graduation date and GPA or GED results and transcripts for any college work. Please have transcripts sent directly to our office by the school. Will complete our admission examination during their campus visit. Domestic applicants must also submit an English test (this can be any standardized English test taken in school). Students who took the SSAT or other standardized tests should submit those scores to NMMI.</p>
             <p><a href="http://www.nmmi.edu/admissions/Admissions_Process.htm">NMMI Admissions Requirements</a>
