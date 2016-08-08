@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO TAOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage taosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -51,17 +46,17 @@
               <h5>Social and Behavioral Sciences (minimum 6 credit hours):</h5>Two courses chosen from American Studies 182, 185; Anthropology 101, 130; Community and Regional Planning 181; Economics 105, 106; Engineering-F 200; Geography 102; Linguistics 101 (AOA Anthropology 110); Political Science 110, 200, 220, 240; Psychology 105; Sociology 101. 
               <h5>Humanities (6 credit hours):</h5> American Studies 186; Classics 107, 204, 205; Comparative Literature and Cultural Studies 222, 224; English 150, 292, 293; Foreign Languages (MLNG) 101; History 101L, 102L, 161, 162, 181, 182; Honors Legacy Seminars at the 100- and 200-level; Philosophy 101, 201, 202; Religious Studies 107, 263, 264.
               <h5> Foreign Language (non-English language; minimum 3 credit hours):</h5> One course chosen from any of the lower-division non-English language offerings of the Departments of Linguistics (including Sign Language), Spanish and Portuguese, Foreign Languages and Literatures, and foreign languages in other departments and programs.
-              <h5>Fine Arts (minimum of 3 credit hours):</h5> One course chosen from Architecture 121; Art History 101, 201, 202; Dance 105; Fine Arts 284; Media Arts 210; Music 139, 142; Theatre 122. Students may elect to take one 3-hour studio course offered by the Departments of Art and Art History, Music, Theatre and Dance, and Media Arts to fulfill this requirement.</div><br />   
-              <a href="http://taos.unm.edu/catalog/core-curriculum.html">UNM Taos Basic Core</a>
-              <h4 id="as">Certificates</h4>
+              <h5>Fine Arts (minimum of 3 credit hours):</h5> One course chosen from Architecture 121; Art History 101, 201, 202; Dance 105; Fine Arts 284; Media Arts 210; Music 139, 142; Theatre 122. Students may elect to take one 3-hour studio course offered by the Departments of Art and Art History, Music, Theatre and Dance, and Media Arts to fulfill this requirement.</div>  
+              <p>Visit: <a href="http://taos.unm.edu/catalog/core-curriculum.html">UNM Taos Basic Core</a></p>
+              <h4 id="cert">Certificates</h4>
               <p>Information Technology</p>
-              <a href="http://taos.unm.edu/catalog/degrees-certificates.html">UNM Taos Certificates</a>
+              <p>Visit: <a href="http://taos.unm.edu/catalog/degrees-certificates.html">UNM Taos Certificates</a></p>
 
               <h4 id="as">Associates Degrees</h4>
               <p>Pre-Science AS<br />
                 Digital Media Arts AAS<br />
               </p>
-              <a href="http://taos.unm.edu/catalog/degrees-certificates.html">UNM Taos Associates Degrees</a>
+              <p>Visit: <a href="http://taos.unm.edu/catalog/degrees-certificates.html">UNM Taos Associates Degrees</a></p>
             </div>
           </div>
 

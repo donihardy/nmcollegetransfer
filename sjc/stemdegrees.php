@@ -1,15 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SAN JUAN COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">
 
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -60,7 +55,7 @@
               Mathematics<br />
               Occupational Safety<br />
               Petroleum Production Operations<br />        
-              Physics
+              Physics</p>
             </div>
           </div>
 

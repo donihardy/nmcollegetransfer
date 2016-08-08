@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -48,21 +43,19 @@
             <p>The Common Core Requirements:</p>
             <p><strong>AREA I: COMMUNICATIONS ((select one course from each sub group, for
               a total of 9–10 credits)</strong><br>
-              <table class="basiccore" width="90%"><th>English Composition - Level 1</th>
+              <table class="basiccore" style="width: 90%"><tr><td colspan="2"><strong>English Composition - Level 1</strong></td></tr>
                 <tr><td>ENGL 111G, Rhetoric and Composition</td><td>4</td></tr>
-              </table><br />
-              <table class="basiccore" width="90%"><th>English Composition - Level 2</th>
+              <tr><td colspan="2"><strong>English Composition - Level 2</strong></td></tr>
                 <tr><td>ENGL 203G, Business and Professional Communication</td><td>3</td></tr>
                 <tr><td>ENGL 211G, Writing in the Humanities and Social 
                   Sciences</td><td>3</td></tr>
                   <tr><td>ENGL 218G, Technical and Scientific Communication</td><td>3</td></tr>
-                </table><br />
-                <table class="basiccore" width="90%"><th>Oral Communication</th>
+                <tr><td colspan="2"><strong>Oral Communication</strong></td></tr>
                   <tr><td>COMM 253G, Public Speaking</td><td>3</td></tr>
                   <tr><td>COMM 265G, Principles of Human
                     Communication</td><td>3</td></tr></table><br />
                     <p><strong>AREA II: MATHEMATICS/ALGEBRA (Select 3-4 credits)</strong></p>
-                    <table class="basiccore" width="90%"><tr><td>A ST/STAT 251G, Statistics for Business and Behavioral
+                    <table class="basiccore" style="width: 90%"><tr><td>A ST/STAT 251G, Statistics for Business and Behavioral
                       Sciences</td><td>3</td></tr>
                       <tr><td>MATH 112G, Fundamentals of Elementary Math II</td><td>3</td></tr>
                       <tr><td>MATH 121G, College Algebra</td><td>3</td></tr>
@@ -74,7 +67,7 @@
                         <tr><td>MATH 210G, Mathematics Appreciation</td><td>3</td></tr>
                       </table><br />
                       <p><strong>AREA III: LABORATORY SCIENCE (Select 8 credits)</strong></p>
-                      <table class="basiccore" width="90%">
+                      <table class="basiccore" style="width: 90%">
                         <tr><td>ASTR 105G, The Planets</td><td>4</td></tr>
                         <tr><td>ASTR 110G, Introduction to Astronomy</td><td>4</td></tr>
                         <tr><td>BIOL 101G + GL, Human Biology</td><td>4</td></tr>
@@ -89,7 +82,7 @@
                       </table><br />
                       <p><strong>AREA IV: SOCIAL/BEHAVIORAL SCIENCE (Select 6-9
                         credits)</strong></p>
-                        <table class="basiccore" width="90%">
+                        <table class="basiccore" style="width: 90%">
                           <tr><td>ANTH 120G, Human Ancestors</td><td> 3</td></tr>
                           <tr><td>ANTH 125G, Introductions to World Cultures</td><td> 3</td></tr>
                           <tr><td>ANTH 201G, Introduction to Anthropology</td><td> 3</td></tr>
@@ -101,7 +94,7 @@
                             <tr><td>ECON 251G, Principles of Macroeconomics</td><td> 3</td></tr>
                             <tr><td>ECON 252G, Principles of Microeconomics</td><td> 3</td></tr>
                             <tr><td>GEOG 120G, Culture and Environment</td><td> 3</td></tr>
-                            <tr><td>GOVT 100G, American National Government</td><td> 3</li>
+                            <tr><td>GOVT 100G, American National Government</td><td> 3</td></tr>
                               <tr><td>GOVT 110G, Introduction to Political Science</td><td> 3</td></tr>
                               <tr><td>GOVT 150G, American Political Issues</td><td> 3</td></tr>
                               <tr><td>JOUR 105G, Media and Society</td><td> 3</td></tr>
@@ -114,7 +107,7 @@
                               <tr><td>W S 202G, Representing Women Across Cultures</td><td> 3</td></tr></table><br />
                               <p><strong>AREA V: HUMANITIES AND FINE ARTS (Select 6-9
                                 credits)</strong></p>
-                                <table class="basiccore" width="90%">
+                                <table class="basiccore" style="width: 90%">
                                   <tr><td>ART 101G, Orientation in Art</td><td> 3</td></tr>
                                   <tr><td>ART 110G, Visual Concepts </td><td> 3</td></tr>
                                   <tr><td>ART 295G, Introduction to Art History I </td><td> 3</td></tr>
@@ -132,9 +125,9 @@
                                     <tr><td>PHIL 211G, Informal Logic </td><td> 3</td></tr>
                                     <tr><td>PHIL 223G, Ethics </td><td> 3</td></tr>
                                     <tr><td>THTR 101G, Introduction to Theatre </td><td> 3</td></tr></table>
-                                  </p></p>
-                                  <a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">NMSU Dona Ana Catalog</a>
-                                  <h4 id="as">Certificates</h4>
+                                  
+                                  Visit: <a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">NMSU Dona Ana Catalog</a>
+                                  <h4 id="cert">Certificates</h4>
                                   <p> Aerospace Technology<br />
                                     Automation and Manufacturing Technology<br />
                                     Automotive Technology<br />
@@ -147,7 +140,7 @@
                                     Health Information Technology<br />
                                     Heat, Ventilation, A/C, & Refrigeration<br />
                                     Water Technology</p>
-                                    <a href="https://dacc.nmsu.edu/programs-alpha/">NMSU Do&#241;a Ana Certificates</a>
+                                    Visit: <a href="https://dacc.nmsu.edu/programs-alpha/">NMSU Do&#241;a Ana Certificates</a>
                                     <h4 id="as">Associates Degrees</h4>
                                     <p> Aerospace Technology AAS<br />
                                       Automation and Manufacturing Technology AAS<br />
@@ -164,7 +157,7 @@
                                       Public Health AAS<br />
                                       Science AS<br />
                                       Water Technology Associate of Water Technology</p>
-                                      <a href="https://dacc.nmsu.edu/programs-alpha/">NMSU Do&#241;a Ana Associates Degrees</a>
+                                      Visit: <a href="https://dacc.nmsu.edu/programs-alpha/">NMSU Do&#241;a Ana Associates Degrees</a>
                                       
                                     </div>
                                   </div>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage unmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,7 +40,7 @@
           <div class="textbody">
 
             <h3>STEM DEGREES</h3>
-            <p><h4>Science Majors</h4></p>
+            <h4>Science Majors</h4>
             Biology<br />
             Biochemistry<br />
             Chemistry<br />
@@ -53,7 +48,7 @@
             Environmental Science<br />
             Physics<br />
             Nutrition &amp; Dietetics<br />
-            <p><h4>Engineering Majors</h4></p>
+            <h4>Engineering Majors</h4>
             Chemical Engineering<br />
             Civil Engineering<br />
             Computer Engineering<br />
@@ -62,7 +57,7 @@
             Electrical Engineering<br />
             Mechanical Engineering<br />
             Nuclear Engineering<br />
-            <p><h4>Mathematics Majors</h4></p>
+            <h4>Mathematics Majors</h4>
             Applied Math<br />
             Pure Math<br />
             Math Education<br />

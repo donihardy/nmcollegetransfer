@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -NEW MEXICO JUNIOR COLLEGE</title>
-
-<body>
+  <body>
   <div class="container-fluid">
     <header class="bgimage nmjcbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -44,22 +38,21 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <P>The three types of grants available at NMJC are Pell Grants, SEOG and NMSIG.</p>
-            <p><a href="http://www.nmjc.edu/studentservices/financialaid/scholarshipsandgrants.aspx">NMJC Financial Aid Pell Grants</a></p>
-            <h4 id="pellgrant">Loans</h4>
+            <p>Visit: <a href="http://www.nmjc.edu/studentservices/financialaid/scholarshipsandgrants.aspx">NMJC Financial Aid Pell Grants</a></p>
+            <h4 id="loans">Loans</h4>
             <p>The New Mexico Junior College participates in the Direct Lending Program, offering subsidized and unsubsidized loans to eligible students.</p>
-
             <p>The Direct Loan Program at New Mexico Junior College is a three step process. Feel free to contact us at <a href="1-575-392-5172">(575) 392-5172</a> for additional information or assistance.</p>
-            <p><a href="http://www.nmjc.edu/studentservices/financialaid/loans.aspx">NMJC Financial Aid Loans</a></p>
+            <p>Visit: <a href="http://www.nmjc.edu/studentservices/financialaid/loans.aspx">NMJC Financial Aid Loans</a></p>
             <h4 id="scholarship">Scholarships</h4>
             <p>Scholarships are offered by Enrollment Services, the NMJC Foundation, and various academic/athletic departments. The Office of Financial Aid administers these funds after they have been awarded. You may also receive scholarships from outside sources. You can also check the scholarship bulletin boards located throughout campus buildings for postings of available scholarships.</p>
-            <p><a href="http://www.nmjc.edu/studentservices/financialaid/scholarshipsandgrants.aspx">NMJC Financial Aid Scholarships</a></p>
+            <p>Visit: <a href="http://www.nmjc.edu/studentservices/financialaid/scholarshipsandgrants.aspx">NMJC Financial Aid Scholarships</a></p>
             <h4 id="deadlines">Deadlines</h4>
             <p>Preferably by <b>Feb. 14 </b>for the FAFSA Application.<br />
               Scholarships have different due dates.</p>
-              <p><a href="http://www.nmjc.edu/studentservices/financialaid/faqs.aspx">NMJC Financial Aid Deadlines</a></p>
+              <p>Visit: <a href="http://www.nmjc.edu/studentservices/financialaid/faqs.aspx">NMJC Financial Aid Deadlines</a></p>
               <p><strong>School code: 002655</strong></p>
             </div>
           </div>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO GALLUP</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage gallupbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,9 +40,10 @@
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
             <div class="subtitle"><div class="transfer">         
-              <a href="http://admissions.unm.edu/future_students/branch-transition.html">UNM Branch Transition</a></p>
+              <p>Visit: <a href="http://admissions.unm.edu/future_students/branch-transition.html">UNM Branch Transition</a></p>
             </div>
           </div></div>
+          </div>
 
           <?php //Begin Side Menu ?>
           <?php require '../includes/sidemenu.php'; ?>

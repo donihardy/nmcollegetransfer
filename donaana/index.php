@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -43,8 +38,8 @@
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/donaana.jpg"  alt="Responsive Image">
             <p>DACC is a responsive and accessible learning-centered community college that provides educational opportunities to a diverse community of learners in support of workforce and economic development.</p>
             <p></p>
-            <p><a href="http://dacc.nmsu.edu/">NMSU Do&#241;a Ana Website</a><br />
-              <a href="https://www.google.com/maps/place/Do%C3%B1a+Ana+Branch+C.C.Main+Bldg,+Las+Cruces,+NM+88003/@32.275804,-106.7572643,17z/data=!3m1!4b1!4m2!3m1!1s0x86de17bbbad20305:0xf55579abc57f02dd?hl=en">NMSU Do&#241;a Ana Central Map</a></p>
+            <p>Visit: <a href="http://dacc.nmsu.edu/">NMSU Do&#241;a Ana Website</a><br />
+              Visit: <a href="https://www.google.com/maps/place/Do%C3%B1a+Ana+Branch+C.C.Main+Bldg,+Las+Cruces,+NM+88003/@32.275804,-106.7572643,17z/data=!3m1!4b1!4m2!3m1!1s0x86de17bbbad20305:0xf55579abc57f02dd?hl=en">NMSU Do&#241;a Ana Central Map</a></p>
 
             </div>
           </div>

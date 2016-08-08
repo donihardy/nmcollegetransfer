@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -82,28 +77,28 @@
                       in the military can also be evaluated for course credit. Contact Academic
                       Advising <a href="tel:1-575-528-7272"> (575-528-7272) </a>for more information.</p>
                       <h4 id="commoncore">Common Core Courses</h4>
-                      <a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">Catalog</a> - page 31.<br />
-                      <a href="file:///F:/STEM%20UP/STEM%20UP/UNM_Doni/TransferWebsite/NM%20College%20Transfer/nmcommoncore.html">NM Common Core</a>
+                      Visit: <a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">Catalog</a> - page 31.<br />
+                      Visit: <a href="file:///F:/STEM%20UP/STEM%20UP/UNM_Doni/TransferWebsite/NM%20College%20Transfer/nmcommoncore.html">NM Common Core</a>
                       <h4 id="actsat">ACT/SAT</h4>
                       <p>ACT/SAT scores that are less than 2 years old may be accepted in lieu of the COMPASS assessment and it is not required for you to take the assessment.</p>
                       <p>ACT school code: 2651<br />
                         SAT school code: 6296</p>
                         <h4 id="moreinfo">Request More Info</h4>
-                        <p><a href="http://dacc.nmsu.edu/admissions/contact-us/">Contact us</a><br />
-                          <a href="http://dacc.nmsu.edu/admissions/request-information/">Request Information form</a>
+                        <p>Visit: <a href="http://dacc.nmsu.edu/admissions/contact-us/">Contact NMSU Do&#241;a Ana</a><br />
+                          Visit: <a href="http://dacc.nmsu.edu/admissions/request-information/">Request Information form</a>
 
                           <h4 id="2+2">Transfer Agreements</h4>
-                          <p><a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">DACC Catalog</a> - page 32</p>
+                          <p>Visit: <a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">DACC Catalog</a> - page 32</p>
                           <h4 id="dual">High School Dual Enrollment</h4>
                           <p>The DACC Dual Credit Program allows high school students to explore college opportunities as well as get a head start on their college education.  Through this program students have the opportunity to receive college and high school credits at the same time.  Let DACC be part of your college transition!</p>
-                          <p>Student Benefits –<br />
+                          <p>Student Benefits –</p>
                             <ul><li>Earn college and high school credit at the same time</li>
                               <li>Smoother transition from high school to college</li>
                               <li>Explore courses that are not offered at your high school</li>
                               <li>Earn credits towards a DACC degree or certificate</li>
                               <li>TUITION AND BOOKS ARE FREE!!</li></ul>
-                            </p>
-                            <a href="https://dacc.nmsu.edu/dualcredit/">NMSU Do&#241;a Ana Dual Enrollment Page</a>
+                            
+                            Visit: <a href="https://dacc.nmsu.edu/dualcredit/">NMSU Do&#241;a Ana Dual Enrollment Page</a>
 
                           </div>
                         </div>

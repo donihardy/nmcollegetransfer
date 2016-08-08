@@ -1,13 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NMMI</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -41,8 +37,8 @@
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/nmmi.jpg"  alt="Responsive Image">
             <p>Located in Roswell, New Mexico, the New Mexico Military Institute offers a rich history and tradition of educating tomorrow’s leaders through a program of strong, challenging academics, leadership preparation, and character development. Known as “The West Point of the West,” NMMI remains the only state-supported co-educational college preparatory high school and junior college in the United States. Serving the educational needs of an international student population, the Institute has strict admissions standards that yearly result in an enrollment of approximately 1,000 students who come from 43 states, the District of Columbia, and 13 foreign nations.</p>
             <p>"ACHIEVEMENT BEGINS WITH THE DESIRE TO BE GREATER THAN YOU ARE TODAY"</p>
-            <p><a href="http://www.nmmi.edu">NMMI Website</a><br />
-              <a href="https://www.nmmi.edu/map/campus_map.pdf">Map</a></p>
+            <p>Visit: <a href="http://www.nmmi.edu">NMMI Website</a><br />
+              Visit: <a href="https://www.nmmi.edu/map/campus_map.pdf">NMMI Map</a></p>
 
             </div>
           </div>

@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/unmtaosbanner.png" alt="UNM Taos Banner"></div>
       </div>
     </div>
@@ -29,6 +29,5 @@
       <div class="row"><img src="images/monica.jpg"  alt="CNM" class="teamimg img-responsive pull-left  col-md-2"><h4>MONICA NUNEZ-FLETCHER</h4><div class="bio col-md-8">Monica joins the STEM UP Cooperative grant as the Director.</div></div>
       <div class="row"><img src="images/doni.jpg"  alt="CNM" class="teamimg img-responsive pull-left  col-md-2"><h4>DONI HARDY</h4><div class="bio col-md-8">Doni is the web &#38; graphic designer for the STEM UP Grant.</div></div>
     </div>
-     <div class="clear"></div>
-    <div class="container">
+      <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,8 +37,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>Navajo Technical University</h3>
-          <h6>Lowerpoint Rd State Hwy 371 | Crownpoint, NM 87313 | <a href="tel:1-505-786-4100">(505) 786-4100</a></h6>
+        <div class="textbody"><h3>Navajo Technical University</h3>
+          <h6>Lowerpoint Rd State Hwy 371 | Crownpoint, NM 87313 | <a href="tel:1-505-786-4100">(505) 786-4100</a></h6><br />
+          <table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://www.navajotech.edu">www.navajotech.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>4-year, primarily associates, Public</td></tr>
           <tr><td><h4>Awards offered:</h4></td>

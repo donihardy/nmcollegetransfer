@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,12 +41,12 @@
             <h3>Agreements with Other Schools</h3>
             <P>Clovis Community College participates in the state of New Mexico's statewide articulation agreement. This agreement as defined under state law (Chapter 21, Article 1B NMSA 1978) has established policies to guarantee successful transfer of completed core courses between New Mexico postsecondary public institutions.</p>
               <p><strong>Top Transfer Schools for CCC Students:</strong></p>
-              <p><ul><li>Eastern New Mexico University</li>
+              <ul><li>Eastern New Mexico University</li>
                 <li>Wayland Baptist University-Clovis</li>
                 <li>West Texas A&M University</li>
                 <li>Texas Tech University</li>
-                <li>University of New Mexico</li></ul></p>
-                <p><a href="http://www.clovis.edu/advising/transfer.aspx">Transferring Schools</a></p>
+                <li>University of New Mexico</li></ul>
+                <p>Visit: <a href="http://www.clovis.edu/advising/transfer.aspx">Transferring Schools</a></p>
               </div></div>
               
               <?php //Begin Side menu ?>

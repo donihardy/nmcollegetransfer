@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,17 +37,17 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>The Pell Grant Program is funded by the Federal government. It is the largest federal grant program that provides money to help undergraduates pay for college education. Grants are gift aid and do not have to be repaid.</p>
 
-            <p><a href="http://www.clovis.edu/financialaid/pell.aspx">CCC Financial Aid Pell Grants</a></p>
-            <h4 id="pellgrant">CCC Loan Website</h4>
+            <p>Visit: <a href="http://www.clovis.edu/financialaid/pell.aspx">CCC Financial Aid Pell Grants</a></p>
+            <h4 id="loans">CCC Loan Website</h4>
             <p>Federal student loans available at CCC offer low-interest educational loans to assist college students with their college expenses.</p>
-            <p><a href="http://www.clovis.edu/financialaid/studentloans.aspx">Loans</a></p>
+            <p>Visit: <a href="http://www.clovis.edu/financialaid/studentloans.aspx">Loans</a></p>
             <h4 id="scholarship">Scholarships</h4>
             <p>These scholarships are available through a separate application process from a variety of sources. This list is updated a few times each year, so be sure to check back each semester.</p>
-            <p><a href="http://www.clovis.edu/financialaid/scholarships.aspx">CCC Financial Aid Scholarships</a></p>
+            <p>Visit: <a href="http://www.clovis.edu/financialaid/scholarships.aspx">CCC Financial Aid Scholarships</a></p>
             <h4 id="deadline">Deadline</h4>
             <p>Priority is given to students with the highest unmet need who have completed their Pell Grant file by May 1.</p>
             <h4 id="schoolcode">CCC School Code</h4>

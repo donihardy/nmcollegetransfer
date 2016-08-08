@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-    - SANTA FE COMMUNITY COLLEGE</title>
-
-    <body>
+  <body>
         <div class="container-fluid">
           <header class="bgimage sfccbgimage">
-            <img class="container-fluid">
-            <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+           
             <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
         </header>
     </div>
@@ -46,8 +41,8 @@
     <h4 id="basiccore">Basic Core</h4>
     <p>THE LOWER-DIVISION GENERAL EDUCATION
       COMMON CORE (NMGECC)</p>
-      <table class="basiccore" width="100%">
-        <tr class="title"><th>Area I: Communications</th><th>NMCCNS</strong></th><th>Select nine semester hours</ths></tr>
+      <table class="basiccore" style="width: 90%">
+        <tr class="title"><th>Area I: Communications</th><th>NMCCNS</th><th>Select nine semester hours</th></tr>
         <tr><td>ENGL 111</td><td>ENGL 1113</td><td>(3)</td></tr>
         <tr><td>ENGL 112</td><td>ENGL 1123</td><td>(3)</td></tr>
         <tr><td>ENGL 119</td><td></td><td>(3)</td></tr>
@@ -56,8 +51,7 @@
         <tr><td>SPCH 220</td><td>COMM 2123 </td><td> (3)</td></tr>
         <tr><td>SPCH 225</td><td> </td><td> (3)</td></tr>
         <tr><td>SPCH 235</td><td> </td><td> (3)</td></tr>
-        <tr><td><p></p></td></tr>
-        <tr><th>Area II: Mathematics</th><th>NMCCNS</strong></th><th>Select three semester hours</ths></tr>
+        <tr><th>Area II: Mathematics</th><th>NMCCNS</th><th>Select three semester hours</th></tr>
         <tr><td>MATH 119 (may not transfer) </td><td> </td><td> (3)</td></tr>
         <tr><td>MATH 121 </td><td>MATH 1114</td><td> (4)</td></tr>
         <tr><td>MATH 135 </td><td>MATH 2113</td><td> (3)</td></tr>
@@ -68,8 +62,7 @@
         <tr><td>MATH 180 </td><td> </td><td> (4)</td></tr>
         <tr><td>MATH 181 </td><td> </td><td> (4)</td></tr>
         <tr><td>MATH 264 </td><td>MATH 2614</td><td> (4)</td></tr>
-        <tr><td><p></p></td></tr>
-        <tr><th>Area III: Sciences</th><th>NMCCNS</strong></th><th>Select eight semester hours</ths></tr>
+        <tr><th>Area III: Sciences</th><th>NMCCNS</th><th>Select eight semester hours</th></tr>
         <tr><td>ASTR 111/111L</td><td> ASTR 1113/ASTR 1111</td><td> (4)</td></tr>
         <tr><td>BIOL 111/111L</td><td> </td><td> (4)</td></tr>
         <tr><td>BIOL 114/114L</td><td>ENVS 1113/ENVS 1111 </td><td> (4)</td></tr>
@@ -88,8 +81,8 @@
         <tr><td>PHYS 122/122L</td><td> PHYS 1123/PHYS 1121</td><td> (4)</td></tr>
         <tr><td>PHYS 161/161L</td><td> PHYS 1213/PHYS 1211</td><td> (4)</td></tr>
         <tr><td>or PHYS 162/162L</td><td> PHYS 1223/PHYS 1221</td><td> (4)</td></tr>
-        <tr><td><p></p></td></tr>
-        <tr><th>Area IV: Social/<br />Behavioral Sciences</th><th>NMCCNS</strong></th><th>Select six to nine semester hours*</ths></tr>   <tr><td>ANTH 111</td><td>ANTH 1113 </td><td>3)</td></tr>
+        <tr><th>Area IV: Social/<br />Behavioral Sciences</th><th>NMCCNS</th><th>Select six to nine semester hours*</th></tr>
+        <tr><td>ANTH 111</td><td>ANTH 1113 </td><td>3)</td></tr>
         <tr><td>ANTH 112</td><td>ANTH 2113 </td><td>3)</td></tr>
         <tr><td>ANTH 113</td><td>ANTH 2213 </td><td>3)</td></tr>
         <tr><td>ANTH 207</td><td>ANTH 2313 </td><td>3)</td></tr>
@@ -111,8 +104,7 @@
         <tr><td>SOCI 216</td><td> </td><td>3)</td></tr>
         <tr><td>SOCI 220</td><td>SOCI 2113 </td><td>3)</td></tr>
         <tr><td>SOCI 225</td><td>SOCI 2213 </td><td>3)</td></tr>
-        <tr><td><p></p></td></tr>
-        <tr><th>Area V: Humanities <br />and Fine Arts</th><th>NMCCNS</strong></th><th>Select six to nine semester hours*</ths></tr><tr><td>AMSL 111/111L</td><td> </td><td>4)</td></tr>
+        <tr><th>Area V: Humanities <br />and Fine Arts</th><th>NMCCNS</th><th>Select six to nine semester hours*</th></tr><tr><td>AMSL 111/111L</td><td> </td><td>4)</td></tr>
         <tr><td>ARBC 111/111L </td><td> </td><td>4)</td></tr>
         <tr><td>AHST 201 </td><td> ARTS 2113</td><td>3)</td></tr>
         <tr><td>AHST 202 </td><td> ARTS 2123</td><td>3)</td></tr>
@@ -183,11 +175,11 @@
         <tr><td>SPAN 286 or any literature  <br />course in English or any other modern
           language.</td><td> </td><td> (3)</td></tr></table>
           
-          *Choose a total of 15 semester hours from Area IV –
+          <p>*Choose a total of 15 semester hours from Area IV –
           Behavioral and Social Sciences and <br />Area V – Humanities,
           with a minimum of six semester hours in each area. </p>
-          <a href="http://www.sfcc.edu/files/catalog/2015_Catalog.pdf">Santa Fe Community College Catalog</a> - page 30
-          <h4 id="as">Certificates</h4>
+          Visit: <a href="http://www.sfcc.edu/files/catalog/2015_Catalog.pdf">Santa Fe Community College Catalog</a> - page 30
+          <h4 id="cert">Certificates</h4>
           <p>Computer and Network Security<br />
             Drafting Technologies<br />
             Engineering Technologies<br />
@@ -195,7 +187,7 @@
             Nutrition<br />
             Solar Energy<br />
             Water Treatment Operation</p>
-            <a href="http://www.sfcc.edu/about_SFCC/degrees_and_certificates">Santa Fe Community College Certificates</a>
+            Visit: <a href="http://www.sfcc.edu/about_SFCC/degrees_and_certificates">Santa Fe Community College Certificates</a>
 
             <h4 id="as">Associates Degrees</h4>
             <p>Biological Sciences<br />
@@ -209,7 +201,7 @@
               Physical Sciences<br />
               Water Treatment Operation           
           </p>
-          <a href="http://www.sfcc.edu/about_SFCC/degrees_and_certificates">Santa Fe Community College Associates Degrees</a>
+          Visit: <a href="http://www.sfcc.edu/about_SFCC/degrees_and_certificates">Santa Fe Community College Associates Degrees</a>
 
       </div>
   </div>

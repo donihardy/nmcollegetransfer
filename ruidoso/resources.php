@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuruidosobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,9 +40,9 @@
         <div class="textbody">
           <h3>Resources</h3>
           <h4>Student Resources</h4>
-          <p>The Student Success Center of ENMU- Ruidoso provides services and resources dedicated to the personal development and academic achievement of all students. The Student Success Center collaborates with constituents in the greater Ruidoso learning community to support student success. The purpose of the Student Success Center is to guide students in the development and practice of academic skills to empower their independent learning.<br />
-            <a href="http://ruidoso.enmu.edu/index.php/students/the-student-success-center-of-enmu-ruidoso">Student Success Center</a>
-            <p><a href="http://ruidoso.enmu.edu/index.php/students/computing-services">Computing Services</a></p>
+          <p>The Student Success Center of ENMU- Ruidoso provides services and resources dedicated to the personal development and academic achievement of all students. The Student Success Center collaborates with constituents in the greater Ruidoso learning community to support student success. The purpose of the Student Success Center is to guide students in the development and practice of academic skills to empower their independent learning.</p>
+            <p>Visit: <a href="http://ruidoso.enmu.edu/index.php/students/the-student-success-center-of-enmu-ruidoso">Student Success Center</a><br />
+            Visit: <a href="http://ruidoso.enmu.edu/index.php/students/computing-services">Computing Services</a></p>
             
           </div>
         </div>

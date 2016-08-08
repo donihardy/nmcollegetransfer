@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,7 +38,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMSU Do&#241;a Ana Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMSU Do&#241;a Ana Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Ten Steps to Successful Enrollment at DACC</p>
             <ol type="1"><li>Apply for Admission – DACC Admissions Office – (575) 527-7710</li>
@@ -60,13 +55,12 @@
                     <li>Get your Books – DACC Bookstore, DACL 170, (575) 527-7692 or
                       DAAR 102 (575) 528-7254</li>
                       <li>Attend Class – Work hard, use campus resources for success, and enjoy DACC!</li></ol>
-                    </p>
-                    <p><a href="http://dacc.nmsu.edu/advising/">NMSU Do&#241;a Ana Advising</a></p>
+                    <p>Visit: <a href="http://dacc.nmsu.edu/advising/">NMSU Do&#241;a Ana Advising</a></p>
                     <h4 id="appt">Schedule an Appointment</h4>
                     <p>Academic Advising hours are Monday – Friday. planning sessions, 8:30 a.m. – 4:00 p.m.
                       Appointments and walk-ins are both accommodated. The office operates exclusively on a walk-in basis the first week of each semester and during continuing student classification registration.</p>
-                      <p>Phone:<a href="tel:1-575-528-7272"> (575) 528-7272</p>
-                      <p><a href="http://dacc.nmsu.edu/advising/general-test/">NMSU Do&#241;a Ana Advising Appointment</a></p>
+                      <p>Phone:<a href="tel:1-575-528-7272"> (575) 528-7272</a></p>
+                      <p>Visit: <a href="http://dacc.nmsu.edu/advising/general-test/">NMSU Do&#241;a Ana Advising Appointment</a></p>
                     </div>
                   </div>
 

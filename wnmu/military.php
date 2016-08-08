@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - WESTERN NEW MEXICO UNIVERSITY</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,19 +37,18 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans &#38; Active Duty</h4>
           <p>The Veteran Services office is located within the Registrar’s Office. The Veteran Services office assists veterans, their eligible spouses and children to process their Veterans Affairs (VA) educational benefits.  The office is staffed by veterans who are currently enrolled as students and the Registrar’s serves as the Certifying Official at Western New Mexico University.</p>
           <p>Here you can get help with:</p>
           <p><strong>Eligibility</strong></p>
-          <p>Forms necessary to claim benefits<br />
+          <ul><li>Forms necessary to claim benefits.</li>
 
-            VA rules and regulations regarding educational benefits<br />
-            In-State Tuition waivers for those eligible veterans<br />
-            For more information: <a href="1-575-538-6116">575-538-6116</a></p>
-            <a href="http://registrar.wnmu.edu/veterans/">WNMU Veterans Services Office</a></p>
-              <!--<h4 id="veterans">Active Duty</h4>
-              <p>Info to come</p>-->
+            <li>VA rules and regulations regarding educational benefits</li>
+            <li>In-State Tuition waivers for those eligible veterans</li></ul>
+            <p>For more information: <a href="1-575-538-6116">575-538-6116</a></p>
+            <p>Visit: <a href="http://registrar.wnmu.edu/veterans/">WNMU Veterans Services Office</a></p>
+
             </div>
           </div>
           

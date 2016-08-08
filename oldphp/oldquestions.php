@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/mesalandsbanner.png" alt="Mesalands Banner"></div>
       </div>
     </div>

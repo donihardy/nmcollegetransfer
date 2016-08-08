@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,9 +37,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
 
-          <p>Tech offers many student services to ensure your success here.  Because you are required to have a major advisor assigned to help you determine your curriculum requirements, we offer an on-line catalog for you as a ‘suggested roadmap.’  We work together with the Advising, Counseling, Registrar, and Business Office to get you the help you may need while navigating your way to your degree.<p/>
+          <p>Tech offers many student services to ensure your success here.  Because you are required to have a major advisor assigned to help you determine your curriculum requirements, we offer an on-line catalog for you as a ‘suggested roadmap.’  We work together with the Advising, Counseling, Registrar, and Business Office to get you the help you may need while navigating your way to your degree.</p>
             <p>The Department of Veterans Affairs administers a variety of education benefit programs. Many Veterans and active duty personnel can qualify for more than one education benefits program, including:</p>
             <ul><li>The Post-9/11 GI Bill</li>
               <li>Montgomery GI Bill - Active Duty (MGIB-AD)</li>
@@ -55,7 +50,7 @@
               <li>Survivors’ and Dependents' Educational Assistance Program (DEA)</li>
               <li>National Call to Service Program</li>
               <li>Free education and vocational counseling services are available to service members and veterans</li></ul>
-              <p><a href="http://www.nmt.edu/veterans-affairs">NMT Veterans Affairs</a><br />
+              <p>Visit: <a href="http://www.nmt.edu/veterans-affairs">NMT Veterans Affairs</a><br />
 
               </div>
             </div>

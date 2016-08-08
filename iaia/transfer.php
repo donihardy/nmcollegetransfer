@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -55,37 +50,36 @@
                 Only those courses in which a grade of “C” or better (or the equivalent) has been achieved may be transferred.</li>
                 <li>Credits for remedial or developmental courses are not transferable.</li>
                 <li>Transfer credits will not be granted until an official transcript is on file.</li></ul>
-                <p><a href="https://iaia.edu/admissions/apply/">Transfer to IAIA<br />
+                <p>Visit: <a href="https://iaia.edu/admissions/apply/">Transfer to IAIA</a></p>
                   <h4 id="commoncore">Common Core Courses</h4>
-                  <a href="../nmcommoncore.html">Common Core Courses</a><br/>
+                  Visit: <a href="../nmcommoncore.html">Common Core Courses</a><br/>
                   <h4 id="actsat">ACT/SAT</h4>
-                  <p>Test scores from one of the following, if registering for a college level math or English course, are needed for placement:
+                  <p>Test scores from one of the following, if registering for a college level math or English course, are needed for placement:</p>
                     <ul><li>American College Test (ACT): IAIA’s ACT code is 2654</li>
                       <li>Scholastic Aptitude Test (SAT): IAIA’s SAT code is 0180</li>
                       <li>ASSET</li>
                       <li>COMPASS</li>
                       <li>ACCUPLACER</li></ul>
-                    </p>
                     <h4 id="2+2">2+2 and other Transfer Agreements</h4>
                     <p>No information found.</p>
                     <h4 id="dual">High School Dual Enrollment</h4>
                     <p>IAIA has established dual credit enrollment agreements with the Santa Fe Indian School, Walatowa Charter High School, Native American Community Academy, and Santa Fe Public Schools. High school students who are interested in enrolling in courses at IAIA for both college and high school credit must meet with their high school counselor to begin the dual-enrollment process.</p>
                     <p>Once you’ve decided on this course of action, please:</p>
-                    <p><ul><li>Complete the IAIA Online Application form, download the IAIA Admission Application form, or request form from the Office of Admissions, Records, and Enrollment at (800) 804-6422.</li>
+                    <ul><li>Complete the IAIA Online Application form, download the IAIA Admission Application form, or request form from the Office of Admissions, Records, and Enrollment at (800) 804-6422.</li>
                       <li>Complete Concurrent/Dual Enrollment Forms
                         <li>A the Registration Form
                           <li>Submit your High School Transcript
-                            <li>Arrange for College Placement Test scores to be sent to IAIA</li></ul></p>
+                            <li>Arrange for College Placement Test scores to be sent to IAIA</li></ul>
                             <p>Test scores from one of the following, if registering for a college level math or English course, are needed for placement:</p>
                             <p><ul><li>American College Test (ACT): IAIA’s ACT code is 2654</li>
                               <li>Scholastic Aptitude Test (SAT): IAIA’s SAT code is 0180</li>
                               <li>ASSET</li>
                               <li>COMPASS</li>
                               <li>ACCUPLACER</li></ul>
-                              Once the Admissions Office has received the above four items, the applicant will be considered for admission.</p>
-                              <a href="https://iaia.edu/admissions/apply/">Dual Enrollment Info</a>
+                              <p>Once the Admissions Office has received the above four items, the applicant will be considered for admission.</p>
+                              Visit: <a href="https://iaia.edu/admissions/apply/">Dual Enrollment Info</a>
                               <h4 id="moreinfo">Request More Info</h4>
-                              <p><a href="https://iaia.edu/admissions/">Contact information</a></p>
+                              <p>Visit: <a href="https://iaia.edu/admissions/">Contact information</a></p>
                               
                             </div>
                           </div>

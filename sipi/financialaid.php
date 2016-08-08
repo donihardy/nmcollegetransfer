@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sipibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,22 +37,22 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <p>Students at SIPI can receive aid through grants, work-study and other programs, most of which are based on need. Once the Financial Aid Office determines how much and what kind of aid a student may be eligible to receive, a financial aid package is prepared to meet the student's need. Financial Aid Programs include:</p>
-          <p><a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Pell Grant Info</a></p>
+          <p>Visit: <a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Pell Grant Info</a></p>
           
           <h4 id="scholarship">Scholarships</h4>
           <p>Students are encouraged to initiate independent research for other scholarship assistance to supplement their expenses. Some resources are posted at the SIPI Financial Aid Office scholarship wall.</p>
-          <p><a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Scholarship Info</a></p>
+          <p>Visit: <a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Scholarship Info</a></p>
           <h4 id="loan">Loans</h4>
           <p>SIPI does not participate in any loan programs.</p>
-          <p><a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Loan Info</a></p>
+          <p>Visit: <a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Loan Info</a></p>
           <h4 id="deadlines">Deadlines</h4>
           <a href="http://www.sipi.edu/students/studsvcs/finaid/15-16__SIPI_FAO_DEADLINES.pdf">SIPI Deadlines</a>
-          <p><h4>SIPI Federal School Code:</h4><strong> 011185 </strong></p>
-          <p><a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Applying Info</a>
-            <br /><a href="https://fafsa.gov/">FAFSA (Free Application for Student Aid) on the Web</a></p>
+          <h4>SIPI Federal School Code:</h4><strong> 011185 </strong>
+          <p>Visit: <a href="http://www.sipi.edu/students/studsvcs/finaid/">SIPI Financial Aid Applying Info</a>
+            <br />Visit: <a href="https://fafsa.gov/">FAFSA (Free Application for Student Aid) on the Web</a></p>
 
           </div>
         </div>

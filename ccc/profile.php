@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,9 +37,8 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>Clovis Community College</h3>
-          <h6>417 Schepps Blvd | Clovis, NM | <a href="tel:1-800-769-1409">(800) 769-1409</a></h6>
-        </th>
+        <div class="textbody"><h3>Clovis Community College</h3>
+          <h6>417 Schepps Blvd | Clovis, NM | <a href="tel:1-800-769-1409">(800) 769-1409</a></h6><table class="profile">
         <tr><td><h4>Website:</h4></td><td><a href="http://www.clovis.edu/">www.clovis.edu/</a></td></tr>
         <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
         <tr><td><h4>Awards offered:</h4></td><td>Certificate, Associates's</td></tr>
@@ -52,7 +46,9 @@
         <tr><td><h4>Campus housing:</h4></td><td>No</td></tr>
         <tr><td><h4>Student population:</h4></td><td>3745</td></tr>
         <tr><td><h4>Student-to-faculty ratio:</h4></td><td>19 to 1</td></tr>
-      </table><p><a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&id=187639%20">College Navigator</a></p></div>
+      </table>
+      <p>Visit: <a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&id=187639">College Navigator</a></p>
+      </div>
     </div>
     
     <?php //Begin Side menu ?>

@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -50,11 +45,11 @@
             <p>You will be considered a transfer student if you have a minimum of 30 credit hours transfered from an accredited college or university (If you have fewer than 30 credit hours of transfer credit, follow the Entering Freshman section above). Students in good academic standing at other colleges and universities are eligible to apply for transfer admission to New Mexico Tech.
             </p>
             <p>The minimum admission requirements for a student who is classified as a transfer student are as follows:</p>
-            <p><ul><li>The student transferring from another college oruniversity must have completed the same high school course work requirements as entering freshmen (either from high school or from equivalent courses taken since high school).</li>
+            <ul><li>The student transferring from another college oruniversity must have completed the same high school course work requirements as entering freshmen (either from high school or from equivalent courses taken since high school).</li>
               <li>The student must present college transcripts showing a cumulative GPA of 2.0 or better.</li>
               <li>The student must place into Math 103, Pre-Calculus.</li>
-              <lo>The student must be in good academic standing at the last institution attended.</li>
-                <li>The student must be eligible to re‐enroll at the institutions from which he or she wishes to transfer. An applicant who cannot re‐enroll at that institution is not eligible to enter New Mexico Tech.</li></ul></p>
+              <li>The student must be in good academic standing at the last institution attended.</li>
+                <li>The student must be eligible to re‐enroll at the institutions from which he or she wishes to transfer. An applicant who cannot re‐enroll at that institution is not eligible to enter New Mexico Tech.</li></ul>
                 <p>Send transcripts to:<br />
                   New Mexico Tech's mailing address:
                   Admissions Office<br />
@@ -62,47 +57,47 @@
                   801 Leroy Place<br />
                   Socorro, NM 87801<br />
                   
-                  <a href="mailto:apply@unm.edu">Send questions to Transcripts &#38; Records</a><br /><br />
+                  Visit: <a href="mailto:apply@unm.edu">Send questions to Transcripts &#38; Records</a><br /><br />
 
                   <p>Request transcripts to be sent from NMT to another institution:<br />
                     <a href="http://www.nmt.edu/transcripts">Order Transcripts</a></p>
                     
                     <div><h4 id="tes">Transferable Courses</h4>
                       <p>The Transfer Guides linked below, show how basic requirements as well as lower and upper division courses previously approved, transfer to NMT.</p>
-                      <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4678-transfer-guides">Transfer Guide Page</a>
+                      Visit: <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4678-transfer-guides">Transfer Guide Page</a>
                       <h4 id="commoncore">Common Core Courses</h4>
                       <p>The General Education Core Curriculum is a set of classes all Bachelor of Science students at NMT are required to take before graduation.</p>
-                      <p><a href="http://www.nmt.edu/images/stories/registrar/Transfer/Gen_Ed_Core_Curriculum_Worksheet_2016.pdf">PDF</a><br />
-                       <a href="http://www.newmexicocommoncore.org/">NM Common Core Website</a></p>
+                      <p>Visit: <a href="http://www.nmt.edu/images/stories/registrar/Transfer/Gen_Ed_Core_Curriculum_Worksheet_2016.pdf">General Ed Core PDF</a><br />
+                       Visit: <a href="http://www.newmexicocommoncore.org/">NM Common Core Website</a></p>
                        <h4 id="actsat">ACT/SAT</h4>
                        <p>Admission requirements:<br />
                         A 21 ACT composite score or a 970 SAT combined score (Critical Reading and Math)</p>
-                        <p>Math placement:
-                          <table width="80%"><tr><th>ACT Math Score</th><th>SAT Math Score</th><th>Initial Math Course</th></tr>
+                        <p>Math placement:</p>
+                          <table><tr><th>ACT Math Score</th><th>SAT Math Score</th><th>Initial Math Course</th></tr>
                             <tr><td>≤ 20</td><td>≤ 490 </td><td>MATH 101 (College Algebra)</td></tr>
                             <tr><td>21 - 25</td><td>500 - 580 </td><td>MATH 103 (Pre-Calculus)</td></tr>
                             <tr><td>26 - 29</td><td>590-660</td><td>MATH 104 (Trigonometry)</td></tr>
                             <tr><td>≥ 30</td><td>≥ 670 </td><td>MATH 131 (Calculus & Analytic Geometry I)</td></tr>
-                          </table></p>
+                          </table>
 
                           <p>NMT's ACT Code is 2642<br /> NMT's SAT Code is 4533.</p>
 
                           <p>or the optional Math Placement Test. For information <a href="mailto:mathplacement@nmt.edu">e-mail</a>: mathplacement@nmt.edu</p>
                           <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4756-placement-information">NMT ACT/SAT</a><br />
                           <h4 id="moreinfo">Request More Info</h4>
-                          <p><h5>Office of Admissions</h5></p>
+                          <h5>Office of Admissions</h5>
                           Phone: <a href="tel:1-575-835-5424">(575) 835-5424</a><br />
-                          <a href="mailto:admission@admin.nmt.edu">More Information</a>
+                          Visit: <a href="mailto:admission@admin.nmt.edu">More Information</a>
 
                           <h4 id="2+2">Transfer Agreements</h4>
                           <p>Articulation agreements provide a guarantee that transfer credits will be accepted within a student's major.</p>
 
                           <p> The following institutions have signed agreements with New Mexico Tech:<br />
-                           <a href="http://www.nmt.edu/images/stories/registrar/Amarillo_College_Transfer_Guide_Fall_2009.pdf">Amarillo College</a> <br />
-                           <a href="http://www.nmt.edu/images/stories/registrar/San_Antonio_College_Transfer_Guide_2014.pdf">San Antonio</a> <br />
-                           <a href="http://www.nmt.edu/images/stories/registrar/Central_New_Mexico_Community_College.pdf">Central New Mexico Community College</a></p>
+                           Visit: <a href="http://www.nmt.edu/images/stories/registrar/Amarillo_College_Transfer_Guide_Fall_2009.pdf">Amarillo College</a> <br />
+                           Visit: <a href="http://www.nmt.edu/images/stories/registrar/San_Antonio_College_Transfer_Guide_2014.pdf">San Antonio</a> <br />
+                           Visit: <a href="http://www.nmt.edu/images/stories/registrar/Central_New_Mexico_Community_College.pdf">Central New Mexico Community College</a><br />
 
-                           <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4676-articulation-agreements">Articulation Agreements</a>
+                           Visit: <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4676-articulation-agreements">Articulation Agreements</a></p>
                            <h4 id="dual">High School Dual Enrollment</h4>
                            <p>The primary purpose of the Dual Credit Program at New Mexico Tech is to increase the educational opportunities and options for high school students and increase the overall quality of instruction and learning available through secondary schools. The Dual Credit Program allows students to earn credit at the secondary and the postsecondary levels simultaneously and provide students an early glimpse of college life and college-level studies.<p>
                             <a href="http://www.nmt.edu/dual-credit-admission ">NMT Dual Enrollment Page</a>

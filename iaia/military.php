@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,12 +37,10 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans &#38; Active Duty</h4>
           <p>The Student Success Center offers Veteran Educational Benefit Services.</p>
-          <a href="https://iaia.edu/student-success-center/">Student Success Center</a>
-              <!--<h4 id="veterans">Active Duty</h4>
-              <p>Info to come</p>-->
+          Visit: <a href="https://iaia.edu/student-success-center/">Student Success Center</a>
             </div>
           </div>
           

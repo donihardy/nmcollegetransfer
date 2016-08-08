@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -NEW MEXICO JUNIOR COLLEGE</title>
-
-<body>
+  <body>
   <div class="container-fluid">
     <header class="bgimage nmjcbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -42,14 +36,14 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>NMJC Academic Counseling <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>NMJC Academic Counseling <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="geninfo">Advising General Info</h4>
           <P>The NMJC counselors can assist students in selecting courses needed for their particular degree plan. The Counseling Office houses college catalogues, admission applications and transfer guides for many regional 4-year institutions. Counselors are on hand to ensure all students are taking courses with transferability potential.</P>
           <h4 id="website">NMJC Advising Website</h4>
-          <p><a href="http://www.nmjc.edu/studentservices/counseling/academicplanning.aspx">NMJC Academic Planning Website</a></p>
+          <p>Visit: <a href="http://www.nmjc.edu/studentservices/counseling/academicplanning.aspx">NMJC Academic Planning Website</a></p>
           <h4 id="appt">Schedule an Appointment</h4>
-          <p>Visit with a counselor or faculty advisor to discuss your academic plan. A counseling appointment is not required; however, we encourage all students to see a counselor at least once a semester. Students are seen on a “first-come, first-served” basis in the Ben Alexander Student Learning Center. You can also contact counselors by phone or email: <a href="1-575-492-2577">575.492.2577</a>, <a href="mailto:kshort@nmjc.edu">kshort@nmjc.edu</a>.</p>
-          <p><a href="http://www.nmjc.edu/contacts/staffdirectoryaction.asp?Last=&First=&title=&Department=Counseling&Search=Search">Counseling Staff</a></p>
+          <p>Visit with a counselor or faculty advisor to discuss your academic plan. A counseling appointment is not required; however, we encourage all students to see a counselor at least once a semester. Students are seen on a “first-come, first-served” basis in the Ben Alexander Student Learning Center. You can also contact counselors by phone or email: <a href="1-575-492-2577">575.492.2577</a>, Email: <a href="mailto:kshort@nmjc.edu">kshort@nmjc.edu</a>.</p>
+          <p>Visit: <a href="http://www.nmjc.edu/contacts/staffdirectoryaction.asp?Last=&First=&title=&Department=Counseling&Search=Search">Counseling Staff</a></p>
         </div>
       </div>
       

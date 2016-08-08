@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,12 +40,12 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
 
             <h4 id="requirements">Requirements</h4>
 
             <p>ENMU-Roswell has an open admissions policy. All you need is a high school diploma or GED to enroll.</p>
-            <p>To make your admission to our campus as easy as possible, follow this check list:<br />
+            <p>To make your admission to our campus as easy as possible, follow this check list:</p>
              <ul><li>Submit application for admission (available online-click here!) and furnish official copies of all school transcripts. For information, call (575) 624-7141.</li>
                <li>Once you’ve received notification of admission, make arrangements to take the Placement Test. For information, call (575) 624-7227.</li>
                <li>Complete financial aid application (if needed) online atwww.fafsa.ed.gov as soon as possible after January 1 for attendance during the following school year.  School Code: 002661. For information, call (575) 624-7400.</li>
@@ -61,8 +56,7 @@
                <li>If you’re interested in living on campus, residence halls are available. For information, call (575) 347-7132.</li>
              </ul>
 
-           </p>
-           <p><a href="http://www.roswell.enmu.edu/admissions-checklist">Admissions</a><br />
+           <p>Visit: <a href="http://www.roswell.enmu.edu/admissions-checklist">Admissions</a><br />
             <h4 id="eligibility">Eligibility</h4>
             <p>Students transferring to ENMU Roswell must file official transcripts from each college or university attended. Students with fewer than 30 semester hours of acceptable transfer credit must also have official high school transcripts sent. If students on suspension from another institution wish to enroll in courses at ENMU Roswell, they may appeal to the Academic Standards Committee for an admission waiver. They should be WARNED, however, that credits earned during suspension periods may not be accepted by receiving institutions.</p>
             <p>It is now easier than ever to transfer to a four-year university. Whether it is because you have received your associate’s degree, or are just simply at a point in your life where you are ready to move on to and experience something different.</p>
@@ -70,16 +64,15 @@
             <p>In-state transfers, please pay special attention to the New Mexico General Education Common Core. This list of courses is guaranteed to transfer to any other university within the state of New Mexico!</p>
             <p>Aviation students, if you are transferring with credits from another school, please send the Office of Admission and Records an official transcript. Feel free to email the Advising and Retention Center a scanned or electronic copy (e-copy) of your unofficial student copy of your transcript with any course pre-requisite, course equivalency, or override questions you may have.</p>
 
-            <a href="http://www.roswell.enmu.edu/student-affairs/advising-and-retention/advising-and-retention-transfer-information">Eligibility</a>
+            Visit: <a href="http://www.roswell.enmu.edu/student-affairs/advising-and-retention/advising-and-retention-transfer-information">Eligibility</a>
             <h4 id="deadlines">Deadlines</h4>
             <p>In order to allow sufficient time for the preparation of registration materials, students should apply for admission at least six weeks prior to registration. </p>
-            <a href="https://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Admissions Deadlines</a>
+            Visit: <a href="https://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Admissions Deadlines</a>
             <h4 id="fees">Fees</h4>
             <p>No fee information.</p>
             <h4 id="visits">Campus Visits</h4>
-            <p>Take a campus tour or contact New Student Relations if you need help finding your way around campus. (575) 624-7136.<br />
-              <a href="http://www.roswell.enmu.edu/campus-tour-request-form">Campus Tour Request</a></p>
-            </p>
+            <p>Take a campus tour or contact New Student Relations if you need help finding your way around campus. (575) 624-7136.</p>
+              Visit: <a href="http://www.roswell.enmu.edu/campus-tour-request-form">Campus Tour Request</a>
 
           </div>
         </div>

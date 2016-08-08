@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -NEW MEXICO JUNIOR COLLEGE</title>
-
-<body>
+  <body>
   <div class="container-fluid">
     <header class="bgimage nmjcbgimage">
-      <img class="container-fluid">
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -45,9 +40,9 @@
      <div class="container-fluid">
       <div class="textbody">
         <h3>Resources</h3>
-        <a href="http://www.nmjc.edu/studentservices/academicsuccess.aspx">Tutoring</a><br />
-        <a href="http://www.nmjc.edu/distancelearning/currentstudents/onlinetutoringbrainfuse.aspx">Online Tutoring</a><br />
-        <a href="http://www.nmjc.edu/studentservices/trioprograms/studentsupportservices.aspx">Student Support Services</a>
+        Visit: <a href="http://www.nmjc.edu/studentservices/academicsuccess.aspx">Tutoring</a><br />
+        Visit: <a href="http://www.nmjc.edu/distancelearning/currentstudents/onlinetutoringbrainfuse.aspx">Online Tutoring</a><br />
+        Visit: <a href="http://www.nmjc.edu/studentservices/trioprograms/studentsupportservices.aspx">Student Support Services</a>
       </div>
     </div>
     

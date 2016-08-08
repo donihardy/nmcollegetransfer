@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -43,8 +38,8 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>NMSU Do&#241;a Ana</h3>
-          <h6>2800 N. Sonoma Ranch Blvd. | Las Cruces, New Mexico 88011 | <a href="tel:1-575-527-7500">(575) 527-7500</a></h6></th>
+        <div class="textbody"><h3>NMSU Do&#241;a Ana</h3>
+          <h6>2800 N. Sonoma Ranch Blvd. | Las Cruces, New Mexico 88011 | <a href="tel:1-575-527-7500">(575) 527-7500</a></h6><table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://dacc.nmsu.edu/"> dacc.nmsu.edu/</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
           <tr><td ><h4>Awards offered:</h4></td>
@@ -56,7 +51,7 @@
             <tr><td><h4>Student population:</h4></td><td>8848</td></tr>
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>23 to 1</td></tr>
           </table>
-          <a href="http://nces.ed.gov/collegenavigator/?q=dona+ana&s=NM&l=91+92+93+94&ic=1+2&id=187620">College Navigator</a>
+          Visit: <a href="http://nces.ed.gov/collegenavigator/?q=dona+ana&s=NM&l=91+92+93+94&ic=1+2&id=187620">College Navigator</a>
         </div>
       </div>
 

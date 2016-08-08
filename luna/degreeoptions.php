@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -44,8 +39,8 @@
       <div class="container-fluid">
         <div class="textbody"><h2>Degree Options</h2>
           <h4 id="basiccore">Basic Core</h4>
-          <table class="basiccore" width="90%">
-            <th>LCC<br />Course Number<th>Title </th><th>NM Common<br />Core Course Number</th><th> General Education Area </th>
+          <table class="basiccore" style="width: 80%">
+            <tr><td><strong><i>LCC<br />Course Number</i></strong></td><td><strong><i>Title</i></strong></td><td><strong><i>NM Common<br />Core Course Number</i></strong></td><td><strong><i>General Education Area</i></strong></td></tr>
             <tr><td>ANTH103</td><td> Introduction to Anthropology</td><td>ANTH1113</td><td> IV</td>
               <tr><td>ANTH221</td><td> Cultures of the World</td><td> ANTH2113</td><td> IV</td></tr>
               <tr><td>ART110</td><td> Introduction to Art</td><td> ARTS1013</td><td> V</td></tr>
@@ -88,18 +83,18 @@
               <tr><td>PSYC101</td><td> Introduction to Psychology</td><td> PSYC1113</td><td> IV</td></tr>
               <tr><td>SOC101</td><td> Introduction to Sociology</td><td> SOCI1113</td><td> IV</td></tr>
               <tr><td>SPCH111</td><td> Public Speaking</td><td> COMM1113</td><td> I</td></tr>
-              <tr><td><tr><td>SPCH112</td><td> Interpersonal Communication</td><td> COMM1213</td><td> I</td></tr>
+              <tr><td>SPCH112</td><td> Interpersonal Communication</td><td> COMM1213</td><td> I</td></tr>
               <tr><td>THEO232</td><td> World Religions </td><td>RELI1113 </td><td>V</td></tr>
               <tr><td>THTR110</td><td> Introduction to Theatre</td><td> THTR1013</td><td> V </td></tr>
 
             </table>
-            <br /><a href="https://luna.edu/media/page_files/CATALOG2015-2018.pdf">LCC Basic Core</a>
-            <h4 id="as">Certificates</h4>
+            <p>Visit: <a href="https://luna.edu/media/page_files/CATALOG2015-2018.pdf">LCC Basic Core</a>
+            <h4 id="cert">Certificates</h4>
             <p>Computer Application Specialist<br />
               Basic Electronics<br />
               Fire Protection<br />
               Science, Technology, Engineering and Mathematics (STEM)</p>
-              <a href="https://luna.edu/media/page_files/CATALOG2015-2018.pdf">LCC Areas of Study</a>
+              <p>Visit: <a href="https://luna.edu/media/page_files/CATALOG2015-2018.pdf">LCC Areas of Study</a></p>
               <h4 id="as">Associates Degrees</h4>
               <p>Computer Science AAS<br />
                 Drafting Technology AAS<br />
@@ -110,7 +105,7 @@
                 Mathematics AS <br />
                 Video Game Design & Development AAS</p>
 
-                <a href="https://www.luna.edu/all-academics/">LCC Associates Degrees</a></p>
+                <p>Visit: <a href="https://www.luna.edu/all-academics/">LCC Associates Degrees</a></p>
               </div>
             </div>
             

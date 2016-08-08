@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,7 +40,7 @@
           <div class="textbody">
 
             <h3>STEM DEGREES</h3>
-            <p><h4>Science Majors</h4></p>
+            <h4>Science Majors</h4>
             Biology<br />
             Chemistry<br />
             Earth Science<br />
@@ -54,7 +49,7 @@
             Geophysics<br />
             Hydrology<br />
             Physics<br>
-            <p><h4>Engineering Majors</h4></p>
+            <h4>Engineering Majors</h4>
             Chemical Engineering<br />
             Civil Engineering<br />
             Computer Science<br />
@@ -63,18 +58,13 @@
             Electrical Engineering<br />
             Environmental Engineering<br />
             Materials Engineering<br />
-            
             Mechanical Engineering<br />
             Mineral Engineering<br />
             Petroleum Engineering<br />
-            <p><h4>Mathematics</h4></p>
+            <h4>Mathematics</h4>
             Mathematics
-          </p>
         </div>
-
-        
       </div>
-    </div>
 
     <?php //Begin Side menu ?>
     <?php require '../includes/sidemenu.php'; ?>

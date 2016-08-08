@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,26 +42,28 @@
             <p>Students enrolling for first-year study who have not yet selected either an academic focus or the
               institution where they wish to graduate are advised to take courses during their freshman year outlined
               in the Lower Division General Education Common Core. </p>
-              <p><a href="http://www.roswell.enmu.edu/student-affairs/advising-and-retention/advising-and-retention-transfer-information">ENMU Roswell Advising and Retention</a><br />
-                <a href="http://hed.state.nm.us/Transfer.aspx">NM General Education Common Core</a>.</p>
+              <p>Visit: <a href="http://www.roswell.enmu.edu/student-affairs/advising-and-retention/advising-and-retention-transfer-information">ENMU Roswell Advising and Retention</a><br />
+                Visit: <a href="http://hed.state.nm.us/Transfer.aspx">NM General Education Common Core</a>.</p>
                 <h4 id="cert">Certificates</h4>
-                <p><ul type="none"><li>Computer Applications &#38; Support</li>
+                <ul style="list-style-type:none">
+                <li>Computer Applications &#38; Support</li>
                   <li>Engineering and Design Technology</li>
                   <li>Industrial Engineering Technology</li>
                   <li>Media Arts</li>
                   <li>Occupational Safety and Environmental Management Techologies</li></ul>
-                  <p><a href="http://www.roswell.enmu.edu/degrees-and-programs?limit=20&limitstart=0">ENMU Roswell Degrees and Programs</a></p>
+                  <p>Visit: <a href="http://www.roswell.enmu.edu/degrees-and-programs?limit=20&limitstart=0">ENMU Roswell Degrees and Programs</a></p>
                   <h4 id="as">Associates Degrees</h4>
-                  <p>List of Associates Degrees at ENMU:
-                    <ul type="none"><li>Biology AS</li>
-                      <li>Engineering and Design Technology AAS<br />
-                       <li>Mathematics AAS<br />
-                         <li> Renewable Energy Technology AAS<br />
-                          <li>Industrial Engineering Technology AAS<br />
-                            <li>Media Arts AAS<br />
-                              <li>Occupational Safety and Environmental Management Techologies AAS<br />
-                              </ul></p>
-                              <a href="http://www.roswell.enmu.edu/degrees-and-programs?limit=20&limitstart=0">ENMU Roswell Degrees and Programs</a></p>
+                  <p>List of Associates Degrees at ENMU:</p>
+                    <ul style="list-style-type:none">
+                    <li>Biology AS</li>
+                      <li>Engineering and Design Technology AAS</li>
+                       <li>Mathematics AAS</li>
+                         <li>Renewable Energy Technology AAS</li>
+                          <li>Industrial Engineering Technology AAS</li>
+                            <li>Media Arts AAS</li>
+                              <li>Occupational Safety and Environmental Management Techologies AAS</li>
+                              </ul>
+                              <p>Visit: <a href="http://www.roswell.enmu.edu/degrees-and-programs?limit=20&limitstart=0">ENMU Roswell Degrees and Programs</a></p>
                             </div>
                           </div>
 

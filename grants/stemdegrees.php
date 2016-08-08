@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -52,7 +47,7 @@
               Game Design<br />
               Science<br/>
               Web Fundamentals</p>
-              <a href="https://grants.nmsu.edu/programs-of-study/">Programs of Study</a>
+              Visit: <a href="https://grants.nmsu.edu/programs-of-study/">Programs of Study</a>
             </div>
           </div>
 

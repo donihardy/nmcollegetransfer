@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO TAOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage taosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -62,27 +57,26 @@
                 <ol type="1"><li>a grade of C or better was earned in the course,</li>
                   <li>the post-secondary institution is appropriately accredited, and</li>
                   <li>UNM or UNM-Taos offers a course deemed equivalent by the appropriate department chair.</li></ol>
-                  <a href="http://taos.unm.edu/catalog/admissions.html">Admissions</a><br />
-                  <a href="http://admissions.unm.edu/future_students/transfer-course-equivalencies.html">UNM Transfer Equivalency System (TES) Page</a>
+                  <p>Visit: <a href="http://taos.unm.edu/catalog/admissions.html">Admissions</a><br />
+                  Visit: <a href="http://admissions.unm.edu/future_students/transfer-course-equivalencies.html">UNM Transfer Equivalency System (TES) Page</a></p>
                   <h4 id="commoncore">Common Core Courses</h4>
-                  The University of New Mexico has adopted a revised Core Curriculum, which all undergraduate students must complete as part of their baccalaureate program. Additionally, all UNM Los Alamos degrees and certificates build upon the foundations of the Core Curriculum.<br />
-                  <a href="http://taos.unm.edu/catalog/core-curriculum.html">UNM Core Curriculum Worksheet</a>
+                  <p>The University of New Mexico has adopted a revised Core Curriculum, which all undergraduate students must complete as part of their baccalaureate program. Additionally, all UNM Los Alamos degrees and certificates build upon the foundations of the Core Curriculum.</p>
+                  <p>Visit: <a href="http://taos.unm.edu/catalog/core-curriculum.html">UNM Core Curriculum Worksheet</a></p>
                   <h4 id="actsat">ACT/SAT</h4>
                   <p>Entering freshmen whose ACT scores or UNM-Taos placement exam scores indicate a need for college preparatory course work, or entering freshmen with deficiencies in admission requirements, may be required to take Introductory Studies courses before entering their individual programs. These courses include ISE 098, ISE 099, ISE 100 and ISR 100, Math 099, Math 100. General University credit will be granted for these skills courses, but they are not accepted toward UNM-Taos associate degree programs or toward UNM degree programs. Students who are enrolled in degree or certificate programs may receive financial aid for remedial coursework, with a limit of no more than 30 hours.</p>
-                  <a href="http://taos.unm.edu/catalog/admissions.html">Catalog-Admissions</a>
+                  <p>Visit: <a href="http://taos.unm.edu/catalog/admissions.html">Catalog-Admissions</a></p>
                   <h4 id="moreinfo">Request More Info</h4>
                   <p>Advising:<br />
                     1157 County Road 110<br />
                     Ranchos de Taos, NM 87557<br />
-
                     Phone: <a href="1-575-737-6202">(575) 737-6202</a><br />
-                    <a href="mailto:askalobo@unm.edu">askalobo@unm.edu</a></p>
+                    Email: <a href="mailto:askalobo@unm.edu">askalobo@unm.edu</a></p>
 
                     <h4 id="transfer">Transfer Agreements</h4>
-                    <a href="http://admissions.unm.edu/future_students/branch-transition.html">Branch Transition</a>
+                    <p>Visit: <a href="http://admissions.unm.edu/future_students/branch-transition.html">Branch Transition</a></p>
                     <h4 id="dual">High School Dual Enrollment</h4>
                     <p>The High School Dual Enrollment Program includes academic and vocational programs. Its purpose is to award a select number of high school students the opportunity to take University courses (above the Basic Skills level) and to earn college credit while they are still enrolled in high school. It is up to the college or University that the student plans to attend to determine if credit is given for both high school and college for courses taken as a dual-credit student. UNM-Taos allows the credit to be used toward high school graduation as well as earned college credit. Students should work with their high school counselor to determine an individual high school's acceptance policy of courses toward graduation. Students are free to choose any course as long as prerequisites have been met.</p>
-                    <a href="http://taos.unm.edu/dual-credit/">UNM Taos Dual Enrollment Page</a>
+                    <p>Visit: <a href="http://taos.unm.edu/dual-credit/">UNM Taos Dual Enrollment Page</a></p>
 
                   </div>
                 </div>

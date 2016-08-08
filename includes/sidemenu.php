@@ -66,8 +66,8 @@
                                               <li><a href="family.php#childcare">CHILD CARE</a></li>
                                               <li><a href="family.php#parentinfo">INFO FOR PARENTS</a></li>
                                             </ul>
+                                            </li>
                                             <li class="dropdown"><a href="resources.php">RESOURCES</a></li>
-                                          </li>
                                         </ul>
                                         <div id="push"></div>
                                       </div>

@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -MESALANDS</title>
-
 <body>
   <div class="container-fluid">
     <header class="bgimage mesalandsbgimage img-responsive">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
     </header>
   </div>
@@ -48,8 +42,8 @@
             through quality education and services while fostering
             personal growth, leadership, and opportunity to a
             culturally diverse community.</p>
-            <p><a href="http://www.mesalands.edu">Website</a><br />
-              <a href="http://www.mesalands.edu/wp-content/uploads/2013/05/Directions-and-Map.pdf">Map</a></p>
+            <p>Visit: <a href="http://www.mesalands.edu">Mesalands Website</a><br />
+              Visit: <a href="http://www.mesalands.edu/wp-content/uploads/2013/05/Directions-and-Map.pdf">Mesalands Map</a></p>
             </div>
           </div>
 

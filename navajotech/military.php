@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
 
       </header>
@@ -43,12 +38,10 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Tribal or State Veterans’ Assistance Offices located with financial aid.<br />
-            <a href="http://www.navajotech.edu/admissions/financial-aid">Website</a></p>
-              <!--<h4 id="veterans">Active Duty</h4>
-              <p>Info to come</p>-->
+            Visit: <a href="http://www.navajotech.edu/admissions/financial-aid"> Navajo Tech Website</a></p>
             </div>
           </div>
           

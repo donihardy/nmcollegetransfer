@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO HIGHLANDS UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,8 +37,10 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>NM Highlands University</h3>
-          <h6>Info to come | Info to come | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6>
+        <div class="textbody">
+          <h3>NM Highlands University</h3>
+          <h6>University Ave | Las Vegas, NM 87701 | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6><br />
+        <table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://www.nmhu.edu">www.nmhu.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>4 year, Public</td></tr>
           <tr><td><h4>Awards offered:</h4></td>

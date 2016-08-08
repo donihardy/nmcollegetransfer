@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuruidosobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,7 +38,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>No housing available on campus.</p>
           <h4 id="childcare">Child Care</h4>
@@ -52,7 +47,7 @@
           <p>The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education.</p>
           <p>FERPA gives parents certain rights with respect to their children's education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level.</p>
           <br/>
-          <p><a href="http://ruidoso.enmu.edu/index.php/new-page/334-regsistration-faqs">Parent Info</a></p>
+          <p>Visit: <a href="http://ruidoso.enmu.edu/index.php/new-page/334-regsistration-faqs">Parent Info</a></p>
         </div>
       </div>
       

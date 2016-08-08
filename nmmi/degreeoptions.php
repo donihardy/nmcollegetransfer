@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO MILITARY INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -61,7 +56,7 @@
                     <li>Geology/Earth Science - 4-8 hrs</li>
                     <li>Astronomy - 4-8 hrs</li></ol>
                     <strong>Area IV: Social/Behavioral Sciences - 6-9 Semester Hours</strong>
-                    <ol style="list-style-type:none"><li>Economics (Macro/Micro)</td><td> 3 hrs</td></tr>
+                    <ol style="list-style-type:none"><li>Economics (Macro/Micro) - 3 hrs</li>
                       <li>Introductory Political Science -  3 hrs</li>
                       <li>Introductory Psychology - 3 hrs</li>
                       <li>Introductory Sociology -  3 hrs</li>
@@ -79,7 +74,7 @@
                           Physical Sciences AS<br />
                           Pre-Engineering AS<br />
                           Pre-Med/Pre-Dental/Pre-Vet AS</p>
-                          <a href="http://academic.nmmi.edu/preview_program.php?catoid=10&poid=69&hl=degree&returnto=search">NMMI Associates Degrees</a>
+                          <p>Visit: <a href="http://academic.nmmi.edu/preview_program.php?catoid=10&poid=69&hl=degree&returnto=search">NMMI Associates Degrees</a></p>
                         </div>
                       </div>
 

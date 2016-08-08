@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - WESTERN NEW MEXICO UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage wnmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,19 +39,19 @@
         <div class="container-fluid">
           <div class="textbody"><h2>Degree Options</h2>
             <h4 id="basiccore">Basic Core</h4>
-            <a href="../nmcommoncore.html">NM Common Core</a>
-            <h4 id="as">Certificates</h4>
+            Visit: <a href="../nmcommoncore.html">NM Common Core</a>
+            <h4 id="cert">Certificates</h4>
             <p>Audio Engineering<br />
               Computer Technology<br />
               Electrical Technology
             </p>
-            <p><a href="http://wnmu.edu/degrees/">Certificates</a></p>
+            <p>Visit: <a href="http://wnmu.edu/degrees/">Certificates</a></p>
             <h4 id="as">Associates Degrees</h4>
             <p>Computer Technology<br />
               Electrical Technology
             </p>
-            <p><a href="http://wnmu.edu/degrees/">Associate Degrees</a></p>
-            <h4 id="as">Bachelor Degrees</h4>
+            <p>Visit: <a href="http://wnmu.edu/degrees/">Associate Degrees</a></p>
+            <h4 id="ba">Bachelor Degrees</h4>
             <p>Biology<br />
               Botany<br />
               Cell and Molectular Biology<br />
@@ -65,7 +60,7 @@
               Mathematics<br />
               Zoology
             </p>
-            <p><a href="http://wnmu.edu/degrees/">Bachelor's Degrees</a></p>
+            <p>Visit: <a href="http://wnmu.edu/degrees/">Bachelor's Degrees</a></p>
           </div>
         </div>
         

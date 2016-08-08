@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,16 +38,13 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
-          <p>NTU provides residential housing for both single students and students with families at the main campus. Rooms and apartments subject to the following eligibility requirements: Students who live beyond a 55-mile radius from NTU, who are enrolled full time at NTU, and have submitted all required documents are eligible to apply. Security deposits are required prior to occupancy of any NTU housing facility.<br />
-            <a href="http://www.navajotech.edu/campus-life/housing">Student Housing</a></p>
+          <p>NTU provides residential housing for both single students and students with families at the main campus. Rooms and apartments subject to the following eligibility requirements: Students who live beyond a 55-mile radius from NTU, who are enrolled full time at NTU, and have submitted all required documents are eligible to apply. Security deposits are required prior to occupancy of any NTU housing facility.</p>
+            <p>Visit: <a href="http://www.navajotech.edu/campus-life/housing">Student Housing</a></p>
             <h4 id="childcare">Child Care</h4>
             <p>The NTU Child Care Services Program operates within the Instructional Services Department.</p>
-            <p><a href="http://www.navajotech.edu/campus-life/child-care">Child Care</a></p>
-            <!--<h4 id="parent">Parent Info</h4>
-            <p>Info to come</p>
-            <p><a href="#">Parent Info</a></p>-->
+            <p>Visit: <a href="http://www.navajotech.edu/campus-life/child-care">Child Care</a></p>
           </div>
         </div>
         

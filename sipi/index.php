@@ -1,13 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage sipibgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -40,8 +36,8 @@
         <div class="container-fluid">
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/sipi.jpg"  alt="Responsive Image">
             <p>The Southwestern Indian Polytechnic Institute prepares our culturally diverse Native American students as life-long learners through partnerships with tribes, employers and other organizations. We establish a strong educational foundation for student success.</p>
-            <p><a href="http://www.sipi.edu/">SIPI Website</a><br />
-              <a href="http://www.sipi.edu/about/location/">Map</a></p>
+            <p>Visit: <a href="http://www.sipi.edu/">SIPI Website</a><br />
+              Visit: <a href="http://www.sipi.edu/about/location/">SIPI Map</a></p>
 
             </div>
           </div>

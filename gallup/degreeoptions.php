@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO GALLUP</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage gallupbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -52,16 +47,16 @@
               <h5>Humanities (6 credit hours):</h5> Two courses chosen from Africana Studies 104; American Studies 186; Chicana and Chicano Studies 201; Classics 107, 204, 205; Comparative Literature and Cultural Studies 222, 224; English 150, 292, 293; Foreign Languages (MLNG) 101; Geography 140; History 101, 102, 161, 162, 181, 182; Honors Legacy Seminars at the 100- and 200-level; Native American Studies 150; Philosophy 101, 201, 202; Religious Studies 107, 263, 264; University Honors 205.
               <h5> Foreign Language (non-English language; minimum 3 credit hours):</h5> One course chosen from any of the lower-division non-English language offerings of the Departments of Linguistics (including Sign Language), Spanish and Portuguese, Foreign Languages and Literatures, and foreign languages in other departments and programs.
               <h5>Fine Arts (minimum of 3 credit hours):</h5> One course chosen from Architecture 121; Art History 101, 201, 202; Dance 105; Fine Arts 284; Media Arts 210; Music 139, 142; Theatre 105; University Honors 207. Students may elect to take one 3 credit hour studio course offered by the Departments of Art and Art History, Music, Theatre and Dance, and Media Arts to fulfill this requirement.</div><br />              
-              <p><a href="http://www.gallup.unm.edu/pdf/unmgallupcatalog.pdf">UNM Gallup Catalog</a><br />
-                <a href="http://newmexicocommoncore.org">NM Common Core Website</a></p>
+              <p>Visit: <a href="http://www.gallup.unm.edu/pdf/unmgallupcatalog.pdf">UNM Gallup Catalog</a><br />
+                Visit: <a href="http://newmexicocommoncore.org">NM Common Core Website</a></p>
 
-                <h4 id="as">Certificates</h4>
+                <h4 id="cert">Certificates</h4>
                 <p>Drafting Technology<br />
                   Information Technology</p>
-                  <a href="http://www.gallup.unm.edu/vert/prog-courses/programs-degrees.php">UNM Gallup Certificates</a>
+                  Visit: <a href="http://www.gallup.unm.edu/vert/prog-courses/programs-degrees.php">UNM Gallup Certificates</a>
 
                   <h4 id="as">Associates Degrees</h4>
-                  <a href="http://www.gallup.unm.edu/vert/prog-courses/programs-degrees.php">UNM Gallup Associates Degrees</a>
+                  Visit: <a href="http://www.gallup.unm.edu/vert/prog-courses/programs-degrees.php">UNM Gallup Associates Degrees</a>
 
                 </div>
               </div>

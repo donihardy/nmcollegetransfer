@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -58,7 +53,7 @@
             Science, Technology, Engineering and Mathematics (STEM)<br />
             Video Game Design & Development            
           </p>
-          <a href="https://www.luna.edu/all-academics/">LCC STEM Degrees</a>
+          Visit: <a href="https://www.luna.edu/all-academics/">LCC STEM Degrees</a>
         </div></div>
         
         <?php //Begin Side menu ?>

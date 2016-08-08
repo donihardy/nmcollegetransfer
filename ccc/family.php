@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,17 +38,17 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>CCC does not have on campus housing.<br />
-            <a href="http://nnmc.edu/home/student-gateway/student-housing/">Housing Options</a></p>
+            Visit: <a href="http://nnmc.edu/home/student-gateway/student-housing/">Housing Options</a></p>
             <h4 id="childcare">Child Care</h4>
             <p><strong>Clovis Community College Child Development Lab School</strong></p>
             <p>The Child Development Center opened in fall of 2007. It includes 2 lecture rooms, 2 observation rooms and the 3 classroom lab school. The six million dollar facility was funded through a collaboration with the State Department of Education, Clovis Unified School District, State Center Community College District, and First Five of Fresno and serves a dual role; providing high quality child development and child-care services for children and as a model demonstration site for students studying child development. The lab school is accredited by the National Association for the Education of Young Children.</p>
-            <p><a href="http://www.cloviscenter.com/index.aspx?page=76">Clovis Community College Child Development Lab School</a></p>
+            <p>Visit: <a href="http://www.cloviscenter.com/index.aspx?page=76">Clovis Community College Child Development Lab School</a></p>
             <p><strong>Kids College</strong></p>
             <p>CCC's Kids College for the Summer of 2015 has something for every kid, ranging from health and fitness classes to hands-on science and art. Classes fill up quickly and space is limited in each session.</p>
-            <p><a href="http://www.clovis.edu/kidscollege/index.aspx">Kids College</a></p>
+            <p>Visit: <a href="http://www.clovis.edu/kidscollege/index.aspx">Kids College</a></p>
             <h4 id="parent">Parent Info</h4>
             <p> No information found.<br />
             </div>

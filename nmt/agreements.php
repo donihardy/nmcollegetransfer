@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,10 +40,10 @@
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
             <div class="transfer">
-             <ul><li><a href="http://www.nmt.edu/images/stories/registrar/Amarillo_College_Transfer_Guide_Fall_2009.pdf">Amarillo College</a></li>
-               <li><a href="http://www.nmt.edu/images/stories/registrar/San_Antonio_College_Transfer_Guide_2014.pdf">San_Antonio_College</a></li>
-               <li><a href="http://www.nmt.edu/images/stories/registrar/Central_New_Mexico_Community_College.pdf">Central New Mexico Community College</a></li></ul>
-               <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4676-articulation-agreements">Articulation Agreements Page</a></div>
+             <ul><li>Visit: <a href="http://www.nmt.edu/images/stories/registrar/Amarillo_College_Transfer_Guide_Fall_2009.pdf">Amarillo College</a></li>
+               <li>Visit: <a href="http://www.nmt.edu/images/stories/registrar/San_Antonio_College_Transfer_Guide_2014.pdf">San_Antonio_College</a></li>
+               <li>Visit: <a href="http://www.nmt.edu/images/stories/registrar/Central_New_Mexico_Community_College.pdf">Central New Mexico Community College</a></li></ul>
+               Visit: <a href="http://www.nmt.edu/transfer-credit/479-registrars-office/4676-articulation-agreements">Articulation Agreements Page</a></div>
              </div></div>
              
 

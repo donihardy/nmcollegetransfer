@@ -1,15 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SAN JUAN COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">
 
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,12 +39,12 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>No on campus housing.</p>
           <h4 id="childcare">Child Care</h4>
           <p>The primary purpose of the Child & Family Development Center (CFDC) on the campus of San Juan College (SJC) is to serve as a laboratory school for early childhood, nursing, psychology, dental and sociology students at the College. Practicum students in early childhood education courses are part of the Center staff each semester. They are supervised by qualified teachers to plan, implement and evaluate developmentally appropriate activities for young children.</p>
-          <p><a href="https://www.sanjuancollege.edu/community/departments/child-and-family-development-center/">Child & Family Development Center</a></p>
+          <p>Visit: <a href="https://www.sanjuancollege.edu/community/departments/child-and-family-development-center/">Child & Family Development Center</a></p>
           <h4 id="parent">Parent Info</h4>
           <p>No parent info found.</p>
         </div>

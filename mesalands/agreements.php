@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -MESALANDS</title>
-
 <body>
   <div class="container-fluid">
-    <header class="bgimage mesalandsbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+    <header class="bgimage mesalandsbgimage img-responsive">
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -55,12 +49,12 @@
             Luna Community College<br />
             New Mexico Highlands University<br />
             New Mexico State University<br />
-            <a href="http://www.snhu.edu/tr/14560.asp?utm_source=MesalandsCC&utm_medium=WebForm&utm_content=A01519&utm_campaign=COH-CommunityCollegePartnerships&snhu_segment=OL">Southern New Hampshire University</a><br />
-            <a href="http://online.unm.edu/?utm_source=url&utm_medium=redirect&utm_campaign=statewide">University of New Mexico</a><br />
+            Visit: <a href="http://www.snhu.edu/tr/14560.asp?utm_source=MesalandsCC&utm_medium=WebForm&utm_content=A01519&utm_campaign=COH-CommunityCollegePartnerships&snhu_segment=OL">Southern New Hampshire University</a><br />
+            Visit: <a href="http://online.unm.edu/?utm_source=url&utm_medium=redirect&utm_campaign=statewide">University of New Mexico</a><br />
             University of Phoenix<br />
             West Texas A&M University</p>
             <p>Formal published transfer guides between Mesalands Community College and Eastern New Mexico University, New Mexico Highlands University, and the University of New Mexico are available in the Student Services Office.</p>
-            <a href="http://www.mesalands.edu/about/university-alliances/">Mesalands Transfer Agreements</a>
+            Visit: <a href="http://www.mesalands.edu/about/university-alliances/">Mesalands Transfer Agreements</a>
           </div>
         </div>
         

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage cnmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,16 +40,16 @@
         </div>
         <div class="container-fluid">
           <div class="textbody"><h3>STEM Degrees</h3>
-            <p><h4>Science Majors</h4></p>
+            <h4>Science Majors</h4>
             <p>Biology<br />
               Chemistry<br />
               Physics<br />
               Nutrition</p>
-              <p><h4>Engineering Majors</h4></p>
+              <h4>Engineering Majors</h4>
               <p>Engineering</p>
-              <p><h4>Mathematics Majors</h4></p>
+              <h4>Mathematics Majors</h4>
               <p>Mathematics</p>
-              <a href="https://www.cnm.edu/depts/stemup/cnm-and-unm-stem-majors">CNM STEM Degrees</a>
+              Visit: <a href="https://www.cnm.edu/depts/stemup/cnm-and-unm-stem-majors">CNM STEM Degrees</a>
             </div></div>
 
             <?php //Begin Side menu ?>

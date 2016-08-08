@@ -1,13 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - UNIVERSITY OF NEW MEXICO</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage unmbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -40,8 +36,8 @@
         <div class="container-fluid">
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/unmhodginsm.jpg"  alt="Responsive Image">
             <p>University of New Mexico was founded in 1889 located in the center of Albuquerque, NM.</p> <p>Offering a distinctive campus environment with a Pueblo Revival architectural theme, the campus buildings echo nearby Pueblo Indian villages. The nationally recognized campus arboretum and the popular duck pond offer an outstanding botanical experience in the midst of one of New Mexico's great public open spaces.</p>
-            <p><a href="http://www.unm.edu">UNM Website</a><br />
-              <a href="http://iss.unm.edu/ppd/SM/campus-map.html">Map</a></p>
+            <p>Visit: <a href="http://www.unm.edu">UNM Website</a><br />
+              Visit: <a href="http://iss.unm.edu/ppd/SM/campus-map.html">UNM Map</a></p>
 
             </div>
           </div>

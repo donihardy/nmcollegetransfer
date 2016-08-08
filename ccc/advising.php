@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,12 +37,12 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Clovis Community College Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Clovis Community College Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <p>Need help planning your Education? CCC's Academic Advisors will help you match your needs, interests, values, and goals to the educational programs offered at CCC.</p>
             <h4 id="website">CCC Advising Website</h4>
-            <p><a href="http://www.clovis.edu/advising/">CCC Advising Website</a></p>
+            <p>Visit: <a href="http://www.clovis.edu/advising/">CCC Advising Website</a></p>
             <h4 id="appt">Schedule an Appointment</h4>
             <p>To schedule an appointment:</p>
             <p><a href="tel:1-575-769-4020">(575) 769-4020</a></p>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage unmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,10 +40,10 @@
           <div class="textbody"><h2>Degree Options</h2>
             <h3 id="basiccore">Basic Core</h3>
             <p>Basic Core classes are the classes that are required for all students pursuing a bachelors degree.</p>
-            <a href="http://catalog.unm.edu/catalogs/2012-2013/undergrad-program.html">UNM Basic Core</a>
+            Visit: <a href="http://catalog.unm.edu/catalogs/2012-2013/undergrad-program.html">UNM Basic Core</a>
             <h4 id="as">Associates Degrees</h4>
             <p>No STEM degrees at UNM Main Campus</p>
-            <a href="http://degrees.unm.edu/associate_programs">UNM Associates Degrees</a>
+            Visit: <a href="http://degrees.unm.edu/associate_programs">UNM Associates Degrees</a>
             <h4 id="ba">Bachelor's Degrees</h4>
             <p><strong>School of Engineering</strong><br />
               Chemical Engineering  (BS) <br />
@@ -81,7 +76,7 @@
                 <p><strong>College of Education</strong><br />
                   Nutrition and Dietetics (BS)<br /> 
                 </p>
-                <a href="http://degrees.unm.edu/undergrad_programs/explore">UNM Bachelor's Degrees</a>
+                Visit: <a href="http://degrees.unm.edu/undergrad_programs/explore">UNM Bachelor's Degrees</a>
                 <h4 id="ma">Masters Degrees</h4>
                 <p><strong>School of Engineering</strong><br />
                   Biomedical Engineering (MS)<br />
@@ -107,7 +102,7 @@
                   </p>
                   <p><strong>College of Education</strong><br />
                     Nutrition (MS)<br /></p>
-                    <p><a href="http://degrees.unm.edu/grad_programs/explore">UNM Masters Degrees</a></p>
+                    <p>Visit: <a href="http://degrees.unm.edu/grad_programs/explore">UNM Masters Degrees</a></p>
                     <h4 id="phd">PhD Degrees</h4>
                     <p><strong>School of Engineering</strong><br />
                       Computer Science (PhD)<br />
@@ -129,7 +124,7 @@
                         Statistics (PhD)
                       </p>
 
-                      <a href="http://degrees.unm.edu/grad_programs/explore">UNM PhD. Degrees</a>
+                      Visit: <a href="http://degrees.unm.edu/grad_programs/explore">UNM PhD. Degrees</a>
                     </div>
                   </div>
 

@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/taosbanner.png" alt="Taos Banner"></div>
       </div>
     </div>
@@ -65,6 +65,5 @@
     </div>
 
 
-     <div class="clear"></div>
-    <div class="container">
+      <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

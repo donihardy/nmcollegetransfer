@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,10 +41,10 @@
         <div class="container-fluid">
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
-            <p><a href="http://www.enmu.edu/2-2/cnm-albuquerque-transfer-partnership-program-options">CNM-Albuquerque</a><br />
-              <a href="http://www.enmu.edu/2-2/clovis-community-college-transfer-partnership-program-options">Clovis Community College (CCC)</a><br />
-              <a href="http://www.enmu.edu/2-2/enmu-roswell-transfer-partnership-program-options">ENMU-Roswell</a><br />
-              <a href="http://www.enmu.edu/2-2/enmu-ruidoso-transfer-partnership-program-options">ENMU-Ruidoso</a></p>
+            <p>Visit: <a href="http://www.enmu.edu/2-2/cnm-albuquerque-transfer-partnership-program-options">CNM-Albuquerque</a><br />
+              Visit: <a href="http://www.enmu.edu/2-2/clovis-community-college-transfer-partnership-program-options">Clovis Community College (CCC)</a><br />
+              Visit: <a href="http://www.enmu.edu/2-2/enmu-roswell-transfer-partnership-program-options">ENMU-Roswell</a><br />
+              Visit: <a href="http://www.enmu.edu/2-2/enmu-ruidoso-transfer-partnership-program-options">ENMU-Ruidoso</a></p>
             </div>
           </div>
 

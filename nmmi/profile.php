@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO MILITARY INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -42,8 +37,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>New Mexico Military Institute</h3>
-          <h6>101 W. College Blvd | Roswell, New Mexico 88201 | <a href="tel:1-575-622-6250">(575) 622-6250</a></h6></th>
+        <div class="textbody"><h3>New Mexico Military Institute</h3>
+          <h6>101 W. College Blvd | Roswell, New Mexico 88201 | <a href="tel:1-575-622-6250">(575) 622-6250</a></h6>
+          <table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://www.nmmi.edu">www.nmmi.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
           <tr><td ><h4>Awards offered:</h4></td>
@@ -53,7 +49,8 @@
             <tr><td><h4>Campus housing:</h4></td><td>Yes</td></tr>
             <tr><td><h4>Student population:</h4></td><td>459 (all undergraduate)</td></tr>
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>10 to 1</td></tr>
-          </table><p><a href="http://nces.ed.gov/collegenavigator/?q=new+mexico+military&s=NM&l=91+92+93+94&ic=1+2&id=187912">College Navigator</a></p></div>
+          </table>
+          <p>Visit: <a href="http://nces.ed.gov/collegenavigator/?q=new+mexico+military&s=NM&l=91+92+93+94&ic=1+2&id=187912">College Navigator</a></p></div>
         </div>
 
         <?php //Begin Side menu ?>

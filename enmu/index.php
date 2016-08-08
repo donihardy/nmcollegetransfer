@@ -1,13 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage img-responsive">
-        <img class="container-fluid">
         <!--<div class="title">NM COLLEGE TRANSFER</div> -->
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
@@ -40,8 +37,8 @@
         </div>
         <div class="container-fluid">
           <div class="textbody"><img class="schoolimg img-responsive pull-right" src="../images/enmu.jpg"  alt="Responsive Image" ><p>Students choose Eastern New Mexico University for its personal touch, accredited academic programs and affordable costs. ENMU offers a variety of services to help students succeed in their academic, personal and professional lives. That's why our slogan is "Student Success—that's what it's all about!"</p>
-            <p><a href="http://www.enmu.edu">ENMU Website</a><br />
-              <a href="http://www.enmu.edu/admission/campus-map">Map</a></p>
+            <p>Visit: <a href="http://www.enmu.edu">ENMU Website</a><br />
+              Visit: <a href="http://www.enmu.edu/admission/campus-map">Campus Map</a></p>
             </div>
           </div>
           

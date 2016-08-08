@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,10 +41,9 @@
         <div class="textbody">
           <h3>Resources</h3>
           <h4 id="housing">Academic</h4>
-          <p><a href="http://dacc.nmsu.edu/tutoring/">Tutoring</a><br />
-            <a href="http://dacc.nmsu.edu/computer-labs/">Computer Labs</a><br />
-            <a href="http://dacc.nmsu.edu/sa/">Student Activities</a><br />
-
+          <p>Visit: <a href="http://dacc.nmsu.edu/tutoring/">Tutoring</a><br />
+            Visit: <a href="http://dacc.nmsu.edu/computer-labs/">Computer Labs</a><br />
+            Visit: <a href="http://dacc.nmsu.edu/sa/">Student Activities</a><br />
           </p>
 
         </div>

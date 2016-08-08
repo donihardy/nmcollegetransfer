@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -NEW MEXICO JUNIOR COLLEGE</title>
-
-<body>
+  <body>
   <div class="container-fluid">
     <header class="bgimage nmjcbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -44,16 +38,16 @@
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
         <h4 id="housing">Housing</h4>
         <p>We believe on-campus living provides both an enjoyable and rewarding experience in community living as well as the necessary support for academic success.</p>
         <p>On-campus housing for married couples or individuals with children is not provided.</p>
-        <p><a href="http://www.nmjc.edu/studentservices/housing.aspx">NMJC Student Housing</a></p>
+        <p>Visit: <a href="http://www.nmjc.edu/studentservices/housing.aspx">NMJC Student Housing</a></p>
         <h4 id="childcare">Child Care</h4>
         <p>No information found.</p>
-        <p><a href="http://www.nmjc.edu">Child Care</a></p>
+        <!--<p><a href="http://www.nmjc.edu">Child Care</a></p>-->
         <h4 id="parent">Parent Info</h4>
-        <p><a href="http://www.nmjc.edu/parents/">Parent Resources</a></p>
+        <p>Visit: <a href="http://www.nmjc.edu/parents/">Parent Resources</a></p>
       </div>
     </div>
     

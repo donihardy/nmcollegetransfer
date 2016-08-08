@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
-<title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO HIGHLANDS UNIVERSITY</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,7 +38,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>Life in the residence halls is often an important part of the total college
             experience. Students interested in making new friends, being
@@ -52,13 +47,13 @@
             choices when considering an on-campus residence. There are suitestyle
             residences and more traditional halls with both private and
             shared rooms; something for everyone</p>
-            <p><a href="http://www.nmhu.edu/highlands-university-housing/">Website</a></p>
+            <p>Visit: <a href="http://www.nmhu.edu/highlands-university-housing/">Website</a></p>
             <h4 id="childcare">Child Care</h4>
-            <p><a href="tel:1-505-454-3250">(505) 454-3250<br />
-              <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/002420-catalog_unde-713201142520.pdf">Child Care</a></p>
+            <p><a href="tel:1-505-454-3250">(505) 454-3250</a><br />
+              Visit: <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/002420-catalog_unde-713201142520.pdf">Child Care</a></p>
               <h4 id="parent">Parent Info</h4>
-              <p><a href="http://www.nmhu.edu/alumnifoundation/nmhu-parents-club/">NMHU Parents Club</a></p>
-              <p><a href="http://its.nmhu.edu/IntranetUploads/003477-15-17_catalo-925201511905.pdf">Catalog</a></p>
+              <p>Visit: <a href="http://www.nmhu.edu/alumnifoundation/nmhu-parents-club/">NMHU Parents Club</a></p>
+              <p>Visit: <a href="http://its.nmhu.edu/IntranetUploads/003477-15-17_catalo-925201511905.pdf">Catalog</a></p>
             </div>
           </div>
           

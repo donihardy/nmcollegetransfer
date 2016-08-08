@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - DIN&#201;</title>
-
-
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -48,13 +42,13 @@
         <div class="container-fluid">
           <div class="textbody"><h2>Degree Options</h2>
             <h4 id="basiccore">Basic Core</h4>
-            <br /><a href="http://www.dinecollege.edu/current/general-education.php">Din&#233; Basic Core</a>
-            <h4 id="as">Certificates</h4>
+            Visit: <a href="http://www.dinecollege.edu/current/general-education.php">Din&#233; Basic Core</a>
+            <h4 id="cert">Certificates</h4>
             <p> Irrigation Technician<br />
               Natural Resource<br />
               Public Health
             </p>
-            <a href="http://www.dinecollege.edu/academics/academic.php">Din&#233; Certificates</a>
+            Visit: <a href="http://www.dinecollege.edu/academics/academic.php">Din&#233; Certificates</a>
             <h4 id="as">Associates Degrees</h4>
             <p>Agroecology/Environmental Science (A.S.)<br />
               Biology (A.S.)<br />
@@ -65,9 +59,9 @@
               Physics (A.A.)<br />
               Public Health (A.S.)
             </p>
-            <a href="http://www.dinecollege.edu/academics/academic.php">Din&#233; Associates</a>
-            <h4 id="as">Bachelor's Degrees</h4>
-            <p><a href="http://www.dinecollege.edu/academics/academic.php">Din&#233; Bachelor's</a>
+            Visit: <a href="http://www.dinecollege.edu/academics/academic.php">Din&#233; Associates</a>
+            <h4 id="ba">Bachelor's Degrees</h4>
+            <p>Visit: <a href="http://www.dinecollege.edu/academics/academic.php">Din&#233; Bachelor's</a>
             </p>
           </div>
         </div>

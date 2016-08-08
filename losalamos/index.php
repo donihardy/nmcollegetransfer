@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO LOS ALAMOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage losalamosbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -41,8 +36,8 @@
         <div class="container-fluid">
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/losalamos.jpg"  alt="Responsive Image">
             <p>UNM Los Alamos offers classes and degrees that easily transfer within UNM and to other four-year programs. We also offer degrees and certificates that meet the needs of a changing job market. Whether your goal is an advanced degree or training for a career, we offer excellent preparation for your future.</p>
-            <p><a href="http://losalamos.unm.edu/">UNM Los Alamos Website</a><br />
-              <a href="http://losalamos.unm.edu/about/campus-map/index.html">Map</a></p>
+            <p>Visit: <a href="http://losalamos.unm.edu/">UNM Los Alamos Website</a><br />
+              Visit: <a href="http://losalamos.unm.edu/about/campus-map/index.html">Map</a></p>
 
             </div>
           </div>

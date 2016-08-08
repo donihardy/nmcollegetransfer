@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO HIGHLANDS UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,19 +38,19 @@
         </div>
         <div class="container-fluid">
           <div class="textbody"><h3>STEM Degrees</h3>
-            <p><h4>Science Majors</h4></p>
+            <h4>Science Majors</h4>
             <p>Biology<br />
               Chemistry<br />
               Computer & Mathematical Modeling<br />
               Computer Science<br />
               Geology<br />
               Water Resources</p>
-              <p><h4>Engineering Majors</h4></p>
+              <h4>Engineering Majors</h4>
               <p>General Engineering</p>
-              <p><h4>Mathematics Majors</h4></p>
+              <h4>Mathematics Majors</h4>
               <p>Mathematics</p>
               <br/>
-              <a href="http://www.nmhu.edu/current-students/undergraduate/">NMHU Degrees</a>
+              Visit: <a href="http://www.nmhu.edu/current-students/undergraduate/">NMHU Degrees</a>
             </div></div>
             
             <?php //Begin Side menu ?>

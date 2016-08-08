@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
-<title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO HIGHLANDS UNIVERSITY</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,11 +40,11 @@
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
             <h4>STEM Degree Agreements</h4>
-            <p><a href="https://www.cnm.edu/depts/academic-affairs/transfer-agreements">Agreements CNM to NMHU</a><br />
-              <a href="http://www.sfcc.edu/news_and_events/sfcc_highlands_hec_articulation">Agreements SFCC to NMHU</a><br />
-              <a href="https://luna.edu/media/page_files/STEM_Memorandum_of_Understanding_August_2014.pdf">Agreements LCC to NMHU</a><br />
-              <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/001434-SanJuanCol-324200935145.pdf">Agreement SJCC to NMHU</a><br />
-              <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/001435-DineCollege-324200935429.pdf">Agreement Din&#233; to NMHU</a><br />
+            <p>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/transfer-agreements">Agreements CNM to NMHU</a><br />
+              Visit: <a href="http://www.sfcc.edu/news_and_events/sfcc_highlands_hec_articulation">Agreements SFCC to NMHU</a><br />
+              Visit: <a href="https://luna.edu/media/page_files/STEM_Memorandum_of_Understanding_August_2014.pdf">Agreements LCC to NMHU</a><br />
+              Visit: <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/001434-SanJuanCol-324200935145.pdf">Agreement SJCC to NMHU</a><br />
+              Visit: <a href="http://www.nmhu.edu/wp-content/uploads/2014/08/001435-DineCollege-324200935429.pdf">Agreement Din&#233; to NMHU</a><br />
             </div>
           </div>
           

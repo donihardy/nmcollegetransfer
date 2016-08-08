@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - WESTERN NEW MEXICO UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage wnmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -49,17 +44,17 @@
             <p>If you are transferring from another college, please provide college transcripts. High school/GED transcripts are not required if you have more than 24 college credit hours.</p>
             <h4 id="tes">Transferable Courses</h4>
             <p>It is the policy of Western New Mexico University to accept transfer credit from other New Mexico accredited or regionally accredited colleges and universities.</p>
-            <p>Transfer credit may be awarded when the following conditions are met:
+            <p>Transfer credit may be awarded when the following conditions are met:</p>
               <ol type="1"><li>The student must be awarded "final" admissions status;</li>
                 <li>The course carries degree credit at the transferring institution; developmental level
                  courses will not transfer.</li>
                  <li> The student was not suspended from a college or university at the time the
-                  course was taken.</li></ol></p>
-                  <p><a href="http://registrar.wnmu.edu/catalog/">Catalog to WNMU</a><br />
+                  course was taken.</li></ol>
+                  <p>Visit: <a href="http://registrar.wnmu.edu/catalog/">Catalog to WNMU</a><br />
                     <h4 id="commoncore">Common Core Courses</h4>
                     <p>
-                      <a href="../nmcommoncore.html">Common Core Courses</a><br/>
-                      <a href=" http://hed.state.nm.us/">NM HED Common Core</a></p>
+                      Visit: <a href="../nmcommoncore.html">Common Core Courses</a><br/>
+                      Visit: <a href=" http://hed.state.nm.us/">NM HED Common Core</a></p>
                       <h4 id="actsat">ACT/SAT</h4>
                       <p>Achievement of an ACT score of 21 or better in each Math, Reading, and English
                         or SAT equivalent of 500 or better in each Math, Writing, and Reading - waives
@@ -67,10 +62,10 @@
                         <p>ACT composite score of 24 or higher will be given the opportunity to enroll in
                           Honors Classes.</p>
                           <h4 id="2+2">2+2 and other Transfer Agreements</h4>
-                          <p><a href="http://wnmu.edu/wnmu-partners-with-glendale-community-college-for-biology-program/">Transfer agreements with Glendale</a><br />
-                            <a href="http://wnmu.edu/wnmu-signs-agreement-with-mexican-university/">Transfer agreement with Mexican University</a><br />
-                            <a href="http://wnmu.edu/wnmu-partners-with-cnm-for-transfer-program/">Transfer agreement with CNM</a><br />
-                            <a href="http://wnmu.edu/univ/consumerInfo/Transfer%20of%20Credit%20Policies%20and%20Articulation%20Agreements.htm">Articulation Agreements</a></p>
+                          <p>Visit: <a href="http://wnmu.edu/wnmu-partners-with-glendale-community-college-for-biology-program/">Transfer agreements with Glendale</a><br />
+                            Visit: <a href="http://wnmu.edu/wnmu-signs-agreement-with-mexican-university/">Transfer agreement with Mexican University</a><br />
+                            Visit: <a href="http://wnmu.edu/wnmu-partners-with-cnm-for-transfer-program/">Transfer agreement with CNM</a><br />
+                            Visit: <a href="http://wnmu.edu/univ/consumerInfo/Transfer%20of%20Credit%20Policies%20and%20Articulation%20Agreements.htm">Articulation Agreements</a></p>
                             <h4 id="dual">High School Dual Enrollment</h4>
                             <p> High school students from NM public schools or public charter
                               schools may enroll at WNMU while they are completing their secondary
@@ -84,8 +79,8 @@
                                 <li>Step 3 - WNMU Admission Information</li>
                                 <li>Step 4 - Pay Fees</li>
                                 <li>Step 5 - Textbooks</li></ul>
-                                <p><a href="http://www.wnmu.edu/duen/Dual%20Credit%20Form.pdf">Dual Credit Request Form</a><br />
-                                  <a href="http://www.wnmu.edu/duen/enrollproc.shtml">Dual Enrollment information</a></p>
+                                <p>Visit: <a href="http://www.wnmu.edu/duen/Dual%20Credit%20Form.pdf">Dual Credit Request Form</a><br />
+                                  Visit: <a href="http://www.wnmu.edu/duen/enrollproc.shtml">Dual Enrollment information</a></p>
                                   <h4 id="moreinfo">Request More Info</h4>
                                   <p>WNMU Office of Admissions and Recruitment<br />
                                     PO Box 680<br />

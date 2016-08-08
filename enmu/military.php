@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -37,19 +34,19 @@
               <a href="index.php">ENMU</a>
             </li>
             <li>
-             VETERANS &#38 ACTIVE DUTY
+             VETERANS &#38; ACTIVE DUTY
            </li>
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Information on VA Benefits:</p>
-          <p><a href="https://www.enmu.edu/services/financialaid/military/va-benefits.shtml">VA Benefits</a><br />
-            <a href="https://www.enmu.edu/services/registrar/va.shtml">Veterans Information</a></p>
-            <h4 id="veterans">Active Duty</h4>
+          <p>Visit: <a href="https://www.enmu.edu/services/financialaid/military/va-benefits.shtml">VA Benefits</a><br />
+            Visit: <a href="https://www.enmu.edu/services/registrar/va.shtml">Veterans Information</a></p>
+            <h4 id="active">Active Duty</h4>
             <p>ENMU is proud to serve Cannon AFB and military families.</p>
-            <p><a href="https://www.enmu.edu/future-students/military/FAQ.shtml">Active Duty FAQs</a></p>
+            <p>Visit: <a href="https://www.enmu.edu/future-students/military/FAQ.shtml">Active Duty FAQs</a></p>
           </div>
         </div>
         

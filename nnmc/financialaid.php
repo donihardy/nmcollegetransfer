@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NORTHERN NEW MEXICO COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,7 +37,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>Northern New Mexico College places a high priority on need-based financial aid to fulfill its commitment to meeting the demonstrated financial need of Northern undergraduates.</p>
             <p>The types of grants awarded to Northern students :</p>
@@ -53,15 +48,15 @@
               Federal Teach Grant<br />
               Iraq and Afghanistan Service Grant</p>
 
-              <p><a href="http://nnmc.edu/home/student-gateway/financial-aid/grants-available-at-northern/">NNMC Financial Aid Pell Grants</a></p>
-              <h4 id="pellgrant">NMMC Loan Website</h4>
+              <p>Visit: <a href="http://nnmc.edu/home/student-gateway/financial-aid/grants-available-at-northern/">NNMC Financial Aid Pell Grants</a></p>
+              <h4 id="loans">NMMC Loan Website</h4>
               <p>A student loan is money borrowed to help pay the cost of a student’s education that must be repaid with interest.</p>
               <p>Loans are legal obligations. Before you take out a student loan, think about the amount you will have to repay over the years.</p>
               <p>You cannot have these loans canceled because you didn’t like the education you received, didn’t get a job in your field of study, or you’re having financial difficulty. The publication, Your Federal Student Loan:  Learn the Basics and Manage your Debt can help you learn more about federal student loan programs and repayment options.</p>
-              <p><a href="http://nnmc.edu/home/student-gateway/financial-aid/loans/">Loans</a></p>
+              <p>Visit: <a href="http://nnmc.edu/home/student-gateway/financial-aid/loans/">Loans</a></p>
               <h4 id="scholarship">Scholarships</h4>
               <p>There are many scholarship opportunities for students at Northern. Each year Northern awards 60+ merit, need-based, and program-specific scholarships.</p>
-              <p><a href="http://nnmc.edu/home/student-gateway/financial-aid/scholarships/">NNMC Financial Aid Scholarships</a></p>
+              <p>Visit: <a href="http://nnmc.edu/home/student-gateway/financial-aid/scholarships/">NNMC Financial Aid Scholarships</a></p>
               <h4 id="schoolcode">NNMC School Code</h4>
               <p><strong>005286</strong></p>
             </div>

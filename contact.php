@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
       <div class="item active"><img src="images/sjcbanner.png" alt="SJC Banner"></div>
       </div>
     </div>
@@ -51,6 +51,9 @@
             Phone: <a href="1-505-270-7840">505.270.7840</a><br />
             Email: <a href="mailto:doni@unm.edu">doni@unm.edu</a></div>
 
-           <div class="clear"></div>
-    <div class="container">
+            </div>
+            </div>
+            </div>
+            
+            <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

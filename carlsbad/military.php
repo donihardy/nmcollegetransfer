@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -41,12 +35,12 @@
            </ol>
          </div>
          <div class="container-fluid">
-          <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
 
             <p>NMSU Carlsbad courses have been approved for study by veterans and others who qualify for veterans’ educational assistance. Processing applications and certifications takes four to five weeks and should be initiated well in advance of course registration. For continued certification, veterans must verify their courses with the Student Services Office each semester for continued certification.</p>
-            <p>Veterans must maintain satisfactory attendance, conduct and progress. If the veteran does not meet the standards set by NMSU Carlsbad, the certifying officials must notify the Veterans Administration Office, and the VA will stop benefits.<p/>
-              <p><a href="https://carlsbad.nmsu.edu/students/all-students/student-services/veterans-affairs-benefits-information/">Veterans Affairs Benefits</a><br />
-                <a href="https://carlsbad.nmsu.edu/students/all-students/student-services/faqs-for-veterans/">FAQs</a></p>
+            <p>Veterans must maintain satisfactory attendance, conduct and progress. If the veteran does not meet the standards set by NMSU Carlsbad, the certifying officials must notify the Veterans Administration Office, and the VA will stop benefits.</p>
+              <p>Visit: <a href="https://carlsbad.nmsu.edu/students/all-students/student-services/veterans-affairs-benefits-information/">Veterans Affairs Benefits</a><br />
+                Visit: <a href="https://carlsbad.nmsu.edu/students/all-students/student-services/faqs-for-veterans/">FAQs</a></p>
               </div>
             </div>
 

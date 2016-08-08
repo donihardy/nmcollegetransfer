@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sipibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -53,13 +48,13 @@
 
               <div><h4 id="tes">Transferable Courses</h4>
                 <p>If a credit from another college is to be accepted toward a SIPI certificate or degree then the following must apply: An official transcript is required for evaluation. Admissions will evaluate the transfer credits and the academic department will determine which transfer credits are acceptable toward the student’s program of studies. Transfer credits in any degree program of study offered by SIPI must have a letter grade of “C” or higher, provided the classes are similar or equivalent to courses offered at SIPI. A minimum of twenty-four (24) residency hours in a core area is required for the award of a certificate or degree. Official transcripts submitted to SIPI Admissions and Records become the property of the institution and will not be transferred or returned to the student. Only credits from regionally accredited institutions are transferrable. To receive transfer credit for career and technical courses, the student must request that SIPI's Records Office refer the transcript(s) to the appropriate academic division for review. An interview and/or demonstration of competence may be required before the decision regarding credit is made. Demonstration of competence is required for all transfer credit more than ten(10) years old. Remedial courses and upper-division courses, 300 & 400 levels, are not generally transferable. </p>
-                <a href="http://www.sipi.edu/admiss/transfer/">SIPI Transfer Page</a>
+                Visit: <a href="http://www.sipi.edu/admiss/transfer/">SIPI Transfer Page</a>
                 <h4 id="commoncore">Common Core Courses</h4>
                 <p>Southwestern Indian Polytechnic htitute (SIPI) assessment information of the 35-hour common general education core of transferable courses is attached. SIPI has submitted a core competency assessment on four core competency areas. The department has chosen for this first year to report on the following core courses</p>
-                <a href="http://www.sipi.edu/acadprog/statewide-assessment/docs/SIPI-core-report.pdf">Core Competencies</a>
+                Visit: <a href="http://www.sipi.edu/acadprog/statewide-assessment/docs/SIPI-core-report.pdf">Core Competencies</a>
                 <h4 id="actsat">ACT/SAT</h4>
                 <p>All accepted new and transfer students are required to take the ACT Compass Test for placement. Based on the student’s placement and individual minimum test scores, the student may be required to enroll in Developmental Studies or Technical Preparation courses.</p>
-                <a href="http://www.sipi.edu/admiss/">Admissions</a>
+                Visit: <a href="http://www.sipi.edu/admiss/">SIPI Admissions</a>
                 <h4 id="moreinfo">Request More Info</h4>
                 <p>More Info:<br />
                   <a href="tel:1-800-586-7474">800-586-SIPI</a> • <a href="tel:1-800-586-7474">800-586-7474</a>

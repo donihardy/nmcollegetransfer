@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO VALENCIA</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage valenciabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -53,13 +48,13 @@
               <h5> Foreign Language (non-English language; minimum 3 credit hours):</h5> One course chosen from any of the lower-division non-English language offerings of the Departments of Linguistics (including Sign Language – SIGN), Spanish (SPAN) and Portuguese, Foreign Languages and Literatures, and foreign languages in other departments and programs.
               <h5>Fine Arts (minimum of 3 credit hours):</h5> One course chosen from Architecture (ARCH) 1011; Art History (ARTH) 101, 201, 202; Dance (DANCE) 105; Music (MUSE) 139, 140; Theatre (THEA) 105; Media Arts (MA) 210 Students may elect to take one 3-hour studio course offered by the Departments of Art and Art History, Music, Theatre and Dance, and Media Arts to fulfill this requirement.
             </div> <p>1 These courses are not generally offered at UNM-Valencia.</p>
-            <a href="http://valencia.unm.edu/academics/Catalog/degrees-and-courses.html">UNM Valencia Basic Core</a>
-            <h4 id="as">Certificates</h4>
+            <p>Visit: <a href="http://valencia.unm.edu/academics/Catalog/degrees-and-courses.html">UNM Valencia Basic Core</a></p>
+            <h4 id="cert">Certificates</h4>
             <p>Digital Media Arts<br />
               Game Design & Simulation<br />
               General Science<br />
               Information Technology</p>
-              <a href="http://valencia.unm.edu/academics/Degrees--Certificates/index.html">UNM Valencia Certificates</a>
+              <p>Visit: <a href="http://valencia.unm.edu/academics/Degrees--Certificates/index.html">UNM Valencia Certificates</a></p>
 
               <h4 id="as">Associates Degrees</h4>
               <p>Digital Media Arts AAS<br />
@@ -67,7 +62,7 @@
                 General Science AS<br />
                 Information Technology AAS<br />
                 Pre-Engineering AS</p>
-                <a href="http://valencia.unm.edu/academics/Degrees--Certificates/index.html">UNM Valencia Associates Degrees</a>
+                <p>Visit: <a href="http://valencia.unm.edu/academics/Degrees--Certificates/index.html">UNM Valencia Associates Degrees</a></p>
 
               </div>
             </div>

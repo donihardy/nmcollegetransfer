@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SANTA FE COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,9 +39,9 @@
      <div class="container-fluid">
       <div class="textbody">
         <h3>Resources</h3>
-        <p><a href="http://www.sfcc.edu/career_services">Career Services</a><br />
-          <a href="http://www.sfcc.edu/trio">TRiO</a><br />
-          <a href="http://www.sfcc.edu/tutoring">Tutoring</a>
+        <p>Visit: <a href="http://www.sfcc.edu/career_services">Career Services</a><br />
+          Visit: <a href="http://www.sfcc.edu/trio">TRiO</a><br />
+          Visit: <a href="http://www.sfcc.edu/tutoring">Tutoring</a>
         </p>
 
       </div>

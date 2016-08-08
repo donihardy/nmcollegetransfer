@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NMSU ALAMOGORDO</title>
-
-    
   <body>
     <div class="container-fluid">
       <header class="bgimage alamogordobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,10 +38,10 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>NMSU Alamogordo does not have dormitories. However, there are various affordable apartment complexes and houses for rent, some located within walking distance. The Z-Trans is a public transportation system and there is a stop in front of the NMSU-A Campus.</p>
-          <P>For more information about housing, contact the following businesses or agencies:<br />
+          <p>For more information about housing, contact the following businesses or agencies:</p>
             <ul><li>Housing Authority, City of Alamogordo, (575) 437-5621</li>
               <li>Alamo Apartments Inc, (575) 437-7520</li>
               <li> Capri Manor Apartments, (575) 437-6977</li>
@@ -55,14 +49,13 @@
               <li> Pines Apartments, (575) 437-0706</li>
               <li> Otero Village Apartments, (575) 437-0498</li>
               <li> For more information on the Z-Trans bus schedule, call (575) 439-4900</li></ul>
-            </p>
-            <p><a href="http://nmsua.edu/admissions/prospective-students/housing/">Housing</a></p>
+            <p>Visit: <a href="http://nmsua.edu/admissions/prospective-students/housing/">Housing</a></p>
             <h4 id="childcare">Child Care</h4>
             <p>Many students, at one time or another, will need assistance beyond what we can provide in the Office of Student Services. All of us face a variety of personal, social, or financial problems as we move through life. There may be times when these problems seem to be too difficult to deal with on our own. To assist our students in finding the help they need, we have made a list of providers or agencies who have been helpful to students in the past.</p>
-            <p><a href="http://nmsua.edu/current-students/helping-agencies/">Child Care</a></p>
+            <p>Visit: <a href="http://nmsua.edu/current-students/helping-agencies/">Child Care</a></p>
             <h4 id="parent">Parent Info</h4>
             <p>As your student may have a desire to participate in Dual Credit it is important to know the rights that you as parents have and the rights that the students have under the FERPA policy.</p>
-            <p><a href="http://nmsua.edu/admissions/dual-credit/information-for-parents/">NMSA Alamogordo Parents &#38; Families</a>
+            <p>Visit: <a href="http://nmsua.edu/admissions/dual-credit/information-for-parents/">NMSA Alamogordo Parents &#38; Families</a>
             </div>
           </div>
 

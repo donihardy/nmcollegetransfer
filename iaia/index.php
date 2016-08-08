@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -42,8 +37,8 @@
           <div class="textbody">
             <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/iaia3.jpg"  alt="Responsive Image">
             <p >Through the concept of art as a traditional path of creativity, IAIA excels at skill building, provoking thought and providing exceptional educational opportunities. IAIA is a place to embrace the past, enrich the present and create the future. To move ahead to paths yet unexplored and undiscovered.</p>
-            <p><a href="http://www.iaia.edu">IAIA Website</a><br />
-              <a href="https://iaia.edu/about/campus/">Map</a></p>
+            <p>Visit: <a href="http://www.iaia.edu">IAIA Website</a><br />
+              Visit: <a href="https://iaia.edu/about/campus/">Campus Map</a></p>
 
             </div>
           </div>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -49,9 +44,9 @@
             
             <h4 id="tes">Transferable Courses</h4>
             <p>NTU does consider credits for transfer from other accredited colleges. Decisions to accept incoming credits to NTU from another school are made by the Registrar. <br />
-              <p><a href="http://www.navajotech.edu/admissions/registration-records">Transfer to Navajo Tech</a>
+              <p>Visit: <a href="http://www.navajotech.edu/admissions/registration-records">Transfer to Navajo Tech</a>
                 <h4 id="commoncore">Common Core Courses</h4>
-                <a href="../nmcommoncore.html">Common Core Courses</a><br/>
+                Visit: <a href="../nmcommoncore.html">Common Core Courses</a><br/>
                 <h4 id="actsat">ACT/SAT</h4>
                 <p>Navajo Technical University is currently an open enrollment University, so there are no cutoffs for the GPA or the SAT/ACT.</p>
                 <h4 id="2+2">2+2 and other Transfer Agreements</h4>
@@ -59,9 +54,9 @@
                 <h4 id="dual">High School Dual Enrollment</h4>
                 <p>"Dual credit program” means a program that allows high school students to enroll in college-level courses offered by a college that may be academic or career technical but not remedial or developmental, and simultaneously to earn credit toward high school graduation and a postsecondary degree or certificate.<br />
                   Dual Credit is supported and sanctioned by New Mexico Legislation 6.30.7 NMAC (PED).</p>
-                  <a href="http://www.navajotech.edu/academics/dual-credit">Dual Credit Program</a>
+                  Visit: <a href="http://www.navajotech.edu/academics/dual-credit">Dual Credit Program</a>
                   <h4 id="moreinfo">Request More Info</h4>
-                  <a href="http://www.navajotech.edu/contact/staff/admissions/15-jerlynn-henry">Navajo Tech Registrar</a>
+                  Visit: <a href="http://www.navajotech.edu/contact/staff/admissions/15-jerlynn-henry">Navajo Tech Registrar</a>
                 </div>
               </div>
               

@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/taosbanner.png" alt="Taos Banner"></div>
       </div>
     </div>
@@ -34,7 +34,7 @@
         <div class="panel panel-default">
           <div class="panel-heading"><h3>STEM Degrees Quick Facts</h3></div>
           <div class="panel-body">
-          <p>Insert Explanation</p>
+          <p></p>
             <table class="table table-condensed" style="border-collapse:collapse;">
 
               <thead>
@@ -81,8 +81,9 @@
                 </a></td></tr>
 
 
-
-                 <th class="schooltitle">2 Year Schools</th></tr></th>
+                <tr>
+                 <th class="schooltitle">2 Year Schools</th>
+                 </tr>
 
                 <tr data-toggle="collapse" data-target="#cnm" class="accordion-toggle">
                     <td>&nbsp;&nbsp;CENTRAL NEW MEXICO COMMUNITY COLLEGE&nbsp;&nbsp;|&nbsp;&nbsp;<a href="cnm/stemdegrees.php">STEM Degree Webpage
@@ -168,8 +169,8 @@
 </div>
 </div> 
 </div>   
-
+</div>
                                                                 
 <div class="clear"></div>
-<div class="container">
+
 <?php include 'includes/footer.php'; ?>

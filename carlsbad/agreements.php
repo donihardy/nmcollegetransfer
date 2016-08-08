@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,8 +38,8 @@
             <div class="textbody">
               <h3>Agreements with Other Schools</h3>
               <div class="subtitle"><div class="transfer">
-               <p><a href="https://dept-wp.nmsu.edu/etse2/files/2014/05/NMSU-CarlsbadCC-to-ECET.pdf">NMSU Engineering Technology Articulation</a><br />
-                <a href="http://business.nmsu.edu/students/academic/transfer/">Business</a></p>
+               <p>Visit: <a href="https://dept-wp.nmsu.edu/etse2/files/2014/05/NMSU-CarlsbadCC-to-ECET.pdf">NMSU Engineering Technology Articulation</a><br />
+                Visit: <a href="http://business.nmsu.edu/students/academic/transfer/">Business</a></p>
               </div>
             </div>
           </div></div>

@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -43,13 +38,13 @@
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
         <h4 id="housing">Housing</h4>
         <p>It is the responsibility of students to obtain their own housing while attending the college. LCC does not have dormitories. However, the ACCESS Center will assist students by providing contacts to obtain housing.</p>
-        <p><a href="https://www.luna.edu/student_support/">Student Support</a></p>
+        <p>Visit: <a href="https://www.luna.edu/student_support/">Student Support</a></p>
         <h4 id="childcare">Child Care</h4>
         <p>The college offers its students the opportunity to enroll their children in the preschool while they attend school. The preschool is located on the west end of the campus in the Nick Salazar Early Childhood Education Center. The preschool is also open to the community. Additional information about the preschool is available at the site. A parent handbook detailing the preschool is available upon request.</p>
-        <p><a href="http://www.luna.edu/orientation/step5.html">Child Care</a></p>
+        <p>Visit: <a href="http://www.luna.edu/orientation/step5.html">Child Care</a></p>
         <h4 id="parent">Parent Info</h4>
         <p>No information available.</p>
       </div>

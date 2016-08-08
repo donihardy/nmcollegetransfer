@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuruidosobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -49,14 +44,14 @@
               courses with NMCCNS will transfer, the degree plans of (1) ENMU Ruidoso
               and (2) their selected four-year transfer institution may
               restrict the courses that may be used to fulfill Core requirements.
-              Courses in the Core without NMCCNS destination may not transfer. <br />
-              <a href="https://issuu.com/enmuruidoso/docs/catalog_2015-2016/28">Common Core</a>.</p>
+              Courses in the Core without NMCCNS destination may not transfer.</p>
+              <p>Visit: <a href="https://issuu.com/enmuruidoso/docs/catalog_2015-2016/28">Common Core</a>.</p>
               <h4 id="as">Associates Degrees</h4>
-              <p>List of Associates Degrees at ENMU:
-                <ul type="none"><li>Information Systems</li>
+              <p>List of Associates Degrees at ENMU:</p>
+                <ul style="list-style-type:none"><li>Information Systems</li>
                   <li>Information Systems - Cybersecurity</li>
-                  <li>Natural Science</li></ul></p>
-                  <a href="http://ruidoso.enmu.edu/index.php/academics-programs/programs">ENMU Ruidoso Associate Degrees</a></p>
+                  <li>Natural Science</li></ul>
+                  <p><a href="http://ruidoso.enmu.edu/index.php/academics-programs/programs">ENMU Ruidoso Associate Degrees</a></p>
                 </div>
               </div>
                        

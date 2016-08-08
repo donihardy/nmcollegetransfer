@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -52,7 +47,7 @@
               Grants, NM 87020.</p>
               <p>If you have a GED, all transcripts must be ordered through Diploma Sender at <a href="http://www.diplomasender.com">www.diplomasender.com.</a></p>
               <p>All requests for transcripts or questions about transcripts (official and unofficial) must be handled through the NMSU Las Cruces campus.<br />
-                <a href="http://registrar.nmsu.edu/transcripts/">NMSU Registrar</a></p>
+                Visit: <a href="http://registrar.nmsu.edu/transcripts/">NMSU Registrar</a></p>
                 <div><h4 id="tes">Transferable Courses</h4>
                   <p>A transferable degree program is designed specifically for two-year degrees to transfer directly to the related four-year Bachelors degree. Transferring the following two-year degrees to four-year degrees at NMSU or UNM should be relatively easy:</p>
 
@@ -64,14 +59,14 @@
                     <li>Early Childhood Education</li>
                     <li>Pre-Business</li>
                     <li>Social Services</li></ul>
-                    <a href="https://grants.nmsu.edu/students/transfers/">NMSU Grants Transfers</a>
+                    Visit: <a href="https://grants.nmsu.edu/students/transfers/">NMSU Grants Transfers</a>
                     <h4 id="commoncore">Common Core Courses</h4>
-                    <a href="http://www.hed.state.nm.us/institutions/general-ed-core-course-transfer-curriculum.aspx">General Ed Core Course Transfer Curriculum</a>
+                    Visit: <a href="http://www.hed.state.nm.us/institutions/general-ed-core-course-transfer-curriculum.aspx">General Ed Core Course Transfer Curriculum</a>
                     <h4 id="actsat">ACT/SAT</h4>
                     <p>All first-time students are required to take the ACT Compass Placement test and provide a short writing sample. The results of this test will indicate your proficiency in Math and English and determine which classes will be best for you. If you took the ACT Test in High School, provide your scores and an advisor will determine if you may benefit from re-testing in Math and English. See an Advisor in Student Services to pick up your “Test Ticket”. If you want to participate in a completely online degree program, contact Student Services for placement alternatives.</p>
                     <h4 id="moreinfo">Request More Info</h4>
                     <p>Transfer Advisor:<br />
-                      <a href="https://grants.nmsu.edu/students/transfers/">Transfers</a>
+                      Visit: <a href="https://grants.nmsu.edu/students/transfers/">Transfers</a>
 
                       <h4 id="2+2">Transfer Agreements</h4>
                       <p>Transferring the following two-year degrees to four-year degrees at NMSU or UNM should be relatively easy:</p>
@@ -83,10 +78,10 @@
                         <li>General Engineering</li>
                         <li>Early Childhood Education</li>
                         <li>Pre-Business</li>
-                        <li>Social Services</li></ul></p>
+                        <li>Social Services</li></ul>
                         <h4 id="dual">High School Dual Enrollment</h4>
                         The Dual Credit Program allows eligible high school students to enroll in college-level courses and earn credits at both the high school and college levels at the same time.<br />
-                        <a href="https://grants.nmsu.edu/students/dual-credit/">NMSU Grants Dual Enrollment Page</a>
+                        Visit: <a href="https://grants.nmsu.edu/students/dual-credit/">NMSU Grants Dual Enrollment Page</a>
                         
                       </div>
                     </div>

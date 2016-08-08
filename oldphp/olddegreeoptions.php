@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
       <div class="item active"><img src="images/unmbanner.png" alt="UNM Banner"></div>
      </div>
    </div>
@@ -60,6 +60,5 @@
       <tr><td class="schoolname">UNM-VALENCIA</td><td><a href="valencia/degreeoptions.php">Degree Options</a></td></tr>
     </table>
   </div>
-  <div class="clear"></div>
-    <div class="container">
+   <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

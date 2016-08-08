@@ -18,9 +18,9 @@
             <li><a href="iaia/index.php">INSTITUTE OF AMERICAN INDIAN ARTS</a></li>
             <li><a href="navajotech/index.php">NAVAJO TECHNICAL UNIVERSITY</a></li>
             <li><a href="nmhu/index.php">NMHU</a></li>
-            <li><a href="nnmc/index.php">NNMC</a></li>
             <li><a href="nmt/index.php">NM TECH</a></li>
             <li><a href="nmsu/index.php">NMSU</a></li>
+            <li><a href="nnmc/index.php">NNMC</a></li>
             <li><a href="unm/index.php">UNM</a></li>
             <li><a href="wnmu/index.php">WNMU</a></li>
           </ul>

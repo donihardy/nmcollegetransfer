@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NORTHERN NEW MEXICO COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,7 +41,7 @@
           <h3>Resources</h3>
           <!--<p>Info to come</p>-->
           <p>
-            The Student Success Center at Northern New Mexico College offers a variety of services, all free of charge, designed to help every student reach his/her educational goals. These services include:<br />
+            The Student Success Center at Northern New Mexico College offers a variety of services, all free of charge, designed to help every student reach his/her educational goals. These services include:</p>
 
             <ul><li>Computer lab</li>
               <li>Self-paced computer tutorial programs</li>
@@ -57,16 +52,16 @@
               <li>Course Placement Evaluation</li>
               <li>Internet assistance</li>
               <li>Video library</li></ul>
-              <a href="http://nnmc.edu/home/student-gateway/student-success-center/ ">Student Success Center</a></p>
-              <p>Northern's Math Learning Center provides services for students and faculty, and is dedicated to helping students strengthen their math skills so they gain confidence and independence in math learning. The Math Learning Center welcomes all students as valued mathematicians and critical thinkers.<br />
+              <p>Visit: <a href="http://nnmc.edu/home/student-gateway/student-success-center/ ">Student Success Center</a></p>
+              <p>Northern's Math Learning Center provides services for students and faculty, and is dedicated to helping students strengthen their math skills so they gain confidence and independence in math learning. The Math Learning Center welcomes all students as valued mathematicians and critical thinkers.</p>
                 <ul><li>Free Drop-in Tutoring</li>
                   <li>Online Math Resources</li>
                   <li>COMPASS Placement Test Workshops</li>
                   <li>MATLAB</li>
                   <li>Online Resources</li>
-                  <li>Support for Instructors</li></ul></p>
+                  <li>Support for Instructors</li></ul>
 
-                  <a href="http://nnmc.edu/home/student-gateway/the-math-center/">Math Learning Center</a>
+                  Visit: <a href="http://nnmc.edu/home/student-gateway/the-math-center/">Math Learning Center</a>
                 </div>
               </div>
               

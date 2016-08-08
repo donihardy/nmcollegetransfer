@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -NEW MEXICO JUNIOR COLLEGE</title>
-
-<body>
+  <body>
   <div class="container-fluid">
     <header class="bgimage nmjcbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -47,15 +41,15 @@
         <div class="textbody">
           <h3>Agreements with Other Schools</h3>
           <h4>STEM Degree Agreements</h4>
-          <p><a href="http://www.nmjc.edu/assets/documents/Thomas%20Edison%20State%20College.pdf">Applied Science and Technology</a> - Thomas Edison College<br />
-            <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Chemistry</a> - Gantham University<br />
-            <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Computer Science</a> - Gantham University<br />
-            <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Natural Sciences</a> - Gantham University<br />
-            <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Information Systems</a>  - Gantham University<br />
-            <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Mathematics</a> - Gantham University<br />
-            <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Physics</a> - Gantham University</p>
+          <p>Visit: <a href="http://www.nmjc.edu/assets/documents/Thomas%20Edison%20State%20College.pdf">Applied Science and Technology</a> - Thomas Edison College<br />
+            Visit: <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Chemistry</a> - Gantham University<br />
+            Visit: <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Computer Science</a> - Gantham University<br />
+            Visit: <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Natural Sciences</a> - Gantham University<br />
+            Visit: <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Information Systems</a>  - Gantham University<br />
+            Visit: <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Mathematics</a> - Gantham University<br />
+            Visit: <a href="http://www.nmjc.edu/assets/documents/Grantham%20University%20%282%29.pdf">Physics</a> - Gantham University</p>
 
-            <p><a href="http://www.nmjc.edu/studentservices/counseling/academicplanning.aspx">NMJC Transfer Agreements</a></p>
+            <p>Visit: <a href="http://www.nmjc.edu/studentservices/counseling/academicplanning.aspx">NMJC Transfer Agreements</a></p>
           </div>
         </div>
         

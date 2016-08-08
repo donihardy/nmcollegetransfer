@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,7 +40,7 @@
           <div class="textbody"><h2>Degree Options</h2>
             <h4 id="basiccore">Basic Core</h4>
             <p>The General Education Core Curriculum is a set of classes all Bachelor of Science students at NMT are required to take before graduation.</p>
-            <a href="https://www.nmt.edu/images/stories/registrar/Transfer/Gen_Ed_Core_Curriculum_Worksheet_2016.pdf">NMT General Education Core</a>
+            Visit: <a href="https://www.nmt.edu/images/stories/registrar/Transfer/Gen_Ed_Core_Curriculum_Worksheet_2016.pdf">NMT General Education Core</a>
             <h4 id="as">Associates Degrees</h4>
             <p>No STEM degrees at NMT</p>
             <h4 id="ba">Bachelor's Degrees</h4>
@@ -78,7 +73,7 @@
                                     <p><strong>Physics Department</strong><br />
                                       Physics (BS)</p>
 
-                                      <a href="http://www.nmt.edu/departments-and-degrees">NMT Bachelor's Degrees</a>
+                                      Visit: <a href="http://www.nmt.edu/departments-and-degrees">NMT Bachelor's Degrees</a>
                                       <h4 id="ma">Masters Degrees</h4>
                                       <p><strong>Biology Department</strong><br />
                                         Biology (MS)</p>
@@ -107,7 +102,7 @@
                                                             Petroleum Engineering (MS)</p>
                                                             <p><strong>Physics Department</strong><br />
                                                               Physics (MS)</p>
-                                                              <a href="http://www.nmt.edu/departments-and-degrees">NMT Masters Degrees</a>
+                                                              Visit: <a href="http://www.nmt.edu/departments-and-degrees">NMT Masters Degrees</a>
 
                                                               <h4 id="phd">PhD Degrees</h4>
                                                               <p><strong>Chemistry Department</strong><br />
@@ -131,7 +126,7 @@
                                                                             Mathematical with dissertation in Physics (PhD)
                                                                           </p>
 
-                                                                          <a href="http://www.nmt.edu/departments-and-degrees">NMT PhD. Degrees</a>
+                                                                          Visit: <a href="http://www.nmt.edu/departments-and-degrees">NMT PhD. Degrees</a>
                                                                         </div>
                                                                       </div>
 

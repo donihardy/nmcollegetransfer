@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,9 +39,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>Eastern New Mexico University</h3>
-          <h6>1500 S Ave K | Portales, New Mexico 88130 | <a href="1-575-562-1011">(575) 562-1011</a></h6></th>
-          <tr><td><h4>Website:</h4></td><td><a href="http://www.enmu.edu">www.enmu.edu</a></td></tr>
+        <div class="textbody"><h3>Eastern New Mexico University</h3>
+          <h6>1500 S Ave K | Portales, New Mexico 88130 | <a href="1-575-562-1011">(575) 562-1011</a></h6><br />
+          <table class="profile"><tr><td><h4>Website:</h4></td><td><a href="http://www.enmu.edu">www.enmu.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>4-year, Public</td></tr>
           <tr><td><h4>Awards offered:</h4></td>
             <td>Associate's degree, Bachelor's, Post-baccalaureate certificate, Master's
@@ -54,7 +51,7 @@
             <tr><td><h4>Student population:</h4></td><td>  	5,879</td></tr>
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>19 to 1</td></tr>
           </table>
-          <a href="http://nces.ed.gov/collegenavigator/?q=eastern+new+mexico&s=all&id=187648">College Navigator</a></div>
+          <p>Visit: <a href="http://nces.ed.gov/collegenavigator/?q=eastern+new+mexico&s=all&id=187648">College Navigator</a></p></div>
         </div>
         
         <?php //Begin Side menu ?>

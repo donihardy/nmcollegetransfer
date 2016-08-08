@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO GALLUP</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage gallupbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,9 +40,9 @@
         <div class="textbody">
           <h3>Resources</h3>
           
-          <p><a href="http://www.gallup.unm.edu/careers">Career Services</a><br />
-            <a href="http://www.gallup.unm.edu/vert/new-students/college.php">Learning Center</a><br />
-            <a href="http://www.gallup.unm.edu/vert/new-students/tutoring.php">TRiO/Student Support Services</a></p>
+          <p>Visit: <a href="http://www.gallup.unm.edu/careers">Career Services</a><br />
+            Visit: <a href="http://www.gallup.unm.edu/vert/new-students/college.php">Learning Center</a><br />
+            Visit: <a href="http://www.gallup.unm.edu/vert/new-students/tutoring.php">TRiO/Student Support Services</a></p>
 
           </div>
         </div>

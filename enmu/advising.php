@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,16 +39,16 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>ENMU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>ENMU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>At the Advising Center, students will: be assisted with clarifying their educational goals; learn educational options available at ENMU. Academic advising is an important part of your success at Eastern New Mexico University.</p>
-            <p><a href="https://www.enmu.edu/services/advising/">ENMU Advising General Info</a></p>
+            <p>Visit: <a href="https://www.enmu.edu/services/advising/">ENMU Advising General Info</a></p>
             <h4 id="website">ENMU Advising Website</h4>
-            <p><a href="https://www.enmu.edu/services/advising/">ENMU Advising Website</a></p>
-            <a href="https://www.enmu.edu/services/advising/faq.shtml">FAQs</a>
+            <p>Visit: <a href="https://www.enmu.edu/services/advising/">ENMU Advising Website</a></p>
+            Visit: <a href="https://www.enmu.edu/services/advising/faq.shtml">FAQs</a>
             <h4 id="appt">Schedule an Appointment</h4>
             <p>To schedule an appointment you can call <a href="tel:1-575-562-2338">575-562-2338 </a>to make an appointment:</p>
-            <p><a href="http://www.enmu.edu/academics/advising-center">ENMU Advising Appointment</a></p>
+            <p>Visit: <a href="http://www.enmu.edu/academics/advising-center">ENMU Advising Appointment</a></p>
           </div>
         </div>
         

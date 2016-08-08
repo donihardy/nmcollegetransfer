@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO LOS ALAMOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage losalamosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,21 +38,21 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>It is the goal of UNM-LA to provide the safest, most affordable housing options possible for our students. In our ongoing effort to accommodate the housing needs of our students, we have partnered with the Los Alamos Chamber of Commerce to provide an up-to-date listing of off-campus housing resources.</p>
 
           <p>A list of available housing options submitted by rental property owners is available <a href="http://losalamos.unm.edu/students/housing/listings/index.html">here</a>.</p>
 
           <p>The Los Alamos Chamber of Commerce can also provide direct resources and information at their location:<br /> 109 Central Park Square<br />Los Alamos, New Mexico 87544</p>
-          <p><a href="http://losalamos.unm.edu/students/housing/">Housing</a></p>
+          <p>Visit: <a href="http://losalamos.unm.edu/students/housing/">UNM Los Alamos Housing</a></p>
           <h4 id="childcare">Child Care</h4>
           <p>Enrichment activities will be provided on site for children in grades K-6. Snacks will be provided. Please call Community Education at 662-0346 to sign up.</p>
           <p>Childcare for children who are preschool age or younger will be provided at the Ark Child Development Center. Please call the Ark at 662-4822 to sign up.</p>
-          <p><a href="http://losalamos.unm.edu/community-education/kids-are-worth-it.html">Child Care</a></p>
+          <p>Visit: <a href="http://losalamos.unm.edu/community-education/kids-are-worth-it.html">Child Care</a></p>
           <h4 id="parent">Parent Info</h4>
           <p>At UNM Los Alamos, we understand that parents and families play an integral part of the college experience.</p>
-          <p><a href="http://losalamos.unm.edu/community/parents-families/index.html">UNM Los Alamos Parents &#38; Families</a>
+          <p>Visit: <a href="http://losalamos.unm.edu/community/parents-families/index.html">UNM Los Alamos Parents &#38; Families</a>
           </div>
         </div>
 

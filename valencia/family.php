@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO VALENCIA</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage valenciabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,7 +38,7 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>No housing available.</p>
           <!--<p><a href="#">Housing</a></p>-->
@@ -54,7 +49,7 @@
             of the Student/Community Center in the Spring
             2000 added additional classrooms, office space, and a
             wellness/fitness center and child care facility. </p>
-            <p><a href="http://valencia.unm.edu/academics/Catalog/archive/catalog-2014-2016.pdf">Catalog</a></p>
+            <p>Visit: <a href="http://valencia.unm.edu/academics/Catalog/archive/catalog-2014-2016.pdf">UNM Valencia Catalog</a></p>
             <h4 id="parent">Parent Info</h4>
             <p>No information found</p>
             <!--<p><a href="#">SCHOOL Parents &#38; Families</a>-->

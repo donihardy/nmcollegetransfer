@@ -1,15 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage cnmbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
-        <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a><
+         
+        <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
 
@@ -23,7 +18,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand cnm" href="index.php">CENTRAL NEW MEXICO COMMUNITY COLLEGE</a>
+         <a class="navbar-brand cnm" href="index.php">CENTRAL NEW MEXICO COMMUNITY COLLEGE</a>
         </div>
 
         <?php //Begin top Nav Bar ?>
@@ -44,8 +39,8 @@
           <div class="textbody">
             <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/cnmsm.jpg"  alt="Responsive Image">
             <p>Central New Mexico Community College provides affordable higher education throughout Albuquerque and its surrounding areas.</p>
-            <p><a href="http://www.cnm.edu">CNM Website</a><br />
-              <a href="https://www.cnm.edu/maps-and-directory/main-campus/map">Map</a></p>
+            <p> Visit: <a href="http://www.cnm.edu">CNM Website</a><br />
+               Visit: <a href="https://www.cnm.edu/maps-and-directory/main-campus/map">CNM Map</a></p>
             </div>
           </div>
 

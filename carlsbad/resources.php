@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,7 +38,7 @@
           <div class="textbody">
             <h3>Resources</h3>
             <p>Thank you for accessing the information and resources from Student Services that we have developed on our web page. Student Services include: Admissions, Registration, Financial Aid, Advising, Counseling, Student Development, Special Needs Services, Career Placement and Graduation. Student Services is comprised of 13 dedicated individuals who primary concern is to assist you in being successful at NMSU Carlsbad. Please feel free to contact any of us and thank you for picking NMSU Carlsbad as your community college!</p>
-            <p><a href="https://carlsbad.nmsu.edu/students/all-students/student-services/">Student Services</a></p>
+            <p>Visit: <a href="https://carlsbad.nmsu.edu/students/all-students/student-services/">Student Services</a></p>
 
           </div>
         </div>

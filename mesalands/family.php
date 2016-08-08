@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -MESALANDS</title>
-
 <body>
   <div class="container-fluid">
-    <header class="bgimage mesalandsbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+    <header class="bgimage mesalandsbgimage img-responsive">
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -44,20 +38,20 @@
      </div>
      <div class="container-fluid">
       <div class="textbody">
-        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
         <h4 id="housing">Housing</h4>
         <p>Mesalands does not have campus housing.</p>
-        <p><a href="http://www.mesalands.edu/future-students/housing/">Student Housing Opportunities</a></p>
+        <p>Visit: <a href="http://www.mesalands.edu/future-students/housing/">Student Housing Opportunities</a></p>
         <h4 id="childcare">Child Care</h4>
         <p>No information found.</p>
-        <p><a href="http://www.mesalands.edu">Child Care</a></p>
+        <!--<p>Visit: <a href="http://www.mesalands.edu">Child Care</a></p>-->
         <h4 id="parent">Parent Info</h4>
         <p>At the post-secondary level, parents have no inherent rights to inspect a student’s education records. The right to inspect records is limited solely to the student. Records may be released to parents* only under the following circumstances:</p>
         <ol><li>In compliance with subpoena, or</li>
           <li>by producing a copy of the most recent Federal Income Tax form showing that the student was claimed as a dependent.</li></ol>
 
           <p>An institution is not required to disclose information from a student’s educational records to the parents of a dependent student. It may, however, exercise its discretion in doing so.</p>
-          <p><a href="http://www.mesalands.edu/about/consumer-information/ferpa/">Parent Info</a></p>
+          <p>Visit: <a href="http://www.mesalands.edu/about/consumer-information/ferpa/">Parent Info</a></p>
         </div>
       </div>
       

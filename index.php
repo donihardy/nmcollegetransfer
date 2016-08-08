@@ -1,6 +1,6 @@
 <?php include 'includes/mainheader.php'; ?>
 
-<body >
+<body>
   <?php include 'includes/slider.php'; ?>
   <?php require 'includes/topnav.php'; ?>
 
@@ -27,5 +27,4 @@
 
 
   <div class="clear"></div>
-    <div class="container">
 <?php include 'includes/footer.php'; ?>

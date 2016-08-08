@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
-<title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO HIGHLANDS UNIVERSITY</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,7 +37,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMHU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMHU Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Office of Academic Support offers a variety of services to help students excel in their studies, including Academic Advisement, Peer Mentoring, Workshops, New Student Orientation and the coordination of Peer Study Groups. Our department collaborates with the Freshman Experience Program, the Learning Communities, and Freshman Forum classes to create a seamless transition from high school to college. An academic adviser will be assigned to you based on the Learning Community you select.</p>
             <h4 id="website">NMHU Advising Website</h4>
@@ -52,7 +47,7 @@
               Adviser and student interactions promote teaching and learning to
               enhance student success including educational, social and personal
               development. </p>
-              <p><a href="http://www.nmhu.edu/office-of-academic-support/ ">NMHU Advising Website</a></p>
+              <p>Visit: <a href="http://www.nmhu.edu/office-of-academic-support/ ">NMHU Advising Website</a></p>
               <h4 id="appt">Schedule an Appointment</h4>
               <p>To meet your adviser, visit the Felix Martinez Building, Suite 110.</p>
               <p><a href="mailto:academicsupport@nmhu.edu">Email</a><br />

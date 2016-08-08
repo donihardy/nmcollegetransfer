@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - DIN&#201;</title>
-
-
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -48,8 +42,8 @@
        <div class="container-fluid">
         <div class="textbody">
           <h3>Resources</h3>
-          <p><a href="http://www.dinecollege.edu/library/dcl-comm.htm">Din&#233; Library</a><br />
-            <a href="http://www.dinecollege.edu/services/student-services-tsaile.php">Learning Center</a></p>
+          <p>Visit: <a href="http://www.dinecollege.edu/library/dcl-comm.htm">Din&#233; Library</a><br />
+            Visit: <a href="http://www.dinecollege.edu/services/student-services-tsaile.php">Learning Center</a></p>
           </div>
         </div>
         

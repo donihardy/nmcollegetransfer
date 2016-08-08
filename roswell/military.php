@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -37,12 +32,12 @@
               <a href="index.php">ENMU-ROSWELL</a>
             </li>
             <li>
-             VETERANS &#38 ACTIVE DUTY
+             VETERANS &#38; ACTIVE DUTY
            </li>
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p><strong>New VA Students:</strong></p>
           <p>You must apply online by accessing the link to the U.S. Department of Veterans Affairs above. Initial processing takes approximately 2 weeks from the time of application. You may call the regional office in Muskogee, OK at 1.888.442.4551 to check on the status of your paperwork. If eligible, you will receive a Certificate of Eligibility, which must be submitted to the VACO (Veterans Affairs Certifying Officer)., located in the Student Services Center.</p>
@@ -56,15 +51,15 @@
               <p><strong>Tuition Payments Forgiven</strong></p>
               <p>HB 715 requires state-funded educational institutions to forgive tuition payments owed by residents of New Mexico when the student is conscripted or enters the military service on or after August 1, 1990. Also, the bill requests institutions credit students for the full amount of the payments made when students reenroll in that institution at a future date.
               </p>
-              <h4 id="veterans">Active Duty</h4>
-              <p>We at ENMU- Roswell are committed to helping our military students and accustomed to developing their financial aid in conjunction with the additional governmental assistance they may receive. The following options are available to military students at ENMU - Roswell:
+              <h4 id="active">Active Duty</h4>
+              <p>We at ENMU- Roswell are committed to helping our military students and accustomed to developing their financial aid in conjunction with the additional governmental assistance they may receive. The following options are available to military students at ENMU - Roswell:</p>
                 <ul><li>military out of state tuition waivers</li>
                   <li>academic scholarships</li>
-                  <li>federal student aid</li></ul></p>
+                  <li>federal student aid</li></ul>
                   <p>Each resource has application requirements, so plan early to meet any deadlines. For additional information on the resources listed above, please contact our Admissions and Records or Financial Aid Offices at <a href="1-575-624-7000">(575) 624-7000</a> or <a href="1-800-243-6687">1-(800)-243-6687</a>.</p>
 
                   <p>Link to the info on institution’s webpage:<br />
-                    <a href="http://www.roswell.enmu.edu/student-affairs/va-and-military-benefits">http://www.roswell.enmu.edu/student-affairs/va-and-military-benefits</a>
+                    Visit: <a href="http://www.roswell.enmu.edu/student-affairs/va-and-military-benefits">VA and Military Benefits</a>
                   </p>
                 </div>
               </div>

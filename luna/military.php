@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -42,19 +37,19 @@
        </ol>
      </div>
      <div class="container-fluid">
-       <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+       <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
         <h4 id="veterans">Veterans &#38; Military</h4>
         <p>The Veterans Resource Center at Luna Community College is an area where veterans and their dependents may seek information regarding their educational opportunities.</p>
 
-        <p>SOME SERVICES PROVIDED ARE:<br />
+        <p>SOME SERVICES PROVIDED ARE:</p>
           <ul><li>Academic and career advisement</li>
             <li>Peer to peer mentoring</li>
             <li>Counseling</li>
             <li>Surrounding area and community resources</li>
-            <li>Information regarding upcoming workshops</li></ul></p>
+            <li>Information regarding upcoming workshops</li></ul>
             <p>Location:<br />
               Student Services Building, ACCESS Center room 114, Phone: <a href="tel:1-505-454-5317">505-454-5317</a></p>
-              <p><a href="https://luna.edu/media/page_files/VA_Request_for_Certification.pdf">Request for Certification Form</a></p>
+              <p>Visit: <a href="https://luna.edu/media/page_files/VA_Request_for_Certification.pdf">Request for Certification Form</a></p>
             </div>
           </div>
           

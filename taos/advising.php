@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO TAOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage taosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,7 +37,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM-Taos Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM-Taos Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Academic advising is a key component to a successful student experience.</p>
             <p>The University of New Mexico-Taos offers a wealth of intellectual opportunities, both in and outside the classroom. The central role of advisors is to help you take full advantage of all that’s available as you create your unique path through your undergraduate career.</p>
@@ -52,9 +47,8 @@
             <p>1157 County Road 110<br />
               Ranchos de Taos, NM 87557<br />
               Phone: <a href="tel:1-575-737-6202">(575) 737-6202</a><br />
-              <a href="mailto:askalobo@unm.edu">askalobo@unm.edu</a><br />
-              <a href="http://taos.unm.edu/student-success/advising/">UNM Taos Advising</a>
-            </p>
+              <a href="mailto:askalobo@unm.edu">askalobo@unm.edu</a></p>
+              <p>Visit: <a href="http://taos.unm.edu/student-success/advising/">UNM Taos Advising</a></p>
           </div>
         </div>
 

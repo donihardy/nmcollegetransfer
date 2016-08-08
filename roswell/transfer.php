@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -57,7 +52,7 @@
                 PO Box 6000<br />
                 Roswell, NM  88202-6000<br />
                 <a href="mailto:records@roswell.enmu.edu">Email</a></p>
-                <p><a href="http://www.roswell.enmu.edu/admissions/admissions/transcripts">Transcripts</a></p>
+                <p>Visit: <a href="http://www.roswell.enmu.edu/admissions/admissions/transcripts">Transcripts</a></p>
                 <h4 id="tes">Transferable Courses</h4>
                 <p>Credit is accepted for college‑level work from institutions accredited by an accrediting body recognized
                   by the Commission on Recognition of Postsecondary Accreditation (CORPA). Courses which would not
@@ -79,11 +74,12 @@
                         transcripts. The English translation must demonstrate how the courses are equivalent in grade and
                         content to those taught in the United States. Please contact the Director of Admissions and Records for
                         more information.</p>
-                        <p><a href="http://www.roswell.enmu.edu/catalogs/catalog.pdf">Transfer Info</a></p>
+                        <p>Visit: <a href="http://www.roswell.enmu.edu/catalogs/catalog.pdf">Transfer Info</a></p>
                         <h4 id="commoncore">Common Core Courses</h4>
                         <p>To facilitate transfer of students and course credits among New Mexico’s colleges and universities, the state’s public institutions of higher education are required to accept in transfer courses taken within approved modules of lower-division course work and apply them toward degree requirements. Several transfer guides have been developed through collaboration of New Mexico’s public postsecondary institutions, consistent with requirements of state law (21-1B, NMSA 1978). Students enrolling for first year or second year study at a New Mexico institution and wishing to prepare for possible transfer into a degree program at another institution are advised to take these courses during their freshman and sophomore years.</p>
-                        <a href="https://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Roswell Catalog</a>
-                        <table width="80%"><tr><th>Area I Communications</th><th>Select 9 semester hours</th></tr>
+                        <p>Visit: <a href="https://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Roswell Catalog</a></p>
+                        <table style="width: 80%">
+                        <tr><th>Area I Communications</th><th>Select 9 semester hours</th></tr>
                           <tr><td>a) College-Level English Composition</td><td>3–4 hrs.</td></tr>
                           <tr><td>b) College-Level Writing (a second course
                             building on the above)</td><td> 3 hrs.</td></tr>
@@ -109,7 +105,7 @@
                               <tr><td>b) Introductory Philosophy</td><td> 3 hrs.</td></tr>
                               <tr><td>c) Introductory Course in History, Theory, or<br />
                                 Aesthetics of the Arts or Literature</td><td> 3 hrs.</td></tr>
-                                <tr><th>Total to be selected 35 semester hours</th></tr>
+                                <tr><td colspan="2"><h5><strong>Total to be selected 35 semester hours</strong></h5></td></tr>
 
                               </table>
                               <h4 id="actsat">ACT/SAT</h4>
@@ -120,8 +116,8 @@
                                 <p><strong>ACT Code: 4662</strong></p>
                                 <p><a href="http://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Roswell catalog</a> - page 44</p>
                                 <h4 id="moreinfo">Request More Info</h4>
-                                <p>Request more information:</br>
-                                  <a href="tel:1-575-624-7000">Phone</a></p>
+                                <p>Request more information:<br />
+                                  <a href="tel:1-575-624-7000">575-624-7000</a></p>
                                   <h4 id="2+2">2+2 Agreements or Other Transfer Agreements</h4>
                                   <p>Representatives from both two year and four year colleges, universities, technical institutes and the state formed the New Mexico Business Administration Articulation Committee.  This committee developed the Business Administration module that includes the commonly accepted general education core. Please visit The New Mexico Higher Education Department website with links to institutional websites for articulation agreements in support of advisors and students.</p>
 
@@ -132,16 +128,15 @@
                                     <p>Dual credit courses accrue both high school and college credit and are
                                       open only to public schools, state charter schools, and other state-supported schools. Concurrent enrollment courses may be for college credit only,
                                       high school credit only, or both. Students must submit the correct forms to the ENMU-Roswell Director of Enrollment Management before 
-                                      the start of each semester. For more information, call <a href:"tel:1-575-624-7168">(575) 624-7168.</a></p>
+                                      the start of each semester. For more information, call <a href="tel:1-575-624-7168">(575) 624-7168.</a></p>
                                       <p>Students who are enrolled in dual credit classes and/or concurrent enrollment classes are required to furnish a copy of their final high school
                                         transcript, with the graduation date posted, to ENMU-Roswell. Students who have not yet entered high school are not allowed to enroll in ENMU-
                                         Roswell courses without permission of the school district officials, the appropriate ENMU-Roswell Dean, the Vice President for Student Affairs,
                                         and the Vice President for Academic Affairs. Only high school students enrolled in a public school, a charter school, or other state-supported schools, are eligible for dual credit. Please contact the high school counselor to determine eligibility for dual credit.</p>
 
-                                        <a href="http://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Roswell Catalog</a> - page 36.</p>
+                                        <p>Visit: <a href="http://www.roswell.enmu.edu/catalogs/catalog.pdf">ENMU Roswell Catalog</a> - page 36.</p>
                                       </div>
                                     </div>
-                                  </div>
                                   
                                   <?php //Begin Side menu ?>
                                   <?php require '../includes/sidemenu.php'; ?>

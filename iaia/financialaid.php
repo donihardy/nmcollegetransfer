@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,15 +37,15 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
-            Completing and submitting the FAFSA is free and quick, and it gives you access to the largest source of financial aid to pay for college or career school.<br/>
-            <p><a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Pell Grants</a></p>
-            <h4 id="pellgrant">Loans</h4>
+            <p>Completing and submitting the FAFSA is free and quick, and it gives you access to the largest source of financial aid to pay for college or career school.</p>
+            <p>Visit: <a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Pell Grants</a></p>
+            <h4 id="loans">Loans</h4>
             <p>At IAIA we believe one’s abilities should not be measured or judged by their ability to afford a quality education. As such, IAIA provides financial assistance and resources for students who would otherwise be unable to pursue a post-secondary education. IAIA chooses not to participate in the Federal Student Loan Programs, including PLUS, Perkins and Stafford.</p>
             <h4 id="scholarship">Scholarships</h4>
             <p>Because scholarships are offered for different reasons and by many sources, it is important that you understand that each scholarship has its own requirements and deadlines, so you should begin searching for scholarships as soon as possible. You should also know that in most instances you should not have to pay to apply for a scholarship. Please visit the IAIA Financial Aid website for more info on scholarships.</p>
-            <p><a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Scholarships</a></p>
+            <p>Visit: <a href="https://iaia.edu/student-success-center/financial-aid/">IAIA Financial Aid Scholarships</a></p>
                 <!--<h4 id="deadlines">Deadlines</h4>
                 <p></p>-->
                 <h4 id="schoolcode">IAIA School Code</h4>

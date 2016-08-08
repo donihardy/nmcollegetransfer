@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage cnmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,15 +42,15 @@
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
             <h4>STEM Degree Agreements</h4>
-            <ul><li><a href="https://www.cnm.edu/depts/academic-affairs/documents/WebVersionCNMtoNMHUBiologyTransferAgreement.pdf">Biology (NMHU)</a></li>
-              <li><a href="https://www.cnm.edu/depts/academic-affairs/documents/cnm-to-unm-biology-transfer-agreement.pdf">Biology (UNM)</a></li>
-              <li><a href="https://www.cnm.edu/depts/academic-affairs/documents/WebVersionCNMtoNMHUChemistryTransferAgreement.pdf">Chemistry (NMHU)</a></li>
-              <li><a href="https://www.cnm.edu/depts/academic-affairs/documents/cnm-to-unm-chemistry-transfer-agreement.pdf">Chemistry (UNM)</a></li>
-              <li><a href="https://www.cnm.edu/depts/academic-affairs/documents/transfer-agreements/CNM_UNM_ENGRTransferAgreement.pdf">Engineering (UNM)</a></li>
-              <li><a href="https://www.cnm.edu/depts/academic-affairs/documents/transfer-agreements/PhysicsTransferAgreement.pdf">Physics (UNM)</a></li>
-              <li><a href="https://www.cnm.edu/depts/academic-affairs/documents/cnm-to-unm-nutrition-transfer-agreement.pdf">Nutrition (UNM)</a></li>
+            <ul class="list-unstyled"><li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/WebVersionCNMtoNMHUBiologyTransferAgreement.pdf">Biology (NMHU)</a></li>
+              <li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/cnm-to-unm-biology-transfer-agreement.pdf">Biology (UNM)</a></li>
+              <li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/WebVersionCNMtoNMHUChemistryTransferAgreement.pdf">Chemistry (NMHU)</a></li>
+              <li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/cnm-to-unm-chemistry-transfer-agreement.pdf">Chemistry (UNM)</a></li>
+              <li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/transfer-agreements/CNM_UNM_ENGRTransferAgreement.pdf">Engineering (UNM)</a></li>
+              <li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/transfer-agreements/PhysicsTransferAgreement.pdf">Physics (UNM)</a></li>
+              <li>Visit: <a href="https://www.cnm.edu/depts/academic-affairs/documents/cnm-to-unm-nutrition-transfer-agreement.pdf">Nutrition (UNM)</a></li>
             </ul>
-            <a href="https://www.cnm.edu/depts/academic-affairs/transfer-agreements">CNM Transfer Agreements</a>
+            Visit: <a href="https://www.cnm.edu/depts/academic-affairs/transfer-agreements">CNM Transfer Agreements</a>
           </div>
         </div>
         

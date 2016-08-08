@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,8 +37,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>Eastern New Mexico University-Roswell</h3>
-          <h6>52 University Blvd | Roswell, New Mexico 88202 | <a href="1-575-624-7000">(575) 624-7000</a></h6></th>
+        <div class="textbody"><h3>Eastern New Mexico University-Roswell</h3>
+          <h6>52 University Blvd | Roswell, New Mexico 88202 | <a href="1-575-624-7000">(575) 624-7000</a></h6>
+          <table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://ruidoso.enmu.edu/">http://ruidoso.enmu.edu/</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
           <tr><td><h4>Awards offered:</h4></td><td>Certificate, Associate's degree</td></tr>
@@ -52,7 +48,7 @@
           <tr><td><h4>Student population:</h4></td><td>3303</td></tr>
           <tr><td><h4>Student-to-faculty ratio:</h4></td><td>14 to 1</td></tr>
         </table>
-        <p><a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&id=187666">College Navigator</a></p>
+        <p>Visit: <a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&id=187666">College Navigator</a></p>
       </div>
     </div>
     

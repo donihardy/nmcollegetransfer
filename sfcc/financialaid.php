@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SANTA FE COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,25 +37,25 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="pellgrant">Pell Grant</h4>
           <p>The Federal and State Grant Programs provide grants to undergraduate students who have financial need and meet other requirements. Although the U.S. Department of Education calculates the student's Expected Family Contribution (EFC) and performs certain eligibility matches, SFCC has many responsibilities in administering the program. We must ensure that a student meets the general eligibility requirements for any aid that is disbursed. Students must file a Free Application for Federal Student Aid (FAFSA) each year to establish their continued eligibility for need-based financial assistance.</p>
-          <p><a href="http://www.sfcc.edu/financial_aid/grants">Santa Fe Community College Financial Aid Pell Grant Info</a></p>
-          
-          <h4 id="scholarship">Scholarships</h4>
-          <p>SFCC offers scholarships that are based on a variety of factors or criteria specified by the donor. Scholarships are considered part of SFCC's financial aid program and awards; therefore, the Financial Aid Office may reduce other aid already approved to prevent giving financial assistance in excess of unmet need (over-awarding) if a scholarship is awarded.</p>
-          <p><a href="http://www.sfcc.edu/financial_aid/scholarships">Santa Fe Community College Scholarship Info</a></p>
+          <p>Visit: <a href="http://www.sfcc.edu/financial_aid/grants">Santa Fe Community College Financial Aid Pell Grant Info</a></p>
           <h4 id="loan">Loans</h4>
-          <p>In accordance with our default prevention management plan, SFCC has implemented the following requirements for student loan borrowers.
+          <p>In accordance with our default prevention management plan, SFCC has implemented the following requirements for student loan borrowers.</p>
             <ul><li>Students applying for a student loan must have all previous college transcripts in the Registrar’s Office before submitting the loan application. Evaluation of transcripts may change loan eligibility if a student has not completed the last two semesters at a previous institution.</li>
               <li>Students must be registered in courses from their current declared degree program to be eligible for student loans. HPER courses will not count towards student eligibility.</li>
-              <li>Fall-only loans will be granted to students graduating at the end of the fall semester and spring-only student loans will be granted to students graduating at the end of spring, or students that are not attending summer classes.</li></ul></p>
-              <p><a href="http://www.sfcc.edu/financial_aid/loans">SCHOOL Financial Aid Loan Info</a></p>
+              <li>Fall-only loans will be granted to students graduating at the end of the fall semester and spring-only student loans will be granted to students graduating at the end of spring, or students that are not attending summer classes.</li></ul>
+              <p>Visit: <a href="http://www.sfcc.edu/financial_aid/loans">Santa Fe Community College Financial Aid Loan Info</a></p>
+          <h4 id="scholarship">Scholarships</h4>
+          <p>SFCC offers scholarships that are based on a variety of factors or criteria specified by the donor. Scholarships are considered part of SFCC's financial aid program and awards; therefore, the Financial Aid Office may reduce other aid already approved to prevent giving financial assistance in excess of unmet need (over-awarding) if a scholarship is awarded.</p>
+          <p>Visit: <a href="http://www.sfcc.edu/financial_aid/scholarships">Santa Fe Community College Scholarship Info</a></p>
+          
               <h4 id="deadlines">Deadlines</h4>
               <p>Deadlines vary.</p>
-              <p><h4>SCHOOL Federal School Code:</h4><strong> 016065 </strong></p>
-              <p><a href="http://www.sfcc.edu/financial_aid">SCHOOL Financial Aid Applying Info</a>
-                <br /><a href="https://fafsa.gov/">FAFSA (Free Application for Student Aid) on the Web</a></p>
+              <h4>Santa Fe Community College Federal School Code:</h4><strong> 016065 </strong>
+              <p>Visit: <a href="http://www.sfcc.edu/financial_aid">Santa Fe Community College Financial Aid Applying Info</a>
+                <br />Visit: <a href="https://fafsa.gov/">FAFSA (Free Application for Student Aid) on the Web</a></p>
 
               </div>
             </div>

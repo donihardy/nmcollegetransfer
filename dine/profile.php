@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - DIN&#201;</title>
-
-
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,9 +40,10 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>Din&#233; College</h3>
-          <h6>Crownpoint Campus-Hwy. 371-Route 9 | Crownpoint, New Mexico 87313 | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6>
-          <h6>Shiprock Campus-1228 Yucca St. | Shiprock, New Mexico 87420 | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6></th>
+        <div class="textbody"><h3>Din&#233; College</h3>
+          <h6>Crownpoint Campus-Hwy. 371-Route 9 | Crownpoint, New Mexico 87313 | <a href="tel:1-877-988-3463">(877) 988-3463</a><br />
+          Shiprock Campus-1228 Yucca St. | Shiprock, New Mexico 87420 | <a href="tel:1-877-988-3463">(877) 988-3463</a></h6>
+          <table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://www.dinecollege.edu">www.dine.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>4-year, primarily associates's, Public</td></tr>
           <tr><td><h4>Awards offered:</h4></td>
@@ -61,7 +56,7 @@
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>15 to 1</td></tr>
           </table><!--<p><a href="#">College Navigator</a></p></div>-->
         </div>
-        
+        </div>
         <?php //Begin Side menu ?>
         <?php require '../includes/sidemenu.php'; ?>
         <?php //End Side menu ?> 

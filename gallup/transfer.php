@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO GALLUP</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage gallupbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -54,10 +49,10 @@
                 <p>Students intending to go to the Albuquerque campus to pursue a four-year degree should be aware that many of the necessary prerequisites for Albuquerque campus degree programs are offered at UNM Gallup. Students are cautioned that courses listed with an * (e.g., BSTC 232*) are considered to be technical/vocational courses and are not acceptable for transfer to baccalaureate programs except by petition to, and acceptance from, a UNM degree-granting program.</p>
                 <p>Students are encouraged to work with UNM Gallup advisors in planning their programs. Students wishing to transfer to the Albuquerque campus, and who are enrolled in programs offered only at UNM Gallup, must file an application and meet the admissions requirements of the specific college to which they are applying.
                 </p>
-                <a href="http://www.gallup.unm.edu/vert/new-students/admissions/transfers.php">UNM Gallup Transfer Page</a><br />
+                Visit: <a href="http://www.gallup.unm.edu/vert/new-students/admissions/transfers.php">UNM Gallup Transfer Page</a><br />
                 <a href="http://admissions.unm.edu/future_students/transfer-course-equivalencies.html">UNM Transfer Equivalencies (TES)</a>
                 <h4 id="commoncore">Common Core Courses</h4>
-                <p><a href="http://www.gallup.unm.edu/pdf/unmgallupcatalog.pdf">Catalog</a></p>
+                <p>Visit: <a href="http://www.gallup.unm.edu/pdf/unmgallupcatalog.pdf">UNM Gallup Catalog</a></p>
                 <h4 id="actsat">ACT/SAT</h4>
                 <p>ACT or SAT scores for Math & English Placement</p>
                 <p>Generally, ACT and SAT tests are not designed to yield accurate
@@ -78,10 +73,10 @@
                       via COMPASS or other approved writing test</p>
                       <h4 id="moreinfo">Request More Info</h4>
                       <p>Phone: <a href="tel:Phone:1-505-863-7524">(505) 863-7524</a><br />
-                        <a href="http://www.gallup.unm.edu/vert/new-students/admissions.php">Admissions info</a></p>
+                        Visit: <a href="http://www.gallup.unm.edu/vert/new-students/admissions.php">UNM Gallup Admissions info</a></p>
 
                         <h4 id="transfer">Transfer Agreements</h4>
-                        <p><a href="http://admissions.unm.edu/future_students/branch-transition.html">Branch Transition</a></p>
+                        <p>Visit: <a href="http://admissions.unm.edu/future_students/branch-transition.html">UNM Branch Transition</a></p>
                         <h4 id="dual">High School Dual Enrollment</h4>
                         <p>To be considered for concurrent enrollment it is necessary for the student to meet the following minimum requirements. Meeting the criteria listed does not mean the student will be automatically admitted. The final determination of admission rests with the admissions officer.</p>
                         <ol type="1"><li>The student must be a high school senior or junior with an expected graduation date within two calendar years (twenty-four months).</li>
@@ -91,9 +86,9 @@
                               <li>Cumulative grade point average of 3.0 or better on a 4.0 scale for ninth, tenth, and eleventh grade in subjects counted toward graduation, or</li>
                               <li>ACT composite score of 23, or an SAT total score of 1100.</li></ol></li></ol>
 
-                              A concurrent enrollment student at UNM is subject to the same academic regulations as other UNM students in non-degree status, including those governing attendance, minimum grade point average, change of program, and withdrawal.
+                              <p>A concurrent enrollment student at UNM is subject to the same academic regulations as other UNM students in non-degree status, including those governing attendance, minimum grade point average, change of program, and withdrawal.
                             </p>
-                            <a href="http://www.gallup.unm.edu/vert/new-students/admissions/requirements.php">UNM Gallup Concurrent Enrollment Page</a>
+                            Visit: <a href="http://www.gallup.unm.edu/vert/new-students/admissions/requirements.php">UNM Gallup Concurrent Enrollment Page</a>
 
                           </div>
                         </div>

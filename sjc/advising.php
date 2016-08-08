@@ -1,15 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SAN JUAN COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">
 
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,20 +38,20 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>San Juan College Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>San Juan College Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Advising and Counseling coordinate with faculty and staff to provide you with consistent academic information and personal counseling.  We assist you in developing sound educational, career and professional goals so you can make effective decisions about courses and programs according to your values, interests, and skills.</p>
-            <p><a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/">San Juan College Advising</a></p>
+            <p>Visit: <a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/">San Juan College Advising</a></p>
             <h4 id="appt">Schedule an Appointment</h4>
             <p>Scheduling an Advising Appointment
               <ul><li>All students are STRONGLY ENCOURAGED TO MAKE AN APPOINTMENT to see their advisor in order to avoid long waits.</li>
                 <li>Don’t know who your Advisor is? Sign into the Academic Planning Tool on your SJC Portal to find out!</li>
                 <li>Before making an appointment, we ask you to review the Student Rights & Responsibilities. The responsibility for making decisions about educational and career goals is ultimately up to the student. We are here to assist you in any way we can and adhere to strict confidentiality policies.</li>
                 <li>Walk-In appointments are available in certain situations.</li></ul>
-                Schedule an appointment with your advisor by calling <a href="tel:1-505-566-3404">(505) 566-3404</a> or
+                <p>Schedule an appointment with your advisor by calling <a href="tel:1-505-566-3404">(505) 566-3404</a> or
                 <a href="Advisingcenter@sanjuancollege.edu">Email</a></p>
-                <p><a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/continuing-students/">San Juan College Advising Appointment</a><br />
-                  <a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/onlineadvising/">Online Advising</a></p>
+                <p>Visit: <a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/continuing-students/">San Juan College Advising Appointment</a><br />
+                  Visit: <a href="https://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/onlineadvising/">Online Advising</a></p>
                 </div>
               </div>
               

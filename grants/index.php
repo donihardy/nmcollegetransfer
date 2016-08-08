@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -41,8 +36,8 @@
         <div class="container-fluid">
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/grants1.jpg"  alt="Responsive Image">
             <p>NMSU Grants was established as a branch of New Mexico State University in 1968 through the cooperative efforts of New Mexico State University and Grants Municipal Schools. During the first year, classes were held in the evening in public school facilities and were taught by qualified part-time instructors from the community.</p>
-            <p><a href="https://grants.nmsu.edu/">NMSU Grants Website</a><br />
-              <a href="https://grants.nmsu.edu/about/maps/">Map</a></p>
+            <p>Visit: <a href="https://grants.nmsu.edu/">NMSU Grants Website</a><br />
+              Visit: <a href="https://grants.nmsu.edu/about/maps/">Map</a></p>
 
             </div>
           </div>

@@ -1,13 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO JUNIOR COLLEGE</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage nmjcbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -44,8 +40,8 @@
             <img class="schoolimg img-responsive pull-right" src="../images/nmjc.jpg"  alt="Responsive Image">
             <p>New Mexico Junior College is committed to the following values in support of its mission as we provide services to a diverse college community. New
               Mexico Junior College defi nes college community as its students, employees, partners, and citizens of the area we serve.</p>
-              <p><a href="http://www.nmjc.edu/">Website</a><br />
-                <a href="http://www.nmjc.edu/aboutnmjc/campusmap.asp">Map</a></p>
+              <p>Visit: <a href="http://www.nmjc.edu/">NMJC Website</a><br />
+                Visit: <a href="http://www.nmjc.edu/aboutnmjc/campusmap.asp">NMJC Map</a></p>
               </div>
             </div>
 

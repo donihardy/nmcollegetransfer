@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,8 +42,8 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
-
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="questionmark image"></a></h3>
+            <p>Here are some important things to consider about ENMU. We have provided you with quick links to visit the ENMU webpages for more information.</p>
             <h4 id="requirements">Requirements</h4>
 
             <p>ENMU admission application, there is no application fee (apply online or download an application) FAFSA application and scholarship application, ACT or SAT scores (Eastern's ACT code is 2636 and the SAT code is 4299). <p>A copy of your official high school transcript or GED certificate showing your completion date.</p>
@@ -55,23 +52,22 @@
               ENMU Station 7<br />
               1500 S Ave K<br />
               Portales, NM 88130</div>
-            </p>
-            <p><a href="http://www.enmu.edu/future-students/transfer/">Admission Requirements</a></p>
-            <a href="http://www.enmu.edu/future-students/applyNow.html">Application</a>
+            
+            <p>Visit:  <a href="http://www.enmu.edu/future-students/transfer/">Admission Requirements</a> | <a href="http://www.enmu.edu/future-students/applyNow.html">Application</a></p>
             <h4 id="eligibility">Eligibility</h4>
             <p>You need a college GPA of at least 2.0 for regular admission. If you have fewer than 30 hours of college credit, you also need a high school GPA of 2.5 or ACT of 17 or SAT of 810.</p>
-            <a href="http://www.enmu.edu/future-students/faq/ ">ENMU Admissions FAQs</a>
+            Visit:  <a href="http://www.enmu.edu/future-students/faq/ ">ENMU Admissions FAQs</a>
             <h4 id="deadlines">Deadlines</h4>
             <p>You should apply for admission at least 30 days before the start of your first semester, but you don't have to wait. We recommend that you apply online as soon as possible.</p>
-            <a href="http://www.enmu.edu/future-students/faq/admission.shtml ">ENMU Admissions Deadlines</a>
+            Visit:  <a href="http://www.enmu.edu/future-students/faq/admission.shtml ">ENMU Admissions Deadlines</a>
             <h4 id="fees">Fees</h4>
             <p>Applying to ENMU is free.</p>
-            <a href="http://www.enmu.edu/future-students/faq/admission.shtml">ENMU Admissions Fees</a>
+            Visit:  <a href="http://www.enmu.edu/future-students/faq/admission.shtml">ENMU Admissions Fees</a>
             <h4 id="visits">Campus Visits</h4>
             <p>Come feel the spirit of Eastern, first-hand. Be our guest for a guided tour of the campus with our President’s Ambassadors. Talk with current students to find out more about ENMU and why they chose Eastern as their college home.
               During your visit, you may have the option to eat at the Ultimate Dining hall, stop by the Ground Zero Coffee Shop and get a feel for what Eastern has to offer you. You will find that Eastern is the place you’ll want to spend your college days.
             </p>
-            <a href="http://www.enmu.edu/future-students/visit/">Schedule a Visit</a>
+            Visit:  <a href="http://www.enmu.edu/future-students/visit/">Schedule a Visit</a>
 
           </div>
         </div>

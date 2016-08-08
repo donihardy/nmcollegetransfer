@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -41,7 +35,7 @@
             </ol>
           </div>
           <div class="container-fluid">
-            <div class="textbody"><h3>NMSU Carlsbad Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <div class="textbody"><h3>NMSU Carlsbad Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
               <h4 id="geninfo">Advising General Info</h4>
               <p>The Counseling & Student Development Center (CSDC), room 107, supports students step by step through their college experience through:</p>
               <ul><li>Academic Advising</li>
@@ -49,11 +43,10 @@
                 <li>New Student Orientation and Welcome Week</li>
                 <li>Career and Job Placement</li>
                 <li>Student Government and Organizations (ASNMSU Carlsbad)</li></ul>
-              </p>
-              <p><a href="https://carlsbad.nmsu.edu/departments/counseling-and-student-development/">NMSU Carlsbad Advising</a></p>
+              <p>Visit: <a href="https://carlsbad.nmsu.edu/departments/counseling-and-student-development/">NMSU Carlsbad Advising</a></p>
               <h4 id="appt">Schedule an Appointment</h4>
               <p>Academic advisors help students interpret placement test scores, select and enroll in classes, explore majors, develop degree plans and evaluate academic progress. Advisors are available by appointment during regular office hours, Monday through Thursday, 8:00 a.m. to 6:00 p.m. and Friday from 8:00 a.m. to 5:00 p.m. and on a walk-in basis as schedules permit.</p>
-              <p><a href="https://carlsbad.nmsu.edu/departments/counseling-and-student-development/">NMSU Carlsbad Advising Appointment</a></p>
+              <p>Visit: <a href="https://carlsbad.nmsu.edu/departments/counseling-and-student-development/">NMSU Carlsbad Advising Appointment</a></p>
             </div>
           </div>
 

@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
-<title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO HIGHLANDS UNIVERSITY</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -43,7 +38,7 @@
             <img class="schoolimg img-responsive pull-right col-lg-6" src="../images/nmhu.jpg"  alt="Responsive Image">
             <p>Highlands University is a state-supported institution established in 1893 and offers bachelor’s and master’s degrees in a variety of disciplines. Highlands is known for its multiethnic student body, small classes, research activities, student and faculty achievements, affordability and opportunities for students to combine study with real-world experience.</p>
             <p><a href="http://www.nmhu.edu">NMHU Website</a><br />
-              <a href="http://www.nmhu.edu/campus-tour/visit-nmhu/">Map</a></p>
+              <a href="http://www.nmhu.edu/campus-tour/visit-nmhu/">NMHU Map</a></p>
 
             </div>
           </div>

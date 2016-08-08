@@ -1,15 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SAN JUAN COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">
 
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,9 +38,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
-          <p>San Juan College Veteran Center provides veterans with transitional assistance to promote goal achievement through a quality educational experience necessary to become competitive, adaptable, and successful in an ever-changing civilian environment.<p/>
-            <a href="https://www.sanjuancollege.edu/student-services/departments/veterans-center/">San Juan College Veteran Center</a>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
+          <p>San Juan College Veteran Center provides veterans with transitional assistance to promote goal achievement through a quality educational experience necessary to become competitive, adaptable, and successful in an ever-changing civilian environment.</p>
+            Visit: <a href="https://www.sanjuancollege.edu/student-services/departments/veterans-center/">San Juan College Veteran Center</a>
           </div>
         </div>
 

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -48,7 +43,7 @@
              <p>If you are wishing to move on to New Mexico State University or one of its branch colleges (Alamogordo, Carlsbad, or Grants) then your transfer may be easier than it is for other colleges and universities.  To determine what courses will count toward the degree you desire, become familiar with the STAR Degree Audit system.  It is programmed to compare the courses you have taken with the courses required for your degree of choice.  Bring a copy of this to academic advising appointments along with your questions!</p>
              
              
-             <a href="https://dacc.nmsu.edu/transfer/answering-the-five-big-questions/5-what-college-or-university-do-i-want-to-transfer-to/nmsu-including-nmsu-alamogordo-carlsbad-and-grants-branch-campuses/">NMSU Transfer Info</a></div>
+             Visit: <a href="https://dacc.nmsu.edu/transfer/answering-the-five-big-questions/5-what-college-or-university-do-i-want-to-transfer-to/nmsu-including-nmsu-alamogordo-carlsbad-and-grants-branch-campuses/">NMSU Transfer Info</a></div>
            </div>
          </div></div>
 

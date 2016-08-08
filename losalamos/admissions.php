@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO LOS ALAMOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage losalamosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,7 +39,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>UNM Los Alamos offers a number of outstanding programs and services to meet a variety of student needs and interests. We offer certificate programs and associate degree programs; community education and customized training courses; small business development seminars through our Small Business Development Centers (Los Alamos and Sandoval Counties); Adult Basic Education programs including General Education Development (GED) and English as a Second Language (ESL); and bachelor and graduate degree programs through UNM's Distance Education Program.</p>
             <p>Transfer Students:<br />
@@ -56,22 +51,22 @@
                 UNM Los Alamos<br />
                 4000 University Drive<br />
                 Los Alamos, New Mexico 87544</p>
-                <p><a href="http://losalamos.unm.edu/admissions/apply-now.html">General Admissions</a><br />
-                  <a href="http://losalamos.unm.edu/admissions/transfer-students.html">UNM Los Alamos Transfer Admissions Requirements</a></p>
+                <p>Visit: <a href="http://losalamos.unm.edu/admissions/apply-now.html">General Admissions</a><br />
+                  Visit: <a href="http://losalamos.unm.edu/admissions/transfer-students.html">UNM Los Alamos Transfer Admissions Requirements</a></p>
                   <h4 id="eligibility">Eligibility</h4>
                   <p>UNM Los Alamos has an open admissions policy. That means no minimum test score or minimum GPA is required for admission. We can find an enrollment status to fit anyone!</p>
-                  <a href="http://losalamos.unm.edu/admissions/apply-now.html">UNM Los Alamos Admissions Eligibility</a>
+                  Visit: <a href="http://losalamos.unm.edu/admissions/apply-now.html">UNM Los Alamos Admissions Eligibility</a>
                   <h4 id="deadlines">Deadlines</h4>
                   <p>UNM Los Alamos has a rolling admissions policy. There is no application deadline and you can apply at any time. However, we recommend applying as early as possible to allow time for processing transcripts and applications.</p>
-                  <a href="http://admissions.unm.edu/future_students/transfer.html">UNM Los Alamos Admissions Deadlines</a>
+                  Visit: <a href="http://admissions.unm.edu/future_students/transfer.html">UNM Los Alamos Admissions Deadlines</a>
                   <h4 id="fees">Fees</h4>
                   <p>Application Fee - $10</p>
-                  <a href="http://losalamos.unm.edu/admissions/apply-now.html">UNM Gallup Admissions Fees</a>
+                  Visit: <a href="http://losalamos.unm.edu/admissions/apply-now.html">UNM Gallup Admissions Fees</a>
                   <h4 id="visits">Campus Visits</h4>
                   <p>There is no better way to get a feel for UNM Los Alamos than by visiting our campus in person. We encourage you and your family to visit us on campus for a campus tour, individual appointment or to join one of our College Days.</p>
 
                   <p>To schedule an appointment, call Student Services at <a href="tel:1-505-662-0332">505.662.0332</a>.</p>
-                  <a href="http://losalamos.unm.edu/about/visit-us.html">Schedule a Visit</a>
+                  Visit: <a href="http://losalamos.unm.edu/about/visit-us.html">Schedule a Visit</a>
 
                 </div>
               </div>

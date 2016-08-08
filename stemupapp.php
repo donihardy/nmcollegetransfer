@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
        <div class="item active"><img src="images/unmbanner.png" alt="UNM Banner"></div>
      </div>
    </div>
@@ -32,10 +32,9 @@
       To download the app, search for "STEM UP" in the Google Play store or Itunes depending on your operating device. The app icon is an orange box with "UP." </p>
       <p>To view functionality of the mobile app, click on the these diagrams: <a href="http://stemup.unm.edu/our-services/app-board1.pdf">Diagram 1</a>  |  <a href="http://stemup.unm.edu/our-services/app-board2.pdf">Diagram 2</a></p>
       <p>To check out the STEM UP Mobile App on your browser click <a href="http://stemup.unm.edu/app/">here</a></p>
-      <p><a href="https://play.google.com/store/apps/details?id=edu.unm.stem"><img src="images/GooglePlaybutton.gif"></a>
-        <a href="https://itunes.apple.com/us/app/stem-up/id916804218?mt=8"><img src="images/ItuneAPPbutton.gif"></a></p>
+      <p><a href="https://play.google.com/store/apps/details?id=edu.unm.stem"><img src="images/GooglePlaybutton.gif" alt="Google Play Logo"></a>
+        <a href="https://itunes.apple.com/us/app/stem-up/id916804218?mt=8"><img src="images/ItuneAPPbutton.gif" alt="iTunes Logo"></a></p>
         <p><a href="http://stemup.unm.edu">STEM UP APP Website</a></p>
       </div>
-       <div class="clear"></div>
-    <div class="container">
+        <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

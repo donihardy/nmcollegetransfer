@@ -17,11 +17,12 @@
   <div class="panel panel-default">
     <div class="panel-heading"><h3>Admissions Quick Facts</h3></div>
     <div class="panel-body">
-        <table class="table table-condensed" style="border-collapse:collapse;">
-            <div><p>Are you wondering what it will take to be accepted into a New Mexico College?  Do you need information about how to transfer to a school in New Mexico? The chart below provides the basic requirements as listed on the schools website.  Keep in mind Admission requirements can change. Check the schools Admission website before sending in your application. </p>
+    <p>Are you wondering what it will take to be accepted into a New Mexico College?  Do you need information about how to transfer to a school in New Mexico? The chart below provides the basic requirements as listed on the schools website.  Keep in mind Admission requirements can change. Check the schools Admission website before sending in your application. </p>
                 <p>The link to the schools admission page is provided below the name of each school for your convenience. Remember deadlines and fees are subject to change so examine the schools admission page for more information. For more information on Transfer, go to the <a href="coursetransfer.php">Transfer Quick Facts</a> page.</p>
                 <p>If possible, a campus visit is also a great way to make a final decision about your next school.  Campus visits are easy to set up. All schools encourage you to visit their campus to help make a final decision and answer any questions you have about the campus. We have provided you with a link to the website and contact information to set up a campus visit.</p>
-            </div>
+            
+        <table class="table table-condensed" style="border-collapse:collapse;">
+            
 
             <thead>
                 <tr>
@@ -34,11 +35,11 @@
                     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;ENMU</td>
                 </tr>
                 <tr>
-                    <td colspan="12" class="hiddenRow">
+                    <td class="hiddenRow">
                         <div class="accordian-body collapse" id="enmu"> 
                            <table class="table table-striped">
                               <thead>
-                                <tr><td><a href="http://www.enmu.edu/admission/admission-enmu">Admissions</a></td></tr>
+                                <tr><td colspan="5"><a href="http://www.enmu.edu/admission/admission-enmu">ENMU Admissions</a></td></tr>
                                 <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                                 <tr><td>The process for applying and being admitted to Eastern varies somewhat depending on whether you are an entering freshman, a transfer or graduate student, and whether you are a domestic or international student.</td>
                                     <td>College GPA of 2.0 for transfer students. High School GPA of 2.5 or ACT of 17 or SAT of 810.</td>
@@ -57,10 +58,10 @@
 
                 </tr>
                 <tr>
-                    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="iaia"> 
+                    <td class="hiddenRow"><div class="accordian-body collapse" id="iaia"> 
                      <table class="table table-striped">
                       <thead>
-                        <tr><td><a href="https://iaia.edu/admissions/apply/">Admissions</a></td></tr>
+                        <tr><td colspan="5"><a href="https://iaia.edu/admissions/apply/">Admissions</a></td></tr>
                         <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                         <tr><td><ul><li>Complete the IAIA Online Application form</li>
                             <li>Submit official college transcript(s)</li>
@@ -83,10 +84,10 @@
 
             </tr>
             <tr>
-                <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="ntu"> 
+                <td class="hiddenRow"><div class="accordian-body collapse" id="ntu"> 
                   <table class="table table-striped">
                       <thead>
-                          <tr><td><a href="http://www.navajotech.edu/admissions/">Admissions</a></td></tr>
+                          <tr><td colspan="5"><a href="http://www.navajotech.edu/admissions/">Admissions</a></td></tr>
                           <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                           <tr><td>Start with an admission application, fill out and send with documents or the application itself, but will be pending. The documents are an Official original Certificate of Indian Blood, an official high school transcript or official GED test scores in a sealed envelope and if you attended any other college or university, an Official transcript in a sealed envelope. Once the application and ALL documents are received, you will receive an official letter of acceptance to the college.</td>
                             <td><ul><li>A completed and signed NTU
@@ -100,7 +101,7 @@
                                     in as soon as you can, for housing and financial aid purposes. For the Fall semester it is usually
                                     great to have everything in by June. For the Spring Semester it will be in December.</td>                  
                                     <td>No admissions fees.</td>
-                                    <td><a href="<a href="http://www.navajotech.edu/admissions/student-orientation">Orientation</a></td>
+                                    <td><a href="http://www.navajotech.edu/admissions/student-orientation">Orientation</a></td>
                                 </tr>
                             </thead>
                         </table>
@@ -112,10 +113,10 @@
 
                 </tr>
                 <tr>
-                    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmhu"> 
+                    <td class="hiddenRow"><div class="accordian-body collapse" id="nmhu"> 
                      <table class="table table-striped">
                       <thead>
-                          <tr><td><a href="http://www.nmhu.edu/admissions/">Admissions</a></td></tr>
+                          <tr><td colspan="5"><a href="http://www.nmhu.edu/admissions/">Admissions</a></td></tr>
                           <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                           <tr><td><ul><li>Must submit a formal application for new freshman admission</li><li>Must have graduated high
                             school or completed a GED program</li><li>Must have a 2.0 or higher grade point average
@@ -127,8 +128,7 @@
                             Highlands Financial Aid Office.</li></ul></td><td><ul><li>For fall semester, previous November-
                             August</li><li>For spring semester, previous July-December</li><li>For
                             summer session, previous January- June</li></ul></td><td>Fees range from $15 to $20 depending on
-                            student status and degree plan.</td><td><a href="http://newmexicohighlands.com/about-
-                            highlands/schedule-a-campus-tour/">Campus Visits</a></td>
+                            student status and degree plan.</td><td><a href="http://newmexicohighlands.com/about-highlands/schedule-a-campus-tour/">Campus Visits</a></td>
                         </tr>
                     </thead>
                 </table>
@@ -142,10 +142,10 @@
 
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmsu"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="nmsu"> 
               <table class="table table-striped">
                   <thead>
-                      <tr><td><a href="http://admissions.nmsu.edu/">Admissions</a></td></tr>
+                      <tr><td colspan="5"><a href="http://admissions.nmsu.edu/">Admissions</a></td></tr>
                       <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                       <tr><td>You are eligible
                         for regular admission to NMSU if you are a graduate of an accredited high school, have met the
@@ -166,10 +166,10 @@
 
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmt"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="nmt"> 
               <table class="table table-striped">
                   <thead>
-                      <tr><td><a href="http://www.nmt.edu/office-of-admission">Admissions</a></td></tr>
+                      <tr><td colspan="5"> <a href="http://www.nmt.edu/office-of-admission">Admissions</a></td></tr>
                       <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                       <tr><td><ul><li>A
                         high school GPA of 2.5 or a GED score of 500</li> <li>A 21 ACT composite score or a 970 SAT combined
@@ -181,7 +181,7 @@
                         consideration for assistantships and fellowships, completed applications must be received by
                         February 15 for the fall semester and by September 15 for the spring semester. Individual
                         departments may have earlier dates for consideration of assistantships.</td><td>$15 application
-                        fee</td><td><a href="http://www.nmt.edu /campus-tours">Campus Visits</a></td></tr>
+                        fee</td><td><a href="http://www.nmt.edu/campus-tours">Campus Visits</a></td></tr>
                     </thead>
                 </table>
             </div> 
@@ -193,23 +193,23 @@
 
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nnmc"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="nnmc"> 
               <table class="table table-striped">
                   <thead>
-                      <tr><td><a href="http://nnmc.edu/home/student-gateway/admissions/">Admissions</a></td></tr>
+                      <tr><td colspan="5"> <a href="http://nnmc.edu/home/student-gateway/admissions/">Admissions</a></td></tr>
                       <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
-                      <tr><td><li>Fill out our online application.</li>
+                      <tr><td><ul><li>Fill out our online application.</li>
                         <li>Submit:<ul style ="list-style- type:none"><li>High School Transcript</li>
-                        <li>Transcripts for college coursces</li> <li>Placement test scores</li></ul> <li>Take your
-                        Placement Test</li></ol></td><td>If you are in good standing at the last college attended, you are
+                        <li>Transcripts for college coursces</li> <li>Placement test scores</li></ul></li><li>Take your
+                        Placement Test</li></ul></td><td>If you are in good standing at the last college attended, you are
                         eligible to attend Northern in either regular or non-degree status, depending on your interests and
                         needs. Good standing means that you are not on an academic or disciplinary
                         suspension.</td><td>Deadlines vary.</td><td>No fees found</td><td>Tours are conducted Monday through
-                        Friday.<br /><a href="http://nnmc.edu/home /student-gateway/admissions/dual-credit-credito-dual
-                        /visit-northern-new-mexico-college/">Schedule a visit</a></td></tr> 
+                        Friday.<br /><a href="http://nnmc.edu/home/student-gateway/admissions/dual-credit-credito-dual/visit-northern-new-mexico-college/">Schedule a visit</a></td></tr> 
                     </thead>
                 </table>
-            </div> 
+            </div>
+
         </tr>
 
         <tr data-toggle="collapse" data-target="#unm" class="accordion-toggle">
@@ -217,10 +217,10 @@
 
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="unm"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="unm"> 
               <table class="table table-striped">
                   <thead>
-                      <tr><td><a href="http://admissions.unm.edu/">Admissions</a></td></tr>
+                      <tr><td colspan="5"> <a href="http://admissions.unm.edu/">Admissions</a></td></tr>
                       <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                       <tr><td>Students
                         applying for admission to UNM with at least 24 transferrable credits must have at least a “C”
@@ -234,7 +234,8 @@
                         Visits</a></td></tr>
                     </thead>
                 </table>
-            </div> 
+            </div>
+            </td>
         </tr>
 
 
@@ -244,10 +245,10 @@
 
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="wnmu"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="wnmu"> 
              <table class="table table-striped">
               <thead>
-                  <tr><td><a href="http://admissions.wnmu.edu">Admissions</a></td></tr>
+                  <tr><td colspan="5"><a href="http://admissions.wnmu.edu">Admissions</a></td></tr>
                   <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                   <tr><td>Applying to WNMU is easy and can be done quickly.<br />
                     <ul><li>Apply for Admissions</li><li>Provide official high school
@@ -257,36 +258,35 @@
                         <li>Apply for Housing/Residence Life.</li> <li>New Student Orientation</li>
                     </ul></td><td><p>Students who have not completed admissions requirements may be admitted
                     conditionally for one semester only. Students on conditional admission are ineligible for financial
-                    aid and participation in intercollegiate athletics.</p>                             <p>It is the
-                    policy of Western New Mexico University to accept transfer credit from other New Mexico accredited
+                    aid and participation in intercollegiate athletics.</p>                             
+                    <p>It is the policy of Western New Mexico University to accept transfer credit from other New Mexico accredited
                     or regionally accredited colleges and universities.</p></td><td>No later than one month prior to the
                     first day of classes for the term. </td><td>$30 application fee.</td><td><a
-                    href="http://admissions.wnmu.edu/expedition/?utm_source =visit-our-campus">Schedule a
-                    visit</td></tr>
+                    href="http://admissions.wnmu.edu/expedition/?utm_source=visit-our-campus">Schedule a
+                    visit</a></td></tr>
                 </thead>
             </table>
         </div> 
+        </td>
+        </tr>
 
-        <th>
             <tr>
                 <th class="schooltitle">2 Year Schools</th>
             </tr>
-        </th>
 
         <tr data-toggle="collapse" data-target="#cnm" class="accordion-toggle">
             <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;CENTRAL NEW MEXICO COMMUNITY COLLEGE</td>            
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="cnm"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="cnm"> 
               <table class="table table-striped">
                   <thead>
-                      <tr><td><a href="https://www.cnm.edu/depts/enrollment/admissions">Admissions</a></td></tr>
+                      <tr><td colspan="5"> <a href="https://www.cnm.edu/depts/enrollment/admissions">Admissions</a></td></tr>
                       <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                       <tr><td>CNM has open admissions for individuals at least 18 years of age.
                       </td><td>Students applying for admission to CNM with at least 24 transferrable credits must have at
                       least a “C” average (2.0 on a 4.0 scale) in all transferrable college work attempted.</td><td>Can be
-                      admitted at any time.</td><td>No admission fees.</td><td><a href="https://www.cnm.edu/depts/student-
-                      activities/request-a-tour-of-cnm">Campus Visits</a></td></tr> <tr>
+                      admitted at any time.</td><td>No admission fees.</td><td><a href="https://www.cnm.edu/depts/student-activities/request-a-tour-of-cnm">Campus Visits</a></td></tr>
                   </thead>
               </table>
           </div> 
@@ -296,32 +296,33 @@
         <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;CLOVIS COMMUNITY COLLEGE</td>            
     </tr>
     <tr>
-        <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="ccc"> 
+        <td class="hiddenRow"><div class="accordian-body collapse" id="ccc"> 
           <table class="table table-striped">
               <thead>
-                  <tr><td><a href="http://www.clovis.edu/admissions/index.aspx">Admissions</a></td></tr>
+                  <tr><td colspan="5"><a href="http://www.clovis.edu/admissions/index.aspx">Admissions</a></td></tr>
                   <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                   <tr><td> CCC is an open
                     admission institution.</td><td>Once students complete the application process they are admitted to
                     CCC, assigned a student ID number ("C-Number"), and they are eligible to register for classes
                     immediately.</td><td>Deadlines vary.</td><td>No fees found.</td><td>Students interested in attending
                     Clovis Community College are encouraged to schedule a campus tour.<br /><a
-                    href="http://www.clovis.edu/advising/tours.aspx">Schedule a Visit</td></tr>
+                    href="http://www.clovis.edu/advising/tours.aspx">Schedule a Visit</a></td></tr>
                 </thead>
             </table>
-        </div> 
+        </div>
+        </td>
     </tr>
 
     <tr data-toggle="collapse" data-target="#dine" class="accordion-toggle">
         <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;DI&#209;E COLLEGE</td>            
     </tr>
     <tr>
-        <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="dine"> 
+        <td class="hiddenRow"><div class="accordian-body collapse" id="dine"> 
           <table class="table table-striped">
               <thead>
-                  <tr><td><a href="http://www.dinecollege.edu/admissions/applynow.php">Admissions</a></td></tr>
+                  <tr><td colspan="5"><a href="http://www.dinecollege.edu/admissions/applynow.php">Admissions</a></td></tr>
                   <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
-                  <tr><td><li>A completed Diné College admission application.</li> <li>Official
+                  <tr><td><ul><li>A completed Diné College admission application.</li> <li>Official
                     Certificate of Indian Blood (CIB) for all American Indian students.</li> <li>Official high school
                     transcript or official test scores of General Education Development (GED).</li>
                     <li>Transfer students must provide official transcripts from all colleges and universities
@@ -330,20 +331,21 @@
                         Department of Economic Security and the Tsaile Health Clinic for Tsaile residents or to provide
                         family health care insurance.</li></ul></td><td>Eligibility</td><td>Fall Semester - August 10
                         <p>Spring Semester - December 21</p></td><td>$20.00 non-refundable fee.</td><td><a
-                        href="http://www.dinecollege.edu/current/orientation.php">Orientation</td></tr> 
+                        href="http://www.dinecollege.edu/current/orientation.php">Orientation</a></td></tr> 
                     </thead>
                 </table>
-            </div> 
+            </div>
+            </td>
         </tr>
 
         <tr data-toggle="collapse" data-target="#enmuros" class="accordion-toggle">
             <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;EASTERN NEW MEXICO UNIVERSITY-ROSWELL</td>            
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="enmuros"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="enmuros"> 
               <table class="table table-striped">
                   <thead>
-                  <tr><td><a href="http://www.roswell.enmu.edu/admissions-home">Admissions</a></td></tr>
+                  <tr><td colspan="5"><a href="http://www.roswell.enmu.edu/admissions-home">Admissions</a></td></tr>
                     <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                     <tr><td>ENMU-Roswell has an open admissions policy. All you need is a high school diploma
                         or GED to enroll. </td><td>Students transferring to ENMU Roswell must file official transcripts from
@@ -352,20 +354,21 @@
                         sufficient time for the preparation of registration materials, students should apply for admission
                         at least six weeks prior to registration. </td><td>No fees found.</td><td>Take a campus tour or
                         contact New Student Relations if you need help finding your way around campus. (575) 624-7136.
-                        <br /><a href="http://www.roswell.enmu.edu/campus-tour-request-form">Campus Tour Request</td></tr>
+                        <br /><a href="http://www.roswell.enmu.edu/campus-tour-request-form">Campus Tour Request</a></td></tr>
                     </thead>
                 </table>
             </div> 
+            </td>
         </tr>
 
         <tr data-toggle="collapse" data-target="#enmurui" class="accordion-toggle">
             <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</td>            
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="enmurui"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="enmurui"> 
               <table class="table table-striped">
                   <thead>
-                      <tr><td><a href="http://ruidoso.enmu.edu/index.php/students/prospective-students">Admissions</a></td></tr>
+                      <tr><td colspan="5"> <a href="http://ruidoso.enmu.edu/index.php/students/prospective-students">Admissions</a></td></tr>
                       <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                       <tr><td>Degree Seeking Requirements: <br /><ol type="1"><li>An application for admission.</li><li>An official high school or GED transcript verifying graduation.</li> <li>Official transcripts from all previously attended colleges or universities.</li></ol></td><td>Transfer students from other colleges or universities may be admitted to ENMU-Ruidoso. Requirements for admission as a transfer student
                         include the following:<br /> <ul><li>Formal application for admission.</li>
@@ -381,16 +384,17 @@
                         </thead>
                     </table>
                 </div> 
+                </td>
             </tr>
 
             <tr data-toggle="collapse" data-target="#luna" class="accordion-toggle">
                 <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;LUNA COMMUNITY COLLEGE</td>            
             </tr>
             <tr>
-                <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="luna"> 
+                <td class="hiddenRow"><div class="accordian-body collapse" id="luna"> 
                   <table class="table table-striped">
                       <thead>
-                          <tr><td><a href="https://pathways.luna.edu/ICS/Admissions/">Admissions</a></td></tr>
+                          <tr><td colspan="5"><a href="https://pathways.luna.edu/ICS/Admissions/">Admissions</a></td></tr>
                           <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                           <tr><td>Luna Community College is an open-admission,
                             certificate and associate degree granting institution which provides access to higher education.<br
@@ -400,17 +404,18 @@
                             href="http://www.luna.edu/tour/">Campus Map</a></td></tr> 
                         </thead>
                     </table>
-                </div> 
+                </div>
+                </td>
             </tr>
 
             <tr data-toggle="collapse" data-target="#mesa" class="accordion-toggle">
                 <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;MESALANDS COMMUNITY COLLEGE</td>            
             </tr>
             <tr>
-                <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="mesa"> 
+                <td class="hiddenRow"><div class="accordian-body collapse" id="mesa"> 
                   <table class="table table-striped">
                       <thead>
-                          <tr><td><a href="http://www.mesalands.edu/future-students/admissions/">Admissions</a></td></tr>
+                          <tr><td colspan="5"><a href="http://www.mesalands.edu/future-students/admissions/">Admissions</a></td></tr>
                           <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                           <tr><td><ol type="1"><li>Complete an online admissions application -</li>
                             <li>Official high school transcripts or a GED confirming high school graduation are to be sent
@@ -424,21 +429,21 @@
                                 the College who is a high school graduate, General Educational Development (GED) recipient, or who
                                 has otherwise demonstrated the ability to benefit as demonstrated by the Success
                                 Assessment/Placement Test.</td><td>Unlike colleges with a firm application deadline, potential
-                                students may apply year-round.</td><td>No admissions fees.</td><td><a href="http://www.mesalands.edu
-                                /future-students/campus-visit/">Campus Visits</a></tr>
+                                students may apply year-round.</td><td>No admissions fees.</td><td><a href="http://www.mesalands.edu/future-students/campus-visit/">Campus Visits</a></tr>
                             </thead>
                         </table>
-                    </div> 
+                    </div>
+                    </td>
                 </tr>
 
                 <tr data-toggle="collapse" data-target="#nmjc" class="accordion-toggle">
                     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;NEW MEXICO JUNIOR COLLEGE</td>            
                 </tr>
                 <tr>
-                    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmjc"> 
+                    <td class="hiddenRow"><div class="accordian-body collapse" id="nmjc"> 
                       <table class="table table-striped">
                           <thead>
-                              <tr><td><a href="http://www.nmjc.edu/admissions/">Admissions</a></td></tr>
+                              <tr><td colspan="5"><a href="http://www.nmjc.edu/admissions/">Admissions</a></td></tr>
                               <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                               <tr><td>Whether you're a first-
                                 time college student, a transfer student, are returning to school after one or more semesters, or
@@ -462,17 +467,18 @@
                                         by contacting the Admissions / Recruiting Office.</td></tr> 
                                     </thead>
                                 </table>
-                            </div> 
+                            </div>
+                            </td>
                         </tr>
 
                         <tr data-toggle="collapse" data-target="#nmmi" class="accordion-toggle">
                             <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;NEW MEXICO MILITARY INSTITUTE</td>            
                         </tr>
                         <tr>
-                            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmmi"> 
+                            <td class="hiddenRow"><div class="accordian-body collapse" id="nmmi"> 
                               <table class="table table-striped">
                                   <thead>
-                                    <tr><td><a href="http://www.nmmi.edu/admissions/Admissions_Process.htm">Admissions</a></td></tr>
+                                    <tr><td colspan="5"><a href="http://www.nmmi.edu/admissions/Admissions_Process.htm">Admissions</a></td></tr>
                                     <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                                     <tr><td>Junior college
                                         applicants must have a final high school transcript showing graduation date and GPA or GED results
@@ -488,184 +494,195 @@
                                             href="http://www.nmmi.edu/admissions/openhouse.htm">Schedule a Visit</a></td></tr>  
                                         </thead>
                                     </table>
-                                </div> 
+                                </div>
+                                </td>
                             </tr>
 
                             <tr data-toggle="collapse" data-target="#nmsua" class="accordion-toggle">
                                 <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-ALAMOGORDO</td>            
                             </tr>
                             <tr>
-                                <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmsua"> 
+                                <td class="hiddenRow"><div class="accordian-body collapse" id="nmsua"> 
                                   <table class="table table-striped">
                                       <thead>
-                                        <tr><td><a href="http://nmsua.edu/admissions/">Admissions</a></td></tr>
+                                        <tr><td colspan="5"><a href="http://nmsua.edu/admissions/">Admissions</a></td></tr>
                                         <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                                         <tr><td>In general, admission requirements as a regular degree seeking student are listed
-                                            below.<br /> <ul><li>The completion of an Application for Admission. There is a one-time application fee of $20 that will be charged at the time of registration.</li> <li>An official transcript of the student’s high school credits or GED scores. Transcripts must be sent directly from the high school or GED Testing Center to:<br /> NMSU-A Admissions and Records Office<br /> 2400 N. Scenic Drive, Alamogordo, NM 88310<br /></li> <li>If the high school transcripts or GED test results do not provide adequate information for a final admissions decision, NMSU-A may require the applicant to submit official results of the American College Testing (ACT) Program test battery.</li></ul></td><td>Qualifications for admission to New Mexico State University Alamogordo include:<br /> <li>Graduation from any state high school or academy in the United States accredited by a regional accrediting association or approved by a state department of education or state universities, or</li> <li>A minimum of a GED diploma (in English; minimum score 450).</li></td></td><td>No Admission deadlines found.</td><td>$20-(non-refundable) for first time NMSU students</td><td>Participating in a campus tour is one of the best ways to experience NMSU-A! Supportive faculty will walk you through a variety of labs (biomedical, chemical and biology), Academic Support Center, Financial Aid, Student Union, Barnes and Noble Bookstore and much more!<br
-                                            /><a href="http://nmsua.edu/admissions /campus-tour-request/">Schedule a Visit</a></td></tr>
+                                            below.<br /> <ul><li>The completion of an Application for Admission. There is a one-time application fee of $20 that will be charged at the time of registration.</li> <li>An official transcript of the student’s high school credits or GED scores. Transcripts must be sent directly from the high school or GED Testing Center to:<br /> NMSU-A Admissions and Records Office<br /> 2400 N. Scenic Drive, Alamogordo, NM 88310<br /></li> <li>If the high school transcripts or GED test results do not provide adequate information for a final admissions decision, NMSU-A may require the applicant to submit official results of the American College Testing (ACT) Program test battery.</li></ul></td><td>Qualifications for admission to New Mexico State University Alamogordo include:<br /> <ul><li>Graduation from any state high school or academy in the United States accredited by a regional accrediting association or approved by a state department of education or state universities, or</li> <li>A minimum of a GED diploma (in English; minimum score 450).</li></ul></td><td>No Admission deadlines found.</td><td>$20-(non-refundable) for first time NMSU students</td><td>Participating in a campus tour is one of the best ways to experience NMSU-A! Supportive faculty will walk you through a variety of labs (biomedical, chemical and biology), Academic Support Center, Financial Aid, Student Union, Barnes and Noble Bookstore and much more!<br
+                                            /><a href="http://nmsua.edu/admissions/campus-tour-request/">Schedule a Visit</a></td></tr>
                                         </thead>
                                     </table>
-                                </div> 
+                                </div>
+                                </td> 
                             </tr>
 
                             <tr data-toggle="collapse" data-target="#nmsuc" class="accordion-toggle">
                                 <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-CARLSBAD</td>            
                             </tr>
                             <tr>
-                                <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmsuc"> 
+                                <td class="hiddenRow"><div class="accordian-body collapse" id="nmsuc"> 
                                   <table class="table table-striped">
                                       <thead>
-                                        <tr><td><a href="https://carlsbad.nmsu.edu/students/future-students/">Admissions</a></td></tr>
+                                        <tr><td colspan="5"><a href="https://carlsbad.nmsu.edu/students/future-students/">Admissions</a></td></tr>
                                         <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                                         <tr><td>Apply for admission at https://app.applyyourself.com/?id=nmsu-u. Applications are also available in Student Services, room 111.</td><td>Transfer students from other colleges or universities will be accepted for undergraduate studies if they have at least a C (2.0) cumulative grade average and are eligible to return to the college or university last attended. The transfer student must submit official transcripts or records of credit earned at each college or educational institution previously attended within the first two weeks.</td><td>NMSU Carlsbad has an open admissions policy.</td><td>The application fee is $20 and nonrefundable.</td><td>Students will complete the enrollment process by learning about campus programs, services, and policies in addition to learning how to use Canvas, necessary for online, hybrid and most face-to-face classes.</td></tr>
                                     </thead>
                                 </table>
-                            </div> 
+                            </div>
+                            </td> 
                         </tr>
 
                         <tr data-toggle="collapse" data-target="#nmsud" class="accordion-toggle">
                             <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-DO&#209;A ANA</td>            
                         </tr>
                         <tr>
-                            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmsud"> 
+                            <td class="hiddenRow"><div class="accordian-body collapse" id="nmsud"> 
                               <table class="table table-striped">
                                   <thead>
-                                    <tr><td><a href="http://dacc.nmsu.edu/admissions/">Admissions</a></td></tr>
+                                    <tr><td colspan="5"><a href="http://dacc.nmsu.edu/admissions/">Admissions</a></td></tr>
                                     <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
-                                    <tr><td><p>The community college endorses the open-door admission concept and will admit—to the limit of its physical and financial resources—new, first-time students who wish to attend and who have a high school diploma or its equivalent.</p><p>Online Application Form<br /> <ul><li>Please note that you will be redirected to an external site.</li><li>Create a PIN number and a Password</li> <li>Be sure to select “Doña Ana” in the section “Campus Where You Plan to Enroll”</li> <li>Pay the $20 application fee. See our Application Fee Payment Options at the bottom of this page.</li></ul></p></td><td>Prospective transfer students may be eligible for undergraduate studies with a cumulative GPA of at least a 2.00 and be eligible to return to the college or university last attended. Students must submit official transcripts from all colleges and/or universities previously attended. A student who conceals the fact that (s)he has attended another college or university and who has not had official transcripts submitted by each institution previously attended-whether or not credit was earned-will be subject to immediate suspension. </td><td>The community college endorses the open-door admission concept</td><td>$20 application fee</td><td>The Office of Admissions is ready to arrange a visit just for you. We want to provide the most comprehensive visit possible – please contact us at least 2 weeks in advance of your visit date.<br /><a href="http://dacc.nmsu.edu/admissions/visit-campus-request/">Schedule a Visit</a></td></tr>  
+                                    <tr><td>The community college endorses the open-door admission concept and will admit—to the limit of its physical and financial resources—new, first-time students who wish to attend and who have a high school diploma or its equivalent.<br />Online Application Form<br /> <ul><li>Please note that you will be redirected to an external site.</li><li>Create a PIN number and a Password</li> <li>Be sure to select “Doña Ana” in the section “Campus Where You Plan to Enroll”</li> <li>Pay the $20 application fee. See our Application Fee Payment Options at the bottom of this page.</li></ul></td><td>Prospective transfer students may be eligible for undergraduate studies with a cumulative GPA of at least a 2.00 and be eligible to return to the college or university last attended. Students must submit official transcripts from all colleges and/or universities previously attended. A student who conceals the fact that (s)he has attended another college or university and who has not had official transcripts submitted by each institution previously attended-whether or not credit was earned-will be subject to immediate suspension. </td><td>The community college endorses the open-door admission concept</td><td>$20 application fee</td><td>The Office of Admissions is ready to arrange a visit just for you. We want to provide the most comprehensive visit possible – please contact us at least 2 weeks in advance of your visit date.<br /><a href="http://dacc.nmsu.edu/admissions/visit-campus-request/">Schedule a Visit</a></td></tr>  
                                 </thead>
                             </table>
-                        </div> 
+                        </div>
+                        </td>
                     </tr>
 
                     <tr data-toggle="collapse" data-target="#nmsug" class="accordion-toggle">
                         <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;NEW MEXICO STATE UNIVERSITY-GRANTS</td>            
                     </tr>
                     <tr>
-                        <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="nmsug"> 
+                        <td class="hiddenRow"><div class="accordian-body collapse" id="nmsug"> 
                           <table class="table table-striped">
                               <thead>
-                                <tr><td><a href="https://grants.nmsu.edu/students/admissions/">Admissions</a></td></tr>
+                                <tr><td colspan="5"><a href="https://grants.nmsu.edu/students/admissions/">Admissions</a></td></tr>
                                 <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                                 <tr><td>Admissions Process:<br /> <ol type="1"><li>Apply for Admission</li> <li>Apply for Financial Aid</li> <li>Take the Compass Placement Test</li><li>Create Your NMSU Account</li> <li>See an Academic Advisor</li></ol></td><td>As a new student (or if you’re transferring from another college, or if you’re a prior student and requesting to be re-admitted), you’ll need to complete the admission application process before you can register for classes.</td><td>This institution has an open admission policy.</td><td>A one-time, non-refundable fee for first time admission to NMSU Grants $20</td><td>One of the most important first steps that new college students can take is to attend campus orientation.<br /><a href="https://grants.nmsu.edu/orientation/">Orientation</a></td></tr>
                             </thead>
                         </table>
-                    </div> 
+                    </div>
+                    </td> 
                 </tr>
 
                 <tr data-toggle="collapse" data-target="#sjc" class="accordion-toggle">
                     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;SAN JUAN COLLEGE</td>            
                 </tr>
                 <tr>
-                    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="sjc"> 
+                    <td class="hiddenRow"><div class="accordian-body collapse" id="sjc"> 
                      <table class="table table-striped">
                       <thead>
-                        <tr><td><a href="https://www.sanjuancollege.edu/student-services/departments/enrollment-services/admissions/">Admissions</a></td></tr>
+                        <tr><td colspan="5"><a href="https://www.sanjuancollege.edu/student-services/departments/enrollment-services/admissions/">Admissions</a></td></tr>
                         <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
-                        <tr><td>Admission Requirements<br /> <ul><li>Free application</li> <li>Immediate email confirmation</li> <li>The system will let you know if you have already sent an online application</li> <li>No risk of the application being lost in the mail</li> <li>The application process is totally secure</li> <li>Applications can be sent 24 hours a day, 7 days a week, up until the closing dates. Official copies of your high school transcript must be sent to Enrollment Services.</li></ul></td><td><p>Graduate from a regionally accredited high school or home school/private program. </p></td><td>The Priority Admission Application deadline is August 1.</td><td>Free online application/ $10 paper application fee</td><td><a href="http://www.sanjuancollege.edu/student- services/departments/enrollment- services/forms/official-group-tour-request-form/">Schedule a Tour</a></td></tr> 
+                        <tr><td>Admission Requirements<br /> <ul><li>Free application</li> <li>Immediate email confirmation</li> <li>The system will let you know if you have already sent an online application</li> <li>No risk of the application being lost in the mail</li> <li>The application process is totally secure</li> <li>Applications can be sent 24 hours a day, 7 days a week, up until the closing dates. Official copies of your high school transcript must be sent to Enrollment Services.</li></ul></td><td><p>Graduate from a regionally accredited high school or home school/private program. </p></td><td>The Priority Admission Application deadline is August 1.</td><td>Free online application/ $10 paper application fee</td><td><a href="http://www.sanjuancollege.edu/student-services/departments/enrollment-services/forms/official-group-tour-request-form/">Schedule a Tour</a></td></tr> 
                     </thead>
                 </table>
-            </div> 
+            </div>
+            </td>
         </tr>
 
         <tr data-toggle="collapse" data-target="#sfcc" class="accordion-toggle">
             <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;SANTA FE COMMUNITY COLLEGE</td>            
         </tr>
         <tr>
-            <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="sfcc"> 
+            <td class="hiddenRow"><div class="accordian-body collapse" id="sfcc"> 
               <table class="table table-striped">
                   <thead>
-                  <tr><td><a href="http://www.sfcc.edu/registration/first_time_students">Admissions</a></td></tr>
+                  <tr><td colspan="5"><a href="http://www.sfcc.edu/registration/first_time_students">Admissions</a></td></tr>
                     <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
                     <tr><td>You must apply to SFCC and complete an ADMISSION FORM before you register for classes.<br /><ul><li>Click here to apply to SFCC ONLINE</li> <li>OR download the printable SFCC Admission Form (Adobe PDF document) and apply by mail.</li></ul> </td><td>Santa Fe Community College maintains an open admission policy to maximize community members’ opportunities to participate in the college’s programs, services and activities. Anyone may be enrolled in the college’s credit programs, though some restrictions based on age may apply to specific courses or certain facilities that require designated levels of physical maturity.</td><td>No deadline found.</td><td>No information found.</td><td><a href="https://www.sfcc.edu/forms/iform?f=tourrequest">Request a Tour</a></td></tr>
                 </thead>
             </table>
-        </div> 
+        </div>
+        </td>
     </tr>
 
     <tr data-toggle="collapse" data-target="#sipi" class="accordion-toggle">
         <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;SOUTHWESTERN INDIAN POLYTECHNIC INSTITUTE</td>            
     </tr>
     <tr>
-        <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="sipi"> 
+        <td class="hiddenRow"><div class="accordian-body collapse" id="sipi"> 
          <table class="table table-striped">
           <thead>
-          <tr><td><a href="http://www.sipi.edu/admiss/">Admissions</a></td></tr>
+          <tr><td colspan="5"><a href="http://www.sipi.edu/admiss/">Admissions</a></td></tr>
             <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
-            <tr><td>Southwestern Indian Polytechnic Institute (SIPI) accepts as students American Indian and Alaskan Natives, who must meet one of two tribal affiliation criteria:<br /><ol type="1"><li>Verification of US Federal tribal membership from a Bureau of Indian Affairs (BIA) agency or tribal census office; or</li> <li>Must be one-quarter percent or more blood quantum of a federally recognized tribe(s), verified by either a BIA agency or tribal census office.</li><ul><li>Minimum age of acceptance to SIPI is 17 years of age; accepted students who are 17 years of age are not eligible to reside in the lodges until their 18th birthday.</li> <li>Minimum age of acceptance into the GED® Program is 18 years of age.</li></ul></ol></td><td>Documents needed for Admission:<br /> <ul><li>Admission Application</li> <li>Verification of Tribal Affiliation</li><li>Official High School Transcript (showing graduation date)</li> <li>Transfer students must provide all official College transcripts</li> <li>Health Physical (can be turned in 30 days after instruction begins)</li> <li>Immunization Record (can be turned in 30 days after instruction begins)</li> <li>DD 214 Form (if claiming veteran status)</li></ul></td><td>Deadlines vary</td><td>No admissions fees found.</td><td>Contact:<br /> Leia Madalena<br /> Administrative Assistant<br /> (505) 346-2348</td></tr>  
+            <tr><td>Southwestern Indian Polytechnic Institute (SIPI) accepts as students American Indian and Alaskan Natives, who must meet one of two tribal affiliation criteria:<br /><ol><li>Verification of US Federal tribal membership from a Bureau of Indian Affairs (BIA) agency or tribal census office; or</li> <li>Must be one-quarter percent or more blood quantum of a federally recognized tribe(s), verified by either a BIA agency or tribal census office.<ul><li>Minimum age of acceptance to SIPI is 17 years of age; accepted students who are 17 years of age are not eligible to reside in the lodges until their 18th birthday.</li> <li>Minimum age of acceptance into the GED® Program is 18 years of age.</li></ul></li></ol></td><td>Documents needed for Admission:<br /> <ul><li>Admission Application</li> <li>Verification of Tribal Affiliation</li><li>Official High School Transcript (showing graduation date)</li> <li>Transfer students must provide all official College transcripts</li> <li>Health Physical (can be turned in 30 days after instruction begins)</li> <li>Immunization Record (can be turned in 30 days after instruction begins)</li> <li>DD 214 Form (if claiming veteran status)</li></ul></td><td>Deadlines vary</td><td>No admissions fees found.</td><td>Contact:<br /> Leia Madalena<br /> Administrative Assistant<br /> (505) 346-2348</td></tr>  
         </thead>
     </table>
-</div> 
+</div>
+</td>
 </tr>
 
 <tr data-toggle="collapse" data-target="#unmg" class="accordion-toggle">
     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-GALLUP</td>            
 </tr>
 <tr>
-    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="unmg"> 
+    <td class="hiddenRow"><div class="accordian-body collapse" id="unmg"> 
      <table class="table table-striped">
       <thead>
-      <tr><td><a href="http://www.gallup.unm.edu/vert/new-students/admissions.php">Admissions</a></td></tr>
+      <tr><td colspan="5"><a href="http://www.gallup.unm.edu/vert/new-students/admissions.php">Admissions</a></td></tr>
         <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
         <tr><td>To apply to UNM Gallup, submit a completed admission form. If you are applying for admission to a degree (AA/AS/AAS) program, you must also submit:<br /><ol type="1"><li>$15.00 cash, check or money order (this is non-refundable).</li> <li>An official copy of your high school transcript or report of GED® scores. The transcript or score report must be sent to UNM Gallup directly from the institution of origin and bear the signature of the registrar or test center administrator.</li> <li>Official copies of transcripts from each post-secondary school you have attended. These, also, must be sent to UNM Gallup directly from the institution of origin.</li></ol></td><td>The University of New Mexico Gallup has an Open Admission Policy. Admission is available to any student, not currently under suspension from any post-secondary institution, who meets at least one of the following criteria:<br/> <ol type="1"><li>Is a high school graduate, or</li> <li>Has passed the GED® test.</li> <li>Is 18 years or older and not currently enrolled in high school. Students under 18 should contact the Admissions Office for special admissions programs and requirements.</li> <li>Is a U.S. citizen or eligible non-citizen.</li></ol></td><td>Deadlines:<br />Fall Semester (August) May 1<br />Spring Semester (January)<br />October 1 Summer Session (June) March 1<br /></td><td>$15, non-refunable</td><td>New students are required to participate in Orientation, since it has been shown that the academic success rate is higher for students who have been through orientation. At this time the Schedule of Classes and the catalog are explained, and several helpful handouts are provided.<br /><a href="http://www.gallup.unm.edu/vert/new-students/orientation.php">Orientation</a></td></tr>
     </thead>
 </table>
-</div> 
+</div>
+</td>
 </tr>
 
 <tr data-toggle="collapse" data-target="#unmla" class="accordion-toggle">
     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-LOS ALAMOS</td>            
 </tr>
 <tr>
-    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="unmla"> 
+    <td class="hiddenRow"><div class="accordian-body collapse" id="unmla"> 
       <table class="table table-striped">
           <thead>
-          <tr><td><a href="http://losalamos.unm.edu/admissions/">Admissions</a></td></tr>
+          <tr><td colspan="5"><a href="http://losalamos.unm.edu/admissions/">Admissions</a></td></tr>
             <tr><td class="schoolname">Requirements:</td><td class="schoolname">Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
             <tr><td>Transfer Students:<br /> If you have attended other colleges, you may enroll in degree, non-degree, or unclassified status.</td><td>UNM Los Alamos has an open admissions policy. That means no minimum test score or minimum GPA is required for admission. We can find an enrollment status to fit anyone!</td><td>UNM Los Alamos has a rolling admissions policy.</td><td>Application Fee - $10</td><td><a href="http://losalamos.unm.edu/about/visit-us.html">Schedule a Visit</a></td></tr>
         </thead>
     </table>
-</div> 
+</div>
+</td>
 </tr>
 
 <tr data-toggle="collapse" data-target="#unmt" class="accordion-toggle">
     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-TAOS</td>            
 </tr>
 <tr>
-    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="unmt"> 
+    <td class="hiddenRow"><div class="accordian-body collapse" id="unmt"> 
       <table class="table table-striped">
           <thead>
-          <tr><td><a href="http://taos.unm.edu/catalog/admissions.html">Admissions</a></td></tr>
+          <tr><td colspan="5"><a href="http://taos.unm.edu/catalog/admissions.html">Admissions</a></td></tr>
             <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
             <tr><td>UNM-Taos has an open admissions policy, so if you intend to work towards a degree or certificate, all you need is a high school diploma or GED to qualify for admission.<br /><ul><li>UNM-Taos admissions application</li> <li>$10.00 non-refundable one time only, application fee</li> <li>High school / GED official transcript</li> <li>Official college transcript (if applicable)</li></ul></td><td>The University of New Mexico-Taos Campus admits all qualified New Mexico applicants.</td><td>1st week of June for fall semester<br />1st week of November for spring semester<br />and mid-April for summer session.</td><td>One-time admissions fee of $10.00</td><td><a href="http://taos.unm.edu/student-success/nso.html">New Student Orientation</a></td></tr>
         </thead>
     </table>
-</div> 
+</div>
+</td>
 </tr>
 
 <tr data-toggle="collapse" data-target="#unmv" class="accordion-toggle">
     <td><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"></span></button>&nbsp;&nbsp;UNIVERSITY OF NEW MEXICO-VALENCIA</td>            
 </tr>
 <tr>
-    <td colspan="12" class="hiddenRow"><div class="accordian-body collapse" id="unmv"> 
+    <td class="hiddenRow"><div class="accordian-body collapse" id="unmv"> 
       <table class="table table-striped">
           <thead>
-          <tr><td><a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">Admissions</a></td></tr>
+          <tr><td colspan="5"><a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">Admissions</a></td></tr>
             <tr><td class="schoolname">Requirements:</td><td class="schoolname" >Eligibility:</td><td class="schoolname">Deadlines:</td> <td class="schoolname">Fees:</td><td class="schoolname">Campus Visits:</td></tr>
             <tr><td>Applications are required for:<br /> <ul><li>Students who have not previously attended UNM Valencia.</li> <li>Students who have not attended UNM Valencia for an academic year or more and are seeking readmission.</li> <li>Students who are changing from non- degree to degree status.</li> <li>Students who are changing from associate degree programs to bachelor’s degree programs.</li> <li>Students who are changing from bachelor’s degree programs to associate degree programs.</li></ul></td><td>Students who wish to transfer to UNM-Valencia from other schools must meet the same admissions requirements as all other applicants.</td><td>No deadline found.</td><td>Application Fee - $15</td><td><a href="http://www.unm.edu/~vcadvise/prospective.htm">New Student Orienation</a></td></tr>
         </thead>
     </table>
-</div> 
+</div>
+</td>
 </tr>
-
 
 </tbody>
 </table>
 </div>
 </div> 
 </div> 
-
+</div>
 
  <div class="clear"></div> 
- <div class="container"> 
+
  <?php include 'includes/footer.php'; ?>

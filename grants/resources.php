@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -51,7 +46,7 @@
             <li>Self-paced tutorial software: PLATO, Mavis Beacon Teaches Typing, and Rosetta Stone.</li>
             <li>Space:  for students to study individually or in groups.</li>
             <li>Testing center: for proctored and official testing, including the Compass Placement Test.</li></ul></p>
-            <a href="https://grants.nmsu.edu/students/student-success-center/">Student Success Center</a></div>
+            Visit: <a href="https://grants.nmsu.edu/students/student-success-center/">Student Success Center</a></div>
           </div>
         </div>
 

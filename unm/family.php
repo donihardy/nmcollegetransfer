@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage unmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,18 +38,18 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>Residence Life and Student Housing offers many options to meet your housing needs. Contracts are determined by the academic calendar. There is no deadline, however, it is recommended you register as early as possible to obtain your preferred hall or roommate.</p>
-          <p><a href="http://housing.unm.edu/index.html">Housing</a></p>
+          <p>Visit: <a href="http://housing.unm.edu/index.html">Housing</a></p>
           <h4 id="childcare">Child Care</h4>
           <p>The UNM Children’s Campus for Early Care and Education (UNMCC) is supported by student fees and is under the umbrella of Student Affairs and the College of Education. This program is also supported by various State and Federal grants.</p>
           <p>The Children’s Campus provides the children of UNM’s student, staff and faculty parents with a high quality early childhood experience. The Campus is a site for UNM student and faculty research, observation and practicum.</p>
-          <p><a href="https://childcare.unm.edu/index.html">Child Care</a></p>
+          <p>Visit: <a href="https://childcare.unm.edu/index.html">Child Care</a></p>
           <h4 id="parent">Parent Info</h4>
           <p>Staying connected gives parents the information they need to stay informed of university happenings and to aid their students to success. Come join the pack and help strengthen our Lobo Community!</p>
-          <p><a href="http://parent.unm.edu/">UNM Parents &#38; Families</a>
-            <br /><a href="http://parentassociation.unm.edu/index.html">UNM Parent Association</a></p>
+          <p>Visit: <a href="http://parent.unm.edu/">UNM Parents &#38; Families</a>
+            <br />Visit: <a href="http://parentassociation.unm.edu/index.html">UNM Parent Association</a></p>
           </div>
         </div>
 

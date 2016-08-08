@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO TAOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage taosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,12 +37,12 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
 
           <p>Veterans Upward Bound (VUB) at The University of New Mexico—Taos is the only veterans Federal TRiO Program funded by the United States Department of Education in the State of New Mexico. VUB is designed to assist veterans in the development of academic and other requisite skills necessary for acceptance and success in a program of post-secondary education. The project provides assessment and enrichment of basic skills through instruction, advising, and tutoring. The primary goal of the program is to increase the rate at which participants enroll in and complete post-secondary education programs. All VUB services are free to eligible veterans.<br />
-            <a href="http://taos.unm.edu/veteransupwardbound/index.html">Veterans Upward Bound (VUB)</a></p>
+            Visit: <a href="http://taos.unm.edu/veteransupwardbound/index.html">Veterans Upward Bound (VUB)</a></p>
             <p>Active duty military stationed in New Mexico, their spouses and dependents, are eligible for waivers for nonresident tuition. A form must be submitted to obtain this waiver.<br />
-              <a href="http://taos.unm.edu/catalog/admissions.html">Active Duty Military Info</a></p>
+            Visit: <a href="http://taos.unm.edu/catalog/admissions.html">Active Duty Military Info</a></p>
 
 
             </div>

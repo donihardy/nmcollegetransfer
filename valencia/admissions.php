@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO VALENCIA</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage valenciabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,7 +39,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>Applications are required for:</p>
             <p>Students who have not previously attended UNM Valencia.<br />
@@ -53,21 +48,21 @@
               Students who are changing from associate degree programs to bachelor’s degree programs.<br />
               Students who are changing from bachelor’s degree programs to associate degree programs.
             </p>
-            <a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">General Admissions</a></p>
+            <p>Visit: <a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">General Admissions</a></p>
             <h4 id="eligibility">Eligibility</h4>
             <p>Students who wish to transfer to UNM-Valencia from other schools must meet the same admissions requirements as all other applicants.</p>
-            <a href="http://valencia.unm.edu/academics/Catalog/admission--registration.html">UNM Valencia Admissions Eligibility</a>
+            <p>Visit: <a href="http://valencia.unm.edu/academics/Catalog/admission--registration.html">UNM Valencia Admissions Eligibility</a></p>
             <h4 id="deadlines">Deadlines</h4>
             <p>No deadline found.</p>
-            <a href="http://admissions.unm.edu/future_students/transfer.html">Admissions Deadlines</a>
+            Visit: <a href="http://admissions.unm.edu/future_students/transfer.html">Admissions Deadlines</a>
             <h4 id="fees">Fees</h4>
             <p>Application Fee - $15</p>
-            <a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">UNM Valencia Admissions Fees</a>
+            <p>Visit: <a href="http://valencia.unm.edu/students/admissions-and-registration/apply-now.html">UNM Valencia Admissions Fees</a></p>
             <h4 id="visits">Campus Visits</h4>
             <p>New Student Orientation/Advisement and Registration Workshop</p>
             <p>Students will attend a workshop conducted by a SR Academic Advisor. In this workshop you will learn basic information about the college and services available for students (career services, counseling, library, tutors, computer labs, support programs, wellness center and day care). The advisor will explain academic requirements through the use of the college catalog. Students will learn how to schedule their classes using the current semester Schedule of Classes. Once classes are determined, students will learn to register on-line using LoboWeb (UNM online registration).
             </p>
-            <a href="http://www.unm.edu/~vcadvise/prospective.htm">New Student Orientation</a>
+            <p>Visit: <a href="http://www.unm.edu/~vcadvise/prospective.htm">New Student Orientation</a></p>
 
           </div>
         </div>

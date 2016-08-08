@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage cnmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,14 +37,14 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>The Veterans Affairs office is here to assist our students with their VA Educational Benefits, both federal and state. We are here to ensure that all necessary documents are submitted to the Department of Veterans Affairs and to certify Veteran students and their dependents enrollment.</p>
-          <p><a href="https://www.cnm.edu/depts/financial-aid/veterans">Veterans</a><br />
-            <a href="https://www.cnm.edu/depts/financial-aid/veterans/contact-cnm-veterans-office">Contact CNM Veterans Affairs Office</a></p>
-            <h4 id="veterans">Active Duty</h4>
+          <p>Visit: <a href="https://www.cnm.edu/depts/financial-aid/veterans">Veterans</a><br />
+            Visit: <a href="https://www.cnm.edu/depts/financial-aid/veterans/contact-cnm-veterans-office">Contact CNM Veterans Affairs Office</a></p>
+            <h4 id="active">Active Duty</h4>
             <p>Military Duty Information</p>
-            <p><a href="https://www.cnm.edu/student-resources/catalog/military-duty-policy">Active Duty</a></p>
+            <p>Visit: <a href="https://www.cnm.edu/student-resources/catalog/military-duty-policy">Active Duty</a></p>
           </div>
         </div>
         

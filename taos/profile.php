@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO TAOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage taosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,8 +38,8 @@
        </div>
 
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>UNM Taos</h3>
-          <h6>1157 County Road 110 | Ranchos de Taos, New Mexico 87557 | <a href="tel:1-575-737-6200">(575) 737-7200</a></h6></th>
+        <div class="textbody"><h3>UNM Taos</h3>
+          <h6>1157 County Road 110 | Ranchos de Taos, New Mexico 87557 | <a href="tel:1-575-737-6200">(575) 737-7200</a></h6><table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://taos.unm.edu/home/">taos.unm.edu/home/</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
           <tr><td ><h4>Awards offered:</h4></td>
@@ -56,7 +51,7 @@
             <tr><td><h4>Student population:</h4></td><td>1,769</td></tr>
             <tr><td><h4>Student-to-faculty ratio:</h4></td><td>18 to 1</td></tr>
           </table>
-          <a href="http://nces.ed.gov/collegenavigator/?q=taos&s=NM&l=91+92+93+94&ic=1+2&id=188225">College Navigator</a></div>
+          <p>Visit: <a href="http://nces.ed.gov/collegenavigator/?q=taos&s=NM&l=91+92+93+94&ic=1+2&id=188225">College Navigator</a></p></div>
         </div>
         
         <?php //Begin Side menu ?>

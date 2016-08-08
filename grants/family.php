@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,12 +38,12 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>No housing available.</p>
           <h4 id="childcare">Child Care</h4>
           <p>Children should not be left unattended or be permitted to disrupt classes. Small Wonders Child Care Center, on the NMSU Grants campus, offers childcare to students, faculty, and staff for children, ages 6 weeks to 12 years, for an established fee. Contact Small Wonders Child Care Center, 287-3868. Apply early as there is often a waiting list. The Center does not offer “drop in” care.</p>
-          <p><a href="https://grants.nmsu.edu/community/small-wonders/">Small Wonders Child Care</a></p>
+          <p>Visit: <a href="https://grants.nmsu.edu/community/small-wonders/">Small Wonders Child Care</a></p>
           <h4 id="parent">Parent Info</h4>
           <p>No specific information for parents</p>
           <!--<p><a href="#">SCHOOL Parents &#38; Families</a>-->

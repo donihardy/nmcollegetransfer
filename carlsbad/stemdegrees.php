@@ -1,15 +1,8 @@
-s<?php include '../includes/header.php'; ?>
-
-
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
+<?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>

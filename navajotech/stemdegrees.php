@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,7 +38,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody"><h3>STEM Degrees</h3>
-            <p><h4>Science Majors</h4></p>
+            <h4>Science Majors</h4>
             <p>Environmental Science & Natrual Resources - Certificate<br />
               Energy Systems - Associates<br />
               Environmental Science & Natrual Resources - Associates<br />
@@ -51,16 +46,16 @@
               Industrial Engineering - Bachelor's
             </p>
             <br/>
-            <p><h4>Engineering Majors</h4></p>
+            <h4>Engineering Majors</h4>
             <p>Pre-Engineering - Certificate<br />
               Chemical Engineering - Associates<br />
               Computer Science - Bachelor's
               Electrical Engineering - Bachelor's</p>
-              <p><h4>Mathematics Majors</h4></p>
+              <h4>Mathematics Majors</h4>
               <p>Mathematics-Certificate<br />
                 Mathematics-Associates</p>
                 <br/>
-                <a href="http://www.navajotech.edu/academics/degree-programs">Navajo Tech STEM Degrees</a>
+                Visit: <a href="http://www.navajotech.edu/academics/degree-programs">Navajo Tech STEM Degrees</a>
               </div></div>
               
               

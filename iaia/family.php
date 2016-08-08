@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,16 +38,16 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>There are two options for housing at IAIA—Center for Lifelong Education (CLE) Residence Center and our family housing apartments. Each area provides safe and secure housing in a healthy, positive, and inclusive environment.<br />
-            <a href="https://iaia.edu/student-life/housing/">Housing Website</a></p>
+            Visit: <a href="https://iaia.edu/student-life/housing/">Housing Website</a></p>
             <h4 id="childcare">Child Care</h4>
             <p>Child care is not available on campus.</p>
             <!--<p><a href="#">Child Care</a></p>-->
             <h4 id="parent">Parent Info</h4>
             <p> The student life staff is ready to welcome your child to their new temporary home. We know you have questions, so we hope we can answer some of them on this page.<br />
-              <a href="https://iaia.edu/student-life/for-parents/">Parent Info</a></p>
+              Visit: <a href="https://iaia.edu/student-life/for-parents/">Parent Info</a></p>
             </div>
           </div>
           

@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/sjcbanner.png" alt="School Image"></div>
       </div>
     </div>
@@ -25,8 +25,7 @@
     </ol>
 
     <div class="textbody"><h3>Parents</h3>
-      <p>Insert Info</p>
+      <p>More info to come!</p>
     </div>
-     <div class="clear"></div>
-    <div class="container">
+      <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

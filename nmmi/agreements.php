@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO MILITARY INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,7 +40,7 @@
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
             <p>Rogers State University and New Mexico Military Institute have announced a partnership allowing students who earn an associate’s degree from NMMI to seamlessly transfer into RSU.</p>
-            <p><a href="http://www.rsu.edu/rsu-new-mexico-military-institute-announce-partnership/">RSU, New Mexico Military Institute Partnership</p>
+            <p>Visit: <a href="http://www.rsu.edu/rsu-new-mexico-military-institute-announce-partnership/">RSU, New Mexico Military Institute Partnership</a></p>
           </div></div>
 
           <?php //Begin Side menu ?>

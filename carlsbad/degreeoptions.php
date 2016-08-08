@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,17 +39,17 @@
               <h4 id="basiccore">Basic Core</h4>
               <p><strong>Area I: Communications</strong><br />
                 (Select 9-10 credits one from each sub group)</p>
-                <table class="basiccore" width="100%"><tr><th>English Composition – Level 1</th></tr>
+                <table class="basiccore" style="width: 90%"><tr><td colspan="2">English Composition – Level 1</td></tr>
                   <tr><td>ENGL 111G, Rhetoric and Composition</td><td>4</td></tr></table><br />
-                  <table class="basiccore" width="100%"><th>English Composition – Level 2</th>
+                  <table class="basiccore" style="width: 90%"><tr><td colspan="2">English Composition – Level 2</td></tr>
                     <tr><td>ENGL 203G, Business and Prof Comm</td><td>3</td></tr>
                     <tr><td>ENGL 211G, Writing Humanities/Soc Sci</td><td>3</td></tr>
                     <tr><td>ENGL 218G,Techn/Scientific Comm</td><td>3</td></tr></table><br />
-                    <table class="basiccore" width="100%"><th>Oral Communication</th>
+                    <table class="basiccore" style="width: 90%"><tr><td colspan="2">Oral Communication</td></tr>
                       <tr><td>COMM 253G, Public Speaking</td><td>3</td></tr>
                       <tr><td>COMM 265G, Princ of Human Comm</td><td>3</td></tr></table><br />
                       <p><strong>Area II: Mathematics/Algebra (Select 3 credits)</strong></p>
-                      <table class="basiccore" width="100%"><tr><td>MATH 112G, Fund of Elem Math II</td><td>3</td></tr>
+                      <table class="basiccore" style="width: 90%"><tr><td>MATH 112G, Fund of Elem Math II</td><td>3</td></tr>
                         <tr><td>MATH 121G, College Algebra</td><td>3</td></tr>
                         <tr><td>MATH 142G, Calculus for Biol/Mgm Sci I</td><td>3</td></tr>
                         <tr><td>MATH 190G, Trig and Precalculus</td><td>4</td></tr>
@@ -67,7 +61,7 @@
                         <p><i>Note: Students testing into a Math class above 121G should substitute<br /> a higher level Math or Science elective for the Math 121G
                           requirement.</i></p>
                           <p><strong>Area III: Laboratory Science (Select 8 credits)</strong></p>
-                          <table class="basiccore" width="100%"><tr><td>ASTR 105G, The Planets</td><td>4</td></tr>
+                          <table class="basiccore" style="width: 90%"><tr><td>ASTR 105G, The Planets</td><td>4</td></tr>
                             <tr><td>ASTR 110G, Introduction to Astronomy</td><td>4</td></tr>
                             <tr><td>BIOL 111G/111GL, Natural Hist of Life</td><td>4</td></tr>
                             <tr><td>BIOL 211G/211GL, Cell/Organismal Biol</td><td>4</td></tr>
@@ -83,7 +77,7 @@
                             <tr><td>PHYS 215G/GL, Engineering Physics I</td><td>4</td></tr>
                             <tr><td>PHYS 216G/GL, Engineering Physics II</td><td>4</td></tr></table><br />
                             <p><strong>Area IV: Social/Behavioral Sciences (Select 6-9 credits)</strong></p>
-                            <table class="basiccore" width="100%"><tr><td>ANTH 120G, Human Ancestors</td><td>3</td></tr>
+                            <table class="basiccore" style="width: 90%"><tr><td>ANTH 120G, Human Ancestors</td><td>3</td></tr>
                               <tr><td>ANTH 125G, Intro to World Cultures</td><td>3</td></tr>
                               <tr><td>ANTH 201G, Intro to Anthropology</td><td>3</td></tr>
                               <tr><td>ANTH 202G, Intro Archaeo/Phys Anthr</td><td>3</td></tr>
@@ -105,7 +99,7 @@
                               <tr><td>SOC 201G, Contemp Social Prob</td><td>3</td></tr>
                               <tr><td>S WK 221G, Introd to Social Welfare</td><td>3</td></tr></table><br />
                               <p><strong>Area V: Humanities and Fine Arts (Select 6-9 credits)</strong></p>
-                              <table class="basiccore" width="100%"><tr><td>ART 101G, Orientation in Ar</td><td>3</td></tr>
+                              <table class="basiccore" style="width: 90%"><tr><td>ART 101G, Orientation in Ar</td><td>3</td></tr>
                                 <tr><td>ENGL 115G, Perspectives on Literature</td><td>3</td></tr>
                                 <tr><td>ENGL 116G, Perspectives on Film</td><td>3</td></tr>
                                 <tr><td>ENGL 220G, Intro to Creative Writing</td><td>3</td></tr>
@@ -116,13 +110,13 @@
                                 <tr><td>HIST 202G, Introd to Recent American Hist</td><td>3</td></tr>
                                 <tr><td>MUS 101G, Introduction to Music</td><td>3</td></tr>
                                 <tr><td>THTR 101G, The World of Theater</td><td>3</td></tr></table><br />
-                                <a href="https://carlsbad.nmsu.edu/departments/academics/programs-of-study/english-studies-humanities-fine-arts/new-mexico-general-education-common-core/">NMSU Carlsbad Basic Core</a>
-                                <h4 id="as">Certificate</h4>
+                                Visit: <a href="https://carlsbad.nmsu.edu/departments/academics/programs-of-study/english-studies-humanities-fine-arts/new-mexico-general-education-common-core/">NMSU Carlsbad Basic Core</a>
+                                <h4 id="cert">Certificate</h4>
                                 <p> 
                                   Computer and Information Technology<br />
                                   Electrical Trades & Electronics Technology<br />
                                 </p>
-                                <a href="https://carlsbad.nmsu.edu/students/all-students/degrees/">NMSU Carlsbad Certificates</a>
+                                Visit: <a href="https://carlsbad.nmsu.edu/students/all-students/degrees/">NMSU Carlsbad Certificates</a>
                                 <h4 id="as">Associates Degrees</h4>
                                 <p>Agriculture AAS<br />
                                   Computer and Information Technology AAS<br />
@@ -131,7 +125,7 @@
                                   General Engineering AS<br />
                                   Science AS
                                 </p>
-                                <a href="https://carlsbad.nmsu.edu/students/all-students/degrees/">NMSU Carlsbad Associates Degrees</a>
+                                Visit: <a href="https://carlsbad.nmsu.edu/students/all-students/degrees/">NMSU Carlsbad Associates Degrees</a>
                               </div>
                             </div>
 

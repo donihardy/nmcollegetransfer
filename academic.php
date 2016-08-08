@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/enmubanner.png" alt="ENMU"></div>
       </div>   
     </div>
@@ -64,11 +64,9 @@
         <ul>
           <li>CrashCourse: <a href="https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF">https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF</a> (biology)</li>
           <li>Department of Biological Sciences: <a href="http://telstar.ote.cmu.edu/biology/animation/index.html">http://telstar.ote.cmu.edu/biology/animation/index.html</a> (biology)</li>
-        </ul>    </div>
-      </div></p>
+        </ul>
     </div>
     <div class="clear"></div>
-    <div class="container">
       <?php include 'includes/footer.php'; ?>
 
 

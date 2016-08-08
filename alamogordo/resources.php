@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NMSU ALAMOGORDO</title>
-
-    
   <body>
     <div class="container-fluid">
       <header class="bgimage alamogordobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,8 +40,8 @@
         <div class="textbody">
           <h3>Resources</h3>
           <h4 id="housing">Student Resources</h4>
-          <p>Information on resources available at institution such as tutoring, student organization, other programs that help students succeed.</a><br />
-            <a href="http://nmsua.edu/academic-affairs/ltc/online-student-resources/">Student Resources</a></p>
+          <p>Information on resources available at institution such as tutoring, student organization, other programs that help students succeed.</p>
+          <p>Visit: <a href="http://nmsua.edu/academic-affairs/ltc/online-student-resources/">Student Resources</a></p>
 
           </div>
         </div>

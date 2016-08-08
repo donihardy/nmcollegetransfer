@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -119,10 +114,10 @@
                                                         Welding Technology; and the Associate of General Studies program.</li></ul>
                                                         <p>NOTE: Students who plan to transfer to another institution should always
                                                           consult that institution’s catalog for the most current information.</p>
-                                                          <p><a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">DACC Catalog</a> - page 32</p>
+                                                          <p>Visit: <a href="https://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2015/07/2015-2016-Catalog.pdf">DACC Catalog</a> - page 32</p>
 
                                                         </div>
-                                                      </div></div>
+                                                      </div>
 
                                                       <?php //Begin Side menu ?>
                                                       <?php require '../includes/sidemenu.php'; ?>

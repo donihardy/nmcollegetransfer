@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO LOS ALAMOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage losalamosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,11 +37,11 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
 
-          <p>If you are a veteran, meet with the Registrar to have your schedule certified. This will need to be done every semester.<p/>
+          <p>If you are a veteran, meet with the Registrar to have your schedule certified. This will need to be done every semester.</p>
             <p>Active duty military members stationed in New Mexico, their spouses and dependents are eligible for waivers of non-resident tuition. Members of the National Guard, their spouses and dependents are also eligible for waivers of non-resident tuition. A form must be submitted to Student Services by the second Friday of the term to obtain these waivers.</p>
-            <a href="http://vrc.unm.edu/other-useful-information/Branch%20Campuses.html">Veterans Resource Center</a>
+            <p>Visit: <a href="http://vrc.unm.edu/other-useful-information/Branch%20Campuses.html">Veterans Resource Center</a></p>
           </div>
         </div>
 

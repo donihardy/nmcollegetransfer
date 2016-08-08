@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -44,8 +39,8 @@
             <p><strong>Student Support</strong></p>
             <p>The faculty-student ratio is kept low, with small classes, allowing instructors to provide support and personal attention to students. A wide range of tutoring and other student support services are also available. Compared to traditional four-year institutions, ENMU-Roswell is a superior value. Currently, tuition and fees are about $54 per credit hour for in-state students and about $175 per credit hour for non-resident students.</p>
 
-            <p><a href="http://www.roswell.enmu.edu">ENMU-Roswell Website</a><br />
-              <a href="http://www.roswell.enmu.edu/enmu-roswell-campus-map">Map</a></p>
+            <p>Visit: <a href="http://www.roswell.enmu.edu">ENMU-Roswell Website</a><br />
+              Visit: <a href="http://www.roswell.enmu.edu/enmu-roswell-campus-map">ENMU-Roswell Map</a></p>
             </div>
           </div>
           

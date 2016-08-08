@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,9 +37,10 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>Institute of American Indian Arts</h3>
-          <h6>83 Avan Nu Pu Road | Santa Fe, NM | <a href="tel:1-505-424-2300">(505) 424-2300</a></h6>
-        </th>
+        <div class="textbody">
+        <h3>Institute of American Indian Arts</h3>
+          <h6>83 Avan Nu Pu Road | Santa Fe, NM | <a href="tel:1-505-424-2300">(505) 424-2300</a></h6><br />
+          <table class="profile">
         <tr><td><h4>Website:</h4></td><td><a href="http://www.iaia.edu/">www.iaia.edu/</a></td></tr>
         <tr><td><h4>Type:</h4></td><td>4-year, Public</td></tr>
         <tr><td><h4>Awards offered:</h4></td><td>Associates's, Bachelor's, Master's</td></tr>
@@ -52,7 +48,7 @@
         <tr><td><h4>Campus housing:</h4></td><td>Yes</td></tr>
         <tr><td><h4>Student population:</h4></td><td>486 (430 undergraduate)</td></tr>
         <tr><td><h4>Student-to-faculty ratio:</h4></td><td>7 to 1</td></tr>
-      </table><p><a href="http://nces.ed.gov/collegenavigator/?q=institute+of+american+indian+arts&s=all&id=187745">College Navigator</a></p></div>
+      </table><p>Visit: <a href="http://nces.ed.gov/collegenavigator/?q=institute+of+american+indian+arts&s=all&id=187745">College Navigator</a></p></div>
     </div>
     
     <?php //Begin Side menu ?>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NORTHERN NEW MEXICO COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,10 +38,10 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>NNMC does not have on campus housing.<br />
-            <a href="http://nnmc.edu/home/student-gateway/student-housing/">Housing Options</a></p>
+            Visit: <a href="http://nnmc.edu/home/student-gateway/student-housing/">Housing Options</a></p>
             <h4 id="childcare">Child Care</h4>
             <p>Child care is not available on campus.</p>
             <!--<p><a href="#">Child Care</a></p>-->

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage cnmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,16 +39,16 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>CNM doesn't provide housing but they do have a list of resources: </p>
-          <p><a href="https://www.cnm.edu/cnm-community/community-resources/housing">Housing</a></p>
+          <p>Visit: <a href="https://www.cnm.edu/cnm-community/community-resources/housing">Housing</a></p>
           <h4 id="childcare">Child Care</h4>
           <p>Tres Manos Child Development Center provides low cost, high quality child care to a limited number of CNM students. The center is conveniently located at 832 Buena Vista SE, north of the Heights Community Center and is available Monday through Friday, from 7:00 am to 5:30 pm.</p>
-          <p><a href="https://www.cnm.edu/depts/financial-aid/resources/childcare.html">Child Care</a></p>
+          <p>Visit: <a href="https://www.cnm.edu/depts/financial-aid/resources/childcare.html">Child Care</a></p>
           <h4 id="parent">Parent Info</h4>
           <p>As a parent of a current or incoming CNM student, you may have some questions about the college. Here is some information to help you out.</p>
-          <p><a href="https://www.cnm.edu/cnm-community/parent-guide">Parent Info</a></p>
+          <p>Visit: <a href="https://www.cnm.edu/cnm-community/parent-guide">Parent Info</a></p>
         </div>
       </div>
       

@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - DIN&#201;</title>
-
-
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -47,8 +41,8 @@
           <div class="textbody">
             <img class="schoolimg img-responsive pull-right " src="../images/dine.jpg"  alt="Responsive Image">
             <p >Din&#233; College was established in 1968 as the first tribally-controlled community college in the United States. In creating an institution of higher education, the Navajo Nation sought to encourage Navajo youth to become contributing members of the Navajo Nation and the world society. Under the direction of an eight-member Board of Regents confirmed by the Government Services Committee of the Navajo Nation Council, the College serves residents of the 26,000 square mile Navajo Nation, which spans the states of Arizona, New Mexico, and Utah. As a postsecondary educational institution, Diné College awards associate degrees and certificates in areas important to the economic and social development of the Navajo Nation. <br /><br /></p>
-            <p><a href="http://www.dinecollege.edu">Din&#233; Website</a><br />
-              <a href="http://www.dinecollege.edu/about/campus.php">Map</a></p>
+            <p>Visit: <a href="http://www.dinecollege.edu">Din&#233; Website</a><br />
+              Visit: <a href="http://www.dinecollege.edu/about/campus.php">Map</a></p>
             </div>
           </div>
           

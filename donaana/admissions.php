@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY DO&#209;A ANA</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage donaanabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,21 +40,20 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>Requirements for admissions:</p>
-            <p>Online Application Form<br />
+            <p>Online Application Form</p>
               <ul><li>Please note that you will be redirected to an external site.</li>
                 <li>Create a PIN number and a Password</li>
                 <li>Be sure to select “Doña Ana” in the section “Campus Where You Plan to Enroll”</li>
                 <li>Pay the $20 application fee. See our Application Fee Payment Options at the bottom of this page.</li></ul>
-              </p>
-              <p><a href="http://dacc.nmsu.edu/admissions/">General Admissions</a><br />
-                <a href="http://dacc.nmsu.edu/admissions/transfer-admission-requirements/">NMSU Do&#241;a Ana Transfer Admissions Requirements</a>
+              <p>Visit: <a href="http://dacc.nmsu.edu/admissions/">General Admissions</a><br />
+                Visit: <a href="http://dacc.nmsu.edu/admissions/transfer-admission-requirements/">NMSU Do&#241;a Ana Transfer Admissions Requirements</a>
               </p>
               <h4 id="eligibility">Eligibility</h4>
               <p>Prospective transfer students may be eligible for undergraduate studies with a cumulative GPA of at least a 2.00 and be eligible to return to the college or university last attended.  Students must submit official transcripts from all colleges and/or universities previously attended.  A student who conceals the fact that (s)he has attended another college or university and who has not had official transcripts submitted by each institution previously attended-whether or not credit was earned-will be subject to immediate suspension.  An academic credit evaluation will be mailed to you from the Doña Ana Community College Academic Advising Office, 575.528.7272.</p>
-              <a href="http://dacc.nmsu.edu/admissions/transfer-admission-requirements/">NMSU Do&#241;a Ana Admissions Eligibility</a>
+              Visit: <a href="http://dacc.nmsu.edu/admissions/transfer-admission-requirements/">NMSU Do&#241;a Ana Admissions Eligibility</a>
               <h4 id="deadlines">Deadlines</h4>
               <p>The community college endorses the open-door admission
                 concept and will admit—to the limit of its physical and financial resources—new,
@@ -68,13 +62,13 @@
                 high school. Diplomas from accredited, on-line high schools, however, are
                 subject to strict review and may not in all cases be judged valid for the purpose
                 of enrolling at DACC.</p>
-                <p><a href="http://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2016/03/DACC-Catalog-2016-17-for-Web.pdf">NMSU Do&#241;a Ana Admissions Deadlines</a> page 9</p>
+                <p>Visit: <a href="http://dacc.nmsu.edu/catalogs/wp-content/uploads/sites/69/2016/03/DACC-Catalog-2016-17-for-Web.pdf">NMSU Do&#241;a Ana Admissions Deadlines</a> page 9</p>
                 <h4 id="fees">Fees</h4>
                 <p>$20 application fee</p>
-                <a href="http://dacc.nmsu.edu/admissions/first-time-apply/">NMSU Do&#241;a Ana Admissions Fees</a>
+                Visit: <a href="http://dacc.nmsu.edu/admissions/first-time-apply/">NMSU Do&#241;a Ana Admissions Fees</a>
                 <h4 id="visits">Campus Visits</h4>
                 <p>The Office of Admissions is ready to arrange a visit just for you. We want to provide the most comprehensive visit possible – please contact us at least 2 weeks in advance of your visit date.</p>
-                <a href="http://dacc.nmsu.edu/admissions/visit-campus-request/">Schedule a Visit</a>
+                Visit: <a href="http://dacc.nmsu.edu/admissions/visit-campus-request/">Schedule a Visit</a>
 
               </div>
             </div>

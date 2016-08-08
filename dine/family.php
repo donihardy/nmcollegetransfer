@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - DIN&#201;</title>
-
-
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,15 +41,15 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
-          <p>Diné College provides eight residential halls for students at the main campus in Tsaile and three residential halls for DC student athletes in Shiprock.<br /><a href="http://www.dinecollege.edu/residence/residencelife.php">Residence Life</a></p>
+          <p>Diné College provides eight residential halls for students at the main campus in Tsaile and three residential halls for DC student athletes in Shiprock.<br />Visit: <a href="http://www.dinecollege.edu/residence/residencelife.php">Residence Life</a></p>
           <h4 id="childcare">Child Care</h4>
-          <p>The Tsaile Campus has two day-care facilities on campus that are run by the Navajo Nation’s Division of Social Services. Special agreements are in place to facilitate services to children of Diné College students, faculty and staff.</p>
-          <p><a href="http://www.dinecollege.edu/services/student-services.php">Child Care</a></p>
+          <p>The Tsaile Campus has two day-care facilities on campus that are run by the Navajo Nation’s Division of Social Services. Special agreements are in place to facilitate services to children of Diné College students, faculty and staff.<br />
+          Visit: <a href="http://www.dinecollege.edu/services/student-services.php">Child Care</a></p>
           <h4 id="parent">Parent Info</h4>
           <p>Dual Enrollment Parent Info:<br />
-            <a href="http://www.dinecollege.edu/dual-credit-program/students-and-parents.php">Parent Info</a></p>
+           Visit: <a href="http://www.dinecollege.edu/dual-credit-program/students-and-parents.php">Parent Info</a></p>
           </div>
         </div>
         

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - WESTERN NEW MEXICO UNIVERSITY</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage wnmubgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -45,8 +40,8 @@
             <p >Accredited by the North Central Association of Colleges and Secondary Schools, the Professional Standards Commission of the State of New Mexico, the National Council for Accreditation of Teacher Education, and the Council on Social Work Education.</p>
             <p>We offer fully online master and bachelor degrees.</p>
             <p>The world's largest permanent collection of Mimbres pottery is found in our University Museum</p>
-            <p><a href="http://www.wnmu.edu">WNMU Website</a><br />
-              <a href="http://wnmu.edu/quickfacts/wnmu_map.pdf">Map</a></p>
+            <p>Visit: <a href="http://www.wnmu.edu">WNMU Website</a><br />
+              Visit: <a href="http://wnmu.edu/quickfacts/wnmu_map.pdf">WNMU Map</a></p>
 
             </div>
           </div>

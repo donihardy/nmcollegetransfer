@@ -1,15 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -59,8 +52,8 @@
                     <p>On the basis of transcript evaluation, credit may be granted for courses taken at other colleges or universities in which a grade of D or higher is earned. Semester and cumulative grade-point averages are computed solely on courses taken at New Mexico State University; however, transfer credits that are accepted will apply toward the degree. Transcripts from other universities must be provided to NMSU Carlsbad as part of the admission process and are evaluated by the Registrar Office at the Las Cruces campus. Transcripts will only be evaluated after the student is officially enrolled as a regular status student. The Chief Academic Officer/Provost may evaluate credits from non-accredited institutions after the student has completed two semesters in fulltime status with satisfactory grades and make recommendation to the Registrar Office for acceptance.</p>
                     <h4 id="commoncore">Common Core Courses</h4>
                     <p>The New Mexico General Education Common Core consists of designated general education courses guaranteed to transfer to any New Mexico public college or university. A complete list of approved courses can be found on the New Mexico Higher Education Department (HED) web site www.hed.state.nm.us. The currently approved NMSU courses impacting NMSU Carlsbad’s English, Humanities and Fine Arts Division are listed below under the HED’s designations Area I and Area V. History courses that can serve as Area V credits are found in NMSU Carlsbad’s Social Science Division.</p>
-                    <a href="https://carlsbad.nmsu.edu/departments/academics/programs-of-study/english-studies-humanities-fine-arts/new-mexico-general-education-common-core/">NM General Education Common Core</a>
-                    <h4 id="moreinfo">ACT/SAT</h4>
+                    Visit: <a href="https://carlsbad.nmsu.edu/departments/academics/programs-of-study/english-studies-humanities-fine-arts/new-mexico-general-education-common-core/">NM General Education Common Core</a>
+                    <h4 id="actsat">ACT/SAT</h4>
                     <p>Students may satisfy basic skills requirements in English
                       by scoring 30 or higher on ACT English exams. However,
                       students must still earn credit for ENGL 111G by one of these
@@ -71,15 +64,15 @@
                         requirements in mathematics by scoring 23 or higher on ACT
                         mathematics exams. However, students must still fulfill the
                         general education math requirement</p>
-                        <p><a href="https://carlsbad.nmsu.edu/files/2014/08/1415-final-web-version.pdf">Catalog</a> page 14</p>
+                        <p>Visit: <a href="https://carlsbad.nmsu.edu/files/2014/08/1415-final-web-version.pdf">Catalog</a> page 14</p>
                         <h4 id="moreinfo">Request More Info</h4>
-                        <p><a href="https://carlsbad.nmsu.edu/contact-us/">Contact Form</a></p>
+                        <p>Visit: <a href="https://carlsbad.nmsu.edu/contact-us/">Contact Form</a></p>
                         <h4 id="transfer">Transfer Agreements</h4><br />
                         <p>If you are a current student enrolled at one of NMSU’s community college campuses and would like to transition to the NMSU-Las Cruces campus, you must complete a <a href="http://admissions.nmsu.edu/files/2014/10/nmsu-change-of-campus-072011.pdf">Change of Campus Form</a>.</p>
 
                         <p>You may submit the completed form by faxing it to 575-646-6330 or emailing it to transfer@nmsu.edu. You can also deliver it to University Admissions in the Educational Services Building on the NMSU-Las Cruces campus.</p>
-                        <p><a href="https://dept-wp.nmsu.edu/etse2/files/2014/05/NMSU-CarlsbadCC-to-ECET.pdf">NMSU Engineering Technology Articulation</a><br />
-                          <a href="http://business.nmsu.edu/students/academic/transfer/">Business</a></p>
+                        <p>Visit: <a href="https://dept-wp.nmsu.edu/etse2/files/2014/05/NMSU-CarlsbadCC-to-ECET.pdf">NMSU Engineering Technology Articulation</a><br />
+                          Visit: <a href="http://business.nmsu.edu/students/academic/transfer/">Business</a></p>
                           <h4 id="dual">High School Dual Enrollment</h4>
                           <p>By enrolling in NMSU Carlsbad’s Dual Credit Program, high school students can get a jump start and earn elective credits that contribute to both their high school graduation requirements and their college credit hours. Dual credit students do not pay for tuition or textbooks during the fall and spring semesters. However, they are responsible for classroom fees.</p>
                           <p>Eligibility<br />
@@ -89,8 +82,8 @@
                               <li>maintain a high school GPA of at least 2.0.</li>
                               <li>maintain an average of at least 2.0 in your dual credit courses.</li>
                               <li>must have permission from both parents/guardians and high school.</li></ul>
-                            </p>
-                            <a href="https://carlsbad.nmsu.edu/departments/academics/dual-credit-program/">NMSU Carlasbad Dual Enrollment Page</a>
+                            
+                            Visit: <a href="https://carlsbad.nmsu.edu/departments/academics/dual-credit-program/">NMSU Carlasbad Dual Enrollment Page</a>
                             
                           </div>
                         </div>

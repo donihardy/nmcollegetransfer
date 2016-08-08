@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmsubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -42,8 +37,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><table class="profile"><th colspan="2"><h3>New Mexico State University-Main Campus</h3>
-          <h6>1708 E. University Ave | Las Cruces, New Mexico 88003 | <a href="tel:1-575-646-0111">575.646.0111</a></h6></th>
+        <div class="textbody"><h3>New Mexico State University-Main Campus</h3>
+          <h6>1708 E. University Ave | Las Cruces, New Mexico 88003 | <a href="tel:1-575-646-0111">575.646.0111</a></h6>
+          <table class="profile">
           <tr><td><h4>Website:</h4></td><td><a href="http://www.nmsu.edu">www.nmsu.edu</a></td></tr>
           <tr><td><h4>Type:</h4></td><td>4-year, Public</td></tr>
           <tr><td ><h4>Awards offered:</h4></td>
@@ -58,7 +54,9 @@
               <tr><td><h4>Campus housing:</h4></td><td>Yes</td></tr>
               <tr><td><h4>Student population:</h4></td><td>  	15.829 (12,784 undergraduate)</td></tr>
               <tr><td><h4>Student-to-faculty ratio:</h4></td><td>17 to 1</td></tr>
-            </table></div>
+            </table>
+            <p><a href="http://nces.ed.gov/collegenavigator/?q=nmsu&s=NM&l=91+92+93+94&ic=1+2&id=188030">College Navigator</a></p>
+            </div>
           </div>
 
           <?php //Begin Side menu ?>

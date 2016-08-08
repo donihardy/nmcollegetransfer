@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO MILITARY INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,7 +41,7 @@
           <h3>Resources</h3>
           <h4 id="housing">Academic</h4>
           <p>Toles Learning Center. The purpose of the Center is to offer programs, activities, and strategies to support and enable cadets to experience academic success, maximize learning potentials, produce high quality work, succeed in a multi-cultural world, and be prepared for a full range of options and opportunities.</p>
-          <p><a href="http://www.nmmi.edu/resources/tlc/">Toles Learning Center</a></p>
+          <p>Visit: <a href="http://www.nmmi.edu/resources/tlc/">Toles Learning Center</a></p>
         </div>
       </div>
 

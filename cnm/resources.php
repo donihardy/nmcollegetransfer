@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CENTRAL NEW MEXICO COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage cnmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,7 +42,7 @@
         <div class="textbody">
           <h3>Resources</h3>
           <p>Find information on advisors, coaching, bookstores, financial aid and more:</p>
-          <p><a href="https://www.cnm.edu/student-resources">CNM Resources Website</a>
+          <p>Visit: <a href="https://www.cnm.edu/student-resources">CNM Resources Website</a>
           </div>
         </div>
         

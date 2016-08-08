@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - DIN&#201;</title>
-
-
   <body>
     <div class="container-fluid">
       <header class="bgimage dinebgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,12 +40,11 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Tsaile and Shiprock Campuses have a Certifying official to assist veteran students with using their educational benefits. Diné College curricula and courses are approved by the Arizona and New Mexico Veterans Commission State Approving Agencies. For additional information contact the Student Services Program at the Tsaile or Shiprock Campuses.</p>
-          <p><a href="http://www.dinecollege.edu/services/student-services.php">Student Services</a></p>
-              <!--<h4 id="veterans">Active Duty</h4>
-              <p>Info to come</p>-->
+          <p>Visit: <a href="http://www.dinecollege.edu/services/student-services.php">Student Services</a></p>
+          
             </div>
           </div>
           

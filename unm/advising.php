@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage unmbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,14 +37,14 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The University of New Mexico is a unique campus for advising. We currently have twelve Colleges and five Student Affairs advising centers each with their own unique approach to advising students. The various advising center utilizes a different advising approach from prescription to developmental advising, holistic to appreciative advising, or intrusive to advising as teaching.</p>
             <p>The mission of this office is to work collaboratively with each academic advising unit to enhance the quality of academic advising for students at the University of New Mexico.</p>
-            <p><a href="http://advisement.unm.edu/index.html">UNM Advising</a></p>
+            <p>Visit: <a href="http://advisement.unm.edu/index.html">UNM Advising</a></p>
             <h4 id="appt">Schedule an Appointment</h4>
             <p>Students in University College can schedule an appointment to see their advisor through Lobo Achieve: </p>
-            <p><a href="http://ucollege.unm.edu/advisement/make-an-appointment.html">UNM Advising Appointment</a></p>
+            <p>Visit: <a href="http://ucollege.unm.edu/advisement/make-an-appointment.html">UNM Advising Appointment</a></p>
           </div>
         </div>
 

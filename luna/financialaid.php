@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -43,7 +38,7 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <p>All students who plan to attend LCC are encouraged to apply. Free applications are available online through the U.S. Department of Education’s website at <a href="http://www.fafsa.ed.gov">www.fafsa.ed.gov</a>.</p>
           <h4 id="pellgrant">Pell Grant</h4>
           <p>This federal grant is the “foundation” of financial assistance upon which other sources of aid may be
@@ -57,24 +52,24 @@
                 <li>FEDERAL SUPPLEMENTAL EDUCATIONAL OPPORTUNITY GRANT</li>
                 <li>STATE STUDENT INCENTIVE GRANT</li>
                 <li>COLLEGE AFFORDABILITY GRANT</li></ul>
-                <p><a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Pell Grants</a></p>
-                <h4 id="pellgrant">Loans</h4>
+                <p>Visit: <a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Pell Grants</a></p>
+                <h4 id="loans">Loans</h4>
                 <p>Loans available:
                   <ul><li>NEW MEXICO LOAN-FOR-SERVICE PROGRAM</li>
                     <li>FEDERAL DIRECT STUDENT LOANS</li></ul>
-                    <p><a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Loans</a></p>
+                    <p>Visit: <a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Loans</a></p>
                     <h4 id="scholarship">Scholarships</h4>
-                    <p>Scholarships available:<br />
+                    <p>Scholarships available:</p>
                       <ul><li>Bridge Scholarship</li>
                         <li> Legislative Lottery Scholarship</li>
                         <li> LCC’s Roadrunner Scholarship</li>
                         <li> Workforce Investment Act</li>
                         <li> Bureau of Indian Affairs Scholarships</li>
-                        <li> LCC Foundation</li></ul></p>
-                        <p><a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Scholarships</a></p>
+                        <li> LCC Foundation</li></ul>
+                        <p>Visit: <a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Scholarships</a></p>
                         <h4 id="deadlines">Deadlines</h4>
                         <p> Students who apply on or before <strong>April 15th</strong> will be given priority consideration for awarding campus-based aid. Assistance may be available for late applicants; however funds are limited.</p>
-                        <p><a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Deadlines</a></p>
+                        <p>Visit: <a href="https://www.luna.edu/financial-aid/">LCC Financial Aid Deadlines</a></p>
                         <h4 id="schoolcode">LCC School Code</h4>
                         <p><strong>009962</strong></p>
                       </div>

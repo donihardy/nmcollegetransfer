@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/mesalandsbanner.png" alt="Mesalands Banner"></div>
       </div>
     </div>
@@ -20,7 +20,7 @@
         <a href="index.php">HOME</a>
       </li>
       <li>
-        LIFE ON CAMPUS
+        COLLEGE VISITS
       </li>
     </ol>
 
@@ -30,26 +30,19 @@
       <div class="panel panel-default">
         <div class="panel-heading"> <h3>College Visits</h3></div>
         <div class="panel-body">
-          <table class="table table-condensed" style="border-collapse:collapse;">
-
-            <p>Insert Explanation</p>
-            <h3>Setting up a Visit</h3>
-            <p>Insert explanation</p>
-            <ul>
-              <li>Visit a recruiter at your high school.</li>
-              <li>Visit a recruiter at your 2 year school.</li>
-              <li>Contact Admissions at the higher education school you are interested in attending.</li>
-              <li>Contact the department of the degree you are wanting to pursure.</li>
-            </ul>
-            <div class="financialaid" id="questions"><h3>Questions to Ask</h3></div>
-            <p>Insert explanation</p>
+          <h3>Setting up a Visit</h3>
+          <ul>
+            <li>Visit a recruiter at your high school.</li>
+            <li>Visit a recruiter at your 2 year school.</li>
+            <li>Contact Admissions at the higher education school you are interested in attending.</li>
+            <li>Contact the department of the degree you are wanting to pursure.</li>
+          </ul>
+          <div class="financialaid" id="questions"><h3>Questions to Ask</h3></div>
             <table class="table table-condensed" style="border-collapse:collapse;">
 
               <tbody>
                 <tr data-toggle="collapse" data-target="#admissions" class="accordion-toggle">
-                  <td class="schoolname"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask Admissions:</td>            
-
-                </tr>
+                  <td class="schoolname" colspan="12"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask Admissions:</td></tr>
                 <tr>
                   <td colspan="12" class="hiddenRow">
                     <div class="accordian-body collapse" id="admissions"> 
@@ -66,7 +59,7 @@
                   </tr>
 
                   <tr data-toggle="collapse" data-target="#financialaid" class="accordion-toggle">
-                    <td class="schoolname"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask Financial Aid:</td>            
+                    <td class="schoolname" colspan="12"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask Financial Aid:</td>            
 
                   </tr>
                   <tr>
@@ -83,7 +76,7 @@
                     </tr>
 
                     <tr data-toggle="collapse" data-target="#advising" class="accordion-toggle">
-                      <td class="schoolname"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask Advising:</td>            
+                      <td class="schoolname" colspan="12"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask Advising:</td>            
 
                     </tr>
                     <tr >
@@ -103,7 +96,7 @@
                       </tr>
 
                       <tr data-toggle="collapse" data-target="#military" class="accordion-toggle">
-                        <td class="schoolname"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions Veterans and Military Members should ask:</td>            
+                        <td class="schoolname" colspan="12"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions Veterans and Military Members should ask:</td>            
 
                       </tr>
                       <tr>
@@ -118,7 +111,7 @@
                       </tr>
 
                       <tr data-toggle="collapse" data-target="#campuslife" class="accordion-toggle">
-                        <td class="schoolname"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask about Life on Campus:</td>            
+                        <td class="schoolname" colspan="12"><button class="btn btn-default btn-xs"><span class="glyphicon glyphicon-menu-down"> </span></button>&nbsp;&nbsp;These are questions to ask about Life on Campus:</td>            
 
                       </tr>
                       <tr>
@@ -136,13 +129,11 @@
 
                         </div> </td>
                       </tr>
-
+                      </tbody>
                     </table>
-                    <h3>Follow up</h3>
-                    <p>Insert Explanation</p>
-
-
+                    </div>
+                    </div>
+                  </div>
                   </div>
                   <div class="clear"></div>
-                  <div class="container">
                    <?php include 'includes/footer.php'; ?>

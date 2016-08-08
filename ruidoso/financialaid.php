@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-
-<title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-RUIDOSO</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuruidosobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,26 +37,26 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>Financial Aid <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="pellgrant">Pell Grant</h4>
             <p>The three types of grants available at ENMU-Ruidoso are Pell Grants, SEOG and NMSIG.</p>
             <strong>Federal Grants</strong>
             <ul><li>Federal Pell Grant</li>
               <li>Federal Supplemental Educational Opportunity Grant (FSEOG)</li></ul>
               <strong>State Grants</strong>
-              <li>New Mexico Student Incentive Grant/Leveraging Educational Assistance Partnership(NMSIG/LEAP)</li>
-            </ul><p>
-            <p><a href="http://ruidoso.enmu.edu/index.php/new-page/170-financial-aid-faqs">ENMU Ruidoso Financial Aid Pell Grants</a></p>
+              <ul><li>New Mexico Student Incentive Grant/Leveraging Educational Assistance Partnership(NMSIG/LEAP)</li>
+            </ul>
+            <p>Visit: <a href="http://ruidoso.enmu.edu/index.php/new-page/170-financial-aid-faqs">ENMU Ruidoso Financial Aid Pell Grants</a></p>
             <h4 id="scholarship">Scholarships</h4>
             <p>Scholarships at ENMU Ruidoso:</p>
-            <p><a href="http://ruidoso.enmu.edu/files/Foundation_Scholarship_Guide_2015-2016.pdf">ENMU Ruidoso Foundation Scholarships</a><br />
-              <a href="http://ruidoso.enmu.edu/files/ENMU-Ruidoso_Foundation_Scholarship_Application_2015.pdf">ENMU Ruidoso Foundation Scholarship Application</a></p>
+            <p>Visit: <a href="http://ruidoso.enmu.edu/files/Foundation_Scholarship_Guide_2015-2016.pdf">ENMU Ruidoso Foundation Scholarships</a><br />
+              Visit: <a href="http://ruidoso.enmu.edu/files/ENMU-Ruidoso_Foundation_Scholarship_Application_2015.pdf">ENMU Ruidoso Foundation Scholarship Application</a></p>
               <h4 id="loans">Loans</h4>
               <p>ENMU Ruidoso participates in the Perkins Loan program, the Stafford Subsidized and Unsubsidized Loan programs and the Parent Loan for Undergraduate Students.</p>
-              <p><a href="http://ruidoso.enmu.edu/images/downloads/loan_request_ruidoso_1213.pdf">ENMU Ruidoso Student Loan Request</a>
+              <p>Visit: <a href="http://ruidoso.enmu.edu/images/downloads/loan_request_ruidoso_1213.pdf">ENMU Ruidoso Student Loan Request</a>
                 <h4 id="deadlines">Deadlines</h4>
                 <p>April 30th </p>
-                <p><a href="http://ruidoso.enmu.edu/files/Foundation_Scholarship_Guide_2015-2016.pdf">ENMU Financial Aid Deadlines</a></p>
+                <p>Visit: <a href="http://ruidoso.enmu.edu/files/Foundation_Scholarship_Guide_2015-2016.pdf">ENMU Financial Aid Deadlines</a></p>
                 <h4>ENMU Ruidoso Federal School code:</h4>
                 <p><strong>002651</strong></p>
               </div>

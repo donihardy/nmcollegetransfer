@@ -1,15 +1,10 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SAN JUAN COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage">
 
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -45,15 +40,15 @@
        <div class="container-fluid">
         <div class="textbody">
           <h3>Resources</h3>
-          <p><a href="http://www.sanjuancollege.edu/student-services/departments/transfer-center/">Transfer Center</a><br />
-           <a href="http://www.sanjuancollege.edu/student-success-center/programs/student-achievement-center/">Student Achievement Center</a><br />
-           <a href="http://www.sanjuancollege.edu/student-services/departments/veterans-center/">Veteran's Center</a><br />
-           <a href="http://www.sanjuancollege.edu/student-services/departments/career-services/">Career Center</a><br />
-           <a href="http://www.sanjuancollege.edu/administrative-services/departments/ots/">Office of Technology Services</a><br />
-           <a href="http://www.sanjuancollege.edu/student-success-center/programs/tutoring-center/">Tutoring Center</a><br />
-           <a href="http://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/disability-services/">Disability Services</a><br />
-           <a href="http://www.sanjuancollege.edu/student-services/departments/student-activities/clubs/edge-club/">TRiO</a></p>
-           <a href="http://www.sanjuancollege.edu/student-support/">San Juan College Student Support</a>
+          <p>Visit: <a href="http://www.sanjuancollege.edu/student-services/departments/transfer-center/">Transfer Center</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/student-success-center/programs/student-achievement-center/">Student Achievement Center</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/student-services/departments/veterans-center/">Veteran's Center</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/student-services/departments/career-services/">Career Center</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/administrative-services/departments/ots/">Office of Technology Services</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/student-success-center/programs/tutoring-center/">Tutoring Center</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/student-services/departments/advising-and-counseling-center/disability-services/">Disability Services</a><br />
+           Visit: <a href="http://www.sanjuancollege.edu/student-services/departments/student-activities/clubs/edge-club/">TRiO</a></p>
+           Visit: <a href="http://www.sanjuancollege.edu/student-support/">San Juan College Student Support</a>
 
          </div>
        </div>

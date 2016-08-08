@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO GALLUP</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage gallupbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,7 +42,7 @@
             <h3>STEM DEGREES</h3>
             <p>Drafting Technology<br />
               Information Technology</p>
-              <p><a href="http://www.gallup.unm.edu/vert/prog-courses/programs-degrees.php">UNM Gallup Programs</a></p>  
+              <p>Visit: <a href="http://www.gallup.unm.edu/vert/prog-courses/programs-degrees.php">UNM Gallup Programs</a></p>  
             </div>
           </div>
 

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NORTHERN NEW MEXICO COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,7 +37,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NNMC Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NNMC Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p><strong>Services</strong></p>
             <p>Make an appointment for Academic Advisement. Learn how Northern's Academic Advisors can help you get started and stay on track for a successful college experience.</p>
@@ -50,7 +45,7 @@
               <li>To schedule a meeting, contact the Advisement Center.</li>
               <li>Your Advisor will sign you up for New Student Orientation</li></ul>
               <h4 id="website">NNMC Advising Website</h4>
-              <p><a href="http://nnmc.edu/home/student-gateway/student-advisement/">NNMC Advising Website</a></p>
+              <p>Visit: <a href="http://nnmc.edu/home/student-gateway/student-advisement/">NNMC Advising Website</a></p>
               <h4 id="appt">Schedule an Appointment</h4>
               <p>To schedule an appointment:</p>
               <p><a href="tel:1-505-747-2150">(505) 747-2150</a></p>

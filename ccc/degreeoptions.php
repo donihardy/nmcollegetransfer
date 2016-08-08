@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,8 +39,8 @@
         <div class="container-fluid">
           <div class="textbody"><h2>Degree Options</h2>
             <h4 id="basiccore">Basic Core</h4>
-            <a href="../nmcommoncore.html">NM Common Core</a>
-            <h4 id="as">Certificates</h4>
+            Visit: <a href="../nmcommoncore.html">NM Common Core</a>
+            <h4 id="cert">Certificates</h4>
             <p>Computer Information System<br />
               Criminal Justice<br />
               Automotive Chassis Systems<br />
@@ -55,7 +50,7 @@
               Networking<br />
               Office Specialist<br />
               Web Technology</p>
-              <p><a href="http://www.clovis.edu/programs/index.aspx">Certificates</a></p>
+              <p>Visit: <a href="http://www.clovis.edu/programs/index.aspx">Certificates</a></p>
               <h4 id="as">Associates Degrees</h4>
               <p>Criminal Justice<br />
                 Computer Information Systems<br />
@@ -64,7 +59,7 @@
                 Information Technology<br />
                 Radiologic Technology<br />
               </p>
-              <p><a href="http://www.clovis.edu/programs/index.aspx">Associate Degrees</a></p>
+              <p>Visit: <a href="http://www.clovis.edu/programs/index.aspx">Associate Degrees</a></p>
               
             </div>
           </div>

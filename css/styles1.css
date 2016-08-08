@@ -1,11 +1,3 @@
-/*.bgimage {
-	background-position: center center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	width: 100%;
-	height: auto;
-}*/
-
 #LogoImg {
 	top: 5px;
 	z-index: 10000;
@@ -15,21 +7,17 @@
 }
 
 html body header div#myCarousel.carousel.slide div.carousel-inner div.item img {
-  display: block;
-  width: 100%;
-  height: auto;
+  	display: block;
+  	width: 100%;
+  	height: auto;
+	width: 100%;
+	z-index: -1;
+	top: 0;
 }
 
 div#myCarousel {
 	top: 0px;
 	z-index: -1;
-}
-
-#myCarousel.carousel.slide div.carousel-inner div.item img {
-	height: 250px;
-	width: 100%;
-	z-index: -1;
-	top: 0;
 }
 
 .carousel-inner {
@@ -61,26 +49,10 @@ html body header div#myCarousel.carousel.slide a.right.carousel-control span.gly
 	background-image: url('../images/nmsubanner.png');
 }
 
-/*.title {
- color: white;
- font-weight: bold;
- font-size: 40px;
- }*/
-
-
 p {
 	font-family: "Tahoma", Geneva, sans-serif;
 	font-size: 1.1em;
 }
-
-/*.navbar .navbar-inverse .container-fluid .navbar-header .navbar-toggle .icon-bar {
- color: #a6079c;
- background-color; black !important;
- }*/
-
-/*.services section {
-	text-align: center;
-}*/
 
 a {
 	color: #777;
@@ -266,10 +238,6 @@ a:hover {
 	color: #777;
 }
 
-/*.dropdown-menu li:hover .submenu {
- visibility: visible;
- }*/
-
 .dropdown-submenu.pull-left > .dropdown-menu {
 	left: -100%;
 	margin-left: 10px;
@@ -294,12 +262,6 @@ a:hover {
 html body div.textbody p a img.up.img-responsive.pull-left {
 	padding-right: 5px;
 }
-/*html body div.textbody table.stemuptable tbody tr td img.teamimg.img-responsive {
-	padding-right: 15px;
-	display:block;
-	top: 0;
-
-}*/
 
 .textbody {
 	margin: -15px 15px 15px 15px;

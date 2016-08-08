@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SANTA FE COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,10 +41,10 @@
             <h3>Agreements with Other Schools</h3>
             <div class="subtitle"><div class="transfer">
               <p>The Santa Fe Higher Education Center (SFHEC) is a partnership among four universities and Santa Fe Community College. The partner universities are Institute of American Indian Arts (IAIA), New Mexico Highlands University (NMHU), New Mexico State University (NMSU) and University of New Mexico (UNM). The partner universities at the SFHEC offer courses leading to baccalaureate and graduate degrees, which will be located at 1950 Siringo Road beginning January 2015.</p>
-              <a href="http://hec.sfcc.edu/programs/">Santa Fe Higher Education Center</a>
+              Visit: <a href="http://hec.sfcc.edu/programs/">Santa Fe Higher Education Center</a>
             </div>
           </div></div>
-
+          </div>
           <?php //Begin Side menu ?>
           <?php require '../includes/sidemenu.php'; ?>
           <?php //End Side menu ?>

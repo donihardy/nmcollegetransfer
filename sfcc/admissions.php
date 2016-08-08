@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SANTA FE COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,7 +39,7 @@
         </div>
         <div class="container-fluid">
           <div class="textbody">
-            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+            <h3>Admissions <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="requirements">Admission Requirements</h4>
             <p>You must apply to SFCC and complete an ADMISSION FORM before you register for classes.</p>
             <ul><li>Click here to apply to <a href="https://sfccssb.sfcc.edu/PROD/bwskalog.P_DispLoginNew">SFCC ONLINE</a></li>
@@ -53,8 +48,8 @@
                 The Welcome and Advising Center<br />
                 Santa Fe Community College<br />
                 6401 Richards Ave.<br />
-                Santa Fe, NM 87508</li></ul></p>
-                <a href="http://www.sfcc.edu/registration/first_time_students">General Admissions</a>
+                Santa Fe, NM 87508</li></ul>
+                Visit: <a href="http://www.sfcc.edu/registration/first_time_students">General Admissions</a>
                 <h4 id="eligibility">Eligibility</h4>
                 <p>Santa Fe Community College maintains an open admission
                   policy to maximize community members’
@@ -63,7 +58,7 @@
                   college’s credit programs, though some restrictions based
                   on age may apply to specific courses or certain facilities
                   that require designated levels of physical maturity. </p>
-                  <a href="http://www.sfcc.edu/files/catalog/2015CatalogJulyPt1.pdf">Santa Fe Community College Catalog</a> - page 9
+                  Visit: <a href="http://www.sfcc.edu/files/catalog/2015CatalogJulyPt1.pdf">Santa Fe Community College Catalog</a> - page 9
                   <h4 id="deadlines">Deadlines</h4>
                   <p>No information found.</p>
                   <!--<a href="#">Santa Fe Community College Admissions Deadlines</a>-->
@@ -71,8 +66,8 @@
                   <p>No information found.</p>
                   <!--<a href="#">Santa Fe Community College Admissions Fees</a>-->
                   <h4 id="visits">Campus Visits</h4>
-                  <a href="https://www.sfcc.edu/forms/iform?f=tourrequest">Request a Tour</a><br />
-                  <a href="http://www.sfcc.edu/registration/first_year_experience/1_new_student_orientation">New Student Orientation</a>
+                  Visit: <a href="https://www.sfcc.edu/forms/iform?f=tourrequest">Request a Tour</a><br />
+                  Visit: <a href="http://www.sfcc.edu/registration/first_year_experience/1_new_student_orientation">New Student Orientation</a>
 
                 </div>
               </div>

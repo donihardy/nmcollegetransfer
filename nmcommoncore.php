@@ -3,7 +3,7 @@
 <body>
   <header>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <div class="carousel-inner" role="listbox" class="img-responsive">
+      <div class="carousel-inner img-responsive" role="listbox">
         <div class="item active"><img src="images/enmuroswellbanner.png" alt="ENMU Roswell Banner"></div>
       </div>
     </div>
@@ -26,7 +26,7 @@
     </ol>
 
     <div class="textbody"><h3>NM Common Core</h3>
-    <p>Insert Explanation</p>
+    <!--<p>Insert Explanation</p>-->
       <h5><strong>Area I: Communications 9 semester hours</strong></h5>
       (a) College Level English Composition 3- 4 hrs.<br />
       (b) College Level Writing 3 hrs.<br />
@@ -54,6 +54,5 @@
       (d) Language, Literature or Humanities 3 hrs.<br /><br />
       <p><a href="http://www.hed.state.nm.us/institutions/general-ed-core-course-transfer-curriculum.aspx">General Ed Core Course Transfer Curriculum</a></p>
     </div>
-     <div class="clear"></div>
-    <div class="container">
+      <div class="clear"></div>
       <?php include 'includes/footer.php'; ?>

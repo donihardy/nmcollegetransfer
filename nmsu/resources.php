@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmsubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,9 +39,9 @@
        <div class="container-fluid">
         <div class="textbody">
           <h3>Resources</h3>
-          <p><a href="http://careerservices.nmsu.edu/">Career Services</a><br />
-            <a href="http://trio.nmsu.edu/">TRiO</a><br />
-            <a href="http://ssc.nmsu.edu/services/campus-tutoring-service/">Tutoring</a></p>
+          <p>Visit: <a href="http://careerservices.nmsu.edu/">Career Services</a><br />
+            Visit: <a href="http://trio.nmsu.edu/">TRiO</a><br />
+            Visit: <a href="http://ssc.nmsu.edu/services/campus-tutoring-service/">Tutoring</a></p>
           </div>
         </div>
 

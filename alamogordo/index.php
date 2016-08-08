@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NMSU ALAMOGORDO</title>
-
-    
   <body>
     <div class="container-fluid">
       <header class="bgimage alamogordobgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -42,8 +37,8 @@
           <div class="textbody">  <img class="schoolimg img-responsive pull-right" src="../images/nmsu_alamogordo.jpg"  alt="Responsive Image">
             <p>We are a community college located in beautiful Alamogordo, New Mexico, with the Lincoln National Forest fifteen miles to our east and White Sands National Monument fifteen miles to our west. The campus is situated “on the hill” above Alamogordo and provides inspiring views of the city and the Tularosa Basin. It offers the perfect venue for creative and motivated learning. We are one of four community colleges in the New Mexico State University system.</p>
             <P>NMSU-A was established in 1958 and has a long history of excellence that is supported by a caring community of hard working students and dedicated faculty and staff. Our primary mission is to educate the diverse population in our region. We accomplish this with award winning faculty, reasonable tuition, and excellent facilities, three of the many reasons to choose NMSU-A for your college education.</p>
-              <p><a href="http://nmsua.edu/">NMSU Alamogordo Website</a><br />
-                <a href="http://nmsua.edu/facilities/maps/">Map</a></p>
+              <p>Visit: <a href="http://nmsua.edu/">NMSU Alamogordo Website</a><br />
+                Visit: <a href="http://nmsua.edu/facilities/maps/">NMSU Alamogordo Map</a></p>
 
               </div>
             </div>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY-ROSWELL</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage enmuroswellbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,9 +41,9 @@
           <h3>Resources</h3>
           <h4>Student Resources</h4>
           <p>Information on resources available at institution such as tutoring, student organization, other programs that help students succeed.</p>
-          <p><a href="http://www.roswell.enmu.edu/student-affairs">Student Affairs</a><br />
-            <a href="http://www.roswell.enmu.edu/areas-of-study/special-services/special-services-home">Student Services</a><br />
-            <a href="http://www.roswell.enmu.edu/student-affairs/advising-and-retention/tutoring-services">Tutoring</a></p>
+          <p>Visit: <a href="http://www.roswell.enmu.edu/student-affairs">Student Affairs</a><br />
+            Visit: <a href="http://www.roswell.enmu.edu/areas-of-study/special-services/special-services-home">Student Services</a><br />
+            Visit: <a href="http://www.roswell.enmu.edu/student-affairs/advising-and-retention/tutoring-services">Tutoring</a></p>
             
           </div>
         </div>

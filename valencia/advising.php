@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO VALENCIA</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage valenciabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,13 +37,13 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>UNM Valencia Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>UNM Valencia Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>Students who have decided upon a UNM-Valencia Campus or UNM degree major are encouraged to meet with UNM–Valencia Campus advisors (faculty or student services staff) to develop a program of study plan and to make sure that steady progress is being made towards completion of the degree.</p>
-            <p><a href="http://valencia.unm.edu/students/advisement-and-counseling/services.html">UNM Advising</a></p>
+            <p>Visit: <a href="http://valencia.unm.edu/students/advisement-and-counseling/services.html">UNM Valencia Advising</a></p>
             <h4 id="appt">Schedule an Appointment</h4>
             <p>Please drop by to make an appointment or walk-in basis from 8:30 a.m. to 4:30 p.m. Monday through Friday, or call 925-8560 or email <a href="mailto:vcadvise@unm.edu">vcadvise@unm.edu</a>.</p>
-            <p><a href="http://valencia.unm.edu/students/advisement-and-counseling/services.html">UNM Valencia Advising Appointment</a></p>
+            <p>Visit: <a href="http://valencia.unm.edu/students/advisement-and-counseling/services.html">UNM Valencia Advising Appointment</a></p>
           </div>
         </div>
 

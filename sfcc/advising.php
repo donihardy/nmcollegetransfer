@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SANTA FE COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,10 +37,10 @@
         </ol>
       </div>
       <div class="container-fluid">
-        <div class="textbody"><h3>SFCC Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>SFCC Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="geninfo">Advising General Info</h4>
           <p>At SFCC there are three groups of professionals who regularly provide academic advising: the Welcome and Advising Center advisers, counselors and faculty members. In general, individuals in any of these groups can help you but each may also provide specialized assistance.</p>
-          <p><a href="http://www.sfcc.edu/academic_advising">SFCC Advising</a></p>
+          <p>Visit: <a href="http://www.sfcc.edu/academic_advising">SFCC Advising</a></p>
           <h4 id="appt">Schedule an Appointment</h4>
           <p>We are located in main building between the Cashier's Office and the Campus Center.</p>
           <p>Visit us during the Welcome and Advising Center open hours:<br />
@@ -53,7 +48,7 @@
             TUESDAYS: 9 a.m. to 5:30 p.m.<br />
             FRIDAYS: 8 a.m. to 5 p.m.</p>
             <p>For more information, please contact the Welcome and Advising Center, <a href="tel:1-505-428-1270">505-428-1270</a>, <a href="mailto:wac@sfcc.edu">wac@sfcc.edu.</a></p>
-            <p><a href="http://www.sfcc.edu/registration/welcome_and_advising_center">SFCC Advising Appointment</a></p>
+            <p>Visit: <a href="http://www.sfcc.edu/registration/welcome_and_advising_center">SFCC Advising Appointment</a></p>
           </div>
         </div>
 

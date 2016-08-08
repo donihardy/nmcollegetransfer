@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,10 +44,10 @@
             <p>These are the basic classes ENMU students take as a foundation of their college work. To find out more, please contact the records clerk in your college of your major or refer to our <a href="http://www.enmu.edu/academics/resources/ug-catalog/index.shtml">online catalogs</a>.</p>
             <h4 id="as">Associates Degrees</h4>
             <p>List of Associates Degrees at ENMU:</p>
-            <a href="http://www.enmu.edu/degrees.shtml#associate">ENMU Main Associate Degrees</a><br />
-            <a href="http://www.roswell.enmu.edu/degrees-and-programs">ENMU Roswell Associate Degrees</a><br />
-            <a href="http://ruidoso.enmu.edu/index.php/academics-programs/programs">ENMU Ruidoso Associate Degrees</a>
-            <h4 id="as">Bachelor's Degrees</h4>
+            Visit: <a href="http://www.enmu.edu/degrees.shtml#associate">ENMU Main Associate Degrees</a><br />
+            Visit: <a href="http://www.roswell.enmu.edu/degrees-and-programs">ENMU Roswell Associate Degrees</a><br />
+            Visit: <a href="http://ruidoso.enmu.edu/index.php/academics-programs/programs">ENMU Ruidoso Associate Degrees</a>
+            <h4 id="bs">Bachelor's Degrees</h4>
             <p class="subtitle">Biology<br />
               Biochemistry<br />
               Chemistry<br />
@@ -66,12 +63,12 @@
               Microbiology<br />
               Nutrition<br />
               Wildlife and Fishery Sciences</p>
-              <a href="http://www.enmu.edu/degrees.shtml#bachelors">ENMU Bachelor's Degrees</a>
-              <h4 id="as">Masters Degrees</h4>
+              Visit: <a href="http://www.enmu.edu/degrees.shtml#bachelors">ENMU Bachelor's Degrees</a>
+              <h4 id="ms">Masters Degrees</h4>
               <p class="subtitle">Biology<br />
                 Chemistry<br />
               </p>
-              <a href="http://graduate.enmu.edu/degrees.shtml">ENMU Masters Degrees</a>
+              Visit: <a href="http://graduate.enmu.edu/degrees.shtml">ENMU Masters Degrees</a>
             </div>
           </div>
           

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - CLOVIS COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage clovisccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,11 +39,11 @@
        <div class="container-fluid">
         <div class="textbody">
           <h3>Resources</h3>
-          <p><a href="http://www.clovis.edu/css/esl.aspx">ESL program</a> <br />
-            <a href="http://www.clovis.edu/trio/index.aspx">TRIO Student Support Services</a><br />
-            <a href="http://www.clovis.edu/css/index.aspx">Mabel Lee Hawkins Center for Student Success (CSS)</a><br />
-            <a href="http://www.clovis.edu/css/index.aspx">Student Clubs and Organizations</a><br />
-            <a href="http://www.clovis.edu/extendedlearning/index.aspx">Distance Education</a><br />
+          <p>Visit: <a href="http://www.clovis.edu/css/esl.aspx">ESL program</a> <br />
+            Visit: <a href="http://www.clovis.edu/trio/index.aspx">TRIO Student Support Services</a><br />
+            Visit: <a href="http://www.clovis.edu/css/index.aspx">Mabel Lee Hawkins Center for Student Success (CSS)</a><br />
+            Visit: <a href="http://www.clovis.edu/css/index.aspx">Student Clubs and Organizations</a><br />
+            Visit: <a href="http://www.clovis.edu/extendedlearning/index.aspx">Distance Education</a><br />
           </p>
         </div>
       </div>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO MILITARY INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,14 +37,14 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMMI Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMMI Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Franklin Student Assistance Center (SAC) provides professional advisors who offer academic, career and personal counseling. ACT/SAT preparatory courses are offered each semester for students interested in increasing their scores. Transfer guidance on colleges and service academy admission is also available. More specifically, SAC works closely with teaching faculty guiding their students through the academic program supporting and encouraging good study habits, proper behavior and overall academic achievement and growth.</p>
             <p>Parents or Guardians should always feel comfortable contacting the Franklin Student Assistance Center for any issue dealing with academics at NMMI.</p>
-            <p><a href="http://www.nmmi.edu/sac/">NMMI Advising</a></p>
+            <p>Visit: <a href="http://www.nmmi.edu/sac/">NMMI Advising</a></p>
             <h4 id="appt">Schedule an Appointment</h4>
             <p>Franklin Student Assistance Center (SAC)<br /><a href="tel:1-575-624-8360">575-624-8360</a></p>
-            <p><a href="http://www.nmmi.edu/sac/">NMMI Advising Appointment</a></p>
+            <p>Visit: <a href="http://www.nmmi.edu/sac/">NMMI Advising Appointment</a></p>
           </div>
         </div>
 

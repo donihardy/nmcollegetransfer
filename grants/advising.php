@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY GRANTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage grantsbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,7 +37,7 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMSU Grants Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMSU Grants Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Student Services Office
               offers centralized academic advising throughout the
@@ -57,12 +52,12 @@
                 information for students transferring to NMSU Las
                 Cruces or any other college or university in the state
                 of New Mexico.</p>
-                <p><a href="https://grants.nmsu.edu/student-services/">NMSU Grants Advising</a></p>
+                <p>Visit: <a href="https://grants.nmsu.edu/student-services/">NMSU Grants Advising</a></p>
                 <h4 id="appt">Schedule an Appointment</h4>
                 <p>New Students will meet with an adviser and register for courses prior to their first semester. Students with a “hold” will also need to meet with an adviser. Transfer and readmitted students should meet with an adviser their first semester. Upon transfer evaluation of prior credit, students will also meet with an adviser. Continuing students should plan ahead and meet with their adviser every semester well in advance of continuing student registration. Students nearing the completion of their certificate or degree should meet with an adviser at least one semester prior to graduation.</p>
                 <p>The Student Services Office is located in Martinez Hall, Room 5. Make an appointment or walk-in during office hours, to see an adviser prior to registration to review your degree plan.</p>
                 <p>Call <a href="1-505-287-6678">(505) 287-6678</a> and request to speak with an available advisor.</p>
-                <p><a href="https://grants.nmsu.edu/students/admissions/">NMSU Grants Advisor Info</a></p>
+                <p>Visit: <a href="https://grants.nmsu.edu/students/admissions/">NMSU Grants Advisor Info</a></p>
               </div>
             </div>
 

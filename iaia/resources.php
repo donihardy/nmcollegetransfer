@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,9 +39,8 @@
        <div class="container-fluid">
         <div class="textbody">
           <h3>Resources</h3>
-          <!--<p>Info to come</p>-->
-          <p><a href="https://iaia.edu/student-success-center/learning-lab/">Learning Center</a><br />
-            <a href="https://iaia.edu/student-success-center/career-services/">Career Services</a>
+          <p>Visit: <a href="https://iaia.edu/student-success-center/learning-lab/">Learning Center</a><br />
+            Visit: <a href="https://iaia.edu/student-success-center/career-services/">Career Services</a>
           </div>
         </div>
         

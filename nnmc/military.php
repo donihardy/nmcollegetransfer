@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NORTHERN NEW MEXICO COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,13 +37,12 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans &#38; Active Duty</h4>
           <p>At Northern's Veterans Resource Center you can register for classes and get certified to use your GI Bill, including the Post 9/11 GI Bill. You can also find out about all the services offered at Northern for veterans.</p>
           <p>Veterans Center Contact: <a href="tel:1-505-747-5499">(505) 747-5499</a><br />
-            <a href="http://nnmc.edu/home/student-gateway/student-veterans-office/">NNMC Veterans Resource Center</a></p>
-              <!--<h4 id="veterans">Active Duty</h4>
-              <p>Info to come</p>-->
+            Visit: <a href="http://nnmc.edu/home/student-gateway/student-veterans-office/">NNMC Veterans Resource Center</a></p>
+              
             </div>
           </div>
           

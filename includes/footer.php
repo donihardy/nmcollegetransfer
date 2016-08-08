@@ -13,8 +13,8 @@ if ($thisYear > $startYear) {
       <div id="footerContent">
         <div id="leftFooter">
           <h4><a href="http://stemup.unm.edu">STEM UP © <?php echo $copyright; ?></a></h4>
-          1716 Las Lomas Road NE &#149  Albuquerque, NM 87131 &#149 <a href="tel:1-505-277-1723">505-277.1723</a>
-          <a href="mailto:stemup@unm.edu"><h5>Contact STEM UP</a></h5>
+          1716 Las Lomas Road NE &nbsp;  Albuquerque, NM 87131 &nbsp; <a href="tel:1-505-277-1723">505-277.1723</a>
+          <h5><a href="mailto:stemup@unm.edu">Contact STEM UP</a></h5>
         </div>
       </div>
     </footer>

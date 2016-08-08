@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmsubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,7 +41,6 @@
             <h3>Course Transfer Info</h3>
             <p>Transfer students from other colleges or universities may be accepted for undergraduate studies if they have at least a 2.0 cumulative grade-point average and are eligible to return to the college or university last attended, and have graduated from high school or successfully passed the GED. Transfer students who have fewer than 30 credits have to meet first-time freshman admission requirements.</p>
             <h4 id="transcripts">Transcripts</h4>
-
             <p>The transfer student must have official transcripts forwarded directly to the Office of University Admissions by the Registrar of each college or educational institution previously attended. The ACT or SAT may be required of students who have not earned credit for the first semester of college English. A student who conceals the fact that he or she has attended another college or university, and who has not had the registrar submit a transcript for each institution whether or not credit was earned, will be subject to immediate suspension. Transcripts must be received before the date of registration.</p>
             <div class="subtitle">Mailing Address: <br />Undergraduate Admissions<br />
               MSC 3A<br />
@@ -61,30 +55,30 @@
 
               <ul><li>eTranscripts (Electronic Transcripts) are delivered to any valid email address via secure, certified PDF. Cost is $10.</li>
                 <li>Printed Transcripts are delivered by first-class mail or UPS Next Day delivery or can be picked up at the Registrar’s Office. Cost is $12.25.</li></ul>
-                Orders shipped by UPS Next Day are assessed an additional charge.</p>
-                <a href="https://exchange.parchment.com/send/adds/index.php?main_page=index&s_id=flE6lAwT03FvPcjR">Request transcripts</a>
+                Orders shipped by UPS Next Day are assessed an additional charge.
+                Visit: <a href="https://exchange.parchment.com/send/adds/index.php?main_page=index&s_id=flE6lAwT03FvPcjR">Request transcripts</a>
                 <div><h4 id="tes">Transferable Courses</h4>
                   <p>NMSU’s Transfer Equivalencies can help you determine how your coursework from other institutions may transfer. </p>
-                  <a href="http://admissions.nmsu.edu/apply/transfer-students/">Transfer Equivalencies Page</a></div>
+                  Visit: <a href="http://admissions.nmsu.edu/apply/transfer-students/">Transfer Equivalencies Page</a></div>
                   <div><h4 id="commoncore">Common Core Courses</h4>
-                    <p><strong>AREA I: COMMUNICATIONS (Select 9–10 credits; one course from each sub group)</strong></p>
-                    <table width="80%"><th>English Composition – Level 1</th>
+                    <h5><strong>AREA I: COMMUNICATIONS (Select 9–10 credits; one course from each sub group)</strong></h5>
+                    <table style="width: 80%"><tr><td colspan="2"><h5><strong>English Composition – Level 1</strong></h5></td></tr>
                       <tr><td>ENGL 111G, Rhetoric and Composition</td><td>4</td></tr>
                       <tr><td>ENGL 111GH, Rhetoric and Composition, Honors</td><td>  4 </td>
                         <tr><td>SPCD 111G, Advanced ESL Composition</td><td>4</td></tr>
-                        <th>English Composition – Level 2</th>
+                        <tr><td colspan="2"><h5><strong>English Composition – Level 2</strong></h5></td></tr>
                         <tr><td>ENGL 203G, Business and Professional Communication</td><td>  3</td></tr>
                         <tr><td>ENGL 211G, Writing in the Humanities and Social Sciences</td><td>  3</td></tr>
                         <tr><td>ENGL 218G, Technical and Scientific Communication</td><td> 3</td></tr>
                         <tr><td>ENGL 311G, Advanced Composition</td><td> 3</td></tr>
                         <tr><td>ENGL 318G, Advanced Technical and Professional Communication</td><td> 3</td></tr>
-                        <th>Oral Communication</th>
+                        <tr><td colspan="2"><h5><strong>Oral Communication</strong></h5></td></tr>
                         <tr><td>AXED 201G, Effective Leadership and Communication in<br />Agricultural Organizations.. </td><td>3</td></tr>
                         <tr><td>COMM 253G, Public Speaking  </td><td>3</td></tr>
                         <tr><td>COMM 265G, Principles of Human Communication  </td><td>3</td></tr>
                         <tr><td>HON 265G, Principles of Human Communication– Honors</td><td> 3</td></tr></table><br />
-                        <p><strong>AREA II: MATHEMATICS/ALGEBRA (Select 3 credits)</strong></p>
-                        <table width="80%"><tr><td>A ST/STAT 251G, Statistics for Business and Behavioral Sciences. </td><td> 3</td></tr>
+                        <h5><strong>AREA II: MATHEMATICS/ALGEBRA (Select 3 credits)</strong></h5>
+                        <table style="width: 80%"><tr><td>A ST/STAT 251G, Statistics for Business and Behavioral Sciences. </td><td> 3</td></tr>
                           <tr><td>HON 210G, The Accidental Mathematician </td><td> 3</td></tr>
                           <tr><td>MATH 112G, Fundamentals of Elementary Mathematics II</td><td>  3</td></tr>
                           <tr><td>MATH 121G, College Algebra</td><td>  3</td></tr>
@@ -96,8 +90,8 @@
                           <tr><td>MATH 291G, Calculus and Analytic Geometry III</td><td> 3</td></tr>
                           <tr><td>MATH/HON 275G, Spirit and Evolution of Mathematics</td><td>  3</td></tr>
                           <tr><td>STAT 271G, Statistics for Psychological Sciences</td><td>  3</table><br />
-                            <p><strong>AREA III: LABORATORY SCIENCE (Select 8 credits)</strong></p>
-                            <table width="80%"><tr><td>AGRO/HORT 100G, Introductory Plant Science </td><td>  4</td></tr>
+                            <h5><strong>AREA III: LABORATORY SCIENCE (Select 8 credits)</strong></h5>
+                            <table style="width: 80%"><tr><td>AGRO/HORT 100G, Introductory Plant Science </td><td>  4</td></tr>
                               <tr><td>ANTH 130G/ANTH130GL, Human's Place in Nature: <br />Introduction to Biological Anthropology</td><td>  4</td></tr>
                               <tr><td>ASTR 105G, The Planets</td><td>   4</td></tr>
                               <tr><td>ASTR 110G, Introduction to Astronomy </td><td>  4</td></tr>
@@ -125,8 +119,8 @@
                               <tr><td>PHYS 216G/216GL, Engineering Physics II</td><td>  4</td></tr>
                               <tr><td>PHYS 221G, General Physics for Life Sciences  </td><td> 3</td></tr>
                               <tr><td>PHYS 222G, General Physics for Life Sciences II </td><td> 3</table><br />
-                                <p><strong>AREA IV: SOCIAL/BEHAVIORAL SCIENCES (Select 6–9 credits)</strong></p>
-                                <table width="80%"><tr><td>AG E 210G/FSTE 210G, Survey of Food and Agriculture Issues </td><td> 3</td></tr>
+                                <h5><strong>AREA IV: SOCIAL/BEHAVIORAL SCIENCES (Select 6–9 credits)</strong></h5>
+                                <table style="width: 80%"><tr><td>AG E 210G/FSTE 210G, Survey of Food and Agriculture Issues </td><td> 3</td></tr>
                                   <tr><td>ANTH 120G, Human Ancestors  </td><td>3</td></tr>
                                   <tr><td>ANTH 125G, Introductions to World Cultures</td><td>  3</td></tr>
                                   <tr><td>ANTH 201G, Introduction to Anthropology</td><td> 3</td></tr>
@@ -158,8 +152,8 @@
                                   <tr><td> S WK 221G, Introduction to Social Welfare</td><td> 3</td></tr>
                                   <tr><td> W S 201G, Introduction to Women's Studies</td><td> 3</td></tr>
                                   <tr><td>W S 202G, Representing Women Across Cultures </td><td> 3</td></tr></table><br />
-                                  <p><strong>AREA V: HUMANITIES AND FINE ARTS (Select 6–9 credits)</strong></p>
-                                  <table width="80%"><tr><td>ART 101G, Orientation in Art </td><td> 3</td></tr>
+                                  <h5><strong>AREA V: HUMANITIES AND FINE ARTS (Select 6–9 credits)</strong></h5>
+                                  <table style="width: 80%"><tr><td>ART 101G, Orientation in Art </td><td> 3</td></tr>
                                     <tr><td>ART 110G, Visual Concepts</td><td> 3</td></tr>
                                     <tr><td>ART 295G, Introduction to Art History I</td><td> 3</td></tr>
                                     <tr><td>ART 296G, Introduction to Art History II </td><td> 3</td></tr>
@@ -191,7 +185,7 @@
                                     <tr><td>HON 229G, The New Testament as Literature </td><td>3</td></tr>
                                     <tr><td>HON 230G, Bamboo and Silk: The Fabric of Chinese Literature </td><td>3</td></tr>
                                     <tr><td>HON 234G, The Worlds of Arthur</td><td>  3</td></tr>
-                                    <tr><td>HON 239G, Medieval Understandings: Literature and Culture in the Middle Ages </td><td> 3</td></tr></td></tr>
+                                    <tr><td>HON 239G, Medieval Understandings: Literature and Culture in the Middle Ages </td><td> 3</td></tr>
                                     <tr><td>HON 241G, Telling American Stories: Society and Culture in Early America </td><td> 3</td></tr>
                                     <tr><td>HON 242G, Claiming an American Past</td><td> 3</td></tr>
                                     <tr><td>HON 244G, Masterpieces of World Literature</td><td>  3</td></tr>
@@ -207,22 +201,22 @@
                                     <tr><td>PHIL 223G, Ethics</td><td> 3</td></tr>
                                     <tr><td>THTR 101G, Introduction to Theater </td><td> 3</td></tr>
                                   </table>
-                                  <a href:="http://catalog.nmsu.edu/undergrad-2013-2014/01-general/required_courses.html">NM General Common Core</a></p></div>
+                                  Visit: <a href="http://catalog.nmsu.edu/undergrad-2013-2014/01-general/required_courses.html">NM General Common Core</a></div>
                                   <div><h4 id="actsat">ACT/SAT</h4>
                                     <p>An ACT composite score of 21 or above (SAT of 990* or above) is required.</p>
-                                    <div class="subtitle">NMSU's ACT Code is 2638<br /> NMSU’s SAT Code is 4531.</p></div>
-                                    <a href="http://admissions.nmsu.edu/apply/first-time-freshmen/">NMSU ACT/SAT</a><br />
-                                    <a href="http://www.actstudent.org/">ACT Website</a> / <a href="https://sat.collegeboard.org/home">SAT Website</a></div>
+                                    <div class="subtitle">NMSU's ACT Code is 2638<br /> NMSU’s SAT Code is 4531.</div>
+                                    Visit: <a href="http://admissions.nmsu.edu/apply/first-time-freshmen/">NMSU ACT/SAT</a><br />
+                                    Visit: <a href="http://www.actstudent.org/">ACT Website</a> / <a href="https://sat.collegeboard.org/home">SAT Website</a></div>
                                     <div><h4 id="moreinfo">Request More Info</h4>
-                                      <p><h5>Office of Admissions</h5></p>
-                                      <div class="subtitle"><a href="tel:1-575-646-3121">Phone: (575) 646-3121</a> or <a href="tel:1-800-662-6678">(800) 662-6678></a><br />
+                                      <h5>Office of Admissions</h5>
+                                      <div class="subtitle"><a href="tel:1-575-646-3121">Phone: (575) 646-3121</a> or <a href="tel:1-800-662-6678">(800) 662-6678</a><br />
                                         General information &#38; questions: <a href="mailto:admissios@nmsu.edu">Email Admissions</a><br />
                                         <a href="mailto:transfer@nmsu.edu.">More Information on Transferring</a></div>
                                         <div><h4 id="transfer">Transfer Agreements</h4>
-                                          Check with NMSU Departments to learn of any updated agreements. <br /><a href="https://et.nmsu.edu/transfer-students/">Engineering Agreements</a><br /></div>
+                                          Check with NMSU Departments to learn of any updated agreements. <br />Visit: <a href="https://et.nmsu.edu/transfer-students/">Engineering Agreements</a><br /></div>
                                           <h4 id="dual">High School Dual Enrollment</h4>
                                           <p>The Dual Credit Program at New Mexico State University allows high school juniors and seniors the unique opportunity to get a jump start on their college education. Through this program, qualified and motivated students can enroll in approved college level courses – receiving college credit from NMSU, as well as elective high school credit from their high school, simultaneously. Dual Credit is a great way to begin your future!<p>
-                                            <a href="http://dualcredit.nmsu.edu/ ">NMSU Dual Enrollment Page</a>
+                                            Visit: <a href="http://dualcredit.nmsu.edu/ ">NMSU Dual Enrollment Page</a>
                                             <br />
                                           </div>
                                         </div></div>

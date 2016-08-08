@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -46,9 +41,9 @@
           <h3>Resources</h3>
           <h4 id="housing">Academic</h4>
           <p>The OSL is the Office for Student Learning. We’ve been working since 2013 to provide non-departmental tutoring for a wide range of classes. Tutors are undergraduate students and tutoring is open to everyone. We offer tutoring for math, chemistry, and physics daily, and you can request a time to be scheduled with a tutor or request a tutor for a specific class if we do not already have one available.<br />
-            <a href="http://www.nmt.edu/office-for-student-learning ">Office for Student Learning</a></p>
+            Visit: <a href="http://www.nmt.edu/office-for-student-learning ">Office for Student Learning</a></p>
             <p>The New Mexico Tech Information Technology and Communications Department is here to serve the academic computing needs of the campus community.<br />
-              <a href="http://infohost.nmt.edu/tcc/">NM Tech Computer Center</a></p>
+              Visit: <a href="http://infohost.nmt.edu/tcc/">NM Tech Computer Center</a></p>
 
             </div>
           </div>

@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO MILITARY INSTITUTE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmmibgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,15 +38,15 @@
        </div>
        <div class="container-fluid">
         <div class="textbody">
-          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <h3>Life on Campus <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="housing">Housing</h4>
           <p>Our Residence halls are designed to provide a safe environment for the cadets, an effective learning atmosphere and a comfortable home away from home.</p>
-          <p><a href="https://www.nmmi.edu/admissions/Room_Board.htm">Housing</a></p>
+          <p>Visit: <a href="https://www.nmmi.edu/admissions/Room_Board.htm">Housing</a></p>
           <h4 id="childcare">Child Care</h4>
           <p>No child care available.</p>
           <h4 id="parent">Parent Info</h4>
           <p>Information for NMMI Parents:</p>
-          <p><a href="http://www.nmmi.edu/parents/">NMMI Parents &#38; Families</a>
+          <p>Visit: <a href="http://www.nmmi.edu/parents/">NMMI Parents &#38; Families</a>
           </div>
         </div>
 

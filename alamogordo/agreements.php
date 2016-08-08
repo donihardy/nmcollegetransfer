@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NMSU ALAMOGORDO</title>
-
-    
   <body>
     <div class="container-fluid">
       <header class="bgimage alamogordobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -48,9 +42,9 @@
             <p>No Agreements found</p>
             
             
-            <a href="http://nmsua.edu/admissions/transfer-students/">NMSU Alamogordo Transfer Page</a></div>
+            <p>Visit: <a href="http://nmsua.edu/admissions/transfer-students/">NMSU Alamogordo Transfer Page</a></p>
+            </div>
           </div>
-        </div></div>
 
              <?php //Begin Side menu ?>
              <?php require '../includes/sidemenu.php'; ?>

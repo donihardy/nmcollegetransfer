@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - INSTITUTE OF AMERICAN INDIAN ARTS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage iaiabgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,15 +39,15 @@
         <div class="container-fluid">
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
-            <p><a href="https://iaia.edu/download/11855/">Haskell Articulation</a><br />
-             <a href="https://iaia.edu/download/11858/">Tohono Articulation</a><br />
-             <a href="https://iaia.edu/download/11861/"> Navajo Tech Articulation</a><br />
-             <a href="https://iaia.edu/download/11864/">SFCC Articluation</a><br />
-             <a href="https://iaia.edu/download/11867/"> Dine Articulation</a><br />
-             <a href="https://iaia.edu/download/11870/">Northern New Mexico Articulation</a><br />
-             <a href="https://iaia.edu/download/11873/">Ilisagvik Articulation</a></p>
+            <p>Visit: <a href="https://iaia.edu/download/11855/">Haskell Articulation</a><br />
+             Visit: <a href="https://iaia.edu/download/11858/">Tohono Articulation</a><br />
+             Visit: <a href="https://iaia.edu/download/11861/"> Navajo Tech Articulation</a><br />
+             Visit: <a href="https://iaia.edu/download/11864/">SFCC Articluation</a><br />
+             Visit: <a href="https://iaia.edu/download/11867/"> Dine Articulation</a><br />
+             Visit: <a href="https://iaia.edu/download/11870/">Northern New Mexico Articulation</a><br />
+             Visit: <a href="https://iaia.edu/download/11873/">Ilisagvik Articulation</a></p>
              
-             <p><a href="https://iaia.edu/about/admission-faqs/">IAIA Transfer Agreements</a></p>
+             <p>Visit: <a href="https://iaia.edu/about/admission-faqs/">IAIA Transfer Agreements</a></p>
            </div>
          </div>
 

@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO TECH</title>
+ <?php include '../includes/header.php'; ?>
 
   <body>
     <div class="container-fluid">
       <header class="bgimage nmtbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -43,8 +38,8 @@
             <p>New Mexico Tech students have high expectations and big dreams. 
               We are looking for students who are intrigued by math, science and engineering and will thrive in a small school that provides an intense, focused education. Tech students have been challenged in high school and look forward to continued challenges and opportunities alongside our brilliant faculty and fellow students who share their passion for knowledge. Hands-on learners do especially well at Tech due to the abundance of research opportunities that take theoretical classroom learning and apply it to research, lab work and field experience. 
             </p>
-            <p><a href="http://www.nmt.edu">NMT Website</a><br />
-              <A href="http://www.nmt.edu/images/stories/maps/NMT-AREA.pdf">Map</a></p>
+            <p>Visit: <a href="http://www.nmt.edu">NMT Website</a><br />
+              Visit: <A href="http://www.nmt.edu/images/stories/maps/NMT-AREA.pdf">NMT Map</a></p>
 
               </div>
             </div>

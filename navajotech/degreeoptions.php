@@ -1,14 +1,9 @@
-<?php include '../includes/header.php'; ?>
-
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
+<?php include '../includes/header.php'; ?>  
 
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,23 +39,22 @@
         <div class="container-fluid">
           <div class="textbody"><h2>Degree Options</h2>
             <h4 id="basiccore">Basic Core</h4>
-            <a href="http://www.nmcollegetransfer101.com/nmcommoncore.html">NM Common Core</a>
-            <h4 id="as">Certificates</h4>
+            Visit: <a href="http://www.nmcollegetransfer101.com/nmcommoncore.html">NM Common Core</a>
+            <h4 id="cert">Certificates</h4>
             <p>List of certificates at Navajo Tech</p>
-            <a href="http://www.navajotech.edu/academics/degree-programs/certificate">Navajo Tech Certificates</a>
+            Visit: <a href="http://www.navajotech.edu/academics/degree-programs/certificate">Navajo Tech Certificates</a>
             <h4 id="as">Associates Degrees</h4>
-            <p><a href="http://www.navajotech.edu/academics/degree-programs/associate-of-arts/general-education">Associates of Arts</a><br />
-              <a href="http://www.navajotech.edu/academics/degree-programs/associate-of-science">Associates of Science</a><br />
-              <a href="http://www.navajotech.edu/academics/degree-programs/associate-of-applied-science">Associates of Applied Science</a></p>
+            <p>Visit: <a href="http://www.navajotech.edu/academics/degree-programs/associate-of-arts/general-education">Associates of Arts</a><br />
+              Visit: <a href="http://www.navajotech.edu/academics/degree-programs/associate-of-science">Associates of Science</a><br />
+              Visit: <a href="http://www.navajotech.edu/academics/degree-programs/associate-of-applied-science">Associates of Applied Science</a></p>
+            <h4 id="bs">Bachelor's Degrees</h4>
+            <p>Visit: <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-science">Bachelor of Science</a><br />
+              Visit: <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-applied-science">Bachelor of Applied Science</a><br />
+              Visit: <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-arts">Bachelor of Arts</a><br />
+              Visit: <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-fine-arts">Bachelor of Fine Arts</a>
             </p>
-            <h4 id="as">Bachelor's Degrees</h4>
-            <p><a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-science">Bachelor of Science</a><br />
-              <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-applied-science">Bachelor of Applied Science</a><br />
-              <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-arts">Bachelor of Arts</a><br />
-              <a href="http://www.navajotech.edu/academics/degree-programs/bachelor-of-fine-arts">Bachelor of Fine Arts</a>
-            </p>
-            <h4 id="as">Master's Degrees</h4>
-            <p><a href="http://www.navajotech.edu/academics/degree-programs/master-of-arts">Master of Arts</a>
+            <h4 id="ms">Master's Degrees</h4>
+            <p>Visit: <a href="http://www.navajotech.edu/academics/degree-programs/master-of-arts">Master of Arts</a>
             </p>
           </div>
         </div>

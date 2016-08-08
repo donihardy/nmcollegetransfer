@@ -1,13 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO HIGHLANDS UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,7 +40,7 @@
         <div class="textbody">
           <h3>Resources</h3>
           <p>To really succeed at Highlands University, students need effective study skills, good time management, and strong organizational techniques. Our program is designed to help you develop and enhance these skills through the Learning Center, which has a computer lab, printer, and a smartboard for student use. The Learning Center is staffed by Peer Mentors that are a trained to assist first year students as they begin their studies at the university. Not sure who your Peer Mentor is? Drop in and check them out in Room 140 of the Felix Martinez Building. </p>
-          <a href="http://www.nmhu.edu/student-support-services/">Student Support Services</a></p>
+          <p>Visit: <a href="http://www.nmhu.edu/student-support-services/">Student Support Services</a></p>
         </div>
       </div>
       

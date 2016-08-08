@@ -1,14 +1,11 @@
 <?php include '../includes/header.php'; ?>
 
 
- <title>NM COLLEGE &#38; TRANSFER 
-  - EASTERN NEW MEXICO UNIVERSITY</title>
-
+  
   <body>
     <div class="container-fluid">
       <header class="bgimage enmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -47,7 +44,7 @@
           <h4>Student Resources</h4>
           <p>This resource site has been created with the assistance of the Tutoring/Supplemental Instruction student staff and includes PowerPoints, videos, documents, etc. The information is a sample of the knowledge they have attained while in attendance at Eastern New Mexico University.</p>
           <p>Students: you are welcome to use these resources as a supplemental resource for review, study, and as a quick resource of information. When in doubt, contact your Tutor, SI Leader, or professor.</p>
-          <a href="https://www.enmu.edu/services/tsi/resources.html">Student Resources</a>
+          Visit: <a href="https://www.enmu.edu/services/tsi/resources.html">Student Resources</a>
         </div>
       </div>
       

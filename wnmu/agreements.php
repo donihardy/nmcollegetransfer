@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - WESTERN NEW MEXICO UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage wnmubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,10 +39,10 @@
         <div class="container-fluid">
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
-            <p><a href="http://wnmu.edu/wnmu-partners-with-glendale-community-college-for-biology-program/">Transfer agreements with Glendale</a></br>
-              <a href="http://wnmu.edu/wnmu-signs-agreement-with-mexican-university/">Transfer agreement with Mexican University</a><br />
-              <a href="http://wnmu.edu/wnmu-partners-with-cnm-for-transfer-program/">Transfer agreement with CNM</a><br />
-              <a href="http://wnmu.edu/univ/consumerInfo/Transfer%20of%20Credit%20Policies%20and%20Articulation%20Agreements.htm">Articulation Agreements</a></p>        
+            <p>Visit: <a href="http://wnmu.edu/wnmu-partners-with-glendale-community-college-for-biology-program/">Transfer agreements with Glendale</a><br />
+              Visit: <a href="http://wnmu.edu/wnmu-signs-agreement-with-mexican-university/">Transfer agreement with Mexican University</a><br />
+              Visit: <a href="http://wnmu.edu/wnmu-partners-with-cnm-for-transfer-program/">Transfer agreement with CNM</a><br />
+              Visit: <a href="http://wnmu.edu/univ/consumerInfo/Transfer%20of%20Credit%20Policies%20and%20Articulation%20Agreements.htm">Articulation Agreements</a></p>        
             </div>
           </div>
           

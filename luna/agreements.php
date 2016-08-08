@@ -1,13 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -LUNA COMMUNITY COLLEGE</title>
 <body>
   <div class="container-fluid">
     <header class="bgimage lunabgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -46,8 +41,8 @@
         <div class="textbody">
           <h3>Agreements with Other Schools</h3>
           <h4>STEM Degree Agreements</h4>
-          <p><a href="https://luna.edu/media/page_files/STEM_Memorandum_of_Understanding_August_2014.pdf">STEM Memorandum of Understanding with NMHU</a><br />
-            <a href="https://luna.edu/media/hlc_files/C1-18_-_Memorandums_of_Understanding.pdf">LCC Memorandums of Understanding</a></p>
+          <p>Visit: <a href="https://luna.edu/media/page_files/STEM_Memorandum_of_Understanding_August_2014.pdf">STEM Memorandum of Understanding with NMHU</a><br />
+            Visit: <a href="https://luna.edu/media/hlc_files/C1-18_-_Memorandums_of_Understanding.pdf">LCC Memorandums of Understanding</a></p>
           </div>
         </div>
         

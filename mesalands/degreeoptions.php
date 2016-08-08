@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -MESALANDS</title>
-
 <body>
   <div class="container-fluid">
-    <header class="bgimage mesalandsbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+    <header class="bgimage mesalandsbgimage img-responsive">
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -47,7 +41,7 @@
           <h4 id="basiccore">Basic Core</h4>
           <p>General Education Requirements:</p>
           <p><strong>Associate of Arts</strong></p>
-          <p><ul><li>ACS 100: Student College Success 3 credits</li>
+          <ul><li>ACS 100: Student College Success 3 credits</li>
             <li>COM 102: Public Speaking/COM 101: Interpersonal Communication 3 credits</li>
             <li>ENG 102: English Composition 3 credits</li>
             <li>ENG 104: English Composition and Research 3 credits</li>
@@ -56,10 +50,10 @@
             <li>Select Two Courses Laboratory Science 8 credits</li>
             <li>Select Two or Three Courses Social/Behavioral Science 6-9 credits</li>
             <li>Select Two or Three Courses Humanities/Fine Arts 6-9 credits</li></ul>
-            Total Core: 40-46 credits<br /></p>
+            <p>Total Core: 40-46 credits</p>
             
             <p><strong>Associate of Applied Science</strong></p>
-            <p><ul><li>ACS 100: Student College Success 3 credits</li>
+            <ul><li>ACS 100: Student College Success 3 credits</li>
               <li>ART 101: Art Appreciation 3 credits</li>
               <li>COM 102: Public Speaking/COM 101: Interpersonal Communication 3 credits</li>
               <li>ENG 102: English Composition 4 credits</li>
@@ -68,11 +62,11 @@
               <li>CIS 101: Introduction to Computers 4 credits</li>
               <li>Select One Course Laboratory Science 4 credits</li>
               <li>Select Two Courses Social Science/Humanities 6 credits</li></ul>
-              Total Core: 25-35 credits</p>
-              <br /><a href="http://www.mesalands.edu/academic-programs/degree-general-education-requirements-2/">Mesalands Basic Core</a>
-              <h4 id="as">Certificates</h4>
+              <p>Total Core: 25-35 credits</p>
+              <br />Visit: <a href="http://www.mesalands.edu/academic-programs/degree-general-education-requirements-2/">Mesalands Basic Core</a>
+              <h4 id="cert">Certificates</h4>
               <p>Wind Energy Technology</p>
-              <a href="http://www.mesalands.edu/academic-programs/degrees-certificates/">Mesalands Certificates</a>
+              Visit: <a href="http://www.mesalands.edu/academic-programs/degrees-certificates/">Mesalands Certificates</a>
               <h4 id="as">Associates Degrees</h4>
               <p>AA Geology<br />
                 AA Paleontology<br />
@@ -81,7 +75,7 @@
                 AAS Software Applications Specialist<br />
                 AA Pre-Engineering
               </p>
-              <a href="http://www.mesalands.edu/academic-programs/degrees-certificates/">Mesalands Associate's degrees</a>
+              Visit: <a href="http://www.mesalands.edu/academic-programs/degrees-certificates/">Mesalands Associate's degrees</a>
 
             </div>
           </div>

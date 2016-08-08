@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO HIGHLANDS UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmhubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,17 +37,16 @@
          </ol>
        </div>
        <div class="container-fluid">
-         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+         <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4 id="veterans">Veterans</h4>
           <p>Services and Programs for Service members and Veterans</p>
           <ul><li>Credit for military training</li>
             <li>Dedicated point of contact for support services for veterans, military service members, and their families</li>
             <li>Recognized student veteran organization</li>
-            <li>Member of Service members Opportunity Colleges</li></ul></p>
+            <li>Member of Service members Opportunity Colleges</li></ul>
             <p>Several programs are available for veterans pursuing a postsecondary education. Academic programs are approved by the State Approving Agency and are approved for educational benefits by the Department of Veteran Affairs.<br />
               Contact the Office of the Registrar for details, <a href="tel:1-505-454-3424">(505) 454-3424</a></p>
               <p>The university grants credit for military education or service schools on the recommendation of the American Council on Education’s Publication Guide to Evaluation of Educational Experience in the Armed Services. A DD214, DD295, or official military transcript form is required to consider credit for military service. Air Force veterans are required to provide an academic transcript from the Community College of the Air Force.</p>
-              <!--<h4 id="veterans">Active Duty</h4>-->
               
             </div>
           </div>

@@ -9,7 +9,7 @@
   </ol>-->
 
   <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox" class="img-responsive">
+  <div class="carousel-inner img-responsive" role="listbox">
 
     <div class="item active"><img src="images/unmbanner.png" alt="UNM"></div>
     <div class="item"><img src="images/cnmbanner.png"  alt="CNM"></div>

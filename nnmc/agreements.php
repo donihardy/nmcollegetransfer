@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NORTHERN NEW MEXICO COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nnmcbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,7 +39,7 @@
         <div class="container-fluid">
           <div class="textbody">
             <h3>Agreements with Other Schools</h3>
-            <p><a href="http://nnmc.edu/wp-content/uploads/2016/02/ARTICULATION-EASTERN.pdf">Engineering between NNMC to ENMU</a></p>
+            <p>Visit: <a href="http://nnmc.edu/wp-content/uploads/2016/02/ARTICULATION-EASTERN.pdf">Engineering between NNMC to ENMU</a></p>
           </div>
         </div>
         

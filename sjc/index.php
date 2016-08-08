@@ -1,13 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-  <title>NM COLLEGE &#38; TRANSFER 
-    - SAN JUAN COLLEGE</title>
-  
   <body>
     <div class="container-fluid">
       <header class="bgimage sjcbgimage img-responsive">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -42,8 +38,8 @@
             <p>From its modest start as a small branch of New Mexico State University serving just 25 students, San Juan College has grown to be one of the largest two-year comprehensive community colleges. Ranking fifth in enrollment among all two- and four-year colleges in the state, the college provides quality education to more than 15,000 students annually.</p>
 
             <p>Located in Farmington New Mexico, San Juan College serves as a regional leader in education. The college has four campuses throughout the area, which include the main Farmington Campus; San Juan College 30th Street Campus, also located in Farmington; San Juan College East in Aztec, New Mexico; and San Juan College West, in Kirtland, New Mexico.  Dedicated to student success and completion, San Juan College offers innovative, challenging and affordable academic programs that equip students with the knowledge, skills and confidence to succeed in meeting educational and career goals. Through online and face-to-face classes, students can choose from hundreds of two-year degree and certificate programs, non-credit community learning classes, and workforce training. In addition, the college partners with state universities to offer both bachelor’s and master’s degrees on campus.</p>
-            <p><a href="http://www.sanjuancollege.edu/">San Juan College Website</a><br />
-              <a href="https://www.sanjuancollege.edu/campus-maps/">Maps</a></p>
+            <p>Visit: <a href="http://www.sanjuancollege.edu/">San Juan College Website</a><br />
+              Visit: <a href="https://www.sanjuancollege.edu/campus-maps/">Maps</a></p>
 
             </div>
           </div>

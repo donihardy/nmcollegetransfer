@@ -1,15 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NMSU ALAMOGORDO</title>
-
-    
   <body>
     <div class="container-fluid">
       <header class="bgimage alamogordobgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -43,18 +37,18 @@
           </ol>
         </div>
         <div class="container-fluid">
-          <div class="textbody"><h3>NMSU Alamogordo Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+          <div class="textbody"><h3>NMSU Alamogordo Advising <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
             <h4 id="geninfo">Advising General Info</h4>
             <p>The Advising Office is in the Student Services building. The Advising Staff is available to help you understand your degree plans and ensure you are registering for the courses you need to graduate. Advisors are available Monday through Friday.</p>
             <p>The beginning of the semester is the busiest time for the Advisors; therefore, mid-semester is a great time to talk to our advisors!
             </p>
-            <p><a href="http://nmsua.edu/files/uploads/sites/4/2015/04/advising.pdf">NMSU Alamogordo Advising Checklist</a></p>
+            <p>Visit: <a href="http://nmsua.edu/files/uploads/sites/4/2015/04/advising.pdf">NMSU Alamogordo Advising Checklist</a></p>
             <h4 id="appt">Schedule an Appointment</h4>
             <p><a href="tel:1-575-439-3855">(575) 439-3855</a><br />
               <a href="mailto:advisingNMSUA@nmsu.edu">advisingNMSUA@nmsu.edu</a><br />
               Location: Student Services Building</p>
-              <p><a href="http://nmsua.edu/student-services/advising/">NMSU Alamogordo Advising Info</a><br />
-                <a href="http://nmsua.edu/student-services/advising/contact-advising/">Contact the Advising Office</a></p>
+              <p>Visit: <a href="http://nmsua.edu/student-services/advising/">NMSU Alamogordo Advising Info</a><br />
+                Visit: <a href="http://nmsua.edu/student-services/advising/contact-advising/">Contact the Advising Office</a></p>
               </div>
             </div>
 

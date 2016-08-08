@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NAVAJO TECHNICAL UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage ntubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,10 +39,10 @@
        <div class="container-fluid">
         <div class="textbody">
           <h3>Resources</h3>
-          <p>STEM Lab offers tutoring services and general use of computers.<br />
-            <a href="http://www.navajotech.edu/about/campus-facilities">Campus Facilities</a></p>
-            <p>Career counseling is offered to provide guidance to students in selecting a career path and a corresponding academic program at NTU. The career and job placement counselor uses computer-based pre-assessment testing to evaluate an individual‘s personality, interests, skills, and aptitude in order to identify his/her career competencies. <br />
-              <a href="http://www.navajotech.edu/campus-life/student-support-services/counseling-advisement">Career Counseling</a></p>
+          <p>STEM Lab offers tutoring services and general use of computers.</p>
+           <p> Visit: <a href="http://www.navajotech.edu/about/campus-facilities">Campus Facilities</a></p>
+            <p>Career counseling is offered to provide guidance to students in selecting a career path and a corresponding academic program at NTU. The career and job placement counselor uses computer-based pre-assessment testing to evaluate an individual‘s personality, interests, skills, and aptitude in order to identify his/her career competencies.</p>
+            <p>Visit: <a href="http://www.navajotech.edu/campus-life/student-support-services/counseling-advisement">Career Counseling</a></p>
             </div>
           </div>
           

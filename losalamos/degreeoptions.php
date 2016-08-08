@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - UNIVERSITY OF NEW MEXICO LOS ALAMOS</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage losalamosbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -96,7 +91,7 @@
               2014–2015 CATALOG | 27
               220, 240; Psychology 105; Sociology 101;
               University Honors 204.
-              <h5> Foreign Language (non-English language; minimum 3 credit hours):</h5> : One course chosen from
+              <h5> Foreign Language (non-English language; minimum 3 credit hours):</h5> One course chosen from
               any of the lower-division non-English language
               offerings of the Departments of Linguistics
               (including Sign Language), Spanish and
@@ -111,12 +106,12 @@
               Departments of Art and Art History, Music,
               Theatre and Dance, and Media Arts to fulfill this
               requirement.</div><br />   
-              <p><a href="http://losalamos.unm.edu/catalog/archive/academic-catalog-2015-2016.pdf">UNM Los Alamos Basic Core</a><br />
-                <a href="http://losalamos.unm.edu/students/forms/core-curriculum-2011.6.9.pdf">UNM Core Curriculum Worksheet</a></p>
-                <h4 id="as">Certificates</h4>
+              <p>Visit: <a href="http://losalamos.unm.edu/catalog/archive/academic-catalog-2015-2016.pdf">UNM Los Alamos Basic Core</a><br />
+                Visit: <a href="http://losalamos.unm.edu/students/forms/core-curriculum-2011.6.9.pdf">UNM Core Curriculum Worksheet</a></p>
+                <h4 id="cert">Certificates</h4>
                 <p>Electro-Mechanical Technology<br />
-                  Solar Technology</p></p>
-                  <a href="http://losalamos.unm.edu/degrees-certificates/index.html">UNM Los Alamos Certificates</a>
+                  Solar Technology</p>
+                  Visit: <a href="http://losalamos.unm.edu/degrees-certificates/index.html">UNM Los Alamos Certificates</a>
                   <h4 id="as">Associates Degrees</h4>
                   <p><p>Computer Science AS<br />
                     Environmental Science AS<br />
@@ -126,7 +121,7 @@
                     Robotics AAS<br />
                     Science AS<br />
                   </p>
-                  <a href="http://losalamos.unm.edu/degrees-certificates/index.html">UNM Los Alamos Associates Degrees</a>
+                  Visit: <a href="http://losalamos.unm.edu/degrees-certificates/index.html">UNM Los Alamos Associates Degrees</a>
 
                 </div>
               </div>

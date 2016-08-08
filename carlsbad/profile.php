@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
-  <title>NM COLLEGE &#38; TRANSFER 
-    - NEW MEXICO STATE UNIVERSITY CARLSBAD</title>
-    
-
   <body>
     <div class="container-fluid">
-      <header class="bgimage carlsbadbgimage img-responsive">      <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+      <header class="bgimage carlsbadbgimage img-responsive">       
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -41,20 +35,20 @@
            </ol>
          </div>
          <div class="container-fluid">
-          <div class="textbody"><table class="profile"><th colspan="2"><h3>NMSU Carlsbad</h3>
-            <h6>1500 University Drive | Carlsbad, New Mexico 88220 | <a href="tel:1-575-234-9200">(575) 234-9200</a></h6></th>
+          <div class="textbody"><h3>NMSU Carlsbad</h3>
+            <h6>1500 University Drive | Carlsbad, New Mexico 88220 | <a href="tel:1-575-234-9200">(575) 234-9200</a></h6><table class="profile">
             <tr><td><h4>Website:</h4></td><td><a href="http://carlsbad.nmsu.edu">carlsbad.nmsu.edu</a></td></tr>
             <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
-            <tr><td ><h4>Awards offered:</h4></td>
+            <tr><td><h4>Awards offered:</h4></td>
               <td>Certificate<br />
                 Associate's degree
               </td></tr>
               <tr><td><h4>Campus setting:</h4></td><td>Rural: Fringe</td></tr>
               <tr><td><h4>Campus housing:</h4></td><td>No</td></tr>
-              <tr><td><h4>Student population:</h4></td><td>1852<td></tr>
+              <tr><td><h4>Student population:</h4></td><td>1852</td></tr>
               <tr><td><h4>Student-to-faculty ratio:</h4></td><td>19 to 1</td></tr>
             </table>
-            <a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&pg=2&id=188003">College Navigator</a></div>
+            Visit: <a href="http://nces.ed.gov/collegenavigator/?s=NM&l=91+92+93+94&ic=1+2&pg=2&id=188003">College Navigator</a></div>
           </div>
 
         <?php //Begin Side menu ?>

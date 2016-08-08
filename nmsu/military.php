@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmsubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -42,9 +37,9 @@
          </ol>
        </div>
        <div class="container-fluid">
-        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
+        <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
           <h4>Veterans</h4>
-          <p>NMSU is a military and veteran friendly university which strives to provide the best possible service to our current and former service members as they pursue their educational goals. NMSU Military and Veterans Programs promotes lifelong learning and professional development for veterans, active-duty military and their families, assisting them in their higher education goals by offering:
+          <p>NMSU is a military and veteran friendly university which strives to provide the best possible service to our current and former service members as they pursue their educational goals. NMSU Military and Veterans Programs promotes lifelong learning and professional development for veterans, active-duty military and their families, assisting them in their higher education goals by offering:</p>
             <ul><li>Affordable, in-state tuition rates for active-duty military and dependents using federal education benefits or living at regional military installations</li>
               <li>Affordable, in-state tuition rates for veterans and dependents receiving U.S. Department of Veterans Affairs education benefits</li>
               <li>Easily transferable credits that count toward degrees at NMSU</li>
@@ -58,11 +53,11 @@
               <li>Veterans on Campus Training by Kognito, training faculty and staff on our student veterans and the unique value they bring to campus</li>
               <li>Salute Honor Society for student veterans</li>
               <li>Connection with student organizations</li>
-              <li>A tradition of quality education</li></ul><p/>
+              <li>A tradition of quality education</li></ul>
               <p>New Mexico State University is one of the first in the nation to offer on-campus housing specifically designated for student veterans and their families transitioning out of the military and into student life. The Department of Housing &#38; Residential Life has worked in conjunction with the Student Veterans Organization of NMSU to offer affordable housing on campus to student veterans attending the university.</p>
               <h4>Military</h4>
               <p>The MVP lab serves as a one stop shop for military and veteran students with numerous resources on and off campus. Military and Veterans Programs can assist you with all matters at NMSU from admissions to graduation. </p>
-              <p><a href="http://mvp.nmsu.edu/">Military and Veterans Programs (MVP)</a><br />
+              <p>Visit: <a href="http://mvp.nmsu.edu/">Military and Veterans Programs (MVP)</a><br />
 
               </div>
             </div>

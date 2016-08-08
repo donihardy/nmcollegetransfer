@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - NEW MEXICO STATE UNIVERSITY</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage nmsubgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
       </header>
     </div>
@@ -44,11 +39,11 @@
         <div class="container-fluid">
           <div class="textbody"><h2>Degree Options</h2>
             <h3 id="basiccore">Basic Core</h3>
-            <p>Basic Core classes are the classes that are required for all students pursuing a bachelors degree.</p>
-            <a href="http://catalog.nmsu.edu/undergrad-2013-2014/01-general/required_courses.html">NMSU Basic Core</a>
+           <p>Basic Core classes are the classes that are required for all students pursuing a bachelors degree.</p>
+            Visit: <a href="http://catalog.nmsu.edu/undergrad-2013-2014/01-general/required_courses.html">NMSU Basic Core</a>
             <h4 id="as">Associates Degrees</h4>
             <p>No Associates offered at NMSU Main Campus.</p>
-            <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Associate-Degree-Programs">NMSU Associates Degrees</a>
+            Visit: <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Associate-Degree-Programs">NMSU Associates Degrees</a>
             <h4 id="ba">Bachelor's Degrees</h4>
             <p><strong>Bachelor of Arts</strong><br />
               Biology (BA)<br />
@@ -103,8 +98,7 @@
                                           Mechanical Engineering</p>
                                           <p><strong>Bachelor of Science in Surveying Engineering</strong><br />
                                             Surveying Engineering</p>
-                                          </p>
-                                          <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Undergraduate-Programs">NMSU Bachelor's Degrees</a>
+                                          Visit: <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Undergraduate-Programs">NMSU Bachelor's Degrees</a>
                                           <h4 id="ma">Masters Degrees</h4>
                                           <p><strong>Master of Accountancy</strong><br />
                                             Domestic Animal Biology</p>
@@ -136,7 +130,7 @@
                                               <p><strong>Master of Science in Environmental Engineering</strong></p>
                                               <p><strong>Master of Science in Industrial Engineering</strong></p>
                                               <p><strong>Master of Science in Mechanical Engineering</strong></p>
-                                              <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Graduate-Degree-Programs-Specializations-Concentrations-and-Approved-Minors">NMSU Masters Degrees</a>
+                                              Visit: <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Graduate-Degree-Programs-Specializations-Concentrations-and-Approved-Minors">NMSU Masters Degrees</a>
                                               <h4 id="phd">PhD. Degrees</h4>
                                               <p><strong>Doctor of Philosophy</strong><br />
                                                 Aerospace Engineering<br />
@@ -158,7 +152,7 @@
                                                 Plant and Environmental Science<br />
                                                 Range Science<br />
                                                 Water Science and Management</p>
-                                                <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Graduate-Degree-Programs-Specializations-Concentrations-and-Approved-Minors">NMSU PhD. Degrees</a>
+                                                Visit: <a href="http://nmsu.smartcatalogiq.com/en/2015-2016/Undergraduate-Catalog/General-Information/Graduate-Degree-Programs-Specializations-Concentrations-and-Approved-Minors">NMSU PhD. Degrees</a>
                                               </div>
                                             </div>
 

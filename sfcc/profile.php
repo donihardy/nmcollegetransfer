@@ -1,14 +1,9 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER 
-  - SANTA FE COMMUNITY COLLEGE</title>
-
   <body>
     <div class="container-fluid">
       <header class="bgimage sfccbgimage">
-        <img class="container-fluid">
-        <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+         
         <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="NM College Transfer 101 Logo"></a>
       </header>
     </div>
@@ -42,8 +37,8 @@
        </ol>
      </div>
      <div class="container-fluid">
-      <div class="textbody"><table class="profile"><th colspan="2"><h3>Santa Fe Community College</h3>
-        <h6>6401 Richards Ave | Santa Fe, New Mexico 87508 | <a href="tel:1-505-428-1000">(505) 428-1000</a></h6></th>
+      <div class="textbody"><h3>Santa Fe Community College</h3>
+        <h6>6401 Richards Ave | Santa Fe, New Mexico 87508 | <a href="tel:1-505-428-1000">(505) 428-1000</a></h6><table class="profile">
         <tr><td><h4>Website:</h4></td><td><a href="http://www.sfcc.edu/">www.sfcc.edu/</a></td></tr>
         <tr><td><h4>Type:</h4></td><td>2-year, Public</td></tr>
         <tr><td ><h4>Awards offered:</h4></td>
@@ -55,7 +50,7 @@
           <tr><td><h4>Student population:</h4></td><td>5,475</td></tr>
           <tr><td><h4>Student-to-faculty ratio:</h4></td><td>15 to 1</td></tr>
         </table>
-        <a href="http://nces.ed.gov/collegenavigator/?q=santa+fe&s=NM&l=91+92+93+94&ic=1+2&id=188137">College Navigator</a></div>
+        Visit: <a href="http://nces.ed.gov/collegenavigator/?q=santa+fe&s=NM&l=91+92+93+94&ic=1+2&id=188137">College Navigator</a></div>
       </div>
 
       <?php //Begin Side menu ?>

@@ -1,14 +1,8 @@
 <?php include '../includes/header.php'; ?>
 
-
- <title>NM COLLEGE &#38; TRANSFER
- -MESALANDS</title>
-
 <body>
   <div class="container-fluid">
-    <header class="bgimage mesalandsbgimage">
-      <img class="container-fluid">
-      <!--<div class="title">NM COLLEGE TRANSFER</div> -->
+    <header class="bgimage mesalandsbgimage img-responsive">
       <a href="../index.php"><img id="LogoImg" src="../images/NMCollegeTransfer2.png" class="img-responsive" alt="Responsive Image"></a>
     </header>
   </div>
@@ -42,9 +36,9 @@
        </ol>
      </div>
      <div class="container-fluid">
-       <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png"></a></h3>
-        <p>All programs at Mesalands are approved by the Department of Veterans Affairs. For information on how to apply for VA benefits, please contact the Student Services Office at <a href="tel:1-575-461-4413">(575) 461-4413, ext. 153.</p>
-        <p><a href="http://www.mesalands.edu/military-and-veteran-students/">Military and Veteran Students</a><br />
+       <div class="textbody"><h3>Veterans &#38; Active Duty <a href="../questions.php#questions"><img class="question" src="../images/questionmark.png" alt="question mark image"></a></h3>
+        <p>All programs at Mesalands are approved by the Department of Veterans Affairs. For information on how to apply for VA benefits, please contact the Student Services Office at <a href="tel:1-575-461-4413">(575) 461-4413</a>, ext. 153.</p>
+        <p>Visit: <a href="http://www.mesalands.edu/military-and-veteran-students/">Military and Veteran Students</a></p>
         </div>
       </div>
       
